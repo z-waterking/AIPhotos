@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-resolute-08-side-glance-deliberate.png",
+  "refined_prompt": "../prompts/eye-emotion-resolute-08-side-glance-deliberate.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅海沫底，右眼低而修长，同向左瞥，从容有主见。",
+  "emotion": "笃定",
+  "composition_variation": "Give right a longer curved silhouette and lower center; left is a smaller rounded half-eye. Shift both pupils left in a deliberate coordinated side glance. Thicken lids at the centers rather than inner corners and keep lower rims round. Show cool composure and clear intent without hostility. Preserve exactly TWO eyes with the SAME iris hue, large black pupils and one slim elongated ivory glint each. Emotion comes only from the eye geometry and gaze. Use matte gouache, organic curved tapered boundaries and a visibly pale colored ground; no eyebrows, mouth, head, sclera or other marks.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-resolute",
+  "series_number": 8,
+  "anthology_index": 98,
+  "palette": {
+    "background": "#D5E7E2",
+    "iris": "#B68577"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:34:49.581261+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f7e4a344103715638e263d2c5a8b92c10b8eb7d948b9bcd13ecac004872401d6",
+  "prompt_sha256": "a80b7b9be325050dd2062021f4d0f9fe6b2796b420364cb8d4c47286a0da2ef3",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

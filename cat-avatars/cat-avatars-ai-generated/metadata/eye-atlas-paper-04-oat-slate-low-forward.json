@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-paper-04-oat-slate-low-forward.png",
+  "refined_prompt": "../prompts/eye-atlas-paper-04-oat-slate-low-forward.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅燕麦底灰蓝宽弧眼，开口松弛，安稳平视。",
+  "composition_variation": "Keep the pair low and broad without making either opening a slit. The left bowl is twelve percent shallower and slightly lower; the right is fuller. Both upper lids follow a gentle continuous arc rather than a straight bar. Large black pupils attach to those lids and face forward, bordered by identical slate-blue lower crescents and one long thin ivory glint each.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-paper",
+  "series_number": 4,
+  "anthology_index": 34,
+  "palette": {
+    "background": "#EEE7D9",
+    "iris": "#8FABC0"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:25:47.133946+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "4a5b02d13e7344747ebab8608def85879522198e12274d9114d558e0762abef0",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

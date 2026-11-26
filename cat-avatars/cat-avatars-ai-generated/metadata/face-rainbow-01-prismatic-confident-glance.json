@@ -1,0 +1,61 @@
+{
+  "output": "../face-rainbow-01-prismatic-confident-glance.png",
+  "refined_prompt": "../prompts/face-rainbow-01-prismatic-confident-glance.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "灰白底，两眼虹膜都有珊瑚红、橙、黄、绿、青蓝、紫的彩虹色区；左低右高的自信眼神，淡灰紫双眉与一横短黑嘴。",
+  "emotion": "自信中带一点俏皮",
+  "composition_variation": "Calm confidence with a little playful attitude. Keep the viewer-left eye lower, long and tilted upward toward its inner right corner; the viewer-right eye higher, broad and moderately more open. Both eyes retain nearly equal horizontal width around36% of the canvas, with the pair spanning about93%. Both pupils look calmly toward the viewer with only a slight shared leftward glance. Raise the small pale lavender-gray brow above the right eye slightly; the left brow stays relaxed. Preserve exactly two small pale brows and one short level black mouth dash. Enlarge the colored iris patches: the black pupil is about40% of each eye opening width, leaving broad rainbow patches on BOTH sides. In EACH eye, both visible side patches show clearly readable coral red, amber orange, lemon yellow, mint green, cyan blue and violet regions. Use vivid flat paint segments with barely softened joins. Keep all six colors present in BOTH eyes, with no glow or external rainbow decoration.",
+  "reference_family": "flat-painted-five-features-rainbow",
+  "series": "face-rainbow",
+  "series_number": 1,
+  "anthology_index": 1,
+  "palette": {
+    "background": "#EDEBEC",
+    "iris_colors": [
+      {
+        "name": "coral red",
+        "hex": "#ED6B67"
+      },
+      {
+        "name": "amber orange",
+        "hex": "#F5A447"
+      },
+      {
+        "name": "lemon yellow",
+        "hex": "#F5DB53"
+      },
+      {
+        "name": "mint green",
+        "hex": "#63C9A6"
+      },
+      {
+        "name": "cyan blue",
+        "hex": "#49BBDD"
+      },
+      {
+        "name": "violet",
+        "hex": "#A582D5"
+      }
+    ],
+    "eyebrows": "#AAA8B6"
+  },
+  "iris_color_mode": "full six-color rainbow in both eyes",
+  "rainbow_irises": true,
+  "visible_subject": "two eyes each containing a six-color rainbow iris, two small lavender-gray brow dabs and one short black horizontal mouth; no head outline",
+  "style_inspiration": "Latest reference observed locally: wide almost equal-width eyes covering93% of page width, left slanted low/right horizontal high, dense flat black, broad colored side patches, solid offwhite dabs and grey-white background sampled approximately #EDEBEC. Only text input; no image uploaded. Two small lavender-gray brow dabs and one horizontal mouth dash retained. The latest explicit user request adds a full multicolor rainbow inside BOTH irises, with generous flat colored regions and subtle joins. Coral red, amber, lemon, mint, cyan and violet are requested in each eye.",
+  "created_at": "2026-10-22T08:43:24.205237+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "b7ad16e79cd8dd7f147a9dd8db419065f1c85b39e69da3d92be0c7a25da9177b",
+  "prompt_sha256": "3295e7dada70864b75bf936db7f6bbad6b0dad4ebe47a490fdd958ddd75a9441",
+  "visual_review": "passed: inspected compressed JPEG for visible coral red, amber, lemon, mint, cyan and violet regions inside both irises, generous colored side areas, flat paint with subtle joins, two pale gray-lavender brow dabs, one short horizontal black mouth and grey-white background; no head outline, glow, text or watermark"
+}

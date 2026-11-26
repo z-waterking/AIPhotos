@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-curious-05-listening-side-tilt.png",
+  "refined_prompt": "../prompts/eye-emotion-curious-05-listening-side-tilt.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅玫粉底，左眼低而开、右眼高而轻眯，像在认真听。",
+  "emotion": "聪明好奇",
+  "composition_variation": "Left eye lower and more open; right higher and softly hooded. Both pupils slightly left as if following an interesting explanation off-frame. Left lower boundary generous and rounded, right a smoother flatter curve. Responsive, intelligent engagement resembling attentive listening without drawing ears, eyebrows or head outline. Keep asymmetry gentle rather than a dramatic tilt.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-curious",
+  "series_number": 5,
+  "anthology_index": 55,
+  "palette": {
+    "background": "#E9D5D5",
+    "iris": "#A87675"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:17:35.078897+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "75790545b75ab7a99f204c2664f56f55f05b135b83452ab4030303687445a2d6",
+  "prompt_sha256": "b53ea5c07751b529aec3e0753cad2de2a5d3b2f0f2c32cde6f2c038dfc9f0ca7",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

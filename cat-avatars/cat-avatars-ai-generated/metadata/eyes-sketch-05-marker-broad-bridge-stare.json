@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-sketch-05-marker-broad-bridge-stare.png",
+  "refined_prompt": "../prompts/eyes-sketch-05-marker-broad-bridge-stare.txt",
+  "source_prompt": "../prompts/eyes-sketch-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-sketch",
+  "series_number": 5,
+  "anthology_index": 5,
+  "art_direction": "宽眼上缘像低拱桥，双瞳正视，留白为缺边的宽小方片但眼角圆收。",
+  "composition": "centered hand-drawn eye pair; auxiliary marks only when specified; large blank paper margins",
+  "emotion": "淡定、正视",
+  "palette": {
+    "background": "#F3F5F6",
+    "iris_colors": [
+      "#C16446"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023151,
+    "method": "golden-angle hue spacing with seeded single-hue saturation and lightness variation",
+    "mode": "solid",
+    "hue": 0.040895
+  },
+  "color_treatment": "one opaque flat color beside each pupil; no gradient or shaded rendering",
+  "drawing_family": "worn-marker",
+  "creative_direction": "Draw broad eye openings under low bridge-like marker arches. Keep the eye corners curved and short, with no rectangular outline. Both substantial pupils look forward. Reserve a broad roughly quadrilateral paper patch in each pupil, breaking one edge into an uneven notch. One upper stroke should thicken a little earlier than the other. Add brief lower arcs and compact flat iris accents. The expression comes from steady pupil placement, not extra marks. Center the eyes with no brows or mouth.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:45:14.831658+00:00",
+  "sha256": "2983209410dbcb82462f9726ba9199f6399badbdf066675ddce6641b41180801",
+  "prompt_sha256": "c7ee4e9c33b744120b557d8297517efbebe68d402beb24e1b04122d0e1bfd57e",
+  "visual_review": "inspected: preview checked by the root agent; retained as a user-rejected style experiment after the task changed to a new avatar collection; do not count as an accepted final image",
+  "visual_review_before_rejection": "passed: compressed preview inspected for economical distinct hand-drawn contours, broad dark pupils with irregular paper reserves, single flat color, coordinated gaze, pale paper, no text or watermark",
+  "batch_status": "user rejected; stopped after change of creative direction; no further generation in this series"
+}

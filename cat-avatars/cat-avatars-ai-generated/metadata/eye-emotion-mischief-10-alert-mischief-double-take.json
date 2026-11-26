@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-10-alert-mischief-double-take.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-10-alert-mischief-double-take.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾紫蓝底，一圆一长的双眼机灵左望，带调皮的回头感。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Left fuller rounded opening under strongly curved lid; right longer half-lidded opening with lower crest. Centers almost level. Pupils shift together left, glancing back after a harmless trick. Distinct lower curvatures, matching iris colors. Broader left supplies alertness, hooded right playfulness. No startled eye whites or aggressive points; calm brushwork despite quick attitude.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 10,
+  "anthology_index": 50,
+  "palette": {
+    "background": "#D8DBE8",
+    "iris": "#7E82B2"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:14:55.672255+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "ad7fbc2c43e31f101a2ea6bdab6f10711a1157c57340e2dba2312c8b380e50ff",
+  "prompt_sha256": "b50041a43d67ff7655b7debcd5caa20d633afca04c6a2ad77525394365d7310f",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

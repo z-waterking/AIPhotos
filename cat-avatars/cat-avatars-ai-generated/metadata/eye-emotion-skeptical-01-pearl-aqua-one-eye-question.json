@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-01-pearl-aqua-one-eye-question.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-01-pearl-aqua-one-eye-question.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "珍珠蓝底水青双眼，一眼抬开一眼半眯，像在问你确定吗。",
+  "emotion": "怀疑与追问",
+  "composition_variation": "Convey a clear questioning look without eyebrows. Open the viewer-left eye to sixty-five percent under a rounded high lid; compress the viewer-right to twenty-five percent under a flatter bowed lid. Keep their centers nearly level, so the difference comes from lid opening rather than an overall diagonal arrangement. Both large pupils point steadily forward. The full left opening reads attentive while the right quietly doubts what it sees. Keep the lower boundaries soft and naturally curved, with identical aqua iris color.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 1,
+  "anthology_index": 11,
+  "palette": {
+    "background": "#D6E1E7",
+    "iris": "#67ADB6"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:59:12.245152+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "385941fc74aec9b22eb74e11ed5736807b74a39ec8d06703fd9abd611d3e7ed2",
+  "prompt_sha256": "33be7c0f6033bd4a980c47adb847d672d457a3601950adb7411103d5872c86fd",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

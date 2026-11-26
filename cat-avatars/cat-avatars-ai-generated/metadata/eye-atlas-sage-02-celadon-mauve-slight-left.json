@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-sage-02-celadon-mauve-slight-left.png",
+  "refined_prompt": "../prompts/eye-atlas-sage-02-celadon-mauve-slight-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅青瓷底藕紫弧眼，右眼更开，轻轻左望。",
+  "composition_variation": "Keep the right eye about twenty percent more open and a little higher than the left. Use a moderate gap and smoothly curved upper lids with naturally tapered ends. Both large black pupils attach to those lids and turn gently left together. Matching mauve lower bands remain broad enough to read clearly, each pupil carrying one thin elongated ivory glint. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-sage",
+  "series_number": 2,
+  "anthology_index": 62,
+  "palette": {
+    "background": "#CFDED1",
+    "iris": "#AD9AB4"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:39:43.903967+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "63cc2eeff13724b901c2d97eb350c0082a0e4b88aac4b94e1fc0f1143aa12282",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

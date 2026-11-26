@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-mist-02-glacier-terracotta-slight-left.png",
+  "refined_prompt": "../prompts/eye-atlas-mist-02-glacier-terracotta-slight-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "冰雾底陶橙双眼，右眼更开，轻轻向左看。",
+  "composition_variation": "The right opening is eighteen percent taller and a little wider than the lower left bowl. Both pupils move gently left beneath softly bowed upper lids, remaining large black shapes joined to those lids. Keep the matching terracotta lower bands smooth and moderately broad. Taper their outer ends naturally, preserve relaxed spacing, and place one slender elongated ivory glint in each pupil. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-mist",
+  "series_number": 2,
+  "anthology_index": 42,
+  "palette": {
+    "background": "#CFDEE5",
+    "iris": "#C08C73"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:31:09.127168+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f13cde8dbdd08b485e009a2f28961a66c4e6c695fe5a9f0f00c79504914f8db7",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

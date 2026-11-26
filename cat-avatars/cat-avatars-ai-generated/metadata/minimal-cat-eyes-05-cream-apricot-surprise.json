@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-05-cream-apricot-surprise.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-05-cream-apricot-surprise.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶油杏瞳 · 小小惊讶: 奶油白底，杏橙圆眼，一大一小的惊讶表情。",
+  "composition_variation": "Warm cream-white paper field. Muted bright apricot-orange irises, soft black pupils, thin irregular black outer eye rims. Lovable quietly surprised expression: two rounded eyes of unequal size, larger on right, huge black pupils, one narrow ivory vertical painted highlight per pupil. Apricot broad uneven rings, never shiny realistic eyeballs. Eye centers at y=0.46, separated and fully in avatar safe area. Tiny black oval mouth below center, no nose or eyebrows. Reserved surprise, not an emoji or cheeks.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:02:33.965761+08:00",
+  "sha256": "064e7d3d5bc31290df4e50e7ddb915b299d91bca386abb27bd9a2ec3be056071",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

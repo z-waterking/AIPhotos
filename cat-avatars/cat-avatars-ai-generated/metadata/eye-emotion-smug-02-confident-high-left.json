@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-02-confident-high-left.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-02-confident-high-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅燕麦底，左眼高而舒展、右眼轻眯，呈胸有成竹的神态。",
+  "emotion": "克制得意",
+  "composition_variation": "Place the viewer-left eye modestly higher and wider, with a full shallow arch and medium opening. The lower right eye is narrower and half as open. Both pupils look forward, occupying most of their openings. Use a generous curved lower rim on the left and a thin restrained rim on the right. Let the pair lean slightly toward the lower right. Quiet certainty of success, no inward V or taunting expression.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 2,
+  "anthology_index": 32,
+  "palette": {
+    "background": "#E7DDD0",
+    "iris": "#9A8860"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:07:52.770034+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "0e2e10a5c950eb54406f463fcdc34e5c3d334186a3457c27b288c969f66db3f7",
+  "prompt_sha256": "692462934f76897cd4eaddae7ed219f14cd089800f7bbcf07ebb8b678d473b7a",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

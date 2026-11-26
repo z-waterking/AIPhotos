@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-brush-aqua-04-glacier-blue-brush-close-downward.png",
+  "refined_prompt": "../prompts/eye-atlas-brush-aqua-04-glacier-blue-brush-close-downward.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔雾蓝底，冰川蓝侧带，双眼略靠近，轻轻下望。",
+  "composition_variation": "Bring the pair a little closer together, without touching. Keep the left low and shallow and the right nine percent higher and broader. Aim both pupils subtly downward. Give the upper black brush shapes restrained diagonal lift and smooth pressure transitions. Maintain identical #8FAFC3 iris bands at the sides of both large black pupils, with one long narrow ivory glint each. Use a clearly visible but gentle soft powder blue paper background, matching the exact palette below. Do not wash it out to white. Keep it flat and quiet with no gradients or decorative marks.",
+  "reference_family": "brush",
+  "series": "eye-atlas-brush-aqua",
+  "series_number": 4,
+  "anthology_index": 74,
+  "palette": {
+    "background": "#CADBE8",
+    "iris": "#8FAFC3"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:43:17.350376+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "45c14a1221af55f6645334e42888fe44cca4d4ed3abe7d46dfa22632f8f4e20e",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

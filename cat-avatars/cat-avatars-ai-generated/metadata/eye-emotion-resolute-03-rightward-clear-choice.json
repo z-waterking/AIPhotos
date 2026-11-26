@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-resolute-03-rightward-clear-choice.png",
+  "refined_prompt": "../prompts/eye-emotion-resolute-03-rightward-clear-choice.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅鼠尾草底，右眼低而宽，视线明确向右，带着做出决定的从容。",
+  "emotion": "笃定",
+  "composition_variation": "Place right lower and wider with a low smooth curved opening; left is a compact half-open bowl. Point both pupils distinctly right with controlled narrow glints. Firm but unstrained lids and naturally tapered corners suggest a clear confident decision. Preserve exactly TWO eyes with the SAME iris hue, large black pupils and one slim elongated ivory glint each. Emotion comes only from the eye geometry and gaze. Use matte gouache, organic curved tapered boundaries and a visibly pale colored ground; no eyebrows, mouth, head, sclera or other marks.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-resolute",
+  "series_number": 3,
+  "anthology_index": 93,
+  "palette": {
+    "background": "#D6E2D6",
+    "iris": "#A785B3"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:33:14.502885+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "0342cbd404932ac71bc3b3eea289dd65c7bff2d4d2a7b8805078f8bc94ce77fc",
+  "prompt_sha256": "73520881ed0c46580f51ab86dce8e4d3d35d11af3ad2714749be8399f5ffbd07",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

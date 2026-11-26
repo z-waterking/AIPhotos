@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-sage-03-mint-paper-terracotta-right.png",
+  "refined_prompt": "../prompts/eye-atlas-sage-03-mint-paper-terracotta-right.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "薄荷纸底陶橙双眼，右眼下弧较宽，从容右望。",
+  "composition_variation": "Let the lower left bowl remain eighteen percent shallower, while the higher right eye has a wider rounded base. Both upper lids follow gentle continuous arcs without excessive thickness. The large black pupils connect to the top and glance together slightly right. Identical terracotta bands show along the lower edges and outer sides, with one long slender ivory glint per pupil. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-sage",
+  "series_number": 3,
+  "anthology_index": 63,
+  "palette": {
+    "background": "#CEE0D4",
+    "iris": "#BF9078"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:39:49.033998+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "e09a860171cf1f0bba675e1cdfbf4f7cfd5ea5502af7cbebcd389a389bc81e94",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

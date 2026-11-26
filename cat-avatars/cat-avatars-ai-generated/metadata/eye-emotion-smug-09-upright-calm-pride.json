@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-09-upright-calm-pride.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-09-upright-calm-pride.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "淡灰蓝底，较直立的半开双眼安稳正视，气定神闲。",
+  "emotion": "克制得意",
+  "composition_variation": "Fairly upright rounded openings at slightly different heights, viewer-left just higher. Thick lids bow down across the upper third of the pupils, without squeezing into slits. Broad pupils face forward. Right lower boundary a little flatter; left more curved, all natural handmade contours. Most openly confident expression in this group: steady, alert and self-assured, still relaxed rather than staring or childish.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 9,
+  "anthology_index": 39,
+  "palette": {
+    "background": "#DADFEA",
+    "iris": "#7789B1"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:10:58.899868+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "d6d7d3d4989308be89f14540a50fdf0d29f013b560c1387b45c7ffeed7879729",
+  "prompt_sha256": "01cd0a5d1bab116035356efe54a185c7409b8dc81838bd039999e5abc9d2ae48",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

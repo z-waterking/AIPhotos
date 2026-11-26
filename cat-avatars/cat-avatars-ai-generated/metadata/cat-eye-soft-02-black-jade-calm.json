@@ -1,0 +1,27 @@
+{
+  "output": "../cat-eye-soft-02-black-jade-calm.png",
+  "refined_prompt": "../prompts/cat-eye-soft-02-black-jade-calm.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔黑底、同色浅玉绿图形猫眼，安静平视，无嘴。",
+  "composition_variation": "Two clean simplified cat-eye graphic shapes, moderately wide and softly curved, with exactly the same single iris color. Each eye is a colored lower cup around a huge black oval pupil, with a gently raised outer corner and a softly tapered end. Avoid sharp spear tips or a severe inward V. Eye shapes occupy x=.19 to .43 and x=.60 to .83, y=.43 to .59, almost level with a small height difference, widths only 10 percent different. The black centers occupy most of the eye and touch or merge with the upper edge. The iris is a broad band on lower and outer sides, not a detailed ring. On a pale background, the black oval centers remain clearly painted solid black; on black they merge with the background. Each center has one slender vertical ivory glint, of the same orientation and treatment. Gaze is composed and neutral, relaxed and softly observant. No eyelash flicks, no eyebrows, no mouth, no extra strokes. Use only these two graphic eye shapes and their two glints, with wide negative space.",
+  "user_feedback": "依据最新四张参考重来；双眼颜色一致，背景用黑白与舒服的浅色，保留简练眼形。",
+  "palette": {
+    "background": "#151617",
+    "iris": "#A5C5AB"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T03:04:53.366267+00:00",
+  "sha256": "4f7b6122e071487b7c2b5401f704f08ded817918af2721cd6a7a62e96c8242ea",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors in both eyes, requested simple eye family, black or comfortable pale background, large graphic black pupils and long highlights, no eyebrows or sclera, no text or watermark"
+}

@@ -1,0 +1,39 @@
+{
+  "output": "../eyes-atelier-07-lagoon-delight.png",
+  "refined_prompt": "../prompts/eyes-atelier-07-lagoon-delight.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 7,
+  "anthology_index": 7,
+  "art_direction": "圆润杏眼明朗直视，湖蓝翠绿柠檬黄虹膜，薄荷白底与浅笑。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "明快、舒展",
+  "palette": {
+    "background": "#EAF1EA",
+    "iris_colors": [
+      "#459DA8",
+      "#6CAD80",
+      "#D7CF77"
+    ]
+  },
+  "creative_direction": "Make the most open and optimistic expression of the set while keeping it sophisticated. Use medium-wide rounded almond eyes whose lower lids curve upward gently near the outer corners, creating the suggestion of a smile without closing either eye. Both pupils look forward with relaxed attention, supported by substantial black upper lids that taper naturally at the ends. Give the iris a smooth, compact blend of lagoon blue, fresh muted green, and a small touch of soft lemon yellow. The colors belong inside restrained iris patches around broad black pupils; they should not spill onto the paper or resemble luminous liquid. Put one generous broken-edged ivory highlight in each pupil, with a subtle second paint fleck only if the image needs it. The brows are short and lightly arched, set at an easy, consistent height. A shallow, brief smile line completes the face. The mint-white paper stays unadorned. Favor calm delight and crisp color harmony over excitement, glitter, decorative stars, or an emoji-like grin.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:34:54.576808+00:00",
+  "sha256": "331f9af3c485d087b0a0bdb7b857adedb06ef52642d95988a04a770fd18d5eac",
+  "prompt_sha256": "46928d6b16231a22115e0d37b029370cb3ee8f776f7dfd310ae9b11b4396c408",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

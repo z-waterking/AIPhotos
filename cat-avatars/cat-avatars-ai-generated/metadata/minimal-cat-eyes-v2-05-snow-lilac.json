@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-v2-05-snow-lilac.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-v2-05-snow-lilac.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雪白浅紫 · 轻轻犯困: 雪白底，浅紫半眯杏眼，困倦而柔和。",
+  "composition_variation": "Smooth soft snow-white field. Delicate lavender irises framed by slender flowing black upper lids. Relaxed half-closed almond cat eyes, a gentle drowsy gaze looking straight ahead. Same-scale eyes with only a small difference in lid height; rounded inner corners and softly tapered outer corners. Small simple white reflections soften the black pupils. Tiny pale lilac-gray brow marks, very short relaxed black mouth. Peaceful, graceful and adorable rather than bored, depressed or sneering. Background remains clean neutral white with no yellow or tan cast.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:20:14.320976+08:00",
+  "sha256": "999ccb08aa2a2dae1db3fabbbda0761223f20011e0ce72052a9f390d9d129faf",
+  "visual_review": "passed: inspected compressed preview; clean flat background, coordinated eyes, legible appealing expression, no visible text or watermark"
+}

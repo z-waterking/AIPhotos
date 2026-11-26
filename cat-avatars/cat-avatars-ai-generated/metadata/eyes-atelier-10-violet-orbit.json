@@ -1,0 +1,38 @@
+{
+  "output": "../eyes-atelier-10-violet-orbit.png",
+  "refined_prompt": "../prompts/eyes-atelier-10-violet-orbit.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 10,
+  "anthology_index": 10,
+  "art_direction": "横向柔尖眼安定直视，雾紫浅蓝虹膜只露细弧，灰白纸底。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "安定、清澈",
+  "palette": {
+    "background": "#EDEDEF",
+    "iris_colors": [
+      "#A197BB",
+      "#BAC2DD"
+    ]
+  },
+  "creative_direction": "Create an airy, clear-eyed face with two horizontally extended eye shapes that sit between an almond and a soft oval. Round the outer curve slightly before it resolves into a fine natural point; avoid the more lifted corners used elsewhere in the set. Both eyes look directly forward with generous black pupils and large irregular off-white highlights. The visible iris areas blend misty violet into pale powder blue. Within those side patches only, introduce two very fine partial curved lines in a muted violet-gray. They should disappear behind the broad pupils and eyelids, suggesting a quiet orbital rhythm rather than visible concentric targets. Keep the arcs sparse and low in contrast so they are discovered only on closer inspection. The two short eyebrows form shallow, welcoming curves, and the mouth is a calm horizontal dash. Gray-white paper provides a clean resting place for the colors. Maintain an alert, approachable expression with hand-painted softness, without glassy shine, tiny pupils, radial spokes, or dramatic effects.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:40:36.816579+00:00",
+  "sha256": "a576f3a24520b63317f7600584b567de6981e15626ca39c345860600149d7af7",
+  "prompt_sha256": "f713e15617880da47aa28348e6dd36168a8ddf349611fc6c905b007629b59351",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

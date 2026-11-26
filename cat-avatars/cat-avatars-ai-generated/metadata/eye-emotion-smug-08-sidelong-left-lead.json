@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-08-sidelong-left-lead.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-08-sidelong-left-lead.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅桃米色底，一长一短的侧目双眼，流露早有预料的得意。",
+  "emotion": "克制得意",
+  "composition_variation": "Left eye long, its axis rising gently toward the central face-space; right eye shorter and nearly horizontal. Medium-low openings; left pupil more heavily hooded. Pupils move together right. Round the inward corners so the slope does not form an angry chevron. Thin colored lower rim on the long eye, fuller rim on the short eye. Dry amusement, as if the outcome was expected.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 8,
+  "anthology_index": 38,
+  "palette": {
+    "background": "#E7D5C8",
+    "iris": "#A76E53"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:10:52.914447+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "7de68c35481480aa4aa4aad5a054c90ce037d1e70120f991c8c2407a7fa7b783",
+  "prompt_sha256": "2924d33f19d4b5df7da4d71c11a7a1ab049bc93533e2da95554e1b792af4662b",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

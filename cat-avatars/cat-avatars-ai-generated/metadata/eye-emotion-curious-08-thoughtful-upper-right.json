@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-curious-08-thoughtful-upper-right.png",
+  "refined_prompt": "../prompts/eye-emotion-curious-08-thoughtful-upper-right.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔奶黄底，双眼望向右上，带安静思考中的好奇。",
+  "emotion": "聪明好奇",
+  "composition_variation": "Comfortably broad openings, medium-deep left bowl and shallower right. Both pupils upper-right, partly hooded by bowed lids. Nearly horizontal centers, left outer end softly tapering downward to balance lifted gaze. Thoughtful, quietly piecing together an interesting answer. Large black pupils, matching iris bands; no detached highlights, bubbles, brows or exaggerated rolling eyes.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-curious",
+  "series_number": 8,
+  "anthology_index": 58,
+  "palette": {
+    "background": "#E7DFC6",
+    "iris": "#AC914E"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:18:28.580871+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "b52aa86b92aceb7a1115d1b8827a8d302a9a200dd689dfa29f0bb4b456e9ece6",
+  "prompt_sha256": "88f94d18c7be3fad7f7b1d93e6df9ecb3919e0180f3bf1814d1feec3b60b8f06",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

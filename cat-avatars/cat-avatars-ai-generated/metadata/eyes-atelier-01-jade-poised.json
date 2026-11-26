@@ -1,0 +1,38 @@
+{
+  "output": "../eyes-atelier-01-jade-poised.png",
+  "refined_prompt": "../prompts/eyes-atelier-01-jade-poised.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 1,
+  "anthology_index": 1,
+  "art_direction": "舒展杏眼配青玉薄荷虹膜，轻挑眼尾与沉静直视，暖象牙底。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "从容、清醒",
+  "palette": {
+    "background": "#F1EFE7",
+    "iris_colors": [
+      "#458F81",
+      "#A7CCB4"
+    ]
+  },
+  "creative_direction": "Build an assured, quietly attractive expression around two long almond eyes. Their upper contours should rise in one smooth, shallow arch before tapering into short, graceful outer points. Keep the lower contours more delicate, with a little hand-painted irregularity instead of rigid symmetry. Both eyes look directly ahead, with the left and right openings very similar in size. Dense black pupils feel substantial and alive, leaving restrained jade-green and pale mint iris crescents visible beside them. Place a broad irregular ivory highlight within each pupil, aligned as if the same soft window lights both eyes. Let the green shift gently toward mint near the lower iris edge, without glow. Two modest charcoal-gray eyebrow strokes gently echo the eye curves; neither is raised theatrically. A short, level mouth gives the expression composure rather than boredom. Surround the grouped features with warm ivory paper and calm breathing room. The result should feel like a beautifully edited painted emblem, polished but still made by hand.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:34:54.211948+00:00",
+  "sha256": "d88aa71e6cc1687453dedad7b0d9d71d941f54fd0e666d0e5f55a1efc06c404b",
+  "prompt_sha256": "0a885852ba82b1cd1e601501b52523b06dfde205d49b5568e0bc378827d2c330",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

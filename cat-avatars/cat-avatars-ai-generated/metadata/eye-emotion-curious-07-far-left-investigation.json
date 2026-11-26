@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-curious-07-far-left-investigation.png",
+  "refined_prompt": "../prompts/eye-emotion-curious-07-far-left-investigation.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅米桃底，双眼间距舒展，齐齐望向左侧，像在好奇探看。",
+  "emotion": "聪明好奇",
+  "composition_variation": "Wide central gap. Left eye shorter and taller, right long and medium-low. Pupils distinctly far-left, preserving black connection to lids and small iris margin near the gaze edge. Left eye slightly lower, a subtle inquisitive lean. Natural curved endings. Careful exploration of something out of frame, attentive rather than fearful or distrustful.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-curious",
+  "series_number": 7,
+  "anthology_index": 57,
+  "palette": {
+    "background": "#E7D9C9",
+    "iris": "#9A8467"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:17:56.124332+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "ae58cadd802a8dc80868d33f280d35103bdbc9fbbe82e70c3f663f435a079e77",
+  "prompt_sha256": "277b39848ceffe6584fcda15ae61bb1c8c2ddd2a2db6937cfb898dd82446855c",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

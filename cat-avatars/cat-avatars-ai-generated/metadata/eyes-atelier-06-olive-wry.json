@@ -1,0 +1,38 @@
+{
+  "output": "../eyes-atelier-06-olive-wry.png",
+  "refined_prompt": "../prompts/eyes-atelier-06-olive-wry.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 6,
+  "anthology_index": 6,
+  "art_direction": "扁杏眼平静斜望，橄榄黄绿虹膜，一平一弧短眉，暖石灰底。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "会心、轻微怀疑",
+  "palette": {
+    "background": "#ECE9DF",
+    "iris_colors": [
+      "#7D8B4F",
+      "#BEC783"
+    ]
+  },
+  "creative_direction": "Suggest someone who has just understood an amusing situation. Use two gently compressed almond eyes, broader horizontally than vertically, with soft inner corners and slightly lifted outer ends. Their upper lids should feel poised rather than pressed down in anger. Direct both large black pupils a small distance to the viewer's right. Show muted olive beside the pupils, blending into a little light yellow-green along the bottom of each iris. Retain a generous ivory highlight in each dark pupil so the glance remains warm and readable. Differentiate the eyebrows instead of distorting the eyes: one short brow stays nearly level, while the other makes a modest shallow arc. The eyes themselves stay balanced in scale, with a subtle difference only in lid rhythm. A very short level mouth supports dry humor without becoming a sneer. Warm limestone-colored paper gives the greens sophistication. Keep every shape economical and hand-painted, with no fur, wrinkles, frown creases, or extra marks that would turn mild skepticism into hostility.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:38:46.188360+00:00",
+  "sha256": "670ffffa1bf7d586495c8cf043b10e1cb2f878562d2ad3bd4e35e905ccee145a",
+  "prompt_sha256": "5b20b54a2cd6677327755e42117125e7c0f27add97c868670699e62e3fe289a1",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

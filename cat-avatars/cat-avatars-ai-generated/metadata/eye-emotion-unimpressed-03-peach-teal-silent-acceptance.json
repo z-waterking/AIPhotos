@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-unimpressed-03-peach-teal-silent-acceptance.png",
+  "refined_prompt": "../prompts/eye-emotion-unimpressed-03-peach-teal-silent-acceptance.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅桃底青绿双眼，视线轻垂、右眼更眯，像无奈地说行吧。",
+  "emotion": "无奈地接受",
+  "composition_variation": "Show quiet resignation through a medium gap and a mild uneven droop. The viewer-left opening is forty percent open; the right is thirty percent and its center sits slightly higher. Both large pupils look a little downward together. The upper lids have rounded weight without sharply descending outer corners, so the mood stays dry and accepting rather than sad. Keep teal iris bands more visible beneath the pupils than above them. The feeling is a silent, understated 'fine then' conveyed only by the eyes.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-unimpressed",
+  "series_number": 3,
+  "anthology_index": 23,
+  "palette": {
+    "background": "#ECD4C4",
+    "iris": "#6D9D96"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:04:09.427874+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "da64101dbb8d52256cea81147e17af0838b512385d4435cdd19fe0504589c498",
+  "prompt_sha256": "8101639ec668902630bbf4b84f8b284bd7580c385d0983a85e14af352e2b7dc5",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-09-held-back-laughter.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-09-held-back-laughter.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅奶黄底，双眼轻轻弯起，像正在忍住一声偷笑。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Lower edges rise gently while upper lids descend, creating two narrow soft curved openings with visible iris side bands. Right opening slightly taller and shorter. Both still contain large pupils and narrow long highlights, neither fully closed. Nearly level centers, look forward. Suppressed laughter through compressed smiling eyes, without simple closed arcs, a grin or infantile exaggeration.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 9,
+  "anthology_index": 49,
+  "palette": {
+    "background": "#E7DDC0",
+    "iris": "#A48A4D"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:14:36.595879+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "4f115e2789bdd8557e59afd0e08862f772283f76d11edec8d7fb4580d3fbcf74",
+  "prompt_sha256": "51d4f33c470b977e4cb357a85087bebb7246e552dc17b616461407d0c83b4785",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

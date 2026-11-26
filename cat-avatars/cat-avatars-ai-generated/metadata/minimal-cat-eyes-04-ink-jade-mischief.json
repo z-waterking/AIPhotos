@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-04-ink-jade-mischief.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-04-ink-jade-mischief.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "墨黑绿瞳 · 狡黠一瞥: 墨黑底，翡翠绿细弯眼，向侧面瞟的狡黠神态。",
+  "composition_variation": "Uniform matte near-black field. Saturated jade-green narrow iris crescents beneath heavy black half-lids merging into background. Amused clever sideways glance: both pupils look hard right; left eye a wider horizontal almond, right slimmer and slightly higher. Green lower rims vary in thickness like hand-cut paper. Single small ivory slit highlight per pupil. Teasing and friendly, not angry or threatening. No mouth, nose or eyebrows. Eye pair just above mid-height, ample empty space below.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:01:42.411718+08:00",
+  "sha256": "b8571ede20d1a06293b54a6cd6c84157d19bc9f5bcec3e08d92d39a2db970cf7",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

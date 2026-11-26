@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-08-oat-blue-upward-question.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-08-oat-blue-upward-question.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "燕麦底蓝色双眼，目光上抬且开合不同，安静地质疑。",
+  "emotion": "安静地提出疑问",
+  "composition_variation": "Let both pupils look slightly upward together. Open the viewer-right eye to sixty percent and the left to forty-five percent, with the left eye a little higher. Shift the thickest part of each upper lid toward its outer corner, leaving its inner arc gently lifted. Keep the pupils joined to the lids and show restrained blue iris mainly beneath them. The open yet unequal gaze should suggest a calm question waiting for an answer, without wide-eyed innocence or comic astonishment.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 8,
+  "anthology_index": 18,
+  "palette": {
+    "background": "#E6DAC7",
+    "iris": "#6F94BD"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:02:34.202267+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "b9706aee489d1c66d99c23f8fabb813c4a91fa6c2ddf5812dac1051af1cb4b54",
+  "prompt_sha256": "a0be4ec70556d26ffedf2ef7e32d92149c50f492f50c782f33d68c388066a74b",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

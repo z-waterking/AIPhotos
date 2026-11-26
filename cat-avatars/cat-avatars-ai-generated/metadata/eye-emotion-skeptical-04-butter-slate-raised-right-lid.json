@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-04-butter-slate-raised-right-lid.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-04-butter-slate-raised-right-lid.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶黄底灰蓝双眼，右眼皮外侧抬起，半信半疑地左看。",
+  "emotion": "半信半疑",
+  "composition_variation": "Use a fairly level pair with the viewer-right eye sixty-five percent open and the left forty percent. Lift the outer third of the right upper lid into a gently rounded questioning arch; keep the left upper lid lower and broader. Both pupils glance softly toward viewer-left with the same displacement. Retain rounded bowls below the pupils and matching slate-blue bands. The expression should be an alert, restrained half-belief, not surprise or exaggerated cartoon alarm.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 4,
+  "anthology_index": 14,
+  "palette": {
+    "background": "#EEE0B9",
+    "iris": "#7897AD"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:00:54.623437+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "03cc987312f5dd567e718320e852f4f895ce9fccd3f8c4bb69c5e198bc67e3c8",
+  "prompt_sha256": "ad3c75c6d244e21d6c0f919f5e4c0b49f9127f027ec70f265976fbfbbb431f45",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

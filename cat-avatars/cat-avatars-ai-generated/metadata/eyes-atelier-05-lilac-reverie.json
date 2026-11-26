@@ -1,0 +1,38 @@
+{
+  "output": "../eyes-atelier-05-lilac-reverie.png",
+  "refined_prompt": "../prompts/eyes-atelier-05-lilac-reverie.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 5,
+  "anthology_index": 5,
+  "art_direction": "长椭圆眼半垂侧望，灰紫长春花蓝虹膜，浅丁香灰底。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "出神、安静",
+  "palette": {
+    "background": "#EDE9EF",
+    "iris_colors": [
+      "#988AAD",
+      "#B2BADA"
+    ]
+  },
+  "creative_direction": "Create a thoughtful sideways glance with two elongated oval-almond eyes. Their upper lids droop gently across the top quarter of the iris, while the lower lids remain clean and relaxed; keep both openings clearly visible. Both pupils travel together toward the viewer's left, with no divergent gaze. Make the outer corners soft pointed curves rather than square ends, and let one lid have a barely perceptible change of angle while maintaining closely matched eye size. The iris color moves from dusty lilac at the outer side into pale periwinkle nearer the lower rim. Large black pupil forms and broad warm-white highlights prevent the face from looking vacant or ghostly. Two thin, understated gray-purple brows float close above the eyes without high arches. Place a short horizontal mouth below the shared center, unforced and neutral. The pale lilac-gray paper should be nearly quiet enough to read as off-white. Seek an elegant daydreaming mood with a trace of intelligence, not exhaustion, sadness, or a sleepy caricature.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:37:19.426369+00:00",
+  "sha256": "426eb63828985a38f93a6397d87d97c91a96822260d7c3f7925f844bba7e49e5",
+  "prompt_sha256": "ff19eb05f48f8a6937749d26941122e8e3d1aad57921d448387629673bd42749",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

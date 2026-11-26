@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-03-blush-teal-close-scrutiny.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-03-blush-teal-close-scrutiny.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅粉底青绿双眼，间距略近、下眼缘微抬，像仔细端详。",
+  "emotion": "仔细辨认中的怀疑",
+  "composition_variation": "Bring the eyes slightly closer together and narrow both openings to about thirty-five percent while keeping the viewer-left opening ten percent taller. Both broad pupils face the viewer, with their gaze subtly lifted. Raise each lower lid into a gentle curve so the eyes feel actively scrutinizing rather than merely tired. The upper strokes stay rounded and mostly level; avoid an inward V. Let one outer corner curl gently upward and the other remain flatter, producing a small thoughtful mismatch.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 3,
+  "anthology_index": 13,
+  "palette": {
+    "background": "#E8D0D7",
+    "iris": "#6C9E91"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:59:29.212651+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "9594d138c76a84620e5be979a05542d9cd414a3749b900159adfb2a8e24ad15b",
+  "prompt_sha256": "0bc5df9ff30120dc854804af0ed9f889143bdd85a2c4ebc21dbd8876fe81b83a",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

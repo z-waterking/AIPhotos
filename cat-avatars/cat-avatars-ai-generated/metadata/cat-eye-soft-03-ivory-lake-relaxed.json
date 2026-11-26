@@ -1,0 +1,27 @@
+{
+  "output": "../cat-eye-soft-03-ivory-lake-relaxed.png",
+  "refined_prompt": "../prompts/cat-eye-soft-03-ivory-lake-relaxed.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "米白底、同色湖蓝半眯眼，轻微高低差与极短平嘴。",
+  "composition_variation": "Two broad half-lidded graphic eyes, like simple colored lower bowls under one black upper-lid brushstroke each. Viewer-left eye occupies x=.14 to .44,y=.48 to .63, horizontal and lower; viewer-right eye occupies x=.59 to .88,y=.36 to .56, slightly taller and higher. The gentle eye-line rises toward viewer-right. Right eye is about 15 percent larger. Both eyes have EXACTLY the same iris color. Colored side bands and the bottom edge surround a huge solid black oval pupil; the black center is approximately 65 percent of each eye width, directly touching the black upper lid. Each eye is a softly curved shallow bowl, NOT a sharp triangular almond. No lower eyeliner. One slender irregular ivory vertical glint slightly left of center in each black pupil, identical tilt and color, no eye whites. Upper lids are two calm near-horizontal strokes, a little tilted with the face, not thick aggressive V-shaped slashes. The expression is relaxed, calmly attentive, easy and natural. Exactly one tiny nearly horizontal black mouth dash at x=.51,y=.66, width .04 of canvas, no eyebrows or other marks. Plenty of background above and below. The eye pair and mouth fit within the central 75 percent of canvas.",
+  "user_feedback": "依据最新四张参考重来；双眼颜色一致，背景用黑白与舒服的浅色，保留简练眼形。",
+  "palette": {
+    "background": "#F5F0DE",
+    "iris": "#4F8BAD"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T03:02:42.286597+00:00",
+  "sha256": "c983cd83c446622236a5ef69f35d58e5dd5bc8c561d7385e2f769fae889b6b3d",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors in both eyes, requested simple eye family, black or comfortable pale background, large graphic black pupils and long highlights, no eyebrows or sclera, no text or watermark"
+}

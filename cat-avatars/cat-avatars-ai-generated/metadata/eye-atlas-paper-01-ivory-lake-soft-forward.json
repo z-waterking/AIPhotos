@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-paper-01-ivory-lake-soft-forward.png",
+  "refined_prompt": "../prompts/eye-atlas-paper-01-ivory-lake-soft-forward.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "米白底湖蓝弧碗眼，左低右开，平静正视。",
+  "composition_variation": "Keep the left opening about fifteen percent shallower and three percent lower than the right. Use broad rounded lower bowls with gently bowed upper lids, their outer ends tapering softly. Both large black pupils touch the upper lids and face forward. Leave matching lake-blue iris bands below and at the sides, with one narrow elongated ivory glint per pupil.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-paper",
+  "series_number": 1,
+  "anthology_index": 31,
+  "palette": {
+    "background": "#F4F0E5",
+    "iris": "#78A7B4"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:11:49.405390+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "c3a1cc8091e021b75b5a0ad34a366659e697a5333aabebc13539867f5669f94f",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

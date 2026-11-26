@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-sketch-08-marker-drooped-beans.png",
+  "refined_prompt": "../prompts/eyes-sketch-08-marker-drooped-beans.txt",
+  "source_prompt": "../prompts/eyes-sketch-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-sketch",
+  "series_number": 8,
+  "anthology_index": 8,
+  "art_direction": "横豆眼略垂、开口仍清楚，双瞳共同向左下，留白如歪月牙缺口。",
+  "composition": "centered hand-drawn eye pair; auxiliary marks only when specified; large blank paper margins",
+  "emotion": "走神、安静",
+  "palette": {
+    "background": "#F7F4F6",
+    "iris_colors": [
+      "#A74A7A"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023151,
+    "method": "golden-angle hue spacing with seeded single-hue saturation and lightness variation",
+    "mode": "solid",
+    "hue": 0.914872
+  },
+  "color_treatment": "one opaque flat color beside each pupil; no gradient or shaded rendering",
+  "drawing_family": "worn-marker",
+  "creative_direction": "Draw two horizontal bean-shaped eyes with softly drooping outer halves. Both large pupils settle toward the lower left, still coordinated and visible. Reserve crooked crescent-like paper gaps within the black, avoiding complete rings. Use a thick upper marker mass and an incomplete lower border that leaves air near the inner end. Keep enough opening for a small flat iris accent on the opposite side. One eye may be a little wider, never dramatically larger. Only the eyes occupy the paper.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:47:02.503698+00:00",
+  "sha256": "431a6b42e63983cfac875bc0045a833efcbeaebbb62789e108b1da81e01ccdda",
+  "prompt_sha256": "a812b03c466c504d9d613b19331726902d175e6b4702487824262f92c87742a8",
+  "visual_review": "inspected: preview checked by the root agent; retained as a user-rejected style experiment after the task changed to a new avatar collection; do not count as an accepted final image",
+  "visual_review_before_rejection": "passed: compressed preview inspected for economical distinct hand-drawn contours, broad dark pupils with irregular paper reserves, single flat color, coordinated gaze, pale paper, no text or watermark",
+  "batch_status": "user rejected; stopped after change of creative direction; no further generation in this series"
+}

@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-brush-aqua-08-faded-cobalt-brush-steady-front.png",
+  "refined_prompt": "../prompts/eye-atlas-brush-aqua-08-faded-cobalt-brush-steady-front.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔浅桃底，浅钴蓝侧带，柔弧错位双眼平静正视。",
+  "composition_variation": "Give the left eye a low, softly scooped opening and the right twelve percent greater height and breadth. Set both pupils centered in a steady forward gaze. Vary the black upper brush edges with a single slight pressure wobble, keeping their broad silhouettes opaque and controlled. Identical #788BB9 iris side bands flank the large pupils; each has one elongated ivory glint. Use a clearly visible but gentle soft peach paper background, matching the exact palette below. Do not wash it out to white. Keep it flat and quiet with no gradients or decorative marks.",
+  "reference_family": "brush",
+  "series": "eye-atlas-brush-aqua",
+  "series_number": 8,
+  "anthology_index": 78,
+  "palette": {
+    "background": "#EDD3C1",
+    "iris": "#788BB9"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:44:55.818810+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "05c192953964b1124644f6cebb1149a6b8c582adf66811c12f0391e4542a14f4",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

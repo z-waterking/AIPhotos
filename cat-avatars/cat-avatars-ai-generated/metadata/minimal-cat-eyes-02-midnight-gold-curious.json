@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-02-midnight-gold-curious.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-02-midnight-gold-curious.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "墨黑金瞳 · 好奇探看: 墨黑底，金黄月牙形眼圈，大小不一的好奇双眼。",
+  "composition_variation": "Near-black matte field #111111. Warm golden-yellow iris crescents surround huge black pupils merging seamlessly into the field. Curious gentle wide-eyed expression: left eye a larger rounded oval, right eye a smaller upright oval, both looking slightly upward and right. Left eye slightly lower. Broad golden crescent at the lower-left rim of large left eye; slimmer golden arc at lower-right of smaller eye. One narrow ivory painted catchlight per pupil. Arcs imply eyes rather than complete perfect rings. No mouth, nose or eyebrows. Eye centers around y=0.53; asymmetric handmade shapes.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T15:59:38.503671+08:00",
+  "sha256": "b8e60bf96bcd1874e7a62550051efb084d9d0bc5973272462ff3c97416a1ea43",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-curious-04-close-study-low-gaze.png",
+  "refined_prompt": "../prompts/eye-emotion-curious-04-close-study-low-gaze.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅鼠尾草绿底，双眼专注向下，像在研究画外的小东西。",
+  "emotion": "聪明好奇",
+  "composition_variation": "Pair slightly above square center, both pupils gently downward. Left broad and medium-deep; right compact and slightly lower. Upper lids shallow domes. Descending black pupils leave thin lower rims and visible side bands. Concentrating on something below frame, without drawing the object. Soft rounded corners and plentiful blank background express quiet investigative curiosity.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-curious",
+  "series_number": 4,
+  "anthology_index": 54,
+  "palette": {
+    "background": "#DCE5D5",
+    "iris": "#72926E"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:16:42.368249+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "56b06c75b2180d2b750268f20f80645485123a8cbbb73ce31d5811b662cee63d",
+  "prompt_sha256": "71792c46a8532d821dc486cfe1d2aac482b9d2be1804191e53adb725fc2e195a",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

@@ -1,0 +1,151 @@
+{
+  "output": "../face-prism-relaxed-02-waterlily-loose-spaced.png",
+  "refined_prompt": "../prompts/face-prism-relaxed-02-waterlily-loose-spaced.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "a2fcac1c1fe47395fd38bbe2ca5b5bbaefbc267890a5b33b7ca49157532a7742",
+  "prompt_sha256": "00b8595b70010c3e50903bb03bae797ea93a5d13084a84050f47a43f1a54d8e9",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#71C0C7",
+      "#5B90D1",
+      "#6254D5",
+      "#B66CE1",
+      "#DF62B1"
+    ],
+    "gradient": {
+      "mode": "horizontal",
+      "reverse": true
+    },
+    "eyes": [
+      {
+        "cx": 0.24868,
+        "cy": 0.42512,
+        "width": 0.30354,
+        "height": 0.11579,
+        "angle": 6.19278,
+        "source": "right",
+        "mirror": false
+      },
+      {
+        "cx": 0.74752,
+        "cy": 0.36312,
+        "width": 0.32283,
+        "height": 0.13722,
+        "angle": 6.75759,
+        "source": "left",
+        "mirror": false
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.23509,
+        "cy": 0.28459,
+        "width": 0.06662,
+        "height": 0.02504,
+        "angle": -0.86867
+      },
+      {
+        "cx": 0.73965,
+        "cy": 0.20063,
+        "width": 0.08249,
+        "height": 0.0277,
+        "angle": -0.46884
+      }
+    ],
+    "mouth": {
+      "cx": 0.49819,
+      "cy": 0.55169,
+      "width": 0.09424,
+      "height": 0.00997,
+      "angle": 1.64456
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "a2fcac1c1fe47395fd38bbe2ca5b5bbaefbc267890a5b33b7ca49157532a7742",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          122,
+          452,
+          501,
+          615
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          742,
+          353,
+          1133,
+          558
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          253,
+          341,
+          337,
+          372
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          876,
+          234,
+          979,
+          269
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          566,
+          684,
+          684,
+          699
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1478511,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-relaxed",
+  "series_number": 2,
+  "anthology_index": 92,
+  "art_direction": "灰白纸感底，疏朗分开，松弛神态；5色柔和横向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "松弛",
+  "created_at": "2026-10-22T09:08:31.402241+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

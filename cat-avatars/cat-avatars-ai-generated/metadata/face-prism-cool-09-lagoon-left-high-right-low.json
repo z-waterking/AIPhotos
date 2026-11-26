@@ -1,0 +1,150 @@
+{
+  "output": "../face-prism-cool-09-lagoon-left-high-right-low.png",
+  "refined_prompt": "../prompts/face-prism-cool-09-lagoon-left-high-right-low.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "0f9d03dc13caecd21ef46f7613656f00e6543523788c487b562c529862bd4e41",
+  "prompt_sha256": "51e518202f13bfe8f8564f18a8db28b52a15d96d838eeaf1e4fe98e695228b84",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#5DEA67",
+      "#6AE8C8",
+      "#6A96D2",
+      "#7C71C9"
+    ],
+    "gradient": {
+      "mode": "horizontal",
+      "reverse": false
+    },
+    "eyes": [
+      {
+        "cx": 0.26213,
+        "cy": 0.32821,
+        "width": 0.32488,
+        "height": 0.14039,
+        "angle": -10.24739,
+        "source": "right",
+        "mirror": true
+      },
+      {
+        "cx": 0.7177,
+        "cy": 0.42421,
+        "width": 0.34353,
+        "height": 0.15287,
+        "angle": 3.61663,
+        "source": "left",
+        "mirror": true
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.2795,
+        "cy": 0.15918,
+        "width": 0.06624,
+        "height": 0.02989,
+        "angle": 3.42701
+      },
+      {
+        "cx": 0.70909,
+        "cy": 0.26039,
+        "width": 0.0589,
+        "height": 0.02677,
+        "angle": -6.09889
+      }
+    ],
+    "mouth": {
+      "cx": 0.48831,
+      "cy": 0.56554,
+      "width": 0.10355,
+      "height": 0.01273,
+      "angle": -1.88931
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "0f9d03dc13caecd21ef46f7613656f00e6543523788c487b562c529862bd4e41",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          129,
+          308,
+          529,
+          515
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          681,
+          441,
+          1119,
+          622
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          309,
+          180,
+          392,
+          220
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          852,
+          309,
+          926,
+          345
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          547,
+          701,
+          677,
+          717
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1482975,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-cool",
+  "series_number": 9,
+  "anthology_index": 19,
+  "art_direction": "灰白纸感底，左高右低，淡定神态；4色柔和横向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "淡定",
+  "created_at": "2026-10-22T09:07:00.984196+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

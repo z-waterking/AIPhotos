@@ -1,0 +1,27 @@
+{
+  "output": "../cat-eye-soft-01-black-honey-curious.png",
+  "refined_prompt": "../prompts/cat-eye-soft-01-black-honey-curious.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔黑底、同色蜜金月牙，左大右小黑瞳与长条高光。",
+  "composition_variation": "Two floating rounded eye shapes on soft black. Viewer-left eye is larger, approximately x=.17 to .51,y=.32 to .70; viewer-right is smaller, approximately x=.64 to .84,y=.38 to .60. Both pupils are large gently asymmetric upright black ovals that merge seamlessly into the soft-black background. Around the lower and outer rims of these black centers, show broad softly painted colored crescent bands; BOTH crescents use exactly the same iris color. The colored bands taper quietly into the background without knife-like tips. The left eye shows a fuller crescent along left and bottom, the smaller right eye a narrow lower-right crescent, both read as coherent eyes. One long slender warm-white highlight in the upper part of each dark pupil, slightly tilted, the same angle in both. Open innocent curiosity carried by the eye proportions, no forced smile or round white dots. No mouth, no brows, no other features. Only two colored crescent bands, their black oval centers and two long white highlights, abundant quiet empty black space.",
+  "user_feedback": "依据最新四张参考重来；双眼颜色一致，背景用黑白与舒服的浅色，保留简练眼形。",
+  "palette": {
+    "background": "#131314",
+    "iris": "#DCA72F"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T03:02:23.991337+00:00",
+  "sha256": "4bdd602fdb89486f66e3fc94234ea661f4f1e6097aa4e6f5dc379b7fd68fec43",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors in both eyes, requested simple eye family, black or comfortable pale background, large graphic black pupils and long highlights, no eyebrows or sclera, no text or watermark"
+}

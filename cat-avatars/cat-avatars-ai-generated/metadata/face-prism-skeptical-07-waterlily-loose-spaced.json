@@ -1,0 +1,151 @@
+{
+  "output": "../face-prism-skeptical-07-waterlily-loose-spaced.png",
+  "refined_prompt": "../prompts/face-prism-skeptical-07-waterlily-loose-spaced.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "1057541d818681e9ef40624a0362ed8ec915576fdbe77cbfa02c757dce5fb2bd",
+  "prompt_sha256": "f7b098f873de9795121e2174afdcbde19640c24c3329b941f1ff1510b9df96ea",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#59D9E6",
+      "#5295D4",
+      "#8671E5",
+      "#B163DB",
+      "#D955B7"
+    ],
+    "gradient": {
+      "mode": "vertical",
+      "reverse": false
+    },
+    "eyes": [
+      {
+        "cx": 0.24967,
+        "cy": 0.40996,
+        "width": 0.29633,
+        "height": 0.15299,
+        "angle": -2.30378,
+        "source": "left",
+        "mirror": false
+      },
+      {
+        "cx": 0.73573,
+        "cy": 0.34796,
+        "width": 0.33114,
+        "height": 0.18003,
+        "angle": -0.56464,
+        "source": "right",
+        "mirror": false
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.2549,
+        "cy": 0.2558,
+        "width": 0.07674,
+        "height": 0.0241,
+        "angle": 6.05197
+      },
+      {
+        "cx": 0.714,
+        "cy": 0.17408,
+        "width": 0.06459,
+        "height": 0.03356,
+        "angle": 3.31543
+      }
+    ],
+    "mouth": {
+      "cx": 0.49785,
+      "cy": 0.54735,
+      "width": 0.11024,
+      "height": 0.01007,
+      "angle": -1.12315
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "1057541d818681e9ef40624a0362ed8ec915576fdbe77cbfa02c757dce5fb2bd",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          125,
+          422,
+          502,
+          607
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          715,
+          324,
+          1131,
+          549
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          272,
+          302,
+          367,
+          339
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          855,
+          196,
+          936,
+          240
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          555,
+          679,
+          693,
+          693
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1480566,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-skeptical",
+  "series_number": 7,
+  "anthology_index": 47,
+  "art_direction": "灰白纸感底，疏朗分开，疑惑神态；5色柔和纵向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "疑惑",
+  "created_at": "2026-10-22T09:07:35.324908+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

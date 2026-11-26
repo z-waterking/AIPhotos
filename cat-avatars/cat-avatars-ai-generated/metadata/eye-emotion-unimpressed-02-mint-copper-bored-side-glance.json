@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-unimpressed-02-mint-copper-bored-side-glance.png",
+  "refined_prompt": "../prompts/eye-emotion-unimpressed-02-mint-copper-bored-side-glance.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "薄荷底铜色双眼，低阔半眯随意左看，显得兴致缺缺。",
+  "emotion": "无聊又淡定",
+  "composition_variation": "Use two broad openings, each around thirty percent open, with the viewer-right eye slightly lower. Both pupils glance casually toward viewer-left without moving to the extreme corners. Keep the upper lids heavy and unhurried; the left is almost level through its middle while the right bows softly. The lower contours remain small rounded bowls with copper color at their edges. Express bored indifference while keeping the eyes lucid, not exhausted or closed.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-unimpressed",
+  "series_number": 2,
+  "anthology_index": 22,
+  "palette": {
+    "background": "#D3E4D9",
+    "iris": "#B68E71"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:04:10.013727+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f0e3cf807162dcff0a8e6426b98e9a2a0917960630c385cc50e13a9d3ed3c040",
+  "prompt_sha256": "b0e2c95558074d2dad7fabe450060d0ac210a8aa28f3c27b88485de561f2653a",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

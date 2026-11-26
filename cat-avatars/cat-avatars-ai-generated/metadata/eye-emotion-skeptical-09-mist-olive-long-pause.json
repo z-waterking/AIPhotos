@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-09-mist-olive-long-pause.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-09-mist-olive-long-pause.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾蓝底橄榄双眼，低阔眼形里右眼轻挑，留下怀疑的停顿。",
+  "emotion": "怀疑后的停顿",
+  "composition_variation": "Make both eyes long and low, but let the viewer-right eye have a small extra rise at the outer third of its upper lid. Keep the openings at thirty and forty percent, with the right slightly fuller. Both pupils glance together toward viewer-left; the left pupil sits under a particularly heavy lid. Place the pair near the canvas midpoint and preserve plenty of blank paper. Convey a meaningful skeptical pause through minute lid tension, avoiding a blank symmetrical sleepy look.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 9,
+  "anthology_index": 19,
+  "palette": {
+    "background": "#D3DFEA",
+    "iris": "#9B9F6F"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:02:31.236519+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f3eb09da1b3552810622e1dc73ebe80449d910f319cace1d9556fca8b2c9325b",
+  "prompt_sha256": "5b3b51d89e512d92de2c63e460f0b6653d1b9b0d173a667099892a53df430dd3",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

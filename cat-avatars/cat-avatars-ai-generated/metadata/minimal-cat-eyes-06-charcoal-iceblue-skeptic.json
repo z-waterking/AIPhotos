@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-06-charcoal-iceblue-skeptic.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-06-charcoal-iceblue-skeptic.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "炭黑冰瞳 · 挑眼怀疑: 炭黑底，冰蓝色一睁一眯的疑惑眼神。",
+  "composition_variation": "Matte charcoal-black field #151515. Pale glacier-blue iris bands and off-white catchlights only. Skeptical cute one-eye-raised expression: left eye a thin tilted half-lidded horizontal slit, right eye a much rounder tall almond. Pupils look toward narrow left eye. No eyebrows: express raised-eyebrow mood entirely with eyelid shapes. Eyes at mid-height have different tilts, not mirrored. No mouth, nose, fur or other marks. Huge black pupils merge into background.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:03:11.852640+08:00",
+  "sha256": "8c6d859ab892c04f5da58bf8f68094ee06c95834001349397b9b2bcad8aead21",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

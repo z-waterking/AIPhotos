@@ -1,0 +1,151 @@
+{
+  "output": "../face-prism-curious-02-lagoon-left-high-right-low.png",
+  "refined_prompt": "../prompts/face-prism-curious-02-lagoon-left-high-right-low.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "d6191c823a0d2e87c1a1cabaaf5735a3939c5e6ed36e9b75219cb1810f5b071a",
+  "prompt_sha256": "802078bb75d08090b6281c425a4c9b623afcaf10091510454337f3d920dca01c",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#50E865",
+      "#62E9BB",
+      "#65CDD0",
+      "#6E9ADC",
+      "#7B64CF"
+    ],
+    "gradient": {
+      "mode": "horizontal",
+      "reverse": false
+    },
+    "eyes": [
+      {
+        "cx": 0.24708,
+        "cy": 0.35498,
+        "width": 0.3384,
+        "height": 0.1696,
+        "angle": -3.51872,
+        "source": "right",
+        "mirror": true
+      },
+      {
+        "cx": 0.74174,
+        "cy": 0.45098,
+        "width": 0.35024,
+        "height": 0.18275,
+        "angle": -3.1169,
+        "source": "left",
+        "mirror": true
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.25372,
+        "cy": 0.18736,
+        "width": 0.07588,
+        "height": 0.02486,
+        "angle": 0.88138
+      },
+      {
+        "cx": 0.73327,
+        "cy": 0.27327,
+        "width": 0.06447,
+        "height": 0.03054,
+        "angle": -5.44059
+      }
+    ],
+    "mouth": {
+      "cx": 0.49752,
+      "cy": 0.60464,
+      "width": 0.08083,
+      "height": 0.01195,
+      "angle": 1.22835
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "d6191c823a0d2e87c1a1cabaaf5735a3939c5e6ed36e9b75219cb1810f5b071a",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          99,
+          335,
+          521,
+          556
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          715,
+          443,
+          1145,
+          688
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          271,
+          219,
+          366,
+          251
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          879,
+          323,
+          961,
+          363
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          573,
+          750,
+          674,
+          767
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1482979,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-curious",
+  "series_number": 2,
+  "anthology_index": 2,
+  "art_direction": "灰白纸感底，左高右低，好奇神态；5色柔和横向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "好奇",
+  "created_at": "2026-10-22T09:06:39.413925+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

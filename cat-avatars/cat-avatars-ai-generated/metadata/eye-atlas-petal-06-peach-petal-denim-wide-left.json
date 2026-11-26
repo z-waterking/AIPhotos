@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-petal-06-peach-petal-denim-wide-left.png",
+  "refined_prompt": "../prompts/eye-atlas-petal-06-peach-petal-denim-wide-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅桃瓣底雾靛双眼，间距舒展，左眼更浅。",
+  "composition_variation": "Space the pair a little more widely and keep the lower left eye about one-fifth less open. The right bowl has a broader, smoother lower curve. Both upper lids remain gently bowed and join large flat black pupils looking left together. Matching dusty denim bands taper naturally toward the ends, and each pupil contains one thin long ivory glint. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-petal",
+  "series_number": 6,
+  "anthology_index": 56,
+  "palette": {
+    "background": "#EBD4CA",
+    "iris": "#819FB5"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:36:50.047552+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "64472a528a77dbfccccfa9b9268a1c2731bd09c36bdc8baf116da4cf2ad41df3",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

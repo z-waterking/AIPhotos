@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-paper-03-cream-ochre-slight-right.png",
+  "refined_prompt": "../prompts/eye-atlas-paper-03-cream-ochre-slight-right.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶油底柔赭双眼，左浅右深，目光轻移向右。",
+  "composition_variation": "Use a softly arched upper lid above each rounded colored bowl, with the left eye lower and its opening roughly four-fifths the right height. Keep a comfortable central gap. Both large black pupils touch their upper lids and shift slightly right. Matching muted ochre bands remain visible underneath, tapering toward the corners; add one narrow long ivory glint inside each pupil.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-paper",
+  "series_number": 3,
+  "anthology_index": 33,
+  "palette": {
+    "background": "#F4EEDC",
+    "iris": "#BD9C63"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:25:28.459626+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "897ccd7ef7d02f420cfbf7a3216dc662afd85ad1c00405ce68ce9360c8e08349",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

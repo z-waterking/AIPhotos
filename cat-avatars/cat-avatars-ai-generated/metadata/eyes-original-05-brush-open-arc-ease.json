@@ -1,0 +1,46 @@
+{
+  "output": "../eyes-original-05-brush-open-arc-ease.png",
+  "refined_prompt": "../prompts/eyes-original-05-brush-open-arc-ease.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 5,
+  "anthology_index": 5,
+  "art_direction": "舒展弧眼仅以厚上缘与短下笔成形，轻向右看，眉尾放松。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "悠然",
+  "palette": {
+    "background": "#EFF2F5",
+    "iris_colors": [
+      "#C57C3D"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "solid",
+    "hue": 0.077506
+  },
+  "color_treatment": "solid flat single-color iris fill",
+  "drawing_family": "brush-silhouette",
+  "creative_direction": "Create two airy eye shapes whose structure comes mostly from flowing upper arches. Leave a deliberate small break in each lower outline near the outer third, using a short brush fragment to complete the suggestion of an opening. Both large pupils look slightly right, remaining coordinated and clearly supported by the lids. Broad highlight dabs sit within their dense dark paint. The surrounding iris fields follow the open arc rhythm, without separate white eye corners. Make each opening comfortably wide but taller than a sleepy slit. Two short relaxed brows and a small level mouth keep the expression easygoing. Center everything with quiet margins and avoid ornamental lash extensions.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:33:32.767556+00:00",
+  "sha256": "e76ea4ca8d8d1e2d0440fd2a4b0b769b8bd4f0c08352d975bd3805bd3a6f1e9e",
+  "prompt_sha256": "ae697af92d705e8a22db02aeaae0261d844cee0612a5e73d19fc73f3cb7b429b",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

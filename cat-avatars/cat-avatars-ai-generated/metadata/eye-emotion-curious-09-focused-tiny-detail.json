@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-curious-09-focused-tiny-detail.png",
+  "refined_prompt": "../prompts/eye-emotion-curious-09-focused-tiny-detail.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅长春花蓝底，双眼略靠近、目光专注，像盯住一个小细节。",
+  "emotion": "聪明好奇",
+  "composition_variation": "Eyes moderately closer, clear background between inner corners. Left opening slightly narrower in height; both lower edges clean and rounded. Pupils forward and slightly downward at one distant point, never converging into a crossed gaze. Lids lower just enough for careful focus. Concentrated and observant, neither angry nor blank; retain unequal lid curvature and substantial visible iris rims.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-curious",
+  "series_number": 9,
+  "anthology_index": 59,
+  "palette": {
+    "background": "#DADDEC",
+    "iris": "#818CB8"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:19:21.137079+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "38b9404eb1e8bd70eb9644f44ea63551e8ee106d8356341049eb9443bde5f7e6",
+  "prompt_sha256": "9121b2f851a20e13b36f31de94e16ceef39cc10de626dc7047546b2cc1f59f39",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

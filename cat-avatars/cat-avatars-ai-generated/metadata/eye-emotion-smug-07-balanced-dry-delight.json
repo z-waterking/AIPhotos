@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-07-balanced-dry-delight.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-07-balanced-dry-delight.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔奶黄底，紧凑半眯双眼轻望右上，得意却不张扬。",
+  "emotion": "克制得意",
+  "composition_variation": "Compact eye pair, narrower gap but no touching. Both broad, half-lidded and gently curved; left opening slightly smaller. Pupils turn slightly upward and right, staying large and joined to the lids. Outer lid ends fall softly rather than extending into spikes; lower curves modestly lifted. A restrained flash of satisfaction conveyed only by the eyes, without exaggerated closed smiling crescents.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 7,
+  "anthology_index": 37,
+  "palette": {
+    "background": "#EEE3C1",
+    "iris": "#B28B51"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:09:51.530919+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f4762226a157f31d0e82e807faee792611b05bdf5dfbb9d51c862333fa0edd33",
+  "prompt_sha256": "e35416b5494d4637d978560ff5a19b501d2240d985b732edb1da9a0ca68e1297",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

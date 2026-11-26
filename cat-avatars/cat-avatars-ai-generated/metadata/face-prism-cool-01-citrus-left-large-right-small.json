@@ -1,0 +1,151 @@
+{
+  "output": "../face-prism-cool-01-citrus-left-large-right-small.png",
+  "refined_prompt": "../prompts/face-prism-cool-01-citrus-left-large-right-small.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "5bc95181ffcd48ff2e8e504af2b6ce9541f7f683f721f549fb0dc82f5a8c55f2",
+  "prompt_sha256": "c30ab75b59d2117a109881973a3ca6bdf2a7f0c1b2352dca0f7453c4c6b58b52",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#CE694B",
+      "#C89968",
+      "#DCD160",
+      "#ACE881",
+      "#73D4AA"
+    ],
+    "gradient": {
+      "mode": "vertical",
+      "reverse": true
+    },
+    "eyes": [
+      {
+        "cx": 0.25553,
+        "cy": 0.38527,
+        "width": 0.39689,
+        "height": 0.16377,
+        "angle": 3.40397,
+        "source": "right",
+        "mirror": false
+      },
+      {
+        "cx": 0.74921,
+        "cy": 0.43727,
+        "width": 0.30165,
+        "height": 0.12334,
+        "angle": 2.59095,
+        "source": "left",
+        "mirror": true
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.26407,
+        "cy": 0.22102,
+        "width": 0.06735,
+        "height": 0.03171,
+        "angle": 2.87681
+      },
+      {
+        "cx": 0.76578,
+        "cy": 0.29466,
+        "width": 0.06832,
+        "height": 0.02414,
+        "angle": 5.54901
+      }
+    ],
+    "mouth": {
+      "cx": 0.50711,
+      "cy": 0.54768,
+      "width": 0.0937,
+      "height": 0.01327,
+      "angle": -0.45654
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "5bc95181ffcd48ff2e8e504af2b6ce9541f7f683f721f549fb0dc82f5a8c55f2",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          72,
+          376,
+          568,
+          591
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          749,
+          474,
+          1131,
+          622
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          289,
+          256,
+          373,
+          298
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          917,
+          352,
+          1003,
+          387
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          577,
+          678,
+          694,
+          695
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1478808,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-cool",
+  "series_number": 1,
+  "anthology_index": 11,
+  "art_direction": "灰白纸感底，左大右小，淡定神态；5色柔和纵向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "淡定",
+  "created_at": "2026-10-22T09:06:50.802263+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

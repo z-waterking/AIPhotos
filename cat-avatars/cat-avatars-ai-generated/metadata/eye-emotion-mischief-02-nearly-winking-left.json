@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-02-nearly-winking-left.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-02-nearly-winking-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "淡薄荷底，左眼将眯未闭、右眼清亮，像眨眼前的暗号。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Left eye a slim curved opening still containing colored edge, black pupil and a narrow ivory glint. Right eye three times taller, softly rounded below. Pair tilts only slightly upward to the right; both pupils look toward the viewer. Instant before a conspiratorial wink, neither closed eye nor squinting pain. Broad organic rounded lids, no sharp diagonal corners.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 2,
+  "anthology_index": 42,
+  "palette": {
+    "background": "#D9E6DC",
+    "iris": "#6D9B80"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:11:27.390927+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "ec44518da37cd4fdbab7f380fe909d8bc31176177af30ce2f179de21061149ec",
+  "prompt_sha256": "8f7931740aa3bd637778b47185a92a9aadbaca441b905dc306c6d658811e3942",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

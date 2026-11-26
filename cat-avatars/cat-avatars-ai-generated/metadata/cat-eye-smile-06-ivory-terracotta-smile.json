@@ -1,0 +1,27 @@
+{
+  "output": "../cat-eye-smile-06-ivory-terracotta-smile.png",
+  "refined_prompt": "../prompts/cat-eye-smile-06-ivory-terracotta-smile.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "暖纸陶橙配色，轻微高低差的圆润眼睛、淡灰眉与上扬的小笑嘴。",
+  "composition_variation": "A gently smiling floating-face avatar on warm pale paper. Two rounded, comfortably open eyes, with a small playful difference in size and height, share a warm attentive gaze. The viewer-left eye is about 10 percent smaller and 4 percent lower than the right. Both eyes feel relaxed, friendly and interested, never heavy or glaring.\nUse broad flat colored irises, large round soft-black pupils, and one short rounded ivory glint per eye. Upper lids are medium-weight, softly curved brush shapes with round ends, following an easy shallow arch. Lower lids rise gently in a happy squint; do not lower or flatten the upper lids. Keep the eyes open enough to show the generous round pupils. No pointed eye corners or strong diagonally lowered eyelids.\nPlace eye centers at approximately x=0.33,y=0.45 and x=0.65,y=0.41, with the right about 15 percent larger, so the face retains lively asymmetry. The eyes together span around 57 percent of the image width. They face the viewer with a tender playful look.\nPlace two very faint short gray eyebrows in relaxed shallow arches above the eyes, with rounded ends and no inward tilt. Add a tiny shallow U-shaped smile at x=0.50,y=0.60: its corners gently lift and its center dips slightly, an unmistakably happy but understated little curve. This is the only mouth mark. The expression is affectionate, calm and quietly delighted, a charming little companion smiling back.\nOnly two eyes, two faint brows and the tiny smile, with subtle fine paper grain and abundant blank space. No head contour, nose, ears, blush, eyelashes or scenery. Avoid bored half-lids, suspicious side-eye, inward-sloping brows, exaggerated grin or decorative hearts.\n",
+  "user_feedback": "不要这么凶恶，可以微笑或者可爱一些的",
+  "palette": {
+    "background": "#F5F1E7",
+    "iris": "#D9916B"
+  },
+  "style_inspiration": "Two user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T02:43:26.631343+00:00",
+  "sha256": "9fcaa55bfa8af0181da11e14ccf9dabe3cc559f95ae3c41ffcf275ab5eca396a",
+  "visual_review": "passed: inspected compressed contact sheet; friendly softly rounded floating eyes, small upward smile, gentle asymmetry, restrained requested palette, subtle matte edges, no head silhouette, no text or watermark"
+}

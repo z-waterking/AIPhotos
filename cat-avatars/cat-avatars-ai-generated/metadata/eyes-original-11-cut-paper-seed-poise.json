@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-original-11-cut-paper-seed-poise.png",
+  "refined_prompt": "../prompts/eyes-original-11-cut-paper-seed-poise.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 11,
+  "anthology_index": 11,
+  "art_direction": "种籽形有机眼孔配饱满黑瞳，两眼正视，短眉平嘴，平面剪纸感。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "安然",
+  "palette": {
+    "background": "#EEF3EB",
+    "iris_colors": [
+      "#B13FCE",
+      "#7D58D5"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "analogous",
+    "hue": 0.798717
+  },
+  "color_treatment": "smooth continuous two-color analogous iris blend, no visible band boundary",
+  "drawing_family": "modernist-cut-paper",
+  "creative_direction": "Treat the eyes as two organic seed-shaped openings in a midcentury modern graphic composition. Use supple asymmetrical curves within each shape, with fuller inner halves and neatly narrowing outer ends. Both large dark pupils face forward and contain bold off-center highlight cutouts. The iris fields are simple flat areas that nest around the pupils like carefully fitted paper shapes. Keep all apparent cut-paper effects entirely flat, with no layers, shadows, torn edges, or physical craft props. Two compact curved brow pieces and one short mouth dash complete the expression. Balance the eye sizes and their shared central placement. The result should feel calm, designed, and quietly personable rather than decorative or mechanical.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:31:21.368681+00:00",
+  "sha256": "adc9b3bbc753fa488d2bda4e0994826a8393ab933846559a988dfd8514f4c636",
+  "prompt_sha256": "e2396413dc1ee8a56462fbe0a1e9c22d73f70301c600b4419ba859dedc348503",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

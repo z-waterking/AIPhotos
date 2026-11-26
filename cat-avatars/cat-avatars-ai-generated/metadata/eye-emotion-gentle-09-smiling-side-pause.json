@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-gentle-09-smiling-side-pause.png",
+  "refined_prompt": "../prompts/eye-emotion-gentle-09-smiling-side-pause.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅鼠尾草底，左眼较圆，右眼浅眯，同向右看带着柔和笑意。",
+  "emotion": "温柔",
+  "composition_variation": "Make the left larger, rounder and lower. Right is a slim friendly curved opening with its outer corner lightly raised. Direct both pupils right, maintaining generous black mass and slim glints. Raised lower lids should create restrained amused warmth rather than a mocking smirk. Preserve exactly TWO eyes with the SAME iris hue, large black pupils and one slim elongated ivory glint each. Emotion comes only from the eye geometry and gaze. Use matte gouache, organic curved tapered boundaries and a visibly pale colored ground; no eyebrows, mouth, head, sclera or other marks.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-gentle",
+  "series_number": 9,
+  "anthology_index": 79,
+  "palette": {
+    "background": "#D6E2D6",
+    "iris": "#A785B3"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:27:54.834383+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "28b96269883f05c1e5a628d2f9a5075e9bc994cd415dd0d4a7a1b4f3b26c72e5",
+  "prompt_sha256": "d421f1f63cbd00838d10a660b1699135f1d9a1c2ffb44320cf4516a2a77de9ed",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

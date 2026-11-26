@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-paper-05-porcelain-jade-soft-up.png",
+  "refined_prompt": "../prompts/eye-atlas-paper-05-porcelain-jade-soft-up.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "淡奶油底浅玉双眼，左低右高，目光微微抬起。",
+  "composition_variation": "The left eye rests three percent lower with a modestly reduced opening, and the right bowl remains comfortably taller. Aim both generous black pupils just above the viewer while keeping them attached to the softly curved upper lids. Use identical pale jade bands mainly beneath the pupils. Keep the inner corners rounded and the outer ends naturally tapered, with one elongated ivory glint each. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-paper",
+  "series_number": 5,
+  "anthology_index": 35,
+  "palette": {
+    "background": "#EAE6D9",
+    "iris": "#98B39D"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:29:16.709657+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "80dea3929ff6574f458fcfe8b7fb59ecd7ccb11b955edb5cd7f3b88e02a2d4de",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

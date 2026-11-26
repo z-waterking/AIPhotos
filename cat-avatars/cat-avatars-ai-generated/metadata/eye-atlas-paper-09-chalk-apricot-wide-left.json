@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-paper-09-chalk-apricot-wide-left.png",
+  "refined_prompt": "../prompts/eye-atlas-paper-09-chalk-apricot-wide-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅米色底浅杏弧眼，间距舒展，共同轻轻左望。",
+  "composition_variation": "Space the two bowls slightly farther apart, keeping the left lower and about one-sixth less open than the right. Use restrained curved upper lids with smooth tapered outer ends. Both large black pupils remain joined to the lids and glance left. Matching apricot bands swell gently along the lower curves, and each pupil has one slender elongated ivory glint. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-paper",
+  "series_number": 9,
+  "anthology_index": 39,
+  "palette": {
+    "background": "#E8DECF",
+    "iris": "#CBA47F"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:30:46.299033+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "8fd30814472b0d36be4a4997bf1ad680814bde48d35966921daf00169f76755b",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

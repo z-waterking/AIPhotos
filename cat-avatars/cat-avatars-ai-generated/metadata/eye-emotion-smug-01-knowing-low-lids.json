@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-01-knowing-low-lids.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-01-knowing-low-lids.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾蓝底，低垂双眼轻望右侧，一侧眼尾微扬，神态心照不宣。",
+  "emotion": "克制得意",
+  "composition_variation": "Nearly level centers, comfortably wide gap. Both lids press down to low but spacious rounded openings, the viewer-left a quarter taller. Shift both large pupils slightly right, leaving matching iris strips on their left sides. Turn only the left outer corner gently upward; the right stays level. Unequal lid pressure reads as a quiet knowing look, self-satisfied without anger. Keep the bottom curves supple.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 1,
+  "anthology_index": 31,
+  "palette": {
+    "background": "#DFE8EC",
+    "iris": "#6598A7"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:07:29.691856+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "2a12a91a83bcd596a62745ff29bb7f415caac24f5e5c108fd987faa8e3e5a4ce",
+  "prompt_sha256": "7476a2d4ea3c6f64898087c25d25438a5add3c31d44a6d0bbc510bb68d455d07",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

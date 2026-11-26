@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-v2-04-midnight-jade.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-v2-04-midnight-jade.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "夜色浅翠 · 聪明眼神: 黑底浅翡翠猫眼，眼尾轻扬，明亮灵动。",
+  "composition_variation": "Uniform near-black field. Pale luminous jade-green irises visible as elegant curved bands along the lower sides of large black pupils. Eyes are moderately narrow flowing almonds with gently upturned outer corners; upper lids express clever, calm friendliness. Both eyes belong to the same face, similar size and a delicate diagonal alignment. One soft ivory highlight per eye, small and well placed. Keep the jade bright and fresh against the black rather than murky forest green. No mouth, eyebrows, nose, eye sockets or other shapes. Effortless refined graphic charm, no metallic shine, no texture blocks.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:18:48.505980+08:00",
+  "sha256": "958044f8a4f2618f8d878ebc836bb9f7e9f34a7f38b2bc22b428947b368a9508",
+  "visual_review": "passed: inspected compressed preview; clean flat background, coordinated eyes, legible appealing expression, no visible text or watermark"
+}

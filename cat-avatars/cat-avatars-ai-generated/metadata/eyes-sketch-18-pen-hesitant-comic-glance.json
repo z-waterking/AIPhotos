@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-sketch-18-pen-hesitant-comic-glance.png",
+  "refined_prompt": "../prompts/eyes-sketch-18-pen-hesitant-comic-glance.txt",
+  "source_prompt": "../prompts/eyes-sketch-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-sketch",
+  "series_number": 18,
+  "anthology_index": 18,
+  "art_direction": "一眼浅拱、一眼短平后下弯，下轮廓不闭合，双瞳微抬，短眉略不齐。",
+  "composition": "centered hand-drawn eye pair; auxiliary marks only when specified; large blank paper margins",
+  "emotion": "机灵、留意",
+  "palette": {
+    "background": "#F7F6F3",
+    "iris_colors": [
+      "#C9A97A"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023151,
+    "method": "golden-angle hue spacing with seeded single-hue saturation and lightness variation",
+    "mode": "solid",
+    "hue": 0.098897
+  },
+  "color_treatment": "one opaque flat color beside each pupil; no gradient or shaded rendering",
+  "drawing_family": "economical-pen",
+  "creative_direction": "Draw two eyes with economical pen lines. One upper contour is a shallow arch; the other briefly flattens before curving down. Leave both lower contours incomplete. Large beanlike black pupils look together slightly upward, interrupted by broad irregular patches of untouched paper. Place a flat iris accent inside each opening. Include two short uneven eyebrow strokes, no mouth. Keep the centered drawing loose, using small changes in line pressure instead of added scratches or repeated sketch lines.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:43:00.342273+00:00",
+  "sha256": "b35170e4e5f4019fca465bf8874062e6968e9a7e12c0d1952820c6d117c2810f",
+  "prompt_sha256": "48bb52646bd863f85cca24c21f9e0d84e6c38df1340327cf9fa295116727973d",
+  "visual_review": "inspected: preview checked by the root agent; retained as a user-rejected style experiment after the task changed to a new avatar collection; do not count as an accepted final image",
+  "visual_review_before_rejection": "passed: compressed preview inspected for economical distinct hand-drawn contours, broad dark pupils with irregular paper reserves, single flat color, coordinated gaze, pale paper, no text or watermark",
+  "batch_status": "user rejected; stopped after change of creative direction; no further generation in this series"
+}

@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-night-warm-04-coral-side-poise.png",
+  "refined_prompt": "../prompts/eye-atlas-night-warm-04-coral-side-poise.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "近黑底，珊瑚双弧略向左置，左短而细，右外缘较厚，两条长奶白反光清楚。",
+  "composition_variation": "Only two floating matte-gouache crescent eyes: smaller, narrower left; much wider, rounder right. Black centers merge into background. Both arcs share exactly #D38C7D; each has one long ivory glint. Place the pair slightly left of center. Thicken the outer right curve while tapering its inner tip; keep the left short, level and delicate. No head, brows, mouth, sclera, 3D, glow, text or squared edges.",
+  "reference_family": "crescent",
+  "series": "eye-atlas-night-warm",
+  "series_number": 4,
+  "anthology_index": 4,
+  "palette": {
+    "background": "#0B090A",
+    "iris": "#D38C7D"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:15:25.394711+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "2cb3dd7eb1729da9c9f86f878eca9ec2adc25a90a9b326ee4c7c6a92b18fc2fb",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

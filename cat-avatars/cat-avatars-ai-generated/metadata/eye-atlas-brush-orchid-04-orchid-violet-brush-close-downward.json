@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-brush-orchid-04-orchid-violet-brush-close-downward.png",
+  "refined_prompt": "../prompts/eye-atlas-brush-orchid-04-orchid-violet-brush-close-downward.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔雾蓝底，兰花紫侧带，双眼略近，轻轻下望。",
+  "composition_variation": "Bring the pair a little closer together, without touching. Keep the left low and shallow and the right nine percent higher and broader. Aim both pupils subtly downward. Give the upper black brush shapes restrained diagonal lift and smooth pressure transitions. Maintain identical #9F88BB iris bands at the sides of both large black pupils, with one long narrow ivory glint each. Angle the ivory glints subtly inward. Use a clearly visible but gentle soft powder blue paper background, matching the exact palette below. Do not wash it out to white. Keep it flat and quiet with no gradients or decorative marks.",
+  "reference_family": "brush",
+  "series": "eye-atlas-brush-orchid",
+  "series_number": 4,
+  "anthology_index": 94,
+  "palette": {
+    "background": "#CADBE8",
+    "iris": "#9F88BB"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:51:06.790759+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "71f5ed6dde50801312bc2febedffb95123159bafbd013a04440d2852246851a6",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

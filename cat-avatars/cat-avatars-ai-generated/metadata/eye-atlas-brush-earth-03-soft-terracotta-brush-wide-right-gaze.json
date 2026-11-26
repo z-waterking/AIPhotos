@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-brush-earth-03-soft-terracotta-brush-wide-right-gaze.png",
+  "refined_prompt": "../prompts/eye-atlas-brush-earth-03-soft-terracotta-brush-wide-right-gaze.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅鼠尾草绿底，柔陶红侧带，双眼间距舒展，轻快右望。",
+  "composition_variation": "Leave slightly wider spacing between the eyes. The left remains low and shallow; make the right twelve percent higher and broader. Both large black pupils look gently right. Vary upper brush pressure from a broad inner sweep to a fine outer tip, keeping the edges handmade but opaque. Show matching #C0866D iris side bands and one long ivory glint each. Keep inner bands slightly slimmer. Use a clearly visible but gentle pale sage green paper background, matching the exact palette below. Do not wash it out to white. Keep it flat and quiet with no gradients or decorative marks.",
+  "reference_family": "brush",
+  "series": "eye-atlas-brush-earth",
+  "series_number": 3,
+  "anthology_index": 83,
+  "palette": {
+    "background": "#CEDFD4",
+    "iris": "#C0866D"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:47:01.676282+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "46748ded4f3b29854ee43518a73ab3672d98ee8430d57517a7cea2e5fe323a7c",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

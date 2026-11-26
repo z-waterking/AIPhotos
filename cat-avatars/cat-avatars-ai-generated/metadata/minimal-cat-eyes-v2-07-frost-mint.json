@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-v2-07-frost-mint.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-v2-07-frost-mint.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "霜白薄荷 · 小小得意: 霜白底，薄荷青眼与微扬短嘴，自然俏皮。",
+  "composition_variation": "Clean frosty white field with a whisper of cool gray. Fresh mint-turquoise irises with soft black pupils, graceful almond eye contours and sweeping upper lids. One eyelid a little lower, both eyes looking gently toward the viewer. A delicate head tilt makes the pair lively while proportions remain harmonious. One crisp little white reflection each. Two tiny pale gray brows above, and a very short mouth with just a subtly lifted end below the eyes. Charming, poised, slightly pleased with itself, never a broad cartoon grin. Keep all shapes spare and refined.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:22:42.198747+08:00",
+  "sha256": "5c2186d4d531721f213b8d78eed86660be38b9d6bbee00c7eaa1a3b647a3a280",
+  "visual_review": "passed: inspected compressed preview; clean flat background, coordinated eyes, legible appealing expression, no visible text or watermark"
+}

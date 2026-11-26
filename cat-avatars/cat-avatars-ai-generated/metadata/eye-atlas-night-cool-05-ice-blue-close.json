@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-night-cool-05-ice-blue-close.png",
+  "refined_prompt": "../prompts/eye-atlas-night-cool-05-ice-blue-close.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "近黑底，冰蓝左弧似细逗号，右弧如宽圆杯，间隙窄而清楚，两条长奶白反光轻斜。",
+  "composition_variation": "Only two floating matte-gouache crescent eyes: smaller, narrower left; much wider, rounder right. Black centers merge into background. Both arcs share exactly #91B8C8; each has one long ivory glint. Keep a narrow central gap. Shape the left as a slim crescent comma and the right as a wide round cup, with softly diagonal paired glints. No head, brows, mouth, sclera, 3D, glow, text or squared edges.",
+  "reference_family": "crescent",
+  "series": "eye-atlas-night-cool",
+  "series_number": 5,
+  "anthology_index": 15,
+  "palette": {
+    "background": "#090C0D",
+    "iris": "#91B8C8"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:19:37.105503+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f6933cb38098e273e71b083fdd00759cf49450590b98d144a1b55f89d11e778d",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

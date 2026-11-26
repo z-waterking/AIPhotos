@@ -1,0 +1,208 @@
+{
+  "output": "../face-dojutsu-soft-07-rinnegan-lilac-raised-interest.png",
+  "refined_prompt": "../prompts/face-dojutsu-soft-07-rinnegan-lilac-raised-interest.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-iris-accent-and-centering",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "09bea0725174f1ee67d659dc52b123202700ba38e094c6707b28ce380b2c25e7",
+  "prompt_sha256": "10d50fc46e55ca78bda4cef8d00d699132040c206974ef445622aed2a4f0fe53",
+  "series": "face-dojutsu-soft",
+  "series_number": 7,
+  "anthology_index": 7,
+  "local_transform": {
+    "method": "source-eyes-with-subtle-iris-accents",
+    "preserved_outer_contours": true,
+    "preserved_original_pupils": true,
+    "preserved_original_highlights": true,
+    "composition": "centered",
+    "eyes": [
+      {
+        "cx": 0.306,
+        "cy": 0.5,
+        "width": 0.315,
+        "height": 0.159,
+        "angle": -9,
+        "source": "left",
+        "mirror": false
+      },
+      {
+        "cx": 0.686,
+        "cy": 0.47,
+        "width": 0.315,
+        "height": 0.182,
+        "angle": -2,
+        "source": "right",
+        "mirror": false
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.325,
+        "cy": 0.357,
+        "width": 0.073,
+        "height": 0.029,
+        "angle": -2
+      },
+      {
+        "cx": 0.678,
+        "cy": 0.344,
+        "width": 0.076,
+        "height": 0.031,
+        "angle": 0
+      }
+    ],
+    "mouth": {
+      "cx": 0.5,
+      "cy": 0.627,
+      "width": 0.098,
+      "height": 0.016,
+      "angle": 0
+    },
+    "eye_styles": [
+      "rinnegan",
+      "rinnegan"
+    ],
+    "iris_colors": [
+      "#B5ADD3",
+      "#B5ADD3"
+    ],
+    "motif_phase": 12
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "09bea0725174f1ee67d659dc52b123202700ba38e094c6707b28ce380b2c25e7",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          178,
+          540,
+          589,
+          714
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          662,
+          476,
+          1059,
+          702
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          362,
+          430,
+          454,
+          466
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          803,
+          412,
+          898,
+          451
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          566,
+          776,
+          689,
+          796
+        ]
+      }
+    ],
+    "painted_union_box": [
+      178,
+      413,
+      1059,
+      795
+    ],
+    "painted_union_center": [
+      0.4932216905901116,
+      0.48165869218500795
+    ],
+    "composition_centered": true,
+    "motifs": [
+      {
+        "style": "rinnegan",
+        "iris_color": "#B5ADD3",
+        "phase_degrees": 12,
+        "original_cyan_mask_pixels": 9787,
+        "changed_source_pixel_count": 9787,
+        "motif_source_pixel_count": 1926,
+        "changed_pixels_outside_original_cyan_mask_before_transform": 0,
+        "original_pupil_preserved": true,
+        "original_highlight_preserved": true,
+        "protected_pupil_pixels": 44036,
+        "protected_highlight_pixels": 2615,
+        "iris_only_edit": true,
+        "alpha_preserved": true,
+        "motif_clipping": "strict-original-cyan-mask; pupil and original offwhite highlight occlude motif"
+      },
+      {
+        "style": "rinnegan",
+        "iris_color": "#B5ADD3",
+        "phase_degrees": 12,
+        "original_cyan_mask_pixels": 13481,
+        "changed_source_pixel_count": 13481,
+        "motif_source_pixel_count": 2507,
+        "changed_pixels_outside_original_cyan_mask_before_transform": 0,
+        "original_pupil_preserved": true,
+        "original_highlight_preserved": true,
+        "protected_pupil_pixels": 54701,
+        "protected_highlight_pixels": 4692,
+        "iris_only_edit": true,
+        "alpha_preserved": true,
+        "motif_clipping": "strict-original-cyan-mask; pupil and original offwhite highlight occlude motif"
+      }
+    ],
+    "overlap_pixels": 0,
+    "bytes": 1486079,
+    "original_pupil_preserved": true,
+    "original_highlight_preserved": true,
+    "iris_only_edit": true,
+    "changed_pixels_outside_original_cyan_mask_before_transform": 0,
+    "method": "source-cyan-only-recolor-and-restrained-motifs-with-affine-centering",
+    "background_method": "source-derived gray-white paper from blank source region",
+    "api_called": false
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "latest_style_attachment": {
+    "original_filename": "codex-clipboard-61e76f79-fbd1-4e36-8b5e-a2e8f32ae17c.png",
+    "dimensions": "1000x1000",
+    "role": "locally viewed style continuation of prior recolored output",
+    "used_as_binary_model_input": false,
+    "uploaded": false
+  },
+  "art_direction": "保留原图大黑瞳、白色高光和手绘眼形，灰白底五官居中；虹膜采用被大黑瞳遮住的淡紫细环，淡灰紫眉与一横短嘴。",
+  "emotion": "放松、淡定的轻微侧睨",
+  "contains_text": false,
+  "created_at": "2026-10-23T02:18:38.555503+00:00",
+  "visual_review": "passed: compressed preview inspected for original large black pupils and substantial offwhite highlights, restrained colored iris accents with subtle partial motifs, relaxed painted eye expression, centered five-feature composition, no target-like filled discs, no clipping or overlap, no text or watermark"
+}

@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-sketch-25-pen-offset-arches-wry.png",
+  "refined_prompt": "../prompts/eyes-sketch-25-pen-offset-arches-wry.txt",
+  "source_prompt": "../prompts/eyes-sketch-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-sketch",
+  "series_number": 25,
+  "anthology_index": 25,
+  "art_direction": "两眼上弧稍有高低差但大小近似，双瞳向右，留白钝角不规则，单眉微弧。",
+  "composition": "centered hand-drawn eye pair; auxiliary marks only when specified; large blank paper margins",
+  "emotion": "会心、轻微怀疑",
+  "palette": {
+    "background": "#F5F0F1",
+    "iris_colors": [
+      "#39BBB8"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023151,
+    "method": "golden-angle hue spacing with seeded single-hue saturation and lightness variation",
+    "mode": "solid",
+    "hue": 0.496541
+  },
+  "color_treatment": "one opaque flat color beside each pupil; no gradient or shaded rendering",
+  "drawing_family": "economical-pen",
+  "creative_direction": "Draw two similar-sized eyes whose upper arches sit at slightly different heights. Keep the difference modest, as if one lid has relaxed a little. Both large dark pupils look right. Reserve broad blunt paper patches inside them, avoiding identical highlights. Use only short lower pen marks and small flat iris accents. Give one short brow a shallow bend and leave the other nearly level. Let line pressure change naturally at a couple of turns. The centered pair suggests dry humor. No mouth.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:53:58.242996+00:00",
+  "sha256": "b61f77c2e086e73639c42e2f720429f356a6dfaa39de6636ba8435b4124237c8",
+  "prompt_sha256": "9092568a917b375d5b0a78d597a6ebb39886ede38b12a4f1e5d66eb7f33543e9",
+  "visual_review": "inspected: preview checked by the root agent; retained as a user-rejected style experiment after the task changed to a new avatar collection; do not count as an accepted final image",
+  "visual_review_before_rejection": "passed: compressed preview inspected for economical distinct hand-drawn contours, broad dark pupils with irregular paper reserves, single flat color, coordinated gaze, pale paper, no text or watermark",
+  "batch_status": "user rejected; stopped after change of creative direction; no further generation in this series"
+}

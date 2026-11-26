@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-05-lilac-copper-down-left-inquiry.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-05-lilac-copper-down-left-inquiry.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "丁香底铜色双眼，左眼低而开，视线向左下琢磨。",
+  "emotion": "带着怀疑思考",
+  "composition_variation": "Place the viewer-left eye a little lower but more open, about fifty-five percent, and the right higher but only thirty percent open. Both pupils look toward lower viewer-left, as though considering a puzzling detail. Keep the left lower contour deep and rounded; let the right lower contour remain a shallow arc under a heavy lid. Narrow the central gap slightly. The expression is thoughtful skepticism, with no sadness, eyelash decoration, or exaggerated squint.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 5,
+  "anthology_index": 15,
+  "palette": {
+    "background": "#DDD2E8",
+    "iris": "#BB8E70"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:00:50.660464+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "b338fef0a3eac9fd80a060681da70b4845d46d8002a37b8395e83992d4991c4e",
+  "prompt_sha256": "0e9df67d0d9f6545b3a6209154998648ba6b3872e1c41968141b5a6d8e4ff36d",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

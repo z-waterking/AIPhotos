@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-disdain-08-oat-cobalt-patient-dismissal.png",
+  "refined_prompt": "../prompts/eye-emotion-disdain-08-oat-cobalt-patient-dismissal.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "燕麦底蓝色双眼，左眼挑起右眼更眯，像耐心快耗尽。",
+  "emotion": "耐心快耗尽的冷淡",
+  "composition_variation": "Use a larger viewer-left eye with a high outer corner and a smaller viewer-right eye with a nearly level lid. Both pupils remain centered and large, looking steadily at the viewer. The left eye is fifty percent open, the right only twenty-five percent, with a low curved lower rim rather than a slit. Separate the eyes with a calm medium gap and keep their centers within two percent of canvas height. Express restrained impatience through unequal lid weight, never rage.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-disdain",
+  "series_number": 8,
+  "anthology_index": 8,
+  "palette": {
+    "background": "#E5D9C8",
+    "iris": "#728BBA"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:57:34.316260+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "839bd4fa6c7c4c27317ac9b2a1d4b865bffdb80396bf22943a6320794cfc805a",
+  "prompt_sha256": "6251a138827e7ad8911344f3e139e295cb73e0ffe7e62b7dd85ed3eb40174eaf",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

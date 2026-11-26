@@ -1,0 +1,72 @@
+柔和瞳术十图 · 原始大黑瞳与白高光
+
+根据用户对上一批的反馈，恢复已认可的原始大黑瞳与醒目的白色高光，只在原本青蓝色虹膜区域加入低调的瞳术细节。保留外部手绘边缘、两块淡灰紫眉毛和一道短横嘴，五官仍居中排列。
+
+三张写轮眼、两张万花筒、三张轮回眼与两张无限月读灵感头像。使用柔和红、灰紫和豆沙色；勾玉、细环或弯钩仅在瞳孔两侧的虹膜色块里局部露出，被原来的大黑瞳自然遮挡。优先保留原图神态，不画满整眼的同心圆、靶心或细小黑瞳。
+
+本地Pillow从唯一原图提取眼睛、眉毛与嘴，只处理原虹膜掩膜内部，再对五官进行少量缩放、旋转和居中排列。编辑前后的原眼层黑瞳、白高光及掩膜外像素保持一致。缩放后像素会重采样，因此不声称最终画幅与原图逐像素相同。背景由原图空白纸面连续重建，无调用图片API或上传参考图。
+
+输出1254×1254 PNG。每份独立说明记录实际类型、配色和变换参数。
+
+淡彩万花筒·猩红笃定
+保留原图大黑瞳、白色高光和手绘眼形，灰白底五官居中；虹膜采用一小段弯钩纹样，淡灰紫眉与一横短嘴。
+
+{
+  "method": "source-eyes-with-subtle-iris-accents",
+  "preserved_outer_contours": true,
+  "preserved_original_pupils": true,
+  "preserved_original_highlights": true,
+  "composition": "centered",
+  "eyes": [
+    {
+      "cx": 0.306,
+      "cy": 0.5,
+      "width": 0.315,
+      "height": 0.163,
+      "angle": -9,
+      "source": "left",
+      "mirror": false
+    },
+    {
+      "cx": 0.686,
+      "cy": 0.47,
+      "width": 0.315,
+      "height": 0.186,
+      "angle": -2,
+      "source": "right",
+      "mirror": false
+    }
+  ],
+  "brows": [
+    {
+      "cx": 0.325,
+      "cy": 0.362,
+      "width": 0.073,
+      "height": 0.029,
+      "angle": -2
+    },
+    {
+      "cx": 0.678,
+      "cy": 0.344,
+      "width": 0.076,
+      "height": 0.031,
+      "angle": 0
+    }
+  ],
+  "mouth": {
+    "cx": 0.5,
+    "cy": 0.627,
+    "width": 0.098,
+    "height": 0.016,
+    "angle": 0
+  },
+  "eye_styles": [
+    "mangekyo",
+    "mangekyo"
+  ],
+  "iris_colors": [
+    "#BC6275",
+    "#BC6275"
+  ],
+  "motif_phase": 9
+}

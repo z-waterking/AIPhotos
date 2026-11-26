@@ -1,0 +1,151 @@
+{
+  "output": "../face-prism-amused-05-citrus-left-large-right-small.png",
+  "refined_prompt": "../prompts/face-prism-amused-05-citrus-left-large-right-small.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "9657041be6af490640db51b05a88c2479d76190397021b5493236d10ddd62103",
+  "prompt_sha256": "ac8be05a10a55590256e099891035d13d65a1b11540beeaaa40141588e4cdaf6",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#E58D69",
+      "#DBAC70",
+      "#C9BD66",
+      "#7FD358",
+      "#52DA9B"
+    ],
+    "gradient": {
+      "mode": "horizontal",
+      "reverse": false
+    },
+    "eyes": [
+      {
+        "cx": 0.26847,
+        "cy": 0.37947,
+        "width": 0.3823,
+        "height": 0.16328,
+        "angle": -4.44216,
+        "source": "right",
+        "mirror": false
+      },
+      {
+        "cx": 0.72996,
+        "cy": 0.43147,
+        "width": 0.2853,
+        "height": 0.13969,
+        "angle": -11.01965,
+        "source": "left",
+        "mirror": true
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.28546,
+        "cy": 0.21056,
+        "width": 0.06808,
+        "height": 0.0327,
+        "angle": -5.48308
+      },
+      {
+        "cx": 0.71462,
+        "cy": 0.26953,
+        "width": 0.0664,
+        "height": 0.02548,
+        "angle": 4.96163
+      }
+    ],
+    "mouth": {
+      "cx": 0.48889,
+      "cy": 0.57877,
+      "width": 0.10178,
+      "height": 0.01068,
+      "angle": -2.19003
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "9657041be6af490640db51b05a88c2479d76190397021b5493236d10ddd62103",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          96,
+          374,
+          578,
+          578
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          749,
+          431,
+          1081,
+          652
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          315,
+          244,
+          401,
+          284
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          855,
+          320,
+          938,
+          356
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          549,
+          718,
+          677,
+          734
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1479476,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-amused",
+  "series_number": 5,
+  "anthology_index": 35,
+  "art_direction": "灰白纸感底，左大右小，会意神态；5色柔和横向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "会意",
+  "created_at": "2026-10-22T09:07:20.096490+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

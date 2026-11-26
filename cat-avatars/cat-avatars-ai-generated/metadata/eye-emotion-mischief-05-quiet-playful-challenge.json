@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-05-quiet-playful-challenge.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-05-quiet-playful-challenge.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅藕粉底，双眼眼尾一扬一落，带轻巧俏皮的挑战感。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Close but comfortable spacing. Low lids over large front-facing pupils; left lid lifts gently at outside, right drops slightly there. Rounded shallow lower edges. Similar widths but unequal heights. A light playful challenge between friends, cheeky without aggression. No inward pinching, pointed pupils or angry V; visual wit comes from opposing outer-corner rhythms.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 5,
+  "anthology_index": 45,
+  "palette": {
+    "background": "#E8D2D7",
+    "iris": "#A5748D"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:12:59.082623+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "8497c5fc8c7def611dab61004acb75ed3935751ec442ce73f430f6d62ed30f0d",
+  "prompt_sha256": "23022c4f134a7e5ed2826f92674a7617bf034f3ea927a6493b5b4c33fee3547c",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

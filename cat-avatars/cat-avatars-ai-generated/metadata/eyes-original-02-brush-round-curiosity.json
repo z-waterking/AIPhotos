@@ -1,0 +1,46 @@
+{
+  "output": "../eyes-original-02-brush-round-curiosity.png",
+  "refined_prompt": "../prompts/eyes-original-02-brush-round-curiosity.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 2,
+  "anthology_index": 2,
+  "art_direction": "饱满穹顶眼共同轻望右上，底缘微平，一侧短眉略抬。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "好奇",
+  "palette": {
+    "background": "#F5F6F1",
+    "iris_colors": [
+      "#B4CA6C"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "solid",
+    "hue": 0.205082
+  },
+  "color_treatment": "solid flat single-color iris fill",
+  "drawing_family": "brush-silhouette",
+  "creative_direction": "Build a pair of compact, domed eyes with rounded upper arches and subtly flattened lower curves. Their width should be only moderately greater than their height, giving a fresh contrast to long narrow designs. Both large pupils glance slightly upward and right, leaving matching iris crescents toward the lower left. Keep one broad reserved highlight inside each pupil. Make the upper paint strokes thick and supple while the lower edges remain economical. There are no separate anatomical white corners. Raise one small brow gently; keep the other relaxed, with a short straight mouth below. Maintain balanced eye sizes and centered spacing. The feeling is alert curiosity, never surprise or childish staring.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:33:29.725737+00:00",
+  "sha256": "6175c22d4ab9f11cd174f3c7fe07c0451afe9181d523852832a0112f30440707",
+  "prompt_sha256": "d9d386a797e6baa4f7bca3531805c08781cb3cfa96b665db4258327f7bb9c7fc",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

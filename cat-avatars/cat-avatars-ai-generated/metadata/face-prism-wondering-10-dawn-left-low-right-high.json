@@ -1,0 +1,151 @@
+{
+  "output": "../face-prism-wondering-10-dawn-left-low-right-high.png",
+  "refined_prompt": "../prompts/face-prism-wondering-10-dawn-left-low-right-high.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "d4573b9ce999df6f655126e58294f5bde4e6ec901bf763591171a2452073789e",
+  "prompt_sha256": "23283b202fa874efb7984c7de6febe2f8a9f34970cfb4e63de51606f8b3bc4df",
+  "local_transform": {
+    "method": "source-layer-affine-and-multicolor",
+    "preserved_source_contours": true,
+    "palette": [
+      "#E77F87",
+      "#E29170",
+      "#D0AD49",
+      "#72CF9F",
+      "#60BFC8"
+    ],
+    "gradient": {
+      "mode": "vertical",
+      "reverse": true
+    },
+    "eyes": [
+      {
+        "cx": 0.27461,
+        "cy": 0.43382,
+        "width": 0.32516,
+        "height": 0.14709,
+        "angle": -6.59294,
+        "source": "left",
+        "mirror": false
+      },
+      {
+        "cx": 0.73743,
+        "cy": 0.34182,
+        "width": 0.34306,
+        "height": 0.16412,
+        "angle": 5.55747,
+        "source": "right",
+        "mirror": false
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.25153,
+        "cy": 0.25414,
+        "width": 0.07243,
+        "height": 0.02878,
+        "angle": -1.79771
+      },
+      {
+        "cx": 0.74225,
+        "cy": 0.17607,
+        "width": 0.058,
+        "height": 0.03332,
+        "angle": 4.02034
+      }
+    ],
+    "mouth": {
+      "cx": 0.49955,
+      "cy": 0.57133,
+      "width": 0.08834,
+      "height": 0.01013,
+      "angle": -2.50218
+    }
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "d4573b9ce999df6f655126e58294f5bde4e6ec901bf763591171a2452073789e",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          134,
+          462,
+          554,
+          627
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          712,
+          318,
+          1138,
+          539
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          270,
+          301,
+          361,
+          337
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          894,
+          199,
+          967,
+          243
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          571,
+          709,
+          682,
+          724
+        ]
+      }
+    ],
+    "overlap_pixels": 0,
+    "recolored_source_pixel_count": 23268,
+    "bytes": 1484155,
+    "method": "source-layer-extraction-smooth-recolor-lanczos-scale-bicubic-rotation",
+    "background_method": "continuous alternating mirror of source blank lower area y=700..1254"
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "series": "face-prism-wondering",
+  "series_number": 10,
+  "anthology_index": 80,
+  "art_direction": "灰白纸感底，左低右高，若有所思神态；5色柔和纵向虹膜，保留淡灰眉和短横嘴。",
+  "emotion": "若有所思",
+  "created_at": "2026-10-22T09:08:16.075960+00:00",
+  "visual_review": "passed: inspected compressed contact sheet; original painted eye contours and pupil highlights retained under scaling/rotation; two clear eyes, two pale brows and one horizontal mouth; clean paper field, smooth multicolor iris areas, varied size and position with no overlap, stray source features, rectangular seams, text or watermark."
+}

@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-07-asymmetric-sly-squint.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-07-asymmetric-sly-squint.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅水青底，左眼细长、右眼稍圆，像装作若无其事。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Left eye notably wider, slightly higher, low opening. Right narrower in width but much taller. Both pupils look just left of center, never different directions. Taller right pupil sits under a domed lid; long left pupil heavily hooded. Trying to appear innocent while hiding a prank. Soft rounded corners and balanced asymmetry, not a vacant crossed gaze.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 7,
+  "anthology_index": 47,
+  "palette": {
+    "background": "#D6E4E2",
+    "iris": "#5E969B"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:14:02.629364+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "8eb1b3fb788565934a89c41b0991a593ba894dbfbe87cce8eee792f51de35089",
+  "prompt_sha256": "54849d681e050e2eeab5b6f0e95b4ffdbf14645016e18c54d943e0b8c660f5b7",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

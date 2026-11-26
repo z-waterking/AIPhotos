@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-original-10-comic-lifted-lower-smile.png",
+  "refined_prompt": "../prompts/eyes-original-10-comic-lifted-lower-smile.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 10,
+  "anthology_index": 10,
+  "art_direction": "下缘轻扬的宽杏眼含笑正视，眼尾圆润收尖，浅弧眉和短笑线。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "轻笑",
+  "palette": {
+    "background": "#EFEAF2",
+    "iris_colors": [
+      "#78CD2A",
+      "#C8D73F"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "analogous",
+    "hue": 0.253395
+  },
+  "color_treatment": "smooth continuous two-color analogous iris blend, no visible band boundary",
+  "drawing_family": "modern-comic",
+  "creative_direction": "Express a small smile through two wide comic eyes whose lower outer edges curve gently upward. Keep both eyes fully recognizable as open shapes, not closed crescents. Their upper lids form relaxed shallow arches, ending in short rounded tapers without lash flicks. Both large pupils look forward; generous simple highlights give them easy warmth. Draw with fresh economical lines and small integrated iris fields, allowing only limited corner white. The eyebrows are short shallow arcs rather than excited high arches. Add one brief soft smile line beneath the pair, with no teeth or open mouth. Keep the composition centered and proportionate. The mood is friendly amusement with mature graphic restraint.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:36:12.166372+00:00",
+  "sha256": "d6f8cadcf48f76e120f69a8f675e4f5d0e13a4399aec11c0895f251117acf9b0",
+  "prompt_sha256": "f1b09b699cbfafe1136ef7aed35ecffae30e3c252d844df006909d7bf4691745",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

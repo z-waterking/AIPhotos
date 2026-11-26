@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-gentle-07-easy-tilted-kindness.png",
+  "refined_prompt": "../prompts/eye-emotion-gentle-07-easy-tilted-kindness.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅开心果底，眼线轻向右倾，双眼舒展，带着友善的偏头感。",
+  "emotion": "温柔",
+  "composition_variation": "Tilt the eye line gently down toward the right while each eye remains organically arched. Left is broader and half-lidded; right is narrower but more open. Both pupils look at the viewer in coordinated intent. Rounded lower rims and subtly lifted outer corners create relaxed kindness. Preserve exactly TWO eyes with the SAME iris hue, large black pupils and one slim elongated ivory glint each. Emotion comes only from the eye geometry and gaze. Use matte gouache, organic curved tapered boundaries and a visibly pale colored ground; no eyebrows, mouth, head, sclera or other marks.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-gentle",
+  "series_number": 7,
+  "anthology_index": 77,
+  "palette": {
+    "background": "#E3E6D2",
+    "iris": "#7D92A8"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:26:23.672919+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "a196429df848de7f4e90687ee8e9acf6728463bd6514f559f027c11ecaa726aa",
+  "prompt_sha256": "f7cc5ed2b0b96d2f959106d202011ff34159992b5034c41a55d0c7f0c5e7f70c",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-sketch-22-pen-broken-outer-loop.png",
+  "refined_prompt": "../prompts/eyes-sketch-22-pen-broken-outer-loop.txt",
+  "source_prompt": "../prompts/eyes-sketch-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-sketch",
+  "series_number": 22,
+  "anthology_index": 22,
+  "art_direction": "宽细线眼外侧下缘断开，双瞳向左，留白像偏斜胖逗号，眉尾舒展。",
+  "composition": "centered hand-drawn eye pair; auxiliary marks only when specified; large blank paper margins",
+  "emotion": "闲听、放松",
+  "palette": {
+    "background": "#F2EFEC",
+    "iris_colors": [
+      "#6395CC"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023151,
+    "method": "golden-angle hue spacing with seeded single-hue saturation and lightness variation",
+    "mode": "solid",
+    "hue": 0.587344
+  },
+  "color_treatment": "one opaque flat color beside each pupil; no gradient or shaded rendering",
+  "drawing_family": "economical-pen",
+  "creative_direction": "Make broad eye loops from fine pen contours, leaving the lower outer portion of each loop open. Both large black pupils look left, carrying broad tilted comma-shaped paper reserves. One upper curve may flatten briefly while the other continues its arch. Keep iris accents flat and small. Add two short brows whose outside ends lift just a little, without dramatic arches. The incomplete loops should feel deliberate, not damaged. Keep the eyes similar in scale on spacious paper. There is no mouth.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:52:25.508474+00:00",
+  "sha256": "3e22cb5b38b7eca7e0177704d4da86438166a509e5583a199cbc32fc539e60a2",
+  "prompt_sha256": "b6438f8f50fc1793973ef3315424950d31c5c7ef5cfd7fdcda0898cc28a243fe",
+  "visual_review": "inspected: preview checked by the root agent; retained as a user-rejected style experiment after the task changed to a new avatar collection; do not count as an accepted final image",
+  "visual_review_before_rejection": "passed: compressed preview inspected for economical distinct hand-drawn contours, broad dark pupils with irregular paper reserves, single flat color, coordinated gaze, pale paper, no text or watermark",
+  "batch_status": "user rejected; stopped after change of creative direction; no further generation in this series"
+}

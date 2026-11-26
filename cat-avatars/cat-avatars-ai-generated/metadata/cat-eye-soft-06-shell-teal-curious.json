@@ -1,0 +1,27 @@
+{
+  "output": "../cat-eye-soft-06-shell-teal-curious.png",
+  "refined_prompt": "../prompts/cat-eye-soft-06-shell-teal-curious.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅贝壳粉底、同色灰湖青椭圆眼，轻微惊讶神态。",
+  "composition_variation": "Two irregular oval ring eyes, hand-cut shapes with a thin soft-black outer contour, a broad single-colored iris band and a very large slightly irregular black oval pupil. BOTH colored iris bands are exactly the same hue. Left eye slightly smaller and a little lower; right eye about 20 percent larger and higher. Left oval occupies x=.17 to .43,y=.39 to .65; right oval x=.58 to .87,y=.30 to .65. The black pupil fills approximately 68 percent of each eye width; its oval is gently organic and not mathematically circular. One long narrow ivory painted glint near upper-left inside each black pupil, slanted the same way. Restrained flat handmade shapes and tiny contour imperfections, no eyeball whites or human anatomy. A tiny soft-black oval mouth centered below the gap at x=.50,y=.72, only 3 percent of image width: a small quiet 'oh' expression, no smile. The overall expression is gently interested and quietly surprised, not scared or vacant. No eyebrows and no other face marks. Keep generous space all around.",
+  "user_feedback": "依据最新四张参考重来；双眼颜色一致，背景用黑白与舒服的浅色，保留简练眼形。",
+  "palette": {
+    "background": "#F2E4E2",
+    "iris": "#719D9C"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T03:02:33.713913+00:00",
+  "sha256": "f785ee2a068a0490be41f07fe45108d585db4f9339f2b546ce56cf799046462e",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors in both eyes, requested simple eye family, black or comfortable pale background, large graphic black pupils and long highlights, no eyebrows or sclera, no text or watermark"
+}

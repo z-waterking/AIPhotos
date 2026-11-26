@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-unimpressed-04-lilac-ochre-dry-stare.png",
+  "refined_prompt": "../prompts/eye-emotion-unimpressed-04-lilac-ochre-dry-stare.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "淡紫底柔赭双眼，左长眯右略圆，平静地流露就这的感觉。",
+  "emotion": "淡淡的失望",
+  "composition_variation": "Give the viewer-left eye a long narrow thirty-percent opening and the right a shorter but rounder forty-five-percent opening. Their lower edges nearly align, and both pupils stare steadily forward. Let the left upper lid be extra broad and the right upper lid arch only modestly. The contrasting widths convey a dry unimpressed reaction, not a questioning raised eye. Keep the matching ochre bands restrained, natural, and opaque. The mood should feel like a calm assessment that failed to impress.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-unimpressed",
+  "series_number": 4,
+  "anthology_index": 24,
+  "palette": {
+    "background": "#DED3E8",
+    "iris": "#B9A06A"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:04:12.507920+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "cd963e8d64627e5ad26c30af1a1bb23693e47d99981c13edcef9c61e9765b1a2",
+  "prompt_sha256": "d4a85608ee48b5cb0ca1760c94187f66e0fbf355e4ec9ece9c7cb9ea6a2d34e1",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

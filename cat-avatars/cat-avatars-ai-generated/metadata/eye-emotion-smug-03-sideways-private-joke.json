@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-03-sideways-private-joke.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-03-sideways-private-joke.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "淡丁香底，双眼同向侧看，长短不同的半眯眼带一点暗自得意。",
+  "emotion": "克制得意",
+  "composition_variation": "Almost horizontal pair; viewer-right eye a little broader, opening more at its outer end. Both pupils shift distinctly left, leaving colored bands at their right edges, no eye whites. Lids cover the upper halves of the pupils. Left lower boundary is a long shallow curve; right retains a rounder pocket beneath its lid. Coordinated sideways gaze conveys being pleased with a private joke, understated and elegant.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 3,
+  "anthology_index": 33,
+  "palette": {
+    "background": "#E6D8E8",
+    "iris": "#8F7BAB"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:08:04.963399+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "79e34703a8ff2d27c0e39c74c9c3595916ffac129cd70528d38c617c49d1bd71",
+  "prompt_sha256": "c7640d72958237eed130cf61c2e38902e033865fd39c95349617735d36afead1",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

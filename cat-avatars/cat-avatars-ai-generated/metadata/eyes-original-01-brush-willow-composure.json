@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-original-01-brush-willow-composure.png",
+  "refined_prompt": "../prompts/eyes-original-01-brush-willow-composure.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 1,
+  "anthology_index": 1,
+  "art_direction": "舒长柳叶眼平静直视，上缘一笔厚弧，下缘细收，短眉与平嘴。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "从容",
+  "palette": {
+    "background": "#F4EFEB",
+    "iris_colors": [
+      "#5AACC9",
+      "#72D1B0"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "analogous",
+    "hue": 0.543245
+  },
+  "color_treatment": "smooth continuous two-color analogous iris blend, no visible band boundary",
+  "drawing_family": "brush-silhouette",
+  "creative_direction": "Draw two elongated willow-leaf eyes using a single confident brush sweep for each upper boundary. The sweep begins slender, swells gently over the pupil, and resolves into a short curved point. Keep the lower boundary much finer and softly bowed. Both eyes look straight ahead, comfortably open and nearly equal in size. Broad black pupils connect visually to the upper stroke, holding substantial irregular highlight dabs. Visible iris fields flank the pupils without anatomical white corners. Two quiet, short brows and a tiny level mouth support the composed expression. Center the pair with generous breathing room. Preserve smooth opaque paint and natural tapered ends, without lashes or decorative flourishes.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:31:30.091424+00:00",
+  "sha256": "b20b3e78a1aaada2d14fca72d8a090a144e4fd3a6c7c4b569fcb967b45d27f11",
+  "prompt_sha256": "6b2db863ec01923a883ebf4c519f1efb6cfbbd36b8eeb7020a32ae3325e84b47",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

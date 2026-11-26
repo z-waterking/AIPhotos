@@ -1,0 +1,33 @@
+{
+  "output": "../face-attitude-skeptical-10-lagoon-tilted-evaluation.png",
+  "refined_prompt": "../prompts/face-attitude-skeptical-10-lagoon-tilted-evaluation.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "灰白底，保留参考错位，克制正视，怀疑地审视，配短灰紫眉与一横黑嘴。",
+  "emotion": "审慎评估",
+  "composition_variation": "A questioning, unconvinced glance. Make the more open eye only modestly lifted while the other narrows, with a coherent sideways appraisal. Retain reference placement: left tilted lower and right horizontal higher. Their aperture heights are closer than usual, with a coherent forward gaze. Keep each eye horizontally broad (about36% of page width) with clearly colored side patches and a generous solid white paint dab. Eye pair spans93% width; do not shrink or make stubby capsules. Raise one tiny brow dab slightly while the other stays low and almost horizontal. Keep the mouth a short flat dash to convey a restrained question.",
+  "reference_family": "flat-painted-five-features",
+  "series": "face-attitude-skeptical",
+  "series_number": 10,
+  "anthology_index": 20,
+  "palette": {
+    "background": "#EDEBEC",
+    "iris": "#5AA6AB"
+  },
+  "visible_subject": "two eyes, two small lavender-gray brow dabs and one short black horizontal mouth; no head outline",
+  "style_inspiration": "Latest reference observed locally: wide almost equal-width eyes covering93% of page width, left slanted low/right horizontal high, dense flat black, broad colored side patches, solid offwhite dabs and grey-white background sampled approximately #EDEBEC. Only text input; no image uploaded. Two small lavender-gray eyebrow dabs and one horizontal mouth dash added following the latest explicit user request.",
+  "created_at": "2026-10-22T08:03:00.152439+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "06a5bcd0bffaa9af640610a3b6deb2f545a04c636d7d9a64e3637092aba86c07",
+  "prompt_sha256": "9e49ed355345d9171faa4c7251f491f92842c7f57fef67c05e435fb28efcce80",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, broad naturally curved eye shapes, flat solid color, substantial offwhite dabs and reference grey-white background, exactly two pale eyebrow dabs and one short horizontal mouth, no head outline, text or watermark"
+}

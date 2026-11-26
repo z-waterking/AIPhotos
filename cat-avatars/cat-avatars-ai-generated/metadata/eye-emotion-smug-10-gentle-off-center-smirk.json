@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-10-gentle-off-center-smirk.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-10-gentle-off-center-smirk.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅灰粉底，左眼微扬、右眼半眯，像压着一丝得意。",
+  "emotion": "克制得意",
+  "composition_variation": "Mild diagonal descending to viewer-right. Higher left eye opens to a medium curved bowl; right is a narrow curved aperture with softly tapered ends. Both pupils glance just left of viewer. Lift the lower outer rim of the left eye a little; right remains restrained but never geometrically straight. Unequal lid pressure suggests suppressing a pleased smirk. Plenty of background, same irises, one slim glint in each pupil.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 10,
+  "anthology_index": 40,
+  "palette": {
+    "background": "#E6D9DF",
+    "iris": "#A17A96"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:11:21.091677+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "339d7c718f52a5ec1b670974187862e71ba7d5275e284bd99287833ae2969b5d",
+  "prompt_sha256": "7d14bf019a451f995a42c8dc1b7f911fd596d5d50ee78decda07e441021eefe6",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

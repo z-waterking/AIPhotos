@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-09-ivory-coral-aqua-aloof.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-09-ivory-coral-aqua-aloof.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶白异瞳 · 傲娇歪眼: 奶白底，一珊瑚一青蓝异色瞳，微微歪斜半眯。",
+  "composition_variation": "Milk-white matte paper field. Heterochromia: left iris muted coral-red, right clear aqua-blue; black pupils and eyelids. Catchlights are negative-space shapes of exactly the same milk-white as the background, keeping the palette to four colors. Mildly aloof half-lidded look: left eye higher and narrower, right broader and lower, an original gentle downward eye line. Pupils look slightly left. Colored irises narrow irregular bands on each side of huge black pupils. One tiny black horizontal mouth below center. No eyebrows or cheek dots. Not a familiar branded character.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:05:41.278498+08:00",
+  "sha256": "a0c41e5eb84fb86c14aabdba50dd9e1224a556e0969fb7b29694d6c2b98f3983",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

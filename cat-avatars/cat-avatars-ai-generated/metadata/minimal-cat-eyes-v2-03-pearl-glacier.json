@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-v2-03-pearl-glacier.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-v2-03-pearl-glacier.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "珍珠雾蓝 · 偷偷看你: 珍珠白底，雾蓝侧视猫眼，细短嘴与轻盈眉点。",
+  "composition_variation": "A flat pearl-white field with the faintest cool gray undertone. Misty glacier-blue irises and velvety black pupils. Graceful long almond eyes, upper lids lowered softly, pupils glancing a little toward the right as though noticing a friend. Coordinate both eyes into a pleasing slight three-quarter perspective; only a subtle difference in width. Tapered flowing upper lids rather than thick horizontal blocks. One tiny white reflected stroke in each eye. Two miniature cool-gray eyebrow dabs, and a very small flat mouth beneath the gap. Refined, pretty, quietly playful; clean large negative space.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:18:14.189209+08:00",
+  "sha256": "38a4dbfb3e373f9867a7d0f57786c0edbdc0cf772de8b8154d7cf82b0f74f90f",
+  "visual_review": "passed: inspected compressed preview; clean flat background, coordinated eyes, legible appealing expression, no visible text or watermark"
+}

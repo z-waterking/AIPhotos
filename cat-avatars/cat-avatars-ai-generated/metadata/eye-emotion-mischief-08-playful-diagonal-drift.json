@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-08-playful-diagonal-drift.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-08-playful-diagonal-drift.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅燕麦底，斜向错位双眼瞥向左上，像递来一个小暗号。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Gentle diagonal descending right. Higher left has broad lid and medium opening; lower right a shallower sweeping opening. Both pupils look upper-left with a single long slim ivory glint each. Right outer corner lifts to echo the left lid curve, creating rhythm without symmetry. A subtle playful signal, smart and light, never sinister.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 8,
+  "anthology_index": 48,
+  "palette": {
+    "background": "#E9DBC9",
+    "iris": "#A68C68"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:14:23.922252+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "8c36581ba4ccc8229a1568afc52654832cc6a3f6648d871892d6ed2591b06a36",
+  "prompt_sha256": "32e8f28d4b613ad2179f1c68bdd2c8238fddfe9057d68aa7b70092b4f0cb6163",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

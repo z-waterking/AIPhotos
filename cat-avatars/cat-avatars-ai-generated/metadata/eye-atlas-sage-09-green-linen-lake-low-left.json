@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-sage-09-green-linen-lake-low-left.png",
+  "refined_prompt": "../prompts/eye-atlas-sage-09-green-linen-lake-low-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅绿亚麻底湖蓝低弧眼，左浅右开，柔和左望。",
+  "composition_variation": "Keep the overall pair shallow and wide, with a clearly rounded colored bowl beneath each pupil. The left eye remains three percent lower and less open than the right. Both large black pupils merge into soft curved upper lids and glance gently left. Matching lake-blue bands broaden near the lower outer edges, with one slender elongated ivory glint per pupil. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-sage",
+  "series_number": 9,
+  "anthology_index": 69,
+  "palette": {
+    "background": "#D9DEC7",
+    "iris": "#88A9B5"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:41:36.823134+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "75c8fbfad5ba56bd446589bd0699371756250529b0aa197a0acafdc51789e25a",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

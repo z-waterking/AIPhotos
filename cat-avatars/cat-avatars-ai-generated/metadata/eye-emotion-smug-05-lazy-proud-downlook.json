@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-smug-05-lazy-proud-downlook.png",
+  "refined_prompt": "../prompts/eye-emotion-smug-05-lazy-proud-downlook.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅藕粉底，左眼较开、右眼懒眯，视线轻垂，神态自若。",
+  "emotion": "克制得意",
+  "composition_variation": "Broad pair slightly above canvas midpoint. Viewer-left is taller and upright; right flatter and subtly tilted outward. Both pupils sit lower within the openings while black still meets the thick upper lids. Minimize the bottom colored rim, leaving iris mainly at the sides. Droop the lids gently rather than aggressive diagonal slashes. Coordinated downward gaze suggests relaxed self-possession and mild smugness, never a hostile stare.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-smug",
+  "series_number": 5,
+  "anthology_index": 35,
+  "palette": {
+    "background": "#ECD8D5",
+    "iris": "#A97667"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:09:10.853034+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "5c52bb8e03801b2a841f10d31f0465025bf7a6fc2962494bf62a63bbc811517c",
+  "prompt_sha256": "dffe67de99a009982dce5457539fb0384b39abdce8cfcae15922240971dcdf2b",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

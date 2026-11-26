@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-03-mischievous-left-peek.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-03-mischievous-left-peek.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "柔雾蓝底，左眼抬起、右眼舒长，同向偷瞄左侧。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Left eye shorter, higher and more open; lower right eye stretches into a shallow curve. Both pupils move noticeably left, leaving more iris on the right sides. Longer eye tilts so its outer end rises gently; no inward V. Fuller eye has a small curved color pocket below. Lively secretive peek: alert open eye, amused narrow eye, never fearful.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 3,
+  "anthology_index": 43,
+  "palette": {
+    "background": "#D8E2EC",
+    "iris": "#7493BA"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:12:23.639966+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "5a2d0b7c24802089628bc1f2bbc4e42fe154c95ce3ef4f32ffbd292dac202d61",
+  "prompt_sha256": "83d804367507a32492a71d0a22e9d4834e68e2e320dadf47e7ebd18e55606c01",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

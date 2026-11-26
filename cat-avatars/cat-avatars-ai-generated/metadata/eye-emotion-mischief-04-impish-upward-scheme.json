@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-04-impish-upward-scheme.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-04-impish-upward-scheme.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶油黄底，一宽一窄的双眼瞥向右上，像刚想到一个点子。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Eye centers level and fairly wide apart. Left medium-open, right more narrowly hooded. Pupils travel together upper-right, partly tucked beneath broad lids. Inner lower rims smooth and round; right lower rim rises slightly into its outer corner. Upward gaze reads as a mischievous idea forming, bright yet understated. Large pupils, no rolling white eyeballs or surprised stare.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 4,
+  "anthology_index": 44,
+  "palette": {
+    "background": "#E8DFC4",
+    "iris": "#B0934F"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:12:40.271031+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "20b47c614255281fefd6153d393e674c3855b977db35f6d6f56a28b8e3e887a3",
+  "prompt_sha256": "fe306ff525576c80a27e6f080b2f28e4397cc12f802486e301c468561b50dea8",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

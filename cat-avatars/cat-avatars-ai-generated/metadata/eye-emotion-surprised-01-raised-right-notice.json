@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-surprised-01-raised-right-notice.png",
+  "refined_prompt": "../prompts/eye-emotion-surprised-01-raised-right-notice.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅海沫底，右眼轻轻睁大抬起，共同看向右上方，像发现了什么。",
+  "emotion": "轻讶",
+  "composition_variation": "Open the right noticeably wider and raise its center; left stays half-lidded but rounds its lower edge. Both large pupils look upper-right. Lift the lids in soft arcs, not alarm angles, with visible matching iris side bands. Show a small moment of discovery rather than fear. Preserve exactly TWO eyes with the SAME iris hue, large black pupils and one slim elongated ivory glint each. Emotion comes only from the eye geometry and gaze. Use matte gouache, organic curved tapered boundaries and a visibly pale colored ground; no eyebrows, mouth, head, sclera or other marks.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-surprised",
+  "series_number": 1,
+  "anthology_index": 81,
+  "palette": {
+    "background": "#D5E7E2",
+    "iris": "#B68577"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:53:36.009994+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "b79553af55538d0e64cb8bee907765e712a09e829d9d798a8fae19c1c32329e8",
+  "prompt_sha256": "608a2b2ec98b9d525b3be4c4f1f3bf136f411978d1a911e50de45d04b8906a64",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

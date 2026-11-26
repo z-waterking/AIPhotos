@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-v2-06-ink-apricot.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-v2-06-ink-apricot.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "墨黑浅杏 · 安静好奇: 墨黑底，浅杏金猫眼微微抬起，神态安静。",
+  "composition_variation": "Solid soft-black background with no visible texture. Warm pale apricot-gold iris arcs, curved smoothly around black pupils merged with the background. A quiet curious glance toward the left: soft broadly almond eyes, both a little more open than half-lidded but not round circles. One eyelid subtly raised, coordinated sizes and perspective. Elegant tapered gold edges and one small milk-white droplet reflection in each eye. The expression is warm and inviting. No eyebrows, nose, mouth or extra marks. Flat beautiful shapes rather than outlined rings or cut-out discs.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:21:28.871098+08:00",
+  "sha256": "e3580f683526b59464746330e8232cf47f07573ac0fc1b190eff0a122261d83f",
+  "visual_review": "passed: inspected compressed preview; clean flat background, coordinated eyes, legible appealing expression, no visible text or watermark"
+}

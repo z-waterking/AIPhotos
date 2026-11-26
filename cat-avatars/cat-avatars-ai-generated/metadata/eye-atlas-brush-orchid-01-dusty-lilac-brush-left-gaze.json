@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-brush-orchid-01-dusty-lilac-brush-left-gaze.png",
+  "refined_prompt": "../prompts/eye-atlas-brush-orchid-01-dusty-lilac-brush-left-gaze.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾长春花蓝底，尘丁香虹膜侧带，错位双眼温柔左望。",
+  "composition_variation": "Keep the left eye low and shallow, with its outer tip descending gently. Set the right eye ten percent higher and broader. Shift both pupils slightly left. Press each black upper brush shape firmly near its inner third, tapering outward. Preserve matching #B098BD iris side bands and one long narrow ivory glint inside each large flat black pupil. Angle the ivory glints subtly inward. Use a clearly visible but gentle pale periwinkle paper background, matching the exact palette below. Do not wash it out to white. Keep it flat and quiet with no gradients or decorative marks.",
+  "reference_family": "brush",
+  "series": "eye-atlas-brush-orchid",
+  "series_number": 1,
+  "anthology_index": 91,
+  "palette": {
+    "background": "#D4D7E6",
+    "iris": "#B098BD"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:49:44.689040+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "83f7c17948c5a2f16c9c6abef0d2af49e203aafd8bc08175b3763e38e592e5ea",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

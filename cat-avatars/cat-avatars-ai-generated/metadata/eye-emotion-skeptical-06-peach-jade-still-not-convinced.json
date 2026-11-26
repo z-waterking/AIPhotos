@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-06-peach-jade-still-not-convinced.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-06-peach-jade-still-not-convinced.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅桃底浅玉双眼，下沿近齐，一眯一开仍显得不太相信。",
+  "emotion": "仍然不太相信",
+  "composition_variation": "Spread the eye pair slightly apart. Make the viewer-left upper lid dip gently across its center while the right lid forms a higher continuous arch. The left opening is thirty percent and the right fifty-five percent, with their lower boundaries aligned at nearly the same height. Both generous pupils face forward. Give the fuller right eye a little more iris at the bottom, but keep the pupils large and grounded. The steady unequal stare reads unconvinced, with no scowl.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 6,
+  "anthology_index": 16,
+  "palette": {
+    "background": "#EDD2C4",
+    "iris": "#8BA88C"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:01:09.223245+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "ff6ce431420737ddd890d2e47cd6e6281f9e23e0123f2db47f4ced6c0f48725e",
+  "prompt_sha256": "af64b9d637cb463dafd664e908e8eb3e06866c4626e90db38841d4e5bf8a97d5",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

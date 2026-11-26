@@ -1,0 +1,185 @@
+{
+  "output": "../face-dojutsu-03-sharingan-red-level-regard.png",
+  "refined_prompt": "../prompts/face-dojutsu-03-sharingan-red-level-regard.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-layer-transform-iris-redraw",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "f15ccac7ea0fb40252cc641d4d2cdbb9b3cd27889216dba66d52304ea1f51aaa",
+  "prompt_sha256": "563ae73cf59b0456bbae6ea9deab900e05cccaba53c1253b2aec6bcdc6cbc811",
+  "series": "face-dojutsu",
+  "series_number": 3,
+  "anthology_index": 3,
+  "local_transform": {
+    "method": "source-contours-with-original-iris-motifs",
+    "preserved_outer_contours": true,
+    "composition": "centered",
+    "eyes": [
+      {
+        "cx": 0.299,
+        "cy": 0.495,
+        "width": 0.316,
+        "height": 0.177,
+        "angle": -8,
+        "source": "left",
+        "mirror": false
+      },
+      {
+        "cx": 0.701,
+        "cy": 0.491,
+        "width": 0.31,
+        "height": 0.18,
+        "angle": 4,
+        "source": "right",
+        "mirror": false
+      }
+    ],
+    "brows": [
+      {
+        "cx": 0.303,
+        "cy": 0.347,
+        "width": 0.08,
+        "height": 0.027,
+        "angle": -2
+      },
+      {
+        "cx": 0.697,
+        "cy": 0.341,
+        "width": 0.074,
+        "height": 0.028,
+        "angle": 2
+      }
+    ],
+    "mouth": {
+      "cx": 0.499,
+      "cy": 0.642,
+      "width": 0.1,
+      "height": 0.012,
+      "angle": -1
+    },
+    "eye_styles": [
+      "sharingan3",
+      "sharingan3"
+    ],
+    "iris_colors": [
+      "#D45C54",
+      "#D45C54"
+    ],
+    "motif_phase": 38
+  },
+  "render_stats": {
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+    "output_sha256": "f15ccac7ea0fb40252cc641d4d2cdbb9b3cd27889216dba66d52304ea1f51aaa",
+    "bounds": [
+      {
+        "feature": "eye-1",
+        "box": [
+          168,
+          522,
+          581,
+          720
+        ]
+      },
+      {
+        "feature": "eye-2",
+        "box": [
+          685,
+          499,
+          1073,
+          733
+        ]
+      },
+      {
+        "feature": "brow-1",
+        "box": [
+          330,
+          418,
+          430,
+          452
+        ]
+      },
+      {
+        "feature": "brow-2",
+        "box": [
+          828,
+          409,
+          921,
+          446
+        ]
+      },
+      {
+        "feature": "mouth",
+        "box": [
+          563,
+          798,
+          688,
+          813
+        ]
+      }
+    ],
+    "painted_union_box": [
+      168,
+      410,
+      1072,
+      812
+    ],
+    "painted_union_center": [
+      0.4944178628389155,
+      0.48724082934609253
+    ],
+    "motifs": [
+      {
+        "style": "sharingan3",
+        "iris_color": "#D45C54",
+        "phase_degrees": 38,
+        "interior_mask_pixels": 30064,
+        "central_pupil_replaced": true,
+        "outer_brush_boundary_preserved": true
+      },
+      {
+        "style": "sharingan3",
+        "iris_color": "#D45C54",
+        "phase_degrees": 38,
+        "interior_mask_pixels": 46188,
+        "central_pupil_replaced": true,
+        "outer_brush_boundary_preserved": true
+      }
+    ],
+    "overlap_pixels": 0,
+    "bytes": 1469127,
+    "method": "source-layer-iris-motif-replacement-and-affine-centering",
+    "background_method": "source-derived gray-white paper from blank source region",
+    "api_called": false
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "latest_style_attachment": {
+    "original_filename": "codex-clipboard-61e76f79-fbd1-4e36-8b5e-a2e8f32ae17c.png",
+    "dimensions": "1000x1000",
+    "role": "locally viewed style continuation of prior recolored output",
+    "used_as_binary_model_input": false,
+    "uploaded": false
+  },
+  "art_direction": "双眼靠近画幅中部、近乎同高，眼皮稍收；赤红三勾玉与短横嘴，表情沉着。",
+  "emotion": "沉着的审视",
+  "contains_text": false,
+  "created_at": "2026-10-23T02:06:54.228404+00:00",
+  "visual_review": "passed: compressed preview inspected for centered five-feature composition, retained black hand-painted outer contours, clear Sharingan/tomoe or concentric Rinnegan/Tsukuyomi iris motifs, two pale brows and short horizontal mouth, gray-white paper field, no clipped or overlapping features, no text or watermark"
+}

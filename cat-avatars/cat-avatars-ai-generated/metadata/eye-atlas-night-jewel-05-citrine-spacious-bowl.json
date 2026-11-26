@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-night-jewel-05-citrine-spacious-bowl.png",
+  "refined_prompt": "../prompts/eye-atlas-night-jewel-05-citrine-spacious-bowl.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "近黑底，黄晶右弧宽敞圆润、两端细收，左微小浅弧，宽间距中长奶白反光轻轻上弯。",
+  "composition_variation": "Only two floating matte-gouache crescent eyes: smaller, narrower left; much wider, rounder right. Black centers merge into background. Both arcs share exactly #C2B26A; each has one long ivory glint. Give the right arc a wide open bowl with thin tapered tips. Keep the left miniature and shallow, space them widely, and curl both glints gently upward. No head, brows, mouth, sclera, 3D, glow, text or squared edges.",
+  "reference_family": "crescent",
+  "series": "eye-atlas-night-jewel",
+  "series_number": 5,
+  "anthology_index": 25,
+  "palette": {
+    "background": "#0C0B08",
+    "iris": "#C2B26A"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:22:53.823125+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "1cb97db0c66a6a95ca64c5bde76363f597f9f6b8910516f51d10b83ef9bd2d3c",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

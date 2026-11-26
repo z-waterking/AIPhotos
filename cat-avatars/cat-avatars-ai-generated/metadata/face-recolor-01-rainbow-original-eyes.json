@@ -1,0 +1,63 @@
+{
+  "output": "../face-recolor-01-rainbow-original-eyes.png",
+  "refined_prompt": "../prompts/face-recolor-01-rainbow-original-eyes.txt",
+  "size": "1254x1254",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-pixel-recolor",
+  "output_format": "png",
+  "reference_mode": "single-source",
+  "reference_count": 1,
+  "references": [
+    "../../cat-avatars-originals/cat-eyes-user-reference-01.png"
+  ],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "source_sha256": "21c84b00b228cb36e54a56c239da99a00537bdd7d40fa8198232aa9083ba46ff",
+  "sha256": "502f11d8aa9645722d7b1643d724b3c70dcb51fa80863a7131e76cc7810162e7",
+  "prompt_sha256": "f83cbdb9c3c1927082d79fe1b886a1483529e5e14964e84ce2c635b7a629e463",
+  "pixel_edit": {
+    "method": "cyan-mask-smooth-rainbow",
+    "changed_pixel_count": 23225,
+    "mask_pixel_count": 23226,
+    "unchanged_outside_mask": true,
+    "preserved_dimensions": true,
+    "gradient_geometry": [
+      {
+        "eye": "left",
+        "slope": -0.3555783888930997,
+        "gradient_top": 617.5150612785062,
+        "gradient_bottom": 715.9592773895753
+      },
+      {
+        "eye": "right",
+        "slope": -0.09556965239287911,
+        "gradient_top": 434.15003300748685,
+        "gradient_bottom": 579.4576300654169
+      }
+    ]
+  },
+  "source_attachment": {
+    "original_filename": "codex-clipboard-365df998-e1ac-489b-baf4-6dd510f2b8f2.jpg",
+    "persisted": true,
+    "actual_format": "PNG",
+    "dimensions": "1254x1254",
+    "used_as_binary_model_input": false
+  },
+  "art_direction": "用户原图局部改色：四块青蓝虹膜变为柔和彩虹，原始眼形、黑瞳、白高光、淡眉、横嘴与灰白底保持原像素。",
+  "palette": {
+    "iris_colors": [
+      "#ED6F77",
+      "#F3A24D",
+      "#F1D75C",
+      "#6BC795",
+      "#4DB9D3",
+      "#6F95DD",
+      "#A87BD0"
+    ],
+    "background": "preserved original pixels"
+  },
+  "contains_text": false,
+  "visual_review": "passed: compressed preview inspected for smoothly blended rainbow iris recolor, original eye geometry, pupil shape, white highlights, brows, mouth and background retained; pixel comparison confirms zero changes outside original cyan mask.",
+  "created_at": "2026-10-22T08:59:16.781203+00:00"
+}

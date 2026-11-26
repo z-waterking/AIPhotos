@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-mischief-01-conspiratorial-right-glance.png",
+  "refined_prompt": "../prompts/eye-emotion-mischief-01-conspiratorial-right-glance.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅桃底，一眯一开的双眼望向右侧，像在偷偷盘算。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Left low long opening, right taller compact opening, centers nearly level. Both pupils look distinctly right as if checking whether anyone noticed. Thicker lid pressure near each outer half, naturally tapering inward. Lift right outer corner a little, leave left relaxed. A clever playful plan, never an angry squint. Generous black pupils, identical iris bands, delicate long ivory glints.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-mischief",
+  "series_number": 1,
+  "anthology_index": 41,
+  "palette": {
+    "background": "#E8D6C7",
+    "iris": "#8B8062"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:53:22.079502+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "0e7091d4e9b99d7167abf39eac5aa6daf3ea8555c6204c068b091d10475795d5",
+  "prompt_sha256": "d149921bf5e5433b219632a8729bfc66f5589ce786fae5e7429c6fca4c6b017b",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

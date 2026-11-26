@@ -1,0 +1,39 @@
+{
+  "output": "../eyes-atelier-08-dusk-confident.png",
+  "refined_prompt": "../prompts/eyes-atelier-08-dusk-confident.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 8,
+  "anthology_index": 8,
+  "art_direction": "短促上扬眼尾与清晰黑瞳，蓝紫珊瑚蜜金虹膜，暖雾粉底。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "自信、悠然",
+  "palette": {
+    "background": "#F0E5E6",
+    "iris_colors": [
+      "#766FA8",
+      "#CD8C9A",
+      "#DBB976"
+    ]
+  },
+  "creative_direction": "Create a confident face with a slightly fashion-illustration sensibility. Shape the eyes as medium-length almonds with a firm upper sweep and short upward flicks at the outer ends. Keep those flicks integrated into the painted eye contour, without long eyeliner wings or lashes. The lower edges are gently rounded, and both centered pupils remain broad and clear. Color the small visible iris regions with a graceful transition from smoky blue-violet through muted coral to a restrained honey-gold accent near the lower center. Avoid separate rainbow stripes: the transitions should feel blended within matte pigment. Each pupil holds a broad off-white highlight, more like a painter's reserved patch than a glossy reflection. Two compact, nearly straight eyebrows sit close enough to create quiet assurance. The mouth is a short level stroke, placed a fraction left of center for an informal touch. Use a pale dusty-pink paper field. The expression should feel self-possessed and approachable, without a challenging stare, a pout, or theatrical asymmetry.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:39:13.743746+00:00",
+  "sha256": "4ea321c2481053b785802e685a8fdcdb26bfc1962e342026bf037b15dc2c8991",
+  "prompt_sha256": "08a15bdad30b2a46d754f79b1eb1678d849d35c3246e5a51e3adf458012b8e8b",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

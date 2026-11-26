@@ -1,0 +1,38 @@
+{
+  "output": "../eyes-atelier-04-apricot-curious.png",
+  "refined_prompt": "../prompts/eyes-atelier-04-apricot-curious.txt",
+  "source_prompt": "../prompts/eyes-atelier-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-atelier",
+  "series_number": 4,
+  "anthology_index": 4,
+  "art_direction": "圆杏眼共同轻望右上，杏橙桃粉虹膜，一眉微抬，浅奶杏底。",
+  "composition": "optically centered five-feature face, two comparable eyes, two brows, a short mouth; ample negative space",
+  "emotion": "好奇、灵动",
+  "palette": {
+    "background": "#F4E8DE",
+    "iris_colors": [
+      "#D9935A",
+      "#D9A0A1"
+    ]
+  },
+  "creative_direction": "Give this face an attentive, appealing sense of discovery. Make the eyes fuller and rounder than the other designs, yet retain almond-shaped corners and an elegant upper-lid arc. Avoid perfect circles: the upper outside curve should flatten slightly before tapering. Both substantial black pupils shift a little toward the upper right, following the same small point of interest. Leave enough colored iris around the lower and outer sides to show a soft transition from apricot orange to muted peach pink. Use generous off-white painted highlights with unequal organic silhouettes but consistent lighting. Keep the eyes similar in size, allowing only a tiny difference in lid height to suggest life. Raise the viewer's right eyebrow slightly and leave the other relaxed, using short warm-gray strokes rather than sharp expressive chevrons. The mouth is a tiny, almost straight mark, shifted only slightly toward the gaze. A pale milk-apricot background makes the expression inviting. This is quiet curiosity, not surprise, alarm, or babyish innocence.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T02:37:10.308631+00:00",
+  "sha256": "1d7a11806ba8fec1e6489778a57f2e99de224b96e40564fe4580a0a6deca5c8a",
+  "prompt_sha256": "02aeaa48a464eb17fb16380f214b8437273831da3bba7be55978f6a2ffe0e6ac",
+  "visual_review": "passed: compressed contact sheet inspected for appealing coordinated eye shapes and gaze, large dark pupils and ivory highlights, centered composition, quiet pale background, restrained matte palette, no head or extra features, no text or watermark"
+}

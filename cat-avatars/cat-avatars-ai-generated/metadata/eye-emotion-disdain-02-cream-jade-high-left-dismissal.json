@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-disdain-02-cream-jade-high-left-dismissal.png",
+  "refined_prompt": "../prompts/eye-emotion-disdain-02-cream-jade-high-left-dismissal.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶油底玉绿双眼，左高右眯，懒懒向右下看。",
+  "emotion": "高傲又懒散",
+  "composition_variation": "Reverse the reference's dominant side: put the larger viewer-left eye slightly higher and the right eye lower and almost half its opening height. The upper lids are thick shallow arches, resting heavily over large pupils. Aim both pupils slightly down and toward viewer-right, as if giving a casual downward assessment. Let the left colored opening be a deep curved bowl while the right is a thin natural crescent beneath its lid. Keep the expression sophisticated and detached, with no inward angry lid angle.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-disdain",
+  "series_number": 2,
+  "anthology_index": 2,
+  "palette": {
+    "background": "#EEDFBF",
+    "iris": "#759B86"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:55:53.337321+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "011ca7c392b227bf9103ae738c5651fafb49ff989de7e55b99555e1c3f408cb7",
+  "prompt_sha256": "6d22bb074584d75bf82198429b108c331b528367d95b5569314d4842ee97591e",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-original-04-brush-pebble-attention.png",
+  "refined_prompt": "../prompts/eyes-original-04-brush-pebble-attention.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 4,
+  "anthology_index": 4,
+  "art_direction": "短宽卵石眼外侧圆厚、内侧收尖，双瞳正视，眉嘴克制。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "凝神",
+  "palette": {
+    "background": "#E9EFF1",
+    "iris_colors": [
+      "#44ABCA",
+      "#5CD0B6"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "analogous",
+    "hue": 0.53777
+  },
+  "color_treatment": "smooth continuous two-color analogous iris blend, no visible band boundary",
+  "drawing_family": "brush-silhouette",
+  "creative_direction": "Make the eyes short and substantial, with softly rounded outer lobes and narrow inward ends. Think of smooth river pebbles translated into expressive brush silhouettes, not geometric capsules. Both pupils face forward, large enough to feel settled and attentive. Their slightly uneven oval shapes contain broad clean highlight patches. Iris appears as curved side fields integrated into each opening; omit anatomical white corners. Let the upper dark stroke wrap partway around the outer edge, while the lower inner boundary dissolves into a fine taper. Use two small flat brows and a compact horizontal mouth. Keep the pair coordinated and centrally grouped. The expression is attentive and reassuring rather than severe.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:33:32.837572+00:00",
+  "sha256": "5190c8d977ee2fdad4d58497e5dd033508db456845cd21706675e60a5908bd5d",
+  "prompt_sha256": "7423c1e2463f858af099cc2a995ccb955013d26ee6303083c58fcf7be1041674",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

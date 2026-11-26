@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-10-ink-copper-sleepy.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-10-ink-copper-sleepy.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "墨黑铜瞳 · 软软眯眼: 墨黑底，铜橙细月牙眼，松弛安静的睡意。",
+  "composition_variation": "Uniform matte near-black paper field. Warm copper-orange iris crescents, black pupils merged with field, two tiny off-white vertical glints. Calm sleepy contentment: broad horizontally stretched eyes, both half-closed but not identical; left lower copper crescent shallow and flat, right deeper and rounder. Eyelids implied entirely by black field cutting across irises. Very gentle opposing eye tilts, cozy softly amused. Eye centers around y=0.50, pair safely in centered circular crop. No mouth, nose, brows or symbols.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:09:04.267978+08:00",
+  "sha256": "248a3da55762268ced166c4630ca7d72d47416277b61e2cb4198245baf346645",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

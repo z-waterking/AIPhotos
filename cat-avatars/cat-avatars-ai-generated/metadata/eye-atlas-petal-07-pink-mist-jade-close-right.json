@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-petal-07-pink-mist-jade-close-right.png",
+  "refined_prompt": "../prompts/eye-atlas-petal-07-pink-mist-jade-close-right.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "粉雾底浅玉双眼，间距略近，轻轻右望。",
+  "composition_variation": "Keep a modest central gap, with the left bowl two percent lower and eighteen percent shallower. Give the higher right eye a slightly fuller opening without changing its style. Both large black pupils merge into softly curved upper lids and turn gently right. Identical pale jade bands follow the lower and outer edges, with one slender elongated ivory glint inside each pupil. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-petal",
+  "series_number": 7,
+  "anthology_index": 57,
+  "palette": {
+    "background": "#E3D1D9",
+    "iris": "#92B0A2"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:38:08.833256+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "db2147fbf7780fc704dbacad17be608d9a9a2e59e7d86f150bd9459f3a2db78e",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

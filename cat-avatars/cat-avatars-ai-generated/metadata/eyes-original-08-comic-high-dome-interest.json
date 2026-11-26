@@ -1,0 +1,46 @@
+{
+  "output": "../eyes-original-08-comic-high-dome-interest.png",
+  "refined_prompt": "../prompts/eyes-original-08-comic-high-dome-interest.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 8,
+  "anthology_index": 8,
+  "art_direction": "高拱短眼共同望上方，宽黑瞳与简洁高光，眉间舒展。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "兴致",
+  "palette": {
+    "background": "#F2EAEA",
+    "iris_colors": [
+      "#D0666C"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "solid",
+    "hue": 0.990787
+  },
+  "color_treatment": "solid flat single-color iris fill",
+  "drawing_family": "modern-comic",
+  "creative_direction": "Give the pair a taller, compact comic construction with smoothly domed upper lids and shallow lower bowls. Both pupils look gently upward toward the same point, avoiding a startled gaze. Their large dark forms should occupy much of each opening, interrupted by one generous graphic highlight. Outline the eyes with a delicate continuous line, adding only a modest dark accent at each upper outer quarter. Keep white corner space small and the iris fields simple. The two short brows rise slightly as a coordinated pair, while a tiny straight mouth stays close below. Preserve natural pointed corners and comparable eye sizes. The centered face conveys interested anticipation rather than exaggerated innocence.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:35:03.245293+00:00",
+  "sha256": "4ef8068f9d809fba647f7ef293f711a14949714d092d8ac8e507d62b6ee77090",
+  "prompt_sha256": "1ec7f19aba8c58af3dd4a01ad70d96d96bb6216bdf802af7800e885bf70374d9",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

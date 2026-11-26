@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-02-sage-ochre-cross-check.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-02-sage-ochre-cross-check.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅绿底柔赭双眼，右眼抬开侧望，像在重新确认。",
+  "emotion": "审慎的怀疑",
+  "composition_variation": "Put the viewer-right eye higher, rounder, and about sixty percent open; keep the left lower and only thirty-five percent open. Aim both pupils toward viewer-right, leaving a little more iris on their viewer-left sides. Make the fuller eye's upper lid thick at its outer half, while the shallow eye's lid is heavier at its inner half. The mismatch should suggest comparing evidence twice, not a lazy sleepy face. Use a slightly wider gap with clean quiet paper around the pair.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 2,
+  "anthology_index": 12,
+  "palette": {
+    "background": "#D5E1D1",
+    "iris": "#BD9C61"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:59:25.655342+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "e27253e9dd04618b998fe59c5416327f1fc2b0036857490b65454072ffccb63a",
+  "prompt_sha256": "b81f8b03e934ae85bb29238492f108e25d905d62d737265f205fe7f750a53dd3",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-mist-01-mist-honey-clear-forward.png",
+  "refined_prompt": "../prompts/eye-atlas-mist-01-mist-honey-clear-forward.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾蓝底蜜金双眼，左低右开，清醒正视。",
+  "composition_variation": "Use a pale mist-blue field and a comfortably open pair of bowls. The left eye sits two percent lower and fifteen percent less open; the right is modestly larger. Let the upper lids curve gently around large black pupils facing forward and attached to the top. Matching honey bands remain broad below, with one narrow long ivory glint inside each pupil. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-mist",
+  "series_number": 1,
+  "anthology_index": 41,
+  "palette": {
+    "background": "#D4E1E6",
+    "iris": "#C7A46F"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:30:56.867804+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "cd5413d3645501ed34cb3579f31e8da4a93b55dd1f9626a13bcd52613f18c7e0",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

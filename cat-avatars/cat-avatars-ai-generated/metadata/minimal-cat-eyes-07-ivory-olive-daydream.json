@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-07-ivory-olive-daydream.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-07-ivory-olive-daydream.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "米白橄榄瞳 · 发呆仰望: 米白底，橄榄绿眼睛上望，神态柔和呆萌。",
+  "composition_variation": "Soft warm ivory matte field. Muted olive-chartreuse irises and black graphic eye shapes. Daydreaming upward glance: two medium-wide rounded almond eyes with enormous pupils turned up and left, olive-green crescent bands at lower rims. Right eye slightly smaller and 5 percent higher. Thin irregular black upper contour, no long eyelashes. One small off-white vertical catchlight each. Tiny understated straight black mouth slightly left of center below eyes. Eye pair at y=0.50. No brows, freckles, blush or objects.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:07:51.664140+08:00",
+  "sha256": "6413dd7defe8f27571823640cf23c4b5847569d9230731be45192d223240b94f",
+  "visual_review": "passed: inspected compressed contact sheet; original sparse cat-eye expression, requested palette, clear avatar composition, no visible text or watermark"
+}

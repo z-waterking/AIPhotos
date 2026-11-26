@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-petal-10-lavender-shell-olive-soft-right.png",
+  "refined_prompt": "../prompts/eye-atlas-petal-10-lavender-shell-olive-soft-right.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅紫贝底橄榄双眼，右侧下弧更饱满，从容右看。",
+  "composition_variation": "The left bowl rests three percent lower, with an opening roughly seventeen percent shallower than the right. Keep the right lower curve slightly fuller and the spacing relaxed. Large black pupils touch the gently curved upper lids and shift together right. Matching pale olive bands narrow smoothly toward short tapered corners, and each pupil contains one thin long ivory highlight. The quiet pastel background must be visibly colored rather than almost white, matching the exact palette below; retain a soft, low-saturation paper color across the entire square. No background gradients or decorations.",
+  "reference_family": "bowl",
+  "series": "eye-atlas-petal",
+  "series_number": 10,
+  "anthology_index": 60,
+  "palette": {
+    "background": "#E1D6E3",
+    "iris": "#A7AF83"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:38:27.008202+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "a15ff03b99297ca1a9090d3f1f0e9e32d6cf4786a27e52ac497464f11db1e573",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-curious-06-balanced-bright-interest.png",
+  "refined_prompt": "../prompts/eye-emotion-curious-06-balanced-bright-interest.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅水青底，双眼较开但仍含蓄，像忽然提起了兴趣。",
+  "emotion": "聪明好奇",
+  "composition_variation": "Almost level moderately spaced eyes, both more open than half-lidded examples but still covered at top by thick arched lids. Left slightly broader, right a little taller. Large pupils centered toward viewer, narrow identical iris rims around lower sides. Renewed interest and recognition, not shock. Avoid full circles, tiny pupils, sclera or glossy reflections.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-curious",
+  "series_number": 6,
+  "anthology_index": 56,
+  "palette": {
+    "background": "#D5E4E0",
+    "iris": "#5C9994"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:17:51.033500+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "0aa5648fe6ffb0ebfdb9f385fe66680f1e9ef50cf486874896a9f9303699e4da",
+  "prompt_sha256": "a1f9b02c83324d086e10ac1c6509e7ea0fe2ac435bb7c9819312bc992d05ec4f",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

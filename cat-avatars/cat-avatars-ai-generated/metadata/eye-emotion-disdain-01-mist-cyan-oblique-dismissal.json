@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-disdain-01-mist-cyan-oblique-dismissal.png",
+  "refined_prompt": "../prompts/eye-emotion-disdain-01-mist-cyan-oblique-dismissal.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾蓝底青色双眼，左浅右高，侧目带一点蔑视。",
+  "emotion": "淡淡的蔑视",
+  "composition_variation": "Convey mild disdain through an oblique, unhurried side-eye. The viewer-left opening is long and shallow, about thirty percent open; the right opening is sixty percent open and its center is six percent of canvas height higher. Both large pupils glance together toward viewer-left. Give the lower left lid a slightly lifted outer end while the fuller right eye has a thick relaxed upper arch. Preserve generous black pupil areas and thin matching cyan side bands. The feeling is quietly unimpressed, never angry.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-disdain",
+  "series_number": 1,
+  "anthology_index": 1,
+  "palette": {
+    "background": "#E1E4ED",
+    "iris": "#56B7C6"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:53:21.107002+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "f835714e209e4c4dcbdad13a3ad3c5e2367c6ce6799e2d5cde25ffe61706f135",
+  "prompt_sha256": "1e63291d2575835ac5a6060634424b60abdeb763249e4c6da4de5fce871a8bd3",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

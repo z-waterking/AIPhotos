@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-cat-eyes-v2-02-onyx-honey.png",
+  "refined_prompt": "../prompts/minimal-cat-eyes-v2-02-onyx-honey.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "夜黑蜜金 · 温柔凝望: 纯黑底，蜜金柔弯猫眼，清透高光与温柔视线。",
+  "composition_variation": "A perfectly flat soft-black field #101010. Two beautiful honey-gold cat eyes float in the black; black pupil areas merge perfectly with the background. Gentle wide almond shapes, rounded at the middle and softly tapered at outer corners. Gold appears as slender curved lower and side edges of the irises, never a complete hard circle. Open and curious but composed, one eye only slightly more open than the other. One clear soft white vertical teardrop reflection per pupil. The gaze points slightly upward toward the viewer, quietly affectionate. No mouth, nose or brows. This is an elegant flat illustration, not a pair of spherical eyeballs, a frightening face, or paper shapes layered on top of each other.",
+  "style_inspiration": "Two user-provided chat attachments were observed for broad style: minimalist eyes, black or ivory field, sparse color, handmade matte edges. Original expressions and layouts were described in text. No attachment was uploaded as binary model input and no watermark-removal edit was performed.",
+  "created_at": "2026-10-19T16:16:21.406501+08:00",
+  "sha256": "3ab2eca172a6948d16d76b40c46627d43df4beb410c988d160dce7d888d5d12c",
+  "visual_review": "passed: inspected compressed preview; clean flat background, coordinated eyes, legible appealing expression, no visible text or watermark"
+}

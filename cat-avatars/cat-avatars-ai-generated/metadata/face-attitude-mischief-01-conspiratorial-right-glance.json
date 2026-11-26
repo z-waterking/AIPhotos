@@ -1,0 +1,33 @@
+{
+  "output": "../face-attitude-mischief-01-conspiratorial-right-glance.png",
+  "refined_prompt": "../prompts/face-attitude-mischief-01-conspiratorial-right-glance.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "灰白底，左低右高，轻轻左望，狡黠的一瞥，配短灰紫眉与一横黑嘴。",
+  "emotion": "灵动狡黠",
+  "composition_variation": "Quiet playful mischief. A sidelong glance and a slightly compressed eye suggest a hidden joke. Keep the wide hand-painted construction, not an eyeliner flick. Keep the reference left-low, right-high relation. Left eye is long and shallow, tilted upward toward its inner right end; right eye more open. Both pupils look a little left. Keep each eye horizontally broad (about36% of page width) with clearly colored side patches and a generous solid white paint dab. Eye pair spans93% width; do not shrink or make stubby capsules. One small eyebrow dab sits a little higher with a light outward tilt. Keep the mouth a tiny horizontal mark, suggesting a private joke without a drawn smile.",
+  "reference_family": "flat-painted-five-features",
+  "series": "face-attitude-mischief",
+  "series_number": 1,
+  "anthology_index": 41,
+  "palette": {
+    "background": "#EDEBEC",
+    "iris": "#8B8062"
+  },
+  "visible_subject": "two eyes, two small lavender-gray brow dabs and one short black horizontal mouth; no head outline",
+  "style_inspiration": "Latest reference observed locally: wide almost equal-width eyes covering93% of page width, left slanted low/right horizontal high, dense flat black, broad colored side patches, solid offwhite dabs and grey-white background sampled approximately #EDEBEC. Only text input; no image uploaded. Two small lavender-gray eyebrow dabs and one horizontal mouth dash added following the latest explicit user request.",
+  "created_at": "2026-10-22T07:54:10.558143+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "c6efdedc26fc41a5a348885b85c0ed6eedb6207096f470dc74dd0b2ab7cd4aa2",
+  "prompt_sha256": "5482dfb31604975eadefe00a3ffd545374fa2da45e6dd1de7bd6fbabdb527f8b",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, broad naturally curved eye shapes, flat solid color, substantial offwhite dabs and reference grey-white background, exactly two pale eyebrow dabs and one short horizontal mouth, no head outline, text or watermark"
+}

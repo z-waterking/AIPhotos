@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-original-03-brush-low-tide-amusement.png",
+  "refined_prompt": "../prompts/eyes-original-03-brush-low-tide-amusement.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 3,
+  "anthology_index": 3,
+  "art_direction": "较扁的低弧眼向左侧望，下眼缘轻提，短嘴含蓄带笑。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "会意",
+  "palette": {
+    "background": "#EBF2EC",
+    "iris_colors": [
+      "#BF3394",
+      "#CD4445"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "analogous",
+    "hue": 0.884427
+  },
+  "color_treatment": "smooth continuous two-color analogous iris blend, no visible band boundary",
+  "drawing_family": "brush-silhouette",
+  "creative_direction": "Use two broad, low eye openings shaped like relaxed shallow waves. Each upper lid runs almost level through its center before bending softly down into the inner corner; each lower edge lifts slightly toward the outside. Both generous black pupils glance together to the left. Keep enough opening around them for compact iris fields, with no anatomical white wedges. One substantial uneven highlight gives each dark pupil warmth. The upper brush mass is bold but unbroken, and lower rims are quiet thin strokes. Small level brows sit nearby. A brief gently rising mouth suggests dry amusement. The eyes remain visibly open, similar in scale, and centered within spacious paper.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:33:33.838251+00:00",
+  "sha256": "99cb6e96b13ef9e19e21733170e653e6e0725161ae68006d37f0ecb30aa3b156",
+  "prompt_sha256": "dd12e56d9ea7bffe4f97e92ff3238182bbe2f041593e4826008cadb594ec2396",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

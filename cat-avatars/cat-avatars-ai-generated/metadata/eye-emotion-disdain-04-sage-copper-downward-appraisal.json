@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-disdain-04-sage-copper-downward-appraisal.png",
+  "refined_prompt": "../prompts/eye-emotion-disdain-04-sage-copper-downward-appraisal.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "鼠尾草底铜色双眼，间距略近，低垂眼皮冷淡打量。",
+  "emotion": "冷淡打量",
+  "composition_variation": "Use a compact pair with a generous but shorter central gap. Both openings are about forty percent open, with the viewer-left eye slightly narrower. Place both pupils low beneath their broad upper lids and angle their gaze subtly downward toward the viewer. Let the right upper lid rise a little at its outer third, while the left lid rests flatter. The eyes should feel calmly appraising and faintly dismissive, not sad or hostile. Keep matching copper bands visible at both outer sides.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-disdain",
+  "series_number": 4,
+  "anthology_index": 4,
+  "palette": {
+    "background": "#DCE4D0",
+    "iris": "#B88666"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T05:55:45.893420+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "5c87d515fe93d7de1ce347ee5631a504b3d2192d14e51a94ccaeb708ba430967",
+  "prompt_sha256": "1e39ff7e686686084c14863d2e0e93cee01a3c54e06d25c17765d57b02b38868",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

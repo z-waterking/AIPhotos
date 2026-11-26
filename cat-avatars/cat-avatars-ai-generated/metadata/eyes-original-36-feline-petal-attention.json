@@ -1,0 +1,46 @@
+{
+  "output": "../eyes-original-36-feline-petal-attention.png",
+  "refined_prompt": "../prompts/eyes-original-36-feline-petal-attention.txt",
+  "source_prompt": "../prompts/eyes-original-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-original",
+  "series_number": 36,
+  "anthology_index": 36,
+  "art_direction": "花瓣般舒展的猫科双眼，外角微挑，宽瞳一起轻望左侧。",
+  "composition": "centered pair of coordinated eyes with restrained brows and short mouth; ample pale negative space",
+  "emotion": "闲适、机敏",
+  "palette": {
+    "background": "#F4F3F6",
+    "iris_colors": [
+      "#BCCA58"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023050,
+    "method": "seeded golden-angle hue spacing with random harmony, saturation, lightness, and shuffled color modes",
+    "mode": "solid",
+    "hue": 0.18676
+  },
+  "color_treatment": "solid flat single-color iris fill",
+  "drawing_family": "animal-abstraction",
+  "creative_direction": "Abstract the easy attention of a relaxed cat into two detached petal-shaped eyes. Make each opening wide across the middle, with a soft inner point and a short rising outer tip. The upper lids have a gentle, unhurried sweep; the lower rims are shallow curves. Both broad pupils glance slightly left and remain rounded, never thin predatory slits. Leave a generous highlight inside each pupil and a clear iris crescent beside it. Keep the pair comparable in size, separated by an intentional gap. Two tiny resting brows and a short mouth are sufficient. Include no ears, whiskers, nose, fur, face outline, or realistic feline anatomy.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:31:21.166620+00:00",
+  "sha256": "86b657958ae6b1a4c533dde18e23b5a29e7c239e7077368e87669b26b44e4deb",
+  "prompt_sha256": "9c360766758d9a47b7430d9741de539f9a779070955664f2c6f9fe819bfe865e",
+  "visual_review": "inspected: centered two-eye composition and archive integrity; retained as an unsuccessful style experiment after user feedback that the clean contours, recurring round pupils and regular highlights look too AI-generated; do not count as an accepted final image",
+  "batch_status": "stopped after user style feedback; no further generation in this direction"
+}

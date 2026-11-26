@@ -1,0 +1,33 @@
+{
+  "output": "../eye-emotion-skeptical-10-rose-lagoon-tilted-evaluation.png",
+  "refined_prompt": "../prompts/eye-emotion-skeptical-10-rose-lagoon-tilted-evaluation.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅玫底湖青双眼，左高右低微斜，像换个角度评估。",
+  "emotion": "审慎评估",
+  "composition_variation": "Put the viewer-left eye clearly higher, rounder and fifty-five percent open, with the right lower and thirty-five percent open. Tilt the upper lids very slightly in the same direction to suggest an inquisitive head angle without drawing a head. Both pupils look straight at the viewer. Give the left lid a fuller arch and the right a restrained low arc, leaving matching lagoon side bands. This is a measured evaluating expression, inquisitive and reserved rather than dismissive or cute.",
+  "reference_family": "emotional-brush",
+  "series": "eye-emotion-skeptical",
+  "series_number": 10,
+  "anthology_index": 20,
+  "palette": {
+    "background": "#E7D1D4",
+    "iris": "#5AA6AB"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Latest user chat image observed locally: a mildly disdainful asymmetric gaze in opaque hand-painted black and cyan eye shapes. Only a written description was transmitted. No chat attachment was uploaded or used as binary input. Earlier eyes-only constraint retained.",
+  "created_at": "2026-10-22T06:02:35.345948+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "6ab8daf32217f219b3e8d869110df6bc2db4bdc78e95a8b6063970de4414fc15",
+  "prompt_sha256": "d5bade0f5e6e476c3b62895b20648c49d0c8446e916467b853cf7574a3f5a323",
+  "visual_review": "passed: inspected compressed contact sheet for readable eye expression, coordinated same-color irises, matte curved brush shapes, comfortable pastel background, no added face features, text or watermark"
+}

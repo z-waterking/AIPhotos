@@ -1,0 +1,31 @@
+{
+  "output": "../eye-atlas-brush-orchid-09-rose-lavender-brush-lifted-left.png",
+  "refined_prompt": "../prompts/eye-atlas-brush-orchid-09-rose-lavender-brush-lifted-left.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅水青底，玫薰衣侧带，双眼微扬，协调左顾。",
+  "composition_variation": "Tilt the paired eyes gently upward toward the right, while the left stays lower and shallower. Make the right nine percent higher and broader. Both large pupils look left at the same point. Use broad, softly domed black upper brush shapes with tapered outer tips. Retain matching #C3A6C0 iris side bands and one long narrow ivory glint inside each pupil. Angle the ivory glints subtly inward. Use a clearly visible but gentle pale aqua paper background, matching the exact palette below. Do not wash it out to white. Keep it flat and quiet with no gradients or decorative marks.",
+  "reference_family": "brush",
+  "series": "eye-atlas-brush-orchid",
+  "series_number": 9,
+  "anthology_index": 99,
+  "palette": {
+    "background": "#CEDFE0",
+    "iris": "#C3A6C0"
+  },
+  "visible_subject": "two eye graphics only; no eyebrows, mouth or head",
+  "style_inspiration": "Three user-supplied chat images were inspected locally for asymmetric crescent eyes, pale half-lidded bowl eyes and diagonally arranged brush eyes. Prompt text alone was transmitted; no attachment was uploaded or used as binary input. The earlier eyes-only constraint is retained.",
+  "created_at": "2026-10-22T04:52:37.090036+00:00",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "sha256": "92af3bce35329a8c1b09bb6e7b7a67aff8a40b6eb3be66cb4743e462d3107def",
+  "visual_review": "passed: inspected compressed contact sheet; matching iris colors, the specified reference-family eye shape and subtle matte texture; exactly two eyes, no eyebrow/mouth/head, no square cuts, jelly rendering or watermark"
+}

@@ -1,0 +1,47 @@
+{
+  "output": "../eyes-sketch-13-marker-bent-ovals.png",
+  "refined_prompt": "../prompts/eyes-sketch-13-marker-bent-ovals.txt",
+  "source_prompt": "../prompts/eyes-sketch-art-direction.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "execution": "azure-text-to-image",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "eyes-sketch",
+  "series_number": 13,
+  "anthology_index": 13,
+  "art_direction": "弯曲椭圆眼外侧略压扁，双瞳向左上，留白像较宽的水滴。",
+  "composition": "centered hand-drawn eye pair; auxiliary marks only when specified; large blank paper margins",
+  "emotion": "回望、好奇",
+  "palette": {
+    "background": "#F7F5F4",
+    "iris_colors": [
+      "#C9834F"
+    ]
+  },
+  "color_randomization": {
+    "seed": 20261023151,
+    "method": "golden-angle hue spacing with seeded single-hue saturation and lightness variation",
+    "mode": "solid",
+    "hue": 0.071135
+  },
+  "color_treatment": "one opaque flat color beside each pupil; no gradient or shaded rendering",
+  "drawing_family": "worn-marker",
+  "creative_direction": "Draw two bent horizontal ovals whose outer sides flatten a little under marker pressure. Let the inner upper curves stay fuller. Both broad pupils turn toward the upper left, holding large uneven teardrop paper reserves. Avoid separate circular iris discs: fit the flat iris accents into the remaining opening around each pupil. One lower marker curve ends with a short blunt stop, the other with a faint taper. Keep the paired eyes balanced and isolated on pale paper, without brows or mouth.",
+  "style_inspiration": "Original artwork from written art direction; prior conversation informs general design preferences, no prior image pixels reused or uploaded.",
+  "created_at": "2026-10-23T05:48:58.966877+00:00",
+  "sha256": "d737580f7c2d3fc4648b740f2b77bd28cbc28324f9e63f94332f59cba2692bdd",
+  "prompt_sha256": "bf5509516999a992b85a40679928810655cd5a42bf15d00c5455b2269638c743",
+  "visual_review": "inspected: preview checked by the root agent; retained as a user-rejected style experiment after the task changed to a new avatar collection; do not count as an accepted final image",
+  "visual_review_before_rejection": "passed: compressed preview inspected for economical distinct hand-drawn contours, broad dark pupils with irregular paper reserves, single flat color, coordinated gaze, pale paper, no text or watermark",
+  "batch_status": "user rejected; stopped after change of creative direction; no further generation in this series"
+}
