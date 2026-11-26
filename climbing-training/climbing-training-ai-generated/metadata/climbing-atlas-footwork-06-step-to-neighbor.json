@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-footwork-06-step-to-neighbor.png",
+  "refined_prompt": "../prompts/climbing-atlas-footwork-06-step-to-neighbor.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:57:25.581607+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-footwork",
+  "series_number": 6,
+  "group_number": 5,
+  "anthology_index": 46,
+  "anthology_size": 200,
+  "title": "只换旁边一个点",
+  "description": "成人在低墙横向迈向相邻大脚点，跨距短，动作安静。",
+  "difficulty_theme": "基础技术｜相邻换点",
+  "verified_route_grade": false,
+  "sha256": "12eea2e4a8e0cba3c9545e951ee045e69e9c583fee2a376b1d5715e26c6ecb55",
+  "native_sha256": "12eea2e4a8e0cba3c9545e951ee045e69e9c583fee2a376b1d5715e26c6ecb55",
+  "prompt_sha256": "f414b0d7e3691861dd11ec272a3306dd871f68ab5814c036c6c3b35fddc2103e",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2593736,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "A fictional adult traverses a short distance on a low vertical wall, placing one foot on a neighboring broad foothold while leaving the other on its original support. The knees remain soft, hands secured on large holds, and the distance between footholds visibly modest. Compose a wide frame with the intended nearby handhold and a clear descent option. Emphasize the measured lateral placement rather than strength or speed. Use clean cel illustration with precise varied line weights, hard shadow shapes, and fresh turquoise, amber, and slate colors. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:58:20.096954+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "a37879418957ef386afe49927284a639411b73e7e885f834c6f819cf46e1f251"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

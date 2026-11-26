@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-advanced-10-low-seated-start-extension.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-advanced-10-low-seated-start-extension.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:19:51.465735+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-advanced",
+  "series_number": 10,
+  "group_number": 13,
+  "anthology_index": 130,
+  "anthology_size": 200,
+  "title": "坐起后的短延伸",
+  "description": "木炭淡彩表现低坐起序列的下一步，脚点与软垫保持近距离。",
+  "difficulty_theme": "进阶抱石·低位动作",
+  "verified_route_grade": false,
+  "sha256": "536a6f37be913acc9bee119721dab8317b38acb5e7de8c609bc987df7cc4dc40",
+  "native_sha256": "536a6f37be913acc9bee119721dab8317b38acb5e7de8c609bc987df7cc4dc40",
+  "prompt_sha256": "567309fdceb2e84e76b650a9c909ae12f9ae0ea6bf7cedfbd2232379a8b3e8b1",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3177038,
+  "art_direction": {
+    "medium": "crisp digital comic ink and quiet halftone shadows",
+    "scene": "An original charcoal-and-gouache illustration depicts a fictional adult just above a low seated-start position on an indoor bouldering problem. Two broad opposing handholds support the torso, both shoes engage clear low footholds, and the knees remain comfortably bent as one hand prepares a short extension. The hips are close to the continuous crash mat, with no swing or airborne motion. Show a three-quarter wide scene including the whole figure, wall base, and empty padded landing. Use expressive charcoal edges, muted rust clothing, and blue-gray wall washes. Keep adult proportions believable and garments opaque. No words, brands, extreme contortion, dangerous height, or fall depiction.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:21:10.751162+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b487048e03ae28e580b0927a1a435b7bf1526269a95e420292994d47ca9d4c2c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

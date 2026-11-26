@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-balance-09-standing-soft-reach.png",
+  "refined_prompt": "../prompts/climbing-atlas-balance-09-standing-soft-reach.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:59:35.568976+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-balance",
+  "series_number": 9,
+  "group_number": 6,
+  "anthology_index": 59,
+  "anthology_size": 200,
+  "title": "站稳再伸手",
+  "description": "成人地面单脚轻支撑时，另一手小幅伸向侧前方。",
+  "difficulty_theme": "基础｜有支撑动态平衡",
+  "verified_route_grade": false,
+  "sha256": "26ff77b1f38c659ea2cb55d9c68146beab9b3a7103f68e0c92137942e8dbf4f8",
+  "native_sha256": "26ff77b1f38c659ea2cb55d9c68146beab9b3a7103f68e0c92137942e8dbf4f8",
+  "prompt_sha256": "d7e9f713d3ede6fe6e0123fa7f908c4f933a700a5e2ab0a2177139fe3b255805",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2539682,
+  "art_direction": {
+    "medium": "hand-painted oil illustration with restrained impasto",
+    "scene": "A fictional adult stands on one foot beside a fixed rail, fingertips of one hand resting lightly on it while the free arm reaches a short distance forward and sideways. The lifted foot remains near the ground, supporting knee soft, and torso upright. Keep the reaching distance small and comfortable. A quiet gym lounge and a broad clear floor appear behind the figure, with no unstable platforms or raised balance equipment. Use an original editorial vector illustration with geometric environmental shapes, carefully articulated adult proportions, and muted violet, lime, and slate. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:03:07.662580+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b977c72246fb0f9b65adc8d66dbf5600e0e208462c0c3ec59b79879dca676534"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

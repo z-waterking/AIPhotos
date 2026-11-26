@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-06-prone-w-raise.png",
+  "refined_prompt": "../prompts/home-climb-06-prone-w-raise.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:37.586069+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 6,
+  "title": "俯卧W抬臂",
+  "sha256": "21f63ae1ec72cf6da5fbd2e5ed7afb71b5550a8f61e393f58fe0d8a6c251fd8f",
+  "native_sha256": "e9e03bcc934c170de640d406ddcb10b4f3b00f98fec35ca19587a3d9aec3d824",
+  "prompt_sha256": "6c8e48d0ada5260443da337a0e2abc7a074f42d3c2ffe366e957ae6d4822ac1c",
+  "file_size_bytes": 553770,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "俯卧W抬臂",
+    "sub": "肩胛控制 · 手臂微微离地",
+    "category": "肩胛控制",
+    "equipment": "垫子＋小毛巾",
+    "cue": [
+      "额头垫毛巾，双臂摆成W形",
+      "肩胛轻靠拢，双臂微微离地",
+      "颈腰自然，胸口保持贴垫"
+    ],
+    "dose": "6–8次 × 1–2组",
+    "mistake": "抬头、塌腰，追求抬臂高度",
+    "easy": "手臂留地，只轻轻靠拢肩胛",
+    "labels": [
+      "俯卧摆好W形",
+      "手臂小幅离地"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.110075+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

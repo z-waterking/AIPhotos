@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-mobility-05-half-kneel-hip.png",
+  "refined_prompt": "../prompts/climbing-atlas-mobility-05-half-kneel-hip.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:53:31.638893+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-mobility",
+  "series_number": 5,
+  "group_number": 4,
+  "anthology_index": 35,
+  "anthology_size": 200,
+  "title": "半跪往前一点",
+  "description": "成人半跪在厚垫上，骨盆轻前移，保持直立。",
+  "difficulty_theme": "入门｜髋前侧活动",
+  "verified_route_grade": false,
+  "sha256": "9d3be52fd5e0e3c6d755d1dc03ac52425aed428c8cdafbb9fd143316d70cdea1",
+  "native_sha256": "9d3be52fd5e0e3c6d755d1dc03ac52425aed428c8cdafbb9fd143316d70cdea1",
+  "prompt_sha256": "a52dab336949204bea04361b68369eb9993c40ca2df3c6b3b68b8277657be7fc",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3208876,
+  "art_direction": {
+    "medium": "two-ink risograph with teal and coral spot colors and precise drawn anatomy",
+    "scene": "A fictional adult kneels on one padded knee with the other foot planted forward, torso upright and hands resting lightly on the front thigh. Capture a very small forward shift of the pelvis, avoiding a deep lunge or arched back. The kneeling shin remains supported by the mat. A plain gym corner, soft window light, and a folded towel beside the mat frame this comfortable mobility moment. Use a painterly oil-pastel illustration with broken strokes, strong volume, a dusty pink and petrol-blue palette, and inviting natural light. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:55:28.561558+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f7d17dae7709e3230efd93be46a0f3f0e0d3d0c6b8302c089a25109da6bc3d8"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

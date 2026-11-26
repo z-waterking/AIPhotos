@@ -1,0 +1,94 @@
+{
+  "output": "../climbing-basics-05-three-point-support.png",
+  "refined_prompt": "../prompts/climbing-basics-05-three-point-support.txt",
+  "source_prompt": "../prompts/climbing-basics-series.txt",
+  "created_at": "2026-11-02T02:53:05.268767+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-basics",
+  "series_number": 5,
+  "title": "三点稳住，再动一点",
+  "sha256": "9bcb1c4ec2da73d0b0ae8bf0e348504703f7c11941ab44eaef744eecf9949fa3",
+  "native_sha256": "7761036f512656d3883ef3a5892649220b3a9396dbc31eb60c3c1fd6e0fe85b2",
+  "prompt_sha256": "75faf5e1b513ca55cf453e9e7bdfcdbbc1e727eb93138f11a4e463f5addd9d99",
+  "file_size_bytes": 669998,
+  "art_direction": {
+    "style": "muted teal and terracotta sports editorial illustration",
+    "composition": "two original adult movement studies with deterministic Chinese instructional typesetting",
+    "fictional_adults": true
+  },
+  "exercise": {
+    "title": "三点稳住，再动一点",
+    "sub": "三点支撑 · 一次移动一肢",
+    "category": "上墙技术",
+    "cue": [
+      "低墙大点，双手双脚先站稳",
+      "稳住三肢，再缓慢移动一肢",
+      "全程低位，随时可踏回垫面"
+    ],
+    "dose": "每趟移动4–6次 × 2趟；歇1分钟",
+    "mistake": "支撑未稳，就连续移动两肢",
+    "easy": "双脚站地扶墙，只慢慢移一手",
+    "labels": [
+      "四点站稳",
+      "三点支撑移一手"
+    ]
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        74,
+        240,
+        906,
+        795
+      ],
+      "preserved_aspect_ratio": true,
+      "cropped": false,
+      "upscaled": false
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.102611+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "series_status": "historical exploration; superseded by home-climb for the current home-only request",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

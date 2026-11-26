@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-footwork-02-watch-the-toe.png",
+  "refined_prompt": "../prompts/climbing-atlas-footwork-02-watch-the-toe.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:56:33.910125+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-footwork",
+  "series_number": 2,
+  "group_number": 5,
+  "anthology_index": 42,
+  "anthology_size": 200,
+  "title": "看着脚放稳",
+  "description": "成人低位攀爬时视线落在脚点，脚尖完成一次短距离换点。",
+  "difficulty_theme": "基础技术｜视线与脚点",
+  "verified_route_grade": false,
+  "sha256": "06270085659b076143b0c2925b2a8bc78db02908ee203c66124f3e02dd591480",
+  "native_sha256": "06270085659b076143b0c2925b2a8bc78db02908ee203c66124f3e02dd591480",
+  "prompt_sha256": "a6af4c7f20fd3d2f3dd8bad838824684ebbdf64c1ae8e19b3467889224faa6ea",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2909275,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "A fictional adult pauses on a low slab wall and looks directly at a large foothold beneath the left foot. One hand rests on a generous jug and the other maintains a comfortable support; the right shoe stays on another broad hold near the mat. Capture the moment the left toe settles, with a quiet upper body and no blind reaching. The wall uses sparse rounded holds and a clear continuous padded floor. Use transparent watercolor with reserved paper light, fluid contours, a restrained indigo and warm sienna palette, and generous breathing room. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:58:19.956460+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "a37879418957ef386afe49927284a639411b73e7e885f834c6f819cf46e1f251"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

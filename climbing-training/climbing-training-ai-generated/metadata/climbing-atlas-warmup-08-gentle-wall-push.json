@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-warmup-08-gentle-wall-push.png",
+  "refined_prompt": "../prompts/climbing-atlas-warmup-08-gentle-wall-push.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:46:15.658771+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-warmup",
+  "series_number": 8,
+  "group_number": 1,
+  "anthology_index": 8,
+  "anthology_size": 200,
+  "title": "墙边热身推",
+  "description": "成人以轻松站距做墙面推撑，动作缓慢。",
+  "difficulty_theme": "基础热身",
+  "verified_route_grade": false,
+  "sha256": "30550bf04ee671f515a6ae3d5ac43727d787955efff2de868f7a226222d9a495",
+  "native_sha256": "30550bf04ee671f515a6ae3d5ac43727d787955efff2de868f7a226222d9a495",
+  "prompt_sha256": "af687ca71ed36913e19cb2cb846d6f023a2722ce571f814839fba15755c84b8f",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2889570,
+  "art_direction": {
+    "medium": "soft pastel drawing with clear contour accents",
+    "scene": "A fictional adult performs an easy wall push-up against an ordinary vertical wall in a gym warm-up area. Palms are at comfortable shoulder height, body forms a natural straight line, and both feet are on stable flooring near enough to keep effort light. Show a side view with both hands and shoes legible. Use a calm ordinary adult in opaque clothing with believable anatomy. Clear environmental depth, visible foot contacts and relaxed concentration make the moment readable. No words, numbers, logos, dangerous heights, falling, extreme strain or crowded landing zones.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:47:19.521254+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "884a5e4710d2f40381aafa52f66ce061d3a0fabb7a48c25aa2062eb40994fb2f"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

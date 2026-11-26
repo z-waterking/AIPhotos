@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-top-rope-03-toprope-leg-driven-rise.png",
+  "refined_prompt": "../prompts/climbing-atlas-top-rope-03-toprope-leg-driven-rise.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:52:37.865958+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-top-rope",
+  "series_number": 3,
+  "group_number": 19,
+  "anthology_index": 183,
+  "anthology_size": 200,
+  "title": "上方保护由腿上移",
+  "description": "水粉展现直壁中腿部推动的短上移，绳线和保护站位清楚。",
+  "difficulty_theme": "上方保护·直壁基础",
+  "verified_route_grade": false,
+  "sha256": "19e08966f64d147e7c8f0a1c54d0b6dac7ecd5e8f4ce9c845a4e624a8b74c68a",
+  "native_sha256": "19e08966f64d147e7c8f0a1c54d0b6dac7ecd5e8f4ce9c845a4e624a8b74c68a",
+  "prompt_sha256": "722dc1394f503d940439def2350f34b19705821e6efffc9bc5c51bf0a84596c4",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2966076,
+  "art_direction": {
+    "medium": "fine pen and transparent watercolor on warm paper",
+    "scene": "Create an original gouache illustration of a fictional fully clothed adult making a short leg-driven rise on an easy vertical top-rope route. One knee straightens over a positive foothold while both hands use broad violet jugs. A wide oblique composition includes the climber's correctly fitted harness, correct rope tie-in through its designated points, the full rope path to an overhead anchor, and the returning strand to a competent adult belayer. The harnessed belayer stands attentively on a clear floor and holds the brake strand with the brake hand down beside the device. Use matte teal and ochre brushwork. No free solo, excess slack, writing, brands, or implausible anatomy.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:00:49.018129+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "9842f94a27c5ead7e48d20b113bc31576a0c61342d9053bf2578810c559da375"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

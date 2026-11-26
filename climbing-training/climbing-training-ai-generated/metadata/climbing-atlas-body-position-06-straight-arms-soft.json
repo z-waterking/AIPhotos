@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-body-position-06-straight-arms-soft.png",
+  "refined_prompt": "../prompts/climbing-atlas-body-position-06-straight-arms-soft.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:04:33.193037+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-body-position",
+  "series_number": 6,
+  "group_number": 7,
+  "anthology_index": 66,
+  "anthology_size": 200,
+  "title": "把手臂放长",
+  "description": "成人在低位墙上保持自然较直的手臂，双脚承担重量。",
+  "difficulty_theme": "基础技术｜放松支撑",
+  "verified_route_grade": false,
+  "sha256": "782378d9b42772adeca2bb9bdd5626415924cb36e2403f62c38be13078b42ab2",
+  "native_sha256": "782378d9b42772adeca2bb9bdd5626415924cb36e2403f62c38be13078b42ab2",
+  "prompt_sha256": "19cbf3588eeb455ba24adea3a9ffbce1794fbc381b20d8191ae11f4aee6d3713",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2428290,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "A fictional adult rests low on a vertical climbing wall with arms comfortably long, hands around two generous jugs, and both legs taking weight through broad footholds. The shoulders remain active but unshrugged, elbows not hyperextended, and face quiet. Compose a side-diagonal view that contrasts the easy long arm line with softly bent knees. The feet stay close to the padded floor, and no pull-up or free hanging posture appears. Use clean cel illustration with precise varied line weights, hard shadow shapes, and fresh turquoise, amber, and slate colors. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:05:28.598215+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "c9b25d08c3ddbb32cf9bf558795c8ef36eeb10ba8a7fa2ea59386fbd50fac394"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-body-position-01-hips-close.png",
+  "refined_prompt": "../prompts/climbing-atlas-body-position-01-hips-close.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:00:33.897293+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-body-position",
+  "series_number": 1,
+  "group_number": 7,
+  "anthology_index": 61,
+  "anthology_size": 200,
+  "title": "髋部靠墙一点",
+  "description": "成人低位墙面放松手臂，髋部自然靠近墙面。",
+  "difficulty_theme": "基础技术｜省力身体位置",
+  "verified_route_grade": false,
+  "sha256": "60aa46810c54b501e93a6f9d5d32dae3d29369b84ab76871bdb128e1c6cfbb4d",
+  "native_sha256": "60aa46810c54b501e93a6f9d5d32dae3d29369b84ab76871bdb128e1c6cfbb4d",
+  "prompt_sha256": "432222a89b59bdbdcadb2e8f7e7df9e8c99e6ea6b44c499b13a5f7953851e627",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2529856,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "A fictional adult on a low vertical wall shifts the pelvis closer to the wall, keeping both feet on generous footholds and both hands on broad jugs. The elbows are comfortably extended and shoulders lowered, with the torso neither compressed nor pulled far outward. Use a side view to reveal the small wall-to-hip distance. Clear mats, sparse holds, and a large descent step establish a relaxed foundational positioning exercise. Use opaque gouache, broad matte strokes, simplified architectural planes, and an airy ochre, teal, and cream palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:05:28.427429+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "c9b25d08c3ddbb32cf9bf558795c8ef36eeb10ba8a7fa2ea59386fbd50fac394"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

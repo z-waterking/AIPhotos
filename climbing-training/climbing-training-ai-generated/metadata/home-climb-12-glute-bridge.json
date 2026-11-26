@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-12-glute-bridge.png",
+  "refined_prompt": "../prompts/home-climb-12-glute-bridge.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:39.377272+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 12,
+  "title": "臀桥",
+  "sha256": "a32070b27bbbcd96fd4fed03c8a7a0d4e9939ea10cf820b6a464d1fec383e8f3",
+  "native_sha256": "f46a3adf808734b5db9a2b18fc4359aa140d32563a82d5069c0e1aad7d9b85a3",
+  "prompt_sha256": "c0d203136a306201824cceb925d615f648149fb1920f3a9d236c8526a9c0f49b",
+  "file_size_bytes": 538135,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "臀桥",
+    "sub": "髋伸力量 · 臀部慢慢发力",
+    "category": "髋部力量",
+    "equipment": "瑜伽垫",
+    "cue": [
+      "仰卧屈膝，双脚与髋同宽",
+      "呼气抬髋，到肩髋膝成线",
+      "臀部发力，缓慢落回垫面"
+    ],
+    "dose": "8–10次 × 1–2组",
+    "mistake": "用腰顶得太高，或膝盖内倒",
+    "easy": "减小抬髋幅度，慢慢做",
+    "labels": [
+      "仰卧屈膝、脚掌踩稳",
+      "抬髋到自然直线"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.115070+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-01-dead-bug.png",
+  "refined_prompt": "../prompts/home-climb-01-dead-bug.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:35.995615+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 1,
+  "title": "死虫式",
+  "sha256": "5a99f4e7e6c1e30241dde4dedcf85b93ad850251f218413157d236a0371ae6d1",
+  "native_sha256": "cd715ffc1ed85d7495f1ec5ba26c84aba012de8b1eccd0ae89abf5c1a6fe00e7",
+  "prompt_sha256": "8dce4a10df6038d2d1778c7d8b7539faa863edbe7e0ee6e2178db0a87c5ba383",
+  "file_size_bytes": 507494,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "死虫式",
+    "sub": "对侧协调 · 稳住腰背",
+    "category": "核心控制",
+    "equipment": "瑜伽垫",
+    "cue": [
+      "仰卧举臂，髋膝弯曲约90°",
+      "呼气，对侧手后移并点脚跟",
+      "腰背保持稳定，再缓慢收回"
+    ],
+    "dose": "左右各4–6次 × 1–2组",
+    "mistake": "手脚伸太远，腰部明显拱起",
+    "easy": "双臂不动，只交替点脚跟",
+    "labels": [
+      "仰卧举臂屈膝",
+      "对侧后伸、脚跟轻点"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.105610+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-daily-session-05-warmup-together.png",
+  "refined_prompt": "../prompts/climbing-atlas-daily-session-05-warmup-together.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:11:02.786620+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-daily-session",
+  "series_number": 5,
+  "group_number": 10,
+  "anthology_index": 95,
+  "anthology_size": 200,
+  "title": "一起轻轻热身",
+  "description": "两位成人在空区做不同的轻缓热身，留足行动空间。",
+  "difficulty_theme": "入门｜共同热身",
+  "verified_route_grade": false,
+  "sha256": "8fe2214f2c5e044402580f75443bfd053e1bf265b75a440266d48d853add9d2d",
+  "native_sha256": "8fe2214f2c5e044402580f75443bfd053e1bf265b75a440266d48d853add9d2d",
+  "prompt_sha256": "cab228248c6ea271a06e431f8102dc895a2529041b9203d4e6f3083847d8216b",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3247897,
+  "art_direction": {
+    "medium": "two-ink risograph with teal and coral spot colors and precise drawn anatomy",
+    "scene": "Two fictional adults warm up in a spacious clear exercise area, the nearer one making a gentle shoulder circle and the farther one taking easy marching steps. Give them ample room and keep both fully on the floor in trainers. A rolled mat, simple water bottle, and empty low climbing wall establish the activity without clutter. Compose the movements as a single friendly everyday scene, avoiding mirrored poses or an instructional multi-panel arrangement. Use a painterly oil-pastel illustration with broken strokes, strong volume, a dusty pink and petrol-blue palette, and inviting natural light. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:13:26.061144+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "a215151a4760a837615a15a38988fb423ad214f42e0508b2ad91bb71e1e17b3c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

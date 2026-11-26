@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-arete-03-arete-short-wrap-reach.png",
+  "refined_prompt": "../prompts/climbing-atlas-arete-03-arete-short-wrap-reach.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:28:21.545775+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-arete",
+  "series_number": 3,
+  "group_number": 17,
+  "anthology_index": 163,
+  "anthology_size": 200,
+  "title": "绕棱短伸手",
+  "description": "水粉记录绕外棱轻短伸手的瞬间，脚点与支撑手毫不含糊。",
+  "difficulty_theme": "外棱·中阶平衡",
+  "verified_route_grade": false,
+  "sha256": "f9cd2ef0a4e74f829f7e5766a07a5a17c90a7c63e91c4be177f5f93828d855cc",
+  "native_sha256": "f9cd2ef0a4e74f829f7e5766a07a5a17c90a7c63e91c4be177f5f93828d855cc",
+  "prompt_sha256": "1d464f7361de058ee87b0a4b37cd96d2cf2c52feffb5854eea3b1d525f701ac2",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3029825,
+  "art_direction": {
+    "medium": "fine pen and transparent watercolor on warm paper",
+    "scene": "Create an original gouache illustration of a fictional fully clothed adult reaching a short distance around a broad indoor arete. The supporting hand stays on a large violet jug on the near face, both shoes press visible positive low footholds, and the free hand approaches a rounded hold just beyond the edge. The torso rotates modestly as a unit rather than twisting unnaturally. Use a wide oblique view that reveals both faces, the entire adult, and continuous thick crash mats below. Paint matte lavender wall planes, warm ochre accents, and deep blue clothing. The action remains low and controlled. No leaps, writing, logos, or high exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:31:19.399106+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "f93aeb1579e0b4a57f361123dd8e4f53b6d4d92e8dd4038ade0ee11c2baf2166"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

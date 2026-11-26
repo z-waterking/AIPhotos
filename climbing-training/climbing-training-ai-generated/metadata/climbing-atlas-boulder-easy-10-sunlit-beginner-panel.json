@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-easy-10-sunlit-beginner-panel.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-easy-10-sunlit-beginner-panel.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:14:53.547926+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-easy",
+  "series_number": 10,
+  "group_number": 11,
+  "anthology_index": 110,
+  "anthology_size": 200,
+  "title": "窗边第一条线",
+  "description": "油画小品中的窗边入门墙，低位大把手路线和完整落地区域。",
+  "difficulty_theme": "入门抱石",
+  "verified_route_grade": false,
+  "sha256": "ef703b3cb8f86f6601bf3420b5d1b043d09a9e0fdecaf6115728adf99616951a",
+  "native_sha256": "ef703b3cb8f86f6601bf3420b5d1b043d09a9e0fdecaf6115728adf99616951a",
+  "prompt_sha256": "15519b8d6d45066e4300cb65b047dd3af0b647e25c868f282b1f3c8a980f4703",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3294577,
+  "art_direction": {
+    "medium": "crisp digital comic ink and quiet halftone shadows",
+    "scene": "An original small oil-painting composition shows a fictional adult exploring an easy low bouldering line beside a large gym window. Broad blue jugs curve gently across a cream vertical panel, with large footholds arranged to support an upright relaxed stance. The climber wears an opaque green top and full-length trousers, keeps both feet low, and considers the next comfortable handhold. Include the whole figure, thick uninterrupted crash mats, and warm rectangular window shadows in a medium-wide view. Use visible impasto strokes and rich restrained color rather than photographic skin. The room is peaceful and uncluttered. Exclude words, trademarks, jumping, and anyone beneath the climber.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:15:44.603314+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "0558d18da5c6911ad2e9508f6097a3f9200275aa7bc7eca87ed1dc9779b5ee44"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

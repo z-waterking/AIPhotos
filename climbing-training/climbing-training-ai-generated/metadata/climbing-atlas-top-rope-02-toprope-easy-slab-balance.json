@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-top-rope-02-toprope-easy-slab-balance.png",
+  "refined_prompt": "../prompts/climbing-atlas-top-rope-02-toprope-easy-slab-balance.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:50:16.622302+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-top-rope",
+  "series_number": 2,
+  "group_number": 19,
+  "anthology_index": 182,
+  "anthology_size": 200,
+  "title": "上方保护板壁平衡",
+  "description": "彩铅描绘低角度板壁上的稳步攀爬，主绳与保护者完整可见。",
+  "difficulty_theme": "上方保护·板壁基础",
+  "verified_route_grade": false,
+  "sha256": "45380b8a61a76fd02977e1d4f643e2859331aadf097b6ca6021140184fca29f5",
+  "native_sha256": "45380b8a61a76fd02977e1d4f643e2859331aadf097b6ca6021140184fca29f5",
+  "prompt_sha256": "bca7428e9a423d61b652be7af724671ab48da23000f70231981bef942f7c7686",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3132148,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "An original colored-pencil illustration depicts a fictional adult moving calmly on a gentle indoor slab under top-rope protection. Broad mint footholds support an upright stance and large coral handholds remain comfortable. Frame the entire climbing line and competent adult belayer in a wide view, with a continuous rope tied correctly through the climber's designated harness tie-in points, rising to the overhead anchor, then descending to the belayer's device. Both wear correctly fitted waist-and-leg-loop harnesses and opaque clothes. The belayer watches the climber and keeps the brake hand down on the brake strand. Show clear floor and credible contacts. No free solo, tangled rope, words, or brands.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:00:48.984757+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "9842f94a27c5ead7e48d20b113bc31576a0c61342d9053bf2578810c559da375"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-10-hip-90-90-switch.png",
+  "refined_prompt": "../prompts/home-climb-10-hip-90-90-switch.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:38.795504+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 10,
+  "title": "90/90髋转换",
+  "sha256": "f359f0caf02cb158ba1d2219bb58450f8dacbee252fc8ccabea3a5de3ef6c138",
+  "native_sha256": "cbf7880d2a4e31fe9a8def1f0d88d78beebeb64557bffb023e668511db1d8f80",
+  "prompt_sha256": "f8cffa387e5b94c0db944da6e81aafce1104f4643a1c488e60af1e417602b29b",
+  "file_size_bytes": 554356,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "90/90髋转换",
+    "sub": "髋部活动 · 舒适范围慢慢转",
+    "category": "髋部活动",
+    "equipment": "瑜伽垫",
+    "cue": [
+      "坐稳屈膝，双手撑在身后",
+      "髋带双膝缓慢转向一侧",
+      "缓慢换侧，不强压膝盖贴地"
+    ],
+    "dose": "左右各4–6次 × 1–2组",
+    "mistake": "甩腿，或用手强压膝盖",
+    "easy": "臀下垫高，缩小转动范围",
+    "labels": [
+      "双手撑稳、膝向左",
+      "缓慢换到另一侧"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.113574+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

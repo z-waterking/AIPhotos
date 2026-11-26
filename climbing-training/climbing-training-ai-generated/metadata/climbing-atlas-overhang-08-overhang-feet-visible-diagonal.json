@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-overhang-08-overhang-feet-visible-diagonal.png",
+  "refined_prompt": "../prompts/climbing-atlas-overhang-08-overhang-feet-visible-diagonal.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:27:06.310009+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-overhang",
+  "series_number": 8,
+  "group_number": 16,
+  "anthology_index": 158,
+  "anthology_size": 200,
+  "title": "外倾对角脚点",
+  "description": "钢笔淡彩突出浅外倾墙的对角脚点与稳稳保留的两脚。",
+  "difficulty_theme": "外倾·中阶动作",
+  "verified_route_grade": false,
+  "sha256": "34208cdf81fc331d242a0f5b2ee4a550f91bf18c088a0ae95de744cb60091b7d",
+  "native_sha256": "34208cdf81fc331d242a0f5b2ee4a550f91bf18c088a0ae95de744cb60091b7d",
+  "prompt_sha256": "5cb4a202af1ecce1db82cbd047b828da751528939d8ae7affc2dec454026079f",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3277209,
+  "art_direction": {
+    "medium": "soft pastel drawing with clear contour accents",
+    "scene": "An original ink-and-wash illustration shows a fictional adult balanced across two diagonally arranged low footholds on a shallow overhanging bouldering wall. Both shoes visibly press their positive edges, one knee is naturally bent, and broad orange handholds keep a short next reach controlled. Avoid tangled legs or an exaggerated suspended pose. Use a side-oblique medium-wide camera that includes the entire clothed figure, modest wall angle, and thick continuous crash mat. Delicate blue ink, pale ochre washes, and warm terracotta clothing convey a quiet focused moment. The route remains close to the floor. Include no captions, brands, jumping, cut-loose feet, or dramatic exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:29:05.536950+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "a133c50979ee36bfce461711dcb7ac752630358632b6bdbb294fb42dcf32dd75"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

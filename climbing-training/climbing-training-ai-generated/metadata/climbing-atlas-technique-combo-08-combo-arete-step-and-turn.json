@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-technique-combo-08-combo-arete-step-and-turn.png",
+  "refined_prompt": "../prompts/climbing-atlas-technique-combo-08-combo-arete-step-and-turn.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:08:44.830395+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-technique-combo",
+  "series_number": 8,
+  "group_number": 20,
+  "anthology_index": 198,
+  "anthology_size": 200,
+  "title": "棱边踏步接转身",
+  "description": "钢笔淡彩记录低外棱旁的短踏步与自然身体转向。",
+  "difficulty_theme": "综合动作·中阶低位",
+  "verified_route_grade": false,
+  "sha256": "938dcb2f0e33a3585d37b443ff1c7dc4c221ece83e5fda0a1ab7f06aa782efd6",
+  "native_sha256": "938dcb2f0e33a3585d37b443ff1c7dc4c221ece83e5fda0a1ab7f06aa782efd6",
+  "prompt_sha256": "6db3397d5dfb4a4f1da39c94feaf1afd4fa2d2cefec4ebfb399cf64df3d42063",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3121922,
+  "art_direction": {
+    "medium": "soft pastel drawing with clear contour accents",
+    "scene": "An original pen-and-wash illustration depicts a fictional adult stepping to a nearby positive foothold while turning gently around a broad rounded arete. One hand stays on a large amber jug on the near face, the other rests on a rounded hold around the edge, and both shoes remain close to thick continuous crash mats. The shoulders and hips rotate naturally together, without a forced twist. Use a wide oblique view showing the entire opaque-clothed adult, both wall faces, target foothold, and clear landing space. Fine blue contours and warm gray washes create an original calm scene. Preserve credible anatomy. No captions, logos, leaps, or high exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:12:04.374787+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f1e76310ed4f28c3d578af6f4da887e98fa7fa9fc54b3eda391c799eb87294d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-core-01-heel-slide.png",
+  "refined_prompt": "../prompts/climbing-atlas-core-01-heel-slide.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:47:07.336329+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-core",
+  "series_number": 1,
+  "group_number": 2,
+  "anthology_index": 11,
+  "anthology_size": 200,
+  "title": "脚跟慢慢滑",
+  "description": "成人仰卧瑜伽垫，一侧脚跟沿垫慢慢前滑，另一脚稳稳贴地。",
+  "difficulty_theme": "入门｜核心控制",
+  "verified_route_grade": false,
+  "sha256": "5dc7784f73292f0273b0f136e7e2fc3c768573d1046d843c8c727b32761beaae",
+  "native_sha256": "5dc7784f73292f0273b0f136e7e2fc3c768573d1046d843c8c727b32761beaae",
+  "prompt_sha256": "7b0ad26a703fd7d92b73259397ad183c68ebf61613be91e2cf474d110ce2915c",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2642355,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "A fictional adult lies on a clean exercise mat in a quiet living room, knees initially bent and arms relaxed beside the torso. Show one heel sliding a short way forward along the mat while the other foot remains planted. The pelvis stays level and the head rests comfortably. A plain sofa and a low plant pot remain beyond the mat, with the entire floor exercise visible from a gentle diagonal overhead view. Use a handmade clay-diorama illustration with modeled fictional adult figures, tactile walls, soft studio light, and warm terracotta and mint. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:50:18.601994+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "d94b2d64395261deb402ef91ccb35997bcc5a1f394408953a0d63630c397f6c3"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

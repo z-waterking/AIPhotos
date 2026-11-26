@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-moderate-08-low-undercling-rise.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-moderate-08-low-undercling-rise.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:16:53.143753+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-moderate",
+  "series_number": 8,
+  "group_number": 12,
+  "anthology_index": 118,
+  "anthology_size": 200,
+  "title": "低位反手起身",
+  "description": "钢笔淡彩呈现胸前低反手点与腿部推动的短距离起身。",
+  "difficulty_theme": "中阶抱石",
+  "verified_route_grade": false,
+  "sha256": "445622d100f0e19e6212842f1e7faf344d0d7d9f55277ed4284552c86ce42830",
+  "native_sha256": "445622d100f0e19e6212842f1e7faf344d0d7d9f55277ed4284552c86ce42830",
+  "prompt_sha256": "5c0d7810ddadd71d01d59b8dfd099deca04b73844a22f221085c513f5759371f",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3024496,
+  "art_direction": {
+    "medium": "soft pastel drawing with clear contour accents",
+    "scene": "An original ink-and-watercolor illustration shows a fictional fully clothed adult rising a short distance from a low undercling. The large hold's underside is clearly visible, both shoes press positive footholds near the padded floor, and the climber straightens one bent leg to bring the torso toward a nearby handhold. Avoid a strained hanging pose or extreme arching. Compose the whole figure from a low oblique angle that reveals the grip direction and uninterrupted crash mats. Use fluid blue washes, warm ochre ink accents, and simple gym architecture. Keep the route compact and technically credible. Include no words, logos, leaps, spectators under the route, or dangerous height.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:18:13.467241+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "4f99cc11e099863257038eda6524a87002b8f51a68e3ef0872e0641e7bb3337f"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-footwork-01-quiet-first-step.png",
+  "refined_prompt": "../prompts/climbing-atlas-footwork-01-quiet-first-step.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:55:33.438018+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-footwork",
+  "series_number": 1,
+  "group_number": 5,
+  "anthology_index": 41,
+  "anthology_size": 200,
+  "title": "脚尖轻轻落点",
+  "description": "成人在低墙上将脚尖轻放到大脚点，双手稳握大把手。",
+  "difficulty_theme": "基础技术｜低位精准踩点",
+  "verified_route_grade": false,
+  "sha256": "a79f154752684ce4000fdea2fb17479e7c0968e63bfb84bab9bf9ad43ef3e457",
+  "native_sha256": "a79f154752684ce4000fdea2fb17479e7c0968e63bfb84bab9bf9ad43ef3e457",
+  "prompt_sha256": "6d8fd1d98a6d8fdc3afc5d27d7dd8234759a463fb81e7e5e403e6689e35c3217",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2608755,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "A fictional adult on a nearly vertical low wall gently places one toe on a broad contrasting foothold while the other foot and both hands stay secure. Use a near side view so the arriving toe, shoe edge, and target surface are clearly visible. The landing foot is only a small distance above the mat. Keep the hips close to the wall and the expression patient, with an oversized step-down hold nearby. Use opaque gouache, broad matte strokes, simplified architectural planes, and an airy ochre, teal, and cream palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:58:19.912792+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "a37879418957ef386afe49927284a639411b73e7e885f834c6f819cf46e1f251"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

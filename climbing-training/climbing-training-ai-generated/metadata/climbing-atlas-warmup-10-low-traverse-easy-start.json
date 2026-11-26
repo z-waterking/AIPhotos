@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-warmup-10-low-traverse-easy-start.png",
+  "refined_prompt": "../prompts/climbing-atlas-warmup-10-low-traverse-easy-start.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:46:18.329099+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-warmup",
+  "series_number": 10,
+  "group_number": 1,
+  "anthology_index": 10,
+  "anthology_size": 200,
+  "title": "低位慢横移",
+  "description": "成人在大点横移线温和换步，软垫完整。",
+  "difficulty_theme": "基础热身",
+  "verified_route_grade": false,
+  "sha256": "5ed2697f6f97ac2c82936de90458fa28301198751e093d56d32f677270c66fb9",
+  "native_sha256": "5ed2697f6f97ac2c82936de90458fa28301198751e093d56d32f677270c66fb9",
+  "prompt_sha256": "5be1faa93f99ea8c70d838b9706ad21711610d507c9a116e9b4ed0eb3085c4ea",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2832251,
+  "art_direction": {
+    "medium": "crisp digital comic ink and quiet halftone shadows",
+    "scene": "A fictional adult begins a gentle horizontal traverse on a low vertical bouldering panel. Large rounded handholds and broad footholds form a compact friendly line, feet are only a modest step above the full padded landing floor, and the next step is close. Frame a whole-body side view with empty mats beneath. Use a calm ordinary adult in opaque clothing with believable anatomy. Clear environmental depth, visible foot contacts and relaxed concentration make the moment readable. No words, numbers, logos, dangerous heights, falling, extreme strain or crowded landing zones.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:47:19.588850+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "884a5e4710d2f40381aafa52f66ce061d3a0fabb7a48c25aa2062eb40994fb2f"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

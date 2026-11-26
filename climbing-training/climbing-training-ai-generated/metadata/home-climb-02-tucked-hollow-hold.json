@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-02-tucked-hollow-hold.png",
+  "refined_prompt": "../prompts/home-climb-02-tucked-hollow-hold.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:36.335163+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 2,
+  "title": "屈膝Hollow保持",
+  "sha256": "ade94b20e58ac1518d07fc160236b435081914d026ade927df23bd1c16a58ab4",
+  "native_sha256": "a64e730a1eb982be2405d70743a90a6498f290b753e98276df14e5a5e8f27b5c",
+  "prompt_sha256": "3e62df3c17587fc5d9a0c9d691661823afc75cf63e2c4371e9f2047d24438720",
+  "file_size_bytes": 507340,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "屈膝Hollow保持",
+    "sub": "可选进阶 · 小幅抬肩",
+    "category": "核心控制",
+    "equipment": "瑜伽垫",
+    "cue": [
+      "仰卧屈膝，双脚轻轻离地",
+      "呼气收腹，肩胛小幅离地",
+      "双手伸向膝，保持自然呼吸"
+    ],
+    "dose": "保持8–12秒 × 1–2组",
+    "mistake": "伸脖子、憋气或腰部拱起",
+    "easy": "双脚落地，只练收腹轻抬肩",
+    "labels": [
+      "屈膝仰卧",
+      "小幅抬肩保持"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.107109+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

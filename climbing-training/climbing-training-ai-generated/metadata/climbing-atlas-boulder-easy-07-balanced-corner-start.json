@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-easy-07-balanced-corner-start.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-easy-07-balanced-corner-start.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:14:48.887799+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-easy",
+  "series_number": 7,
+  "group_number": 11,
+  "anthology_index": 107,
+  "anthology_size": 200,
+  "title": "浅角起步",
+  "description": "蜡笔质感描绘浅浅墙角的大点起步，两脚分立、重心稳定。",
+  "difficulty_theme": "入门抱石",
+  "verified_route_grade": false,
+  "sha256": "694301a57e18017d046b7b46045db6e330da6b1cd957e8cc641c0f976797aeee",
+  "native_sha256": "694301a57e18017d046b7b46045db6e330da6b1cd957e8cc641c0f976797aeee",
+  "prompt_sha256": "ba08592fbed2049eed958f2218ab9a655a73af5e9684a6010982b93a6ec3617a",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3388243,
+  "art_direction": {
+    "medium": "linocut print with indigo shadows and ochre highlights",
+    "scene": "Create an original wax-crayon illustration of a fictional fully clothed adult starting a beginner route in a shallow indoor corner. Place large violet handholds on both adjoining near-vertical panels, with generous low footholds supporting a comfortable wide stance. The climber looks toward the next nearby jug without pulling high above the mat. A continuous padded floor wraps cleanly into the corner, and the camera includes the whole figure and both wall planes. Use lively crayon grain, friendly green and plum colors, and soft afternoon light. Maintain credible contact between shoes and holds. Avoid extreme splits, leaps, lettering, trademarks, or people within the landing area.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:15:44.486264+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "0558d18da5c6911ad2e9508f6097a3f9200275aa7bc7eca87ed1dc9779b5ee44"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

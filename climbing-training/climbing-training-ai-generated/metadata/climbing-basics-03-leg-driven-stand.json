@@ -1,0 +1,94 @@
+{
+  "output": "../climbing-basics-03-leg-driven-stand.png",
+  "refined_prompt": "../prompts/climbing-basics-03-leg-driven-stand.txt",
+  "source_prompt": "../prompts/climbing-basics-series.txt",
+  "created_at": "2026-11-02T02:53:04.734251+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-basics",
+  "series_number": 3,
+  "title": "用腿把自己推起来",
+  "sha256": "c825bdd297c13b9d72f89cc9e685e75c755dc33a65e2c17c707c71e72dec837f",
+  "native_sha256": "15be8391f18fd8a0e164ce89919a3299e9bbbebdade6adb469ebccf3096fe423",
+  "prompt_sha256": "470202b43779ee73c616dfd9804f40bef07bac57a9071a4847389cba0980e20d",
+  "file_size_bytes": 439955,
+  "art_direction": {
+    "style": "muted teal and terracotta sports editorial illustration",
+    "composition": "two original adult movement studies with deterministic Chinese instructional typesetting",
+    "fictional_adults": true
+  },
+  "exercise": {
+    "title": "用腿把自己推起来",
+    "sub": "直臂蹬腿 · 小幅站高",
+    "category": "上墙技术",
+    "cue": [
+      "双脚踩稳，手臂自然伸长",
+      "屈膝准备，再用腿慢慢站高",
+      "肩部主动控制，手肘不锁死"
+    ],
+    "dose": "小幅站起回落4–6次 × 1–2组",
+    "mistake": "耸肩弯肘，全靠手臂硬拉",
+    "easy": "脚点更低，站起幅度更小",
+    "labels": [
+      "屈膝准备",
+      "蹬腿站高"
+    ]
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        74,
+        240,
+        906,
+        795
+      ],
+      "preserved_aspect_ratio": true,
+      "cropped": false,
+      "upscaled": false
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.101114+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "series_status": "historical exploration; superseded by home-climb for the current home-only request",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

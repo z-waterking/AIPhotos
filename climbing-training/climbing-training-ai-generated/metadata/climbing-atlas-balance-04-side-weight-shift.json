@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-balance-04-side-weight-shift.png",
+  "refined_prompt": "../prompts/climbing-atlas-balance-04-side-weight-shift.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:59:27.917307+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-balance",
+  "series_number": 4,
+  "group_number": 6,
+  "anthology_index": 54,
+  "anthology_size": 200,
+  "title": "左右脚轮流承重",
+  "description": "成人站在平地，小幅左右移重心，双脚始终着地。",
+  "difficulty_theme": "入门｜重心感知",
+  "verified_route_grade": false,
+  "sha256": "7b4830a5726ba6f1532a4d84cfa671ca72018461aace6cb704be83cf0dee64e8",
+  "native_sha256": "7b4830a5726ba6f1532a4d84cfa671ca72018461aace6cb704be83cf0dee64e8",
+  "prompt_sha256": "d5ad616f8c807fb71bbd05f11b0d8d818e08674ee17288341680544e5ef4ee51",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3262972,
+  "art_direction": {
+    "medium": "colored pencil sports sketch with layered visible pencil marks",
+    "scene": "A fictional adult stands with feet comfortably apart and moves weight a little onto the right foot while the left remains fully on the ground. The pelvis shifts modestly, shoulders level, and hands rest on the hips. Depict the supporting knee softly bent rather than collapsed inward. A diagonal full-body view and broad plain floor let the viewer understand the quiet side-to-side balance exercise through one readable position. Use screenprint-inspired illustration with three bold color separations, crisp silhouettes, minimal texture, and ultramarine, gold, and warm white. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:03:07.510945+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b977c72246fb0f9b65adc8d66dbf5600e0e208462c0c3ec59b79879dca676534"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

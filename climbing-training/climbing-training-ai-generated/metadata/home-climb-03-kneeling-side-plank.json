@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-03-kneeling-side-plank.png",
+  "refined_prompt": "../prompts/home-climb-03-kneeling-side-plank.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:36.659397+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 3,
+  "title": "屈膝侧平板",
+  "sha256": "fb94fb92ef3f3c40b9e46d4395e4ecedc67c7b71d26ea5a508f066c8bac3a7b9",
+  "native_sha256": "11ccd9df21cbf896f6154333243e39ed6e7f2f798f7723890c262b84529a94f1",
+  "prompt_sha256": "8494fc405a0e728ce2ea3864beece19b22ad3d6989663325546dd3518f563b25",
+  "file_size_bytes": 550574,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "屈膝侧平板",
+    "sub": "侧向支撑 · 肩髋膝成线",
+    "category": "核心控制",
+    "equipment": "瑜伽垫",
+    "cue": [
+      "侧卧屈膝，手肘在肩正下方",
+      "前臂撑地，缓慢抬起髋部",
+      "肩髋膝成线，保持自然呼吸"
+    ],
+    "dose": "每侧8–15秒 × 1–2组",
+    "mistake": "耸肩，骨盆向前后翻转",
+    "easy": "每次保持5秒，少量开始",
+    "labels": [
+      "侧卧屈膝准备",
+      "抬髋保持"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.107109+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

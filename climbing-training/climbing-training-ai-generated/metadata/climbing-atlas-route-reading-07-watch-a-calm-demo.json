@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-route-reading-07-watch-a-calm-demo.png",
+  "refined_prompt": "../prompts/climbing-atlas-route-reading-07-watch-a-calm-demo.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:05:35.492477+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-route-reading",
+  "series_number": 7,
+  "group_number": 8,
+  "anthology_index": 77,
+  "anthology_size": 200,
+  "title": "看同伴慢慢示范",
+  "description": "一位成人在低墙演示短步，另一位在垫区外观察。",
+  "difficulty_theme": "基础技术｜观察学习",
+  "verified_route_grade": false,
+  "sha256": "3e7b0f06c33c87eb57934ff80753a0cc9e9b27ebd23fa0b2889e03d2f18b3a44",
+  "native_sha256": "3e7b0f06c33c87eb57934ff80753a0cc9e9b27ebd23fa0b2889e03d2f18b3a44",
+  "prompt_sha256": "3b9a0022c2fe2d14c6be830bd266ec4c3f86bf819f4d04d070f5a15c4aa76ce2",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2839498,
+  "art_direction": {
+    "medium": "linocut print with indigo shadows and ochre highlights",
+    "scene": "A fictional adult demonstrates one easy low-wall step with both feet on large holds near the mat and hands on generous jugs. A second adult watches attentively from outside the landing boundary, never beneath the climber. Capture a calm pause after the step, allowing the body position and footholds to be read together. The wall is sparse, the reach modest, and an oversized step-down option remains immediately beside the climber. Use miniature ceramic-relief illustration with glazed-looking illustrated forms, low relief depth, and a restrained white, cobalt, and pale jade palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:08:17.309001+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "0c3b99c79b3d6ac81bb2262ee5f2fd82772d30ab5a3a59796bd2a911c458fc34"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

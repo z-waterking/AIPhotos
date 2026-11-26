@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-body-position-09-move-one-limb.png",
+  "refined_prompt": "../prompts/climbing-atlas-body-position-09-move-one-limb.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:02:29.155186+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-body-position",
+  "series_number": 9,
+  "group_number": 7,
+  "anthology_index": 69,
+  "anthology_size": 200,
+  "title": "一次只调一处",
+  "description": "成人低墙保留三处稳定支撑，移动一只手到邻近把手。",
+  "difficulty_theme": "基础技术｜控制移动",
+  "verified_route_grade": false,
+  "sha256": "fc5107e9dddb5c343fb510b347cd4d8f368f24fefe77a4628b70bbf3f9d5c670",
+  "native_sha256": "fc5107e9dddb5c343fb510b347cd4d8f368f24fefe77a4628b70bbf3f9d5c670",
+  "prompt_sha256": "92327bf7e2eb52cf33d655f7f275f52eef1a174ff6fb6ece5ee6737b751056f0",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3449099,
+  "art_direction": {
+    "medium": "hand-painted oil illustration with restrained impasto",
+    "scene": "A fictional adult makes one calm hand adjustment between neighboring large jug holds on a low vertical wall. Both feet and the other hand remain fixed, hips quiet and shoulders relaxed, so the moving limb is the only change. Choose a slight front-side angle that separates the supporting contacts clearly. Keep every reach short, the shoes near the mat, and the descent foothold visible, with no dynamic leap or motion trails. Use original linocut-inspired illustration with sweeping curved marks, flat cream highlights, and forest green, mustard, and vermilion planes. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:05:28.694566+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "c9b25d08c3ddbb32cf9bf558795c8ef36eeb10ba8a7fa2ea59386fbd50fac394"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

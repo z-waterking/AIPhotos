@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-core-04-knee-side-support.png",
+  "refined_prompt": "../prompts/climbing-atlas-core-04-knee-side-support.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:47:08.785169+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-core",
+  "series_number": 4,
+  "group_number": 2,
+  "anthology_index": 14,
+  "anthology_size": 200,
+  "title": "膝盖帮忙稳住",
+  "description": "成人以前臂和屈膝做低强度侧支撑，上手扶髋。",
+  "difficulty_theme": "入门｜侧向稳定",
+  "verified_route_grade": false,
+  "sha256": "59c2575f1421870636d766b7a03ca6dd880531b496a4521b1803126b4ae6273a",
+  "native_sha256": "59c2575f1421870636d766b7a03ca6dd880531b496a4521b1803126b4ae6273a",
+  "prompt_sha256": "cdb085eab16cfe0efe1a895833e92205087d3668daf5afbc042a175ffe231864",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2998845,
+  "art_direction": {
+    "medium": "colored pencil sports sketch with layered visible pencil marks",
+    "scene": "A fictional adult holds a gentle kneeling side support on a thick mat, elbow directly beneath the lower shoulder and both knees bent on the floor. The hips lift only enough to create a comfortable straight line from head through hip to the supporting knee. The upper hand rests on the pelvis and the gaze remains forward. Frame the whole body against a simple warm wall with a small clear patch of floor around the mat. Use screenprint-inspired illustration with three bold color separations, crisp silhouettes, minimal texture, and ultramarine, gold, and warm white. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:50:18.700659+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "d94b2d64395261deb402ef91ccb35997bcc5a1f394408953a0d63630c397f6c3"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

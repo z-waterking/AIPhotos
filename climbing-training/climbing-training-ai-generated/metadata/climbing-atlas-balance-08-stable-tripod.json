@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-balance-08-stable-tripod.png",
+  "refined_prompt": "../prompts/climbing-atlas-balance-08-stable-tripod.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:00:32.258300+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-balance",
+  "series_number": 8,
+  "group_number": 6,
+  "anthology_index": 58,
+  "anthology_size": 200,
+  "title": "三个点先留住",
+  "description": "成人低墙保留双脚和一手支撑，另一手短距移动。",
+  "difficulty_theme": "基础技术｜三点稳定",
+  "verified_route_grade": false,
+  "sha256": "c01f4067b6d3c687edd75491469ef8a19e53906b05475134e1de072a2e83e87d",
+  "native_sha256": "c01f4067b6d3c687edd75491469ef8a19e53906b05475134e1de072a2e83e87d",
+  "prompt_sha256": "8f4248433ed27845c0435e343b258da42af0e5929281dcb10973db9b5cc967bf",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3227820,
+  "art_direction": {
+    "medium": "soft pastel drawing with clear contour accents",
+    "scene": "A fictional adult on a low wall keeps both feet on broad holds and one hand on a large jug while the other hand makes a small nearby move. Show the three steady contacts visibly separated, with hips quiet and no stretched reach. The feet remain close to the mat, and an easy descent foothold is prominent. Use a clean three-quarter angle to make the grounded stable posture the central visual idea. Use etched-ink illustration with delicate controlled hatching, a few flat washes, and warm sepia balanced by pale turquoise. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:03:07.629612+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b977c72246fb0f9b65adc8d66dbf5600e0e208462c0c3ec59b79879dca676534"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

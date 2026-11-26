@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-vertical-01-vertical-leg-driven-rise.png",
+  "refined_prompt": "../prompts/climbing-atlas-vertical-01-vertical-leg-driven-rise.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:22:59.183076+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-vertical",
+  "series_number": 1,
+  "group_number": 15,
+  "anthology_index": 141,
+  "anthology_size": 200,
+  "title": "直壁由腿起身",
+  "description": "水彩中，成人在低直壁以腿推动完成短距离上移。",
+  "difficulty_theme": "直壁·基础动作",
+  "verified_route_grade": false,
+  "sha256": "400a697e8ca5608d18bf93b090ecc664d377c76daded41ff0602200cf9d8ad3c",
+  "native_sha256": "400a697e8ca5608d18bf93b090ecc664d377c76daded41ff0602200cf9d8ad3c",
+  "prompt_sha256": "7a40df1c9f0409cf6c23cd365e417181bc24bf12ec4a0a9f85515ea07fcce287",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2855244,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "Create an original watercolor illustration of a fictional fully clothed adult making a short leg-driven rise on a low vertical bouldering wall. A bent right leg stands onto a broad foothold while the left shoe stays securely on a lower positive step, and large turquoise handholds offer relaxed support. The torso remains close to the wall without hanging from locked bent elbows. Use a medium-wide side-oblique view that includes the whole figure, distinct hold contacts, and continuous thick crash mats. Paint transparent peach walls, blue-gray trousers, and soft afternoon light. Keep the movement controlled, proportions adult and credible, with no text, branding, jumping, or exposed height.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:27:37.325073+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7be3c640c4013bae611080b3e9128cf9e051f665dc89b902cca7d8bf9bdd5edc"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

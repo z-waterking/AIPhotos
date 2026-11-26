@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-technique-combo-06-combo-heel-hook-and-hand-match.png",
+  "refined_prompt": "../prompts/climbing-atlas-technique-combo-06-combo-heel-hook-and-hand-match.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:06:28.832456+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-technique-combo",
+  "series_number": 6,
+  "group_number": 20,
+  "anthology_index": 196,
+  "anthology_size": 200,
+  "title": "低勾跟接并手",
+  "description": "粉彩描绘低岩包勾跟辅助下的宽大手点并手动作，脚支撑清楚。",
+  "difficulty_theme": "综合动作·进阶低位",
+  "verified_route_grade": false,
+  "sha256": "737f13e9a55cc257b6a0ea74f462203d5fdb287ce02484455240a3b4363b9ab7",
+  "native_sha256": "737f13e9a55cc257b6a0ea74f462203d5fdb287ce02484455240a3b4363b9ab7",
+  "prompt_sha256": "325808ddbc755b99a92c5e144f31620c38e879f62760724e15d7ecea4eaf70df",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2677087,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "An original pastel illustration shows a fictional adult using a low heel hook on a knee-high volume while gently matching both hands on a broad rounded jug. The other shoe stays engaged on a clear positive foothold, and the torso remains compact near a shallow overhanging wall. The hand match is controlled, with no sudden release or airborne swing. Frame the full opaque-clothed adult from an oblique medium-wide angle, showing both shoe contacts and thick continuous crash mats across the empty landing. Use dusty lavender, peach, and deep teal pigments. Keep adult anatomy and grip orientation credible. No captions, brands, high exposure, leaps, or exaggerated contortion.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:12:04.305037+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f1e76310ed4f28c3d578af6f4da887e98fa7fa9fc54b3eda391c799eb87294d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

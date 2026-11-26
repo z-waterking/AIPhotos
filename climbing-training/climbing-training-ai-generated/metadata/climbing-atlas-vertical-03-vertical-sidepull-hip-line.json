@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-vertical-03-vertical-sidepull-hip-line.png",
+  "refined_prompt": "../prompts/climbing-atlas-vertical-03-vertical-sidepull-hip-line.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:26:27.866815+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-vertical",
+  "series_number": 3,
+  "group_number": 15,
+  "anthology_index": 143,
+  "anthology_size": 200,
+  "title": "直壁侧拉与髋线",
+  "description": "水粉用清楚的大侧拉点表现身体贴墙、髋部稍转的瞬间。",
+  "difficulty_theme": "直壁·中阶动作",
+  "verified_route_grade": false,
+  "sha256": "7766ee88a7e2c54cf8033d369545c4da4d52ca583aea1b98f987f5c09a1d8d8b",
+  "native_sha256": "7766ee88a7e2c54cf8033d369545c4da4d52ca583aea1b98f987f5c09a1d8d8b",
+  "prompt_sha256": "bc7042d1edcc0362de82b1f5e1664454d04b0c8573e127365cfc76b1df752af5",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3083533,
+  "art_direction": {
+    "medium": "fine pen and transparent watercolor on warm paper",
+    "scene": "Create an original gouache illustration of a fictional adult turning the hips slightly toward a large sidepull on a low vertical wall. The supporting hand naturally grips the broad side-facing hold, both shoes remain engaged on clear low footholds, and the free hand reaches only a short distance toward a neighboring jug. Keep the shoulders and pelvis connected plausibly, without an extreme twist. Use an oblique wide camera that reveals the full adult, wall base, and uninterrupted crash mat. Matte teal, mustard, and warm gray brushwork gives the gym a lively original feel. All garments are opaque. No writing, brands, dyno, dangerous height, or blocked landing zone.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:27:37.414606+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7be3c640c4013bae611080b3e9128cf9e051f665dc89b902cca7d8bf9bdd5edc"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

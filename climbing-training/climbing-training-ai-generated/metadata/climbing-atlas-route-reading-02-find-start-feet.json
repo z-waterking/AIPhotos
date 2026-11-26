@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-route-reading-02-find-start-feet.png",
+  "refined_prompt": "../prompts/climbing-atlas-route-reading-02-find-start-feet.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:04:53.776092+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-route-reading",
+  "series_number": 2,
+  "group_number": 8,
+  "anthology_index": 72,
+  "anthology_size": 200,
+  "title": "先找起步脚点",
+  "description": "成人在墙前地面蹲得很浅，观察最低两个宽脚点。",
+  "difficulty_theme": "入门｜识别起步",
+  "verified_route_grade": false,
+  "sha256": "66bd0f4e1691c8ef318da1779d65fb3187ddf1ad24b0b0960d97efdc12fc90b2",
+  "native_sha256": "66bd0f4e1691c8ef318da1779d65fb3187ddf1ad24b0b0960d97efdc12fc90b2",
+  "prompt_sha256": "2f3e5e8d49aa51e03c9fcc382dd7e0439c33e149c8f4cf449dbd38e42484b052",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2871020,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "A fictional adult makes a shallow squat on the clear floor just outside the mat and studies the two broad lowest footholds of an easy route. One hand rests on the thigh while the other loosely gestures toward the feet area without touching the wall. The holds are large, rounded, and simply color coordinated. Use a low diagonal perspective that reveals the short start and empty landing while keeping the observer entirely on the ground. Use ink-and-wash illustration with sparse expressive contours, broad diluted color, and a pale blue, olive, and charcoal palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:08:17.092563+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "0c3b99c79b3d6ac81bb2262ee5f2fd82772d30ab5a3a59796bd2a911c458fc34"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

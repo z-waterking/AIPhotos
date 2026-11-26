@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-top-rope-01-toprope-first-controlled-step.png",
+  "refined_prompt": "../prompts/climbing-atlas-top-rope-01-toprope-first-controlled-step.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:50:20.273265+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-top-rope",
+  "series_number": 1,
+  "group_number": 19,
+  "anthology_index": 181,
+  "anthology_size": 200,
+  "title": "上方保护第一步",
+  "description": "水彩展示成人起步与完整上方保护系统，保护者的制动手保持下方。",
+  "difficulty_theme": "上方保护·入门路线",
+  "verified_route_grade": false,
+  "sha256": "eb0f87e3b2244d56b5aec884240d1d36b2b61d5883886d051f79d66da1646fbe",
+  "native_sha256": "eb0f87e3b2244d56b5aec884240d1d36b2b61d5883886d051f79d66da1646fbe",
+  "prompt_sha256": "5054e4a16dc0944f84a214a34f5ac8e2ae52523c66aa49e7a5f528396cfb7fdd",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2997266,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "Create an original watercolor illustration of a fictional fully clothed adult taking a controlled first step on an easy indoor top-rope route. Large blue jugs and generous footholds form a vertical line. Use a wide side-oblique view showing the climber's correctly fitted waist-and-leg-loop harness, rope tied correctly through both designated tie-in points, and the continuous rope rising to the overhead anchor then descending to a competent adult belayer. The belayer wears a harness, watches attentively, and keeps the brake hand down on the brake strand beside the belay device. Show proper rope routing, clear floor, opaque clothing, and believable anatomy. No free solo, slack loop, lettering, or brands.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:00:48.951995+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "9842f94a27c5ead7e48d20b113bc31576a0c61342d9053bf2578810c559da375"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

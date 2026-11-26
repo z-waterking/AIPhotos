@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-daily-session-03-clear-the-landing.png",
+  "refined_prompt": "../prompts/climbing-atlas-daily-session-03-clear-the-landing.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:10:40.062877+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-daily-session",
+  "series_number": 3,
+  "group_number": 10,
+  "anthology_index": 93,
+  "anthology_size": 200,
+  "title": "垫子下面留空",
+  "description": "成人把自己的小包移到垫区外长凳旁，墙下保持空旷。",
+  "difficulty_theme": "入门｜环境整理",
+  "verified_route_grade": false,
+  "sha256": "cbec600b1a9ad56ead4812e0a69794be16b0a479ee4c6bc7e70f4b6d3c4bc6e2",
+  "native_sha256": "cbec600b1a9ad56ead4812e0a69794be16b0a479ee4c6bc7e70f4b6d3c4bc6e2",
+  "prompt_sha256": "b879504b370a43b9e289767861f750ecd9842a8dce21afe9e22cb2943251c776",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3078535,
+  "art_direction": {
+    "medium": "fine pen and transparent watercolor on warm paper",
+    "scene": "A fictional adult sets a small gear bag beside a bench outside the padded landing area, leaving the space beneath the low wall clear. The adult bends with soft knees and uses both hands on the bag, while a companion waits nearby on ordinary flooring. Large easy holds and uninterrupted mats are visible behind them, with no person climbing. Use a wide low perspective to make the tidy separation of belongings and practice space obvious. Use layered cardboard diorama illustration with folded architectural planes, readable joints, small material shadows, and beige, aqua, and orange accents. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:13:25.973018+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "a215151a4760a837615a15a38988fb423ad214f42e0508b2ad91bb71e1e17b3c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

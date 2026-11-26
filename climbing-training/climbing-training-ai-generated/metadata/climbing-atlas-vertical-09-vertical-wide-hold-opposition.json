@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-vertical-09-vertical-wide-hold-opposition.png",
+  "refined_prompt": "../prompts/climbing-atlas-vertical-09-vertical-wide-hold-opposition.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:24:56.127802+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-vertical",
+  "series_number": 9,
+  "group_number": 15,
+  "anthology_index": 149,
+  "anthology_size": 200,
+  "title": "直壁宽点对向",
+  "description": "木版画的宽边手点和低脚点构成稳定的对向姿态。",
+  "difficulty_theme": "直壁·中阶动作",
+  "verified_route_grade": false,
+  "sha256": "d9593ae68ed5c55b9c26f24dfb5efdd88c86ee3178bc185d0f75be839d09d8f0",
+  "native_sha256": "d9593ae68ed5c55b9c26f24dfb5efdd88c86ee3178bc185d0f75be839d09d8f0",
+  "prompt_sha256": "05a7b12c925db036c0efcafd8b654c9f05274c7c405902a8dea0f87783bc5da4",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3573505,
+  "art_direction": {
+    "medium": "hand-painted oil illustration with restrained impasto",
+    "scene": "Create an original woodcut-style illustration of a fictional adult balancing between two broad opposing handholds on a low vertical bouldering panel. Both shoes occupy distinct positive footholds, and the hips shift gently toward the weighted leg while the hands retain natural grip orientations. Keep the entire sequence close to the continuous padded floor, with no suspended acrobatics. Use a frontal wide view that includes the full adult, readable wall geometry, and generous empty landing space. Carved navy contours, ivory paper texture, and restrained burnt-orange accents define the forms. Clothing is opaque and unbranded. Exclude lettering, extreme musculature, leaps, high exposure, and spectators below the route.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:27:37.702177+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7be3c640c4013bae611080b3e9128cf9e051f665dc89b902cca7d8bf9bdd5edc"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

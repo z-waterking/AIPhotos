@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-top-rope-05-toprope-short-sidepull-reach.png",
+  "refined_prompt": "../prompts/climbing-atlas-top-rope-05-toprope-short-sidepull-reach.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:54:23.422273+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-top-rope",
+  "series_number": 5,
+  "group_number": 19,
+  "anthology_index": 185,
+  "anthology_size": 200,
+  "title": "上方保护短侧拉",
+  "description": "赛璐璐中，成人在短侧拉动作中保持自然姿态，保护系统完整。",
+  "difficulty_theme": "上方保护·中阶动作",
+  "verified_route_grade": false,
+  "sha256": "c03742462f1880a296fbda9e494925d0ec332ef1f13836757d9cdc2ec98a5970",
+  "native_sha256": "c03742462f1880a296fbda9e494925d0ec332ef1f13836757d9cdc2ec98a5970",
+  "prompt_sha256": "8441518d9ca31394810a3785af608d0e1081f568f490f5198ccbf3463742e4c3",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2945425,
+  "art_direction": {
+    "medium": "two-ink risograph with teal and coral spot colors and precise drawn anatomy",
+    "scene": "Create an original cel-shaded illustration of a fictional adult using a broad sidepull for a short controlled reach on an indoor top-rope route. Both shoes engage positive footholds, the torso turns modestly, and clothing is opaque. A wide side-oblique view includes a correctly fitted climbing harness with correct rope tie-in through its designated points, the continuous rope rising to the overhead anchor and descending to a competent harnessed adult belayer. The belayer looks toward the climber and keeps the brake hand down on the brake strand beside the device. Use crisp indigo, coral, and cream shapes. Show clear floor and plausible anatomy. No free solo, excess slack, text, or brands.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:00:49.084711+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "9842f94a27c5ead7e48d20b113bc31576a0c61342d9053bf2578810c559da375"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

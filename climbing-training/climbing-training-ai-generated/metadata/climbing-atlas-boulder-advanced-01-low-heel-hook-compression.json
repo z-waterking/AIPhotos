@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-advanced-01-low-heel-hook-compression.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-advanced-01-low-heel-hook-compression.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:17:54.421435+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-advanced",
+  "series_number": 1,
+  "group_number": 13,
+  "anthology_index": 121,
+  "anthology_size": 200,
+  "title": "低位勾跟对压",
+  "description": "水粉描绘膝高岩包上的低位勾跟，成人仍贴近完整软垫。",
+  "difficulty_theme": "进阶抱石·低位动作",
+  "verified_route_grade": false,
+  "sha256": "35ccfa5bf1aaa7c0327110e3714910e360418cc658d2baed4a1d4599c31d2286",
+  "native_sha256": "35ccfa5bf1aaa7c0327110e3714910e360418cc658d2baed4a1d4599c31d2286",
+  "prompt_sha256": "f63c8c6e6feb7a233f4e5c25cb27bbbbec2648eece1e19fa17221b15eb8a4051",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2683998,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "Create an original gouache illustration of a fictional fully clothed adult working a low heel-hook compression position. A broad rounded volume at knee height accepts the heel, the other shoe presses a positive foothold, and two large opposing handholds support a compact torso close to the wall. Keep the action entirely low over thick uninterrupted crash mats, with an empty landing zone extending beyond the figure. Use an oblique medium-wide angle so the hooked heel and supporting foot remain readable. Paint matte forest green, burnt orange, and cream surfaces. Show control and plausible adult anatomy, without a leap, extreme contortion, writing, brands, or dramatic exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:21:10.416898+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b487048e03ae28e580b0927a1a435b7bf1526269a95e420292994d47ca9d4c2c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-slab-06-slab-volume-edge-step.png",
+  "refined_prompt": "../prompts/climbing-atlas-slab-06-slab-volume-edge-step.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:20:58.374214+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-slab",
+  "series_number": 6,
+  "group_number": 14,
+  "anthology_index": 136,
+  "anthology_size": 200,
+  "title": "板壁岩包边缘一步",
+  "description": "粉彩细描踏上低岩包正向脚边后的稳站，手点作为辅助。",
+  "difficulty_theme": "板壁·中阶平衡",
+  "verified_route_grade": false,
+  "sha256": "47829a77ded5cd6ea2c0e76c21169f5c64be320a423f872ddeeea3e3b4b2a285",
+  "native_sha256": "47829a77ded5cd6ea2c0e76c21169f5c64be320a423f872ddeeea3e3b4b2a285",
+  "prompt_sha256": "7f8caa8096b3be2be82d567aa0c8ba6e4a2393f7d8154d3b1124e18a4695d2b7",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2800265,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "An original soft-pastel scene depicts a fictional fully clothed adult stepping onto a positive edge on a low slab volume. The volume is broad and shallow, the second shoe stays on a visible nearby foothold, and both hands touch generous rounded holds. Emphasize the calm shift over the front foot rather than an unstable tiptoe pose. A medium-wide side view reveals the wall's gentle lean and the continuous thick padded landing beneath the figure. Use chalky lavender, warm sand, and deep plum pigments with soft hand-drawn contours. Keep adult proportions and shoe contacts credible. Exclude text, brands, leaping, narrow high ledges, and dramatic exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:23:24.569269+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "d00b3a3b2b6656cd5c7b30dbc44b48eb6ba4704fa3b15cc8421fd7f78334b7b0"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

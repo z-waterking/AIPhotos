@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-mobility-04-open-book.png",
+  "refined_prompt": "../prompts/climbing-atlas-mobility-04-open-book.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:52:36.652324+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-mobility",
+  "series_number": 4,
+  "group_number": 4,
+  "anthology_index": 34,
+  "anthology_size": 200,
+  "title": "侧卧慢慢打开",
+  "description": "成人侧卧屈膝，上臂轻缓打开，双膝叠放不扭转。",
+  "difficulty_theme": "入门｜胸椎活动",
+  "verified_route_grade": false,
+  "sha256": "3c64ed1d340239f907c76984e423ad12bf8e31105ce9379973bf4d36c35e4f13",
+  "native_sha256": "3c64ed1d340239f907c76984e423ad12bf8e31105ce9379973bf4d36c35e4f13",
+  "prompt_sha256": "5e0ac0f6e1c9331cb8c6c560fcb502f4b14cdfcfcbecf2e0680c5057c2e353d0",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2952224,
+  "art_direction": {
+    "medium": "colored pencil sports sketch with layered visible pencil marks",
+    "scene": "A fictional adult lies on one side on a mat, knees bent together and a small folded towel supporting the head. The upper arm opens gently backward at comfortable shoulder height while the lower arm rests forward on the mat. Keep both knees stacked and the pelvis quiet so the turn comes softly through the upper torso. Use an elevated side view with a plain wall and ample empty floor around the figure. Use screenprint-inspired illustration with three bold color separations, crisp silhouettes, minimal texture, and ultramarine, gold, and warm white. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:55:28.513601+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f7d17dae7709e3230efd93be46a0f3f0e0d3d0c6b8302c089a25109da6bc3d8"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-body-position-04-wide-base-easy.png",
+  "refined_prompt": "../prompts/climbing-atlas-body-position-04-wide-base-easy.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:01:28.573389+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-body-position",
+  "series_number": 4,
+  "group_number": 7,
+  "anthology_index": 64,
+  "anthology_size": 200,
+  "title": "脚站宽一点",
+  "description": "成人低墙以两块相邻大脚点形成舒适宽支撑。",
+  "difficulty_theme": "基础技术｜稳定底座",
+  "verified_route_grade": false,
+  "sha256": "705862a3ffce0c2efb291f3c148a91d94d08cd4b1f67c1582372243ec46ec588",
+  "native_sha256": "705862a3ffce0c2efb291f3c148a91d94d08cd4b1f67c1582372243ec46ec588",
+  "prompt_sha256": "33f2c1817c9545271cc4378c6141b20563b5affe7d11329318e6bcd71b6f98a7",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3634834,
+  "art_direction": {
+    "medium": "colored pencil sports sketch with layered visible pencil marks",
+    "scene": "A fictional adult stands low on a vertical wall with feet a little wider than hip width on two large footholds. The pelvis remains centered, knees soft, and hands hold broad jugs within easy reach. The stance is comfortable rather than a split, and the shoulders stay loose. Choose a frontal view that makes the broad supporting base clear, with plain wall colors, an empty mat, and an oversized descent foothold beside the figure. Use original woodcut-inspired illustration with confident carved contours, selective crosshatching, and earthy green, rust, and warm paper colors. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:05:28.534560+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "c9b25d08c3ddbb32cf9bf558795c8ef36eeb10ba8a7fa2ea59386fbd50fac394"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

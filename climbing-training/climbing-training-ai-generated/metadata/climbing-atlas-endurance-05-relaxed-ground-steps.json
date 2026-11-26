@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-endurance-05-relaxed-ground-steps.png",
+  "refined_prompt": "../prompts/climbing-atlas-endurance-05-relaxed-ground-steps.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:07:32.825205+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-endurance",
+  "series_number": 5,
+  "group_number": 9,
+  "anthology_index": 85,
+  "anthology_size": 200,
+  "title": "踏步保持轻松",
+  "description": "成人在普通地面自然踏步，身旁是已收好的攀岩装备。",
+  "difficulty_theme": "入门｜舒适节奏",
+  "verified_route_grade": false,
+  "sha256": "568d541a070d37ba1d61809190db153802afeef8c12febc7f224a8a1ffdb1d02",
+  "native_sha256": "568d541a070d37ba1d61809190db153802afeef8c12febc7f224a8a1ffdb1d02",
+  "prompt_sha256": "dfff4e6740821acecf5c8762fbe9839ba17c6637e9527cb3b49c38f5a0a7304d",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3054173,
+  "art_direction": {
+    "medium": "two-ink risograph with teal and coral spot colors and precise drawn anatomy",
+    "scene": "A fictional adult takes relaxed marching steps on a flat clear floor beside a closed gear bag and rolled mat. Capture one heel rising with the knee only slightly lifted and the opposite arm swinging, while posture remains upright and easy. A bright gym window and plain wall give the scene spaciousness. The action should look comfortable enough for conversation, avoiding fast running, timed challenges, sweat drama, or exhaustion. Use colored-pencil illustration with visible directional marks, soft graphite structure, and a quiet sage, blue, and brick palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:10:40.749196+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "4fe3d095e82f3ffc591dec2b2d0c485867978f30732588a31e13d966adfd352d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-easy-01-big-holds-first-step.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-easy-01-big-holds-first-step.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:12:45.534282+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-easy",
+  "series_number": 1,
+  "group_number": 11,
+  "anthology_index": 101,
+  "anthology_size": 200,
+  "title": "大点起步",
+  "description": "暖色水彩中的低位大点路线，成人攀爬者从软垫迈出第一步。",
+  "difficulty_theme": "入门抱石",
+  "verified_route_grade": false,
+  "sha256": "f5605781ed1a1c861fbdabd10ce682aa97f438f2b8b55b489f32a1326a041cdb",
+  "native_sha256": "f5605781ed1a1c861fbdabd10ce682aa97f438f2b8b55b489f32a1326a041cdb",
+  "prompt_sha256": "0ef14c9a1468fb5bd418ffd925b6ba7c1f73d6116ea09a5e340dcd92f7d1b5d0",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2904426,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "An original watercolor illustration shows a fictional fully clothed adult taking a first controlled step onto a low indoor bouldering wall. Large rounded yellow jug holds form a simple diagonal route, with both feet still close to the broad continuous crash mat. The climber keeps relaxed shoulders, one straight supporting arm, and a bent knee bringing the body near the wall. Use a three-quarter wide view that includes the entire landing area, softly painted gym windows, and a quiet bench. Preserve believable hands and contact points. No jumping, spotter obstruction, lettering, logos, or photographic rendering.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:15:44.261256+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "0558d18da5c6911ad2e9508f6097a3f9200275aa7bc7eca87ed1dc9779b5ee44"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

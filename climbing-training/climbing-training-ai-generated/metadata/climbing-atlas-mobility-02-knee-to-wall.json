@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-mobility-02-knee-to-wall.png",
+  "refined_prompt": "../prompts/climbing-atlas-mobility-02-knee-to-wall.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:52:27.218783+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-mobility",
+  "series_number": 2,
+  "group_number": 4,
+  "anthology_index": 32,
+  "anthology_size": 200,
+  "title": "膝盖靠近墙一点",
+  "description": "成人一脚前置，膝盖缓缓靠墙，前脚跟不离地。",
+  "difficulty_theme": "入门｜踝部活动度",
+  "verified_route_grade": false,
+  "sha256": "fc71885a4a5be712a51db46ab55935cabfa973311252274a76520d57a42ae028",
+  "native_sha256": "fc71885a4a5be712a51db46ab55935cabfa973311252274a76520d57a42ae028",
+  "prompt_sha256": "9f471ead52031bb7434ff91fd4d0b478e800c6088b0634c31c73d85bd5953575",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2835477,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "A fictional adult stands in a short split stance facing a plain wall, one knee approaching the wall while the same heel stays firmly on the floor. Both hands lightly support against the wall, shoulders loose and movement small. The rear leg remains comfortable with no extreme lunge. A low side view reveals the ankle relationship, while daylight and a neatly rolled mat make the room feel calm and accessible. Use ink-and-wash illustration with sparse expressive contours, broad diluted color, and a pale blue, olive, and charcoal palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:55:28.420459+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f7d17dae7709e3230efd93be46a0f3f0e0d3d0c6b8302c089a25109da6bc3d8"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

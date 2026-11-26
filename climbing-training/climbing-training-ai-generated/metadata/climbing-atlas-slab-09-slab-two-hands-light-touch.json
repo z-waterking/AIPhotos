@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-slab-09-slab-two-hands-light-touch.png",
+  "refined_prompt": "../prompts/climbing-atlas-slab-09-slab-two-hands-light-touch.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:22:04.754264+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-slab",
+  "series_number": 9,
+  "group_number": 14,
+  "anthology_index": 139,
+  "anthology_size": 200,
+  "title": "双手轻扶板壁",
+  "description": "木版画用鲜明轮廓展示双手轻扶大点、双脚稳定承重的低位姿态。",
+  "difficulty_theme": "板壁·基础平衡",
+  "verified_route_grade": false,
+  "sha256": "1cb95daf015b2d19cf2357aff6996963db84fab8f0bd84a5e0a8360b09aefe77",
+  "native_sha256": "1cb95daf015b2d19cf2357aff6996963db84fab8f0bd84a5e0a8360b09aefe77",
+  "prompt_sha256": "b8ff1e80056d41d12bc2df02875246f66fda513cc3807d41870fb1c7418db80c",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3664487,
+  "art_direction": {
+    "medium": "hand-painted oil illustration with restrained impasto",
+    "scene": "Create an original woodcut-style illustration of a fictional fully clothed adult balancing on a low gentle slab with both hands lightly touching large holds. Broad positive footholds take the main body weight, and the torso stands naturally above the shoes without a deep backward lean. The route extends a short distance sideways, with the next handhold comfortably nearby. Show a frontal medium-wide scene including the whole figure and thick empty crash mat. Use carved indigo contours, cream paper grain, and restrained mustard accents to distinguish contact points. Keep the adult's hands and knees credible. No text, branding, jumping, precarious exposure, or exaggerated flexibility.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:23:24.681716+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "d00b3a3b2b6656cd5c7b30dbc44b48eb6ba4704fa3b15cc8421fd7f78334b7b0"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

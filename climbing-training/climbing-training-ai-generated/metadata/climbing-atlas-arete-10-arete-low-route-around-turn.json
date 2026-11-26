@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-arete-10-arete-low-route-around-turn.png",
+  "refined_prompt": "../prompts/climbing-atlas-arete-10-arete-low-route-around-turn.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:30:03.776595+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-arete",
+  "series_number": 10,
+  "group_number": 17,
+  "anthology_index": 170,
+  "anthology_size": 200,
+  "title": "低位绕棱转线",
+  "description": "孔版印刷中，路线从正面绕到侧面，成人双脚始终靠近软垫。",
+  "difficulty_theme": "外棱·中阶平衡",
+  "verified_route_grade": false,
+  "sha256": "8b5d2c5976bbe7c805f3c14a45fcf8f23c9c714f816c70ffcb46f1d9a6782bf3",
+  "native_sha256": "8b5d2c5976bbe7c805f3c14a45fcf8f23c9c714f816c70ffcb46f1d9a6782bf3",
+  "prompt_sha256": "121f7af1a8723d9927dc61d9efe688bf1f07d122b967ad350ebbabdc4fc037f2",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3371255,
+  "art_direction": {
+    "medium": "crisp digital comic ink and quiet halftone shadows",
+    "scene": "An original risograph illustration shows a fictional fully clothed adult following a compact low route around a broad rounded arete. Large purple handholds continue from the front face to the side face, and positive blue footholds keep both shoes close to the continuous crash mat. The climber turns gently with the wall while one hand approaches the next nearby jug, retaining a composed balanced stance. Use a wide three-quarter composition with the whole adult, readable wall geometry, and empty landing space. Layer cobalt, lilac, and warm peach inks with subtle grain and imperfect print registration. Exclude words, brands, jumping, dangerous height, extreme contortion, and portrait-only framing.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:31:19.726579+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "f93aeb1579e0b4a57f361123dd8e4f53b6d4d92e8dd4038ade0ee11c2baf2166"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

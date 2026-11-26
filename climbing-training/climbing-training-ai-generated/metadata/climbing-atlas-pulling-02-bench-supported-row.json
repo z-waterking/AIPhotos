@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-pulling-02-bench-supported-row.png",
+  "refined_prompt": "../prompts/climbing-atlas-pulling-02-bench-supported-row.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:49:19.680234+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-pulling",
+  "series_number": 2,
+  "group_number": 3,
+  "anthology_index": 22,
+  "anthology_size": 200,
+  "title": "扶稳凳子拉一下",
+  "description": "成人一手扶稳固长凳，另一手用轻哑铃做划船。",
+  "difficulty_theme": "入门｜单侧轻拉",
+  "verified_route_grade": false,
+  "sha256": "66d1bca465e92ba64e9d80d6f1641beed5c58d06eb9a7e426c95ce24ecdf52c7",
+  "native_sha256": "66d1bca465e92ba64e9d80d6f1641beed5c58d06eb9a7e426c95ce24ecdf52c7",
+  "prompt_sha256": "aefe2467c91c23cb989e4893530a4424a7c57a47a18d6dfa1a508afc3b2a01f5",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2957343,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "A fictional adult supports one hand on a sturdy gym bench while the other holds a small light dumbbell beneath the shoulder. Show a controlled row toward the hip, with hips square, knees soft, and neck aligned naturally. Both shoes remain on the floor, and the bench is broad and stable. Use a three-quarter angle that makes the supporting hand, free elbow, and clear floor all visible without a cluttered training station. Use transparent watercolor with reserved paper light, fluid contours, a restrained indigo and warm sienna palette, and generous breathing room. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:52:11.502983+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "c51601626c98aa619d37aa9248bc9455e209ff93d3acbf5e7f520ead66547172"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

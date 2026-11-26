@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-technique-combo-01-combo-step-and-sidepull.png",
+  "refined_prompt": "../prompts/climbing-atlas-technique-combo-01-combo-step-and-sidepull.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:00:38.884887+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-technique-combo",
+  "series_number": 1,
+  "group_number": 20,
+  "anthology_index": 191,
+  "anthology_size": 200,
+  "title": "踏步与侧拉组合",
+  "description": "水彩以低位踏步加短侧拉构成紧凑动作组合，软垫完整。",
+  "difficulty_theme": "综合动作·中阶低位",
+  "verified_route_grade": false,
+  "sha256": "c588bc21263846dcc6f1759216ae9c5d61fd509f426b67aaf5cd0f37616756cc",
+  "native_sha256": "c588bc21263846dcc6f1759216ae9c5d61fd509f426b67aaf5cd0f37616756cc",
+  "prompt_sha256": "f7e328619cf14530c3a2ac607682ced1f379dbc63070c0e25bf4d889443be3bd",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2886365,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "Create an original watercolor illustration of a fictional fully clothed adult combining a short leg-driven step with a broad sidepull on a low vertical bouldering wall. One shoe stands onto a positive foothold while the other remains securely engaged, and the supporting hand holds a large side-facing edge. The free hand approaches a nearby rounded jug with the torso naturally close to the wall. Use a wide oblique composition including all contacts, the whole adult, and thick continuous crash mats with an empty landing zone. Soft coral washes, mint holds, and blue-gray clothing create an original peaceful scene. No leaps, lettering, brands, extreme strain, or dangerous height.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:12:04.119770+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f1e76310ed4f28c3d578af6f4da887e98fa7fa9fc54b3eda391c799eb87294d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

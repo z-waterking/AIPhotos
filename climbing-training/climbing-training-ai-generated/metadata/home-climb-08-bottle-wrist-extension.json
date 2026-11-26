@@ -1,0 +1,97 @@
+{
+  "output": "../home-climb-08-bottle-wrist-extension.png",
+  "refined_prompt": "../prompts/home-climb-08-bottle-wrist-extension.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:38.203612+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 8,
+  "title": "小水瓶腕背伸",
+  "sha256": "a6aa0943a4ac598fda5b4fb0870db3615682f6f410bed8e7ce35507faeb2ccef",
+  "native_sha256": "ba90b0e482db03eb3fb2dc1979bd36bf8a42d0c6061f4cbd7ee30ffdab0b84eb",
+  "prompt_sha256": "a78afd03ac8705bddecb66efc938aee387f55b08a0a870a37a4f77feb7038c91",
+  "file_size_bytes": 545960,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "小水瓶腕背伸",
+    "sub": "腕伸肌练习 · 不是指力悬挂",
+    "category": "前臂基础",
+    "equipment": "小水瓶＋稳固桌",
+    "cue": [
+      "前臂伏桌，手腕伸出桌沿",
+      "掌心朝下，轻握小水瓶",
+      "手腕小幅抬落，前臂保持不动"
+    ],
+    "dose": "每侧8–10次 × 1–2组",
+    "mistake": "抬整条手臂，借惯性摆动",
+    "easy": "使用空瓶，或先空手练习",
+    "labels": [
+      "掌心向下、腕在桌外",
+      "小幅抬起手背"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.112079+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ],
+    "correction": "Regenerated close-up to make palm-down wrist extension explicit"
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

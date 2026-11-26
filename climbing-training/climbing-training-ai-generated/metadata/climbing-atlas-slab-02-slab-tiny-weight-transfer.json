@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-slab-02-slab-tiny-weight-transfer.png",
+  "refined_prompt": "../prompts/climbing-atlas-slab-02-slab-tiny-weight-transfer.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:19:51.943059+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-slab",
+  "series_number": 2,
+  "group_number": 14,
+  "anthology_index": 132,
+  "anthology_size": 200,
+  "title": "板壁轻移重心",
+  "description": "彩铅画把重心从一只低脚点转向另一只的细微变化放大。",
+  "difficulty_theme": "板壁·基础平衡",
+  "verified_route_grade": false,
+  "sha256": "4ada4735ea33e95e054376f3dfbca32362f137aa073eae228fcb582f753515ab",
+  "native_sha256": "4ada4735ea33e95e054376f3dfbca32362f137aa073eae228fcb582f753515ab",
+  "prompt_sha256": "b19f327944c340f48b821bf2b34a44ee118e88e967344855c2c2da8ad2445fcc",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3294405,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "An original colored-pencil illustration depicts a fictional adult making a small weight transfer between two positive low footholds on a gentle slab. The hands stay lightly on broad nearby holds while the hips move over the supporting right shoe. Keep the torso calm and upright, the left heel relaxed, and the next foothold clearly visible rather than hidden by the body. Frame the full figure from a side-oblique medium-wide angle with continuous padded flooring below. Use fine blue pencil lines, warm paper grain, and muted orange clothing. The scene remains low and controlled. Exclude text, brand marks, jumping, precarious high balance, and exaggerated adult anatomy.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:23:24.432079+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "d00b3a3b2b6656cd5c7b30dbc44b48eb6ba4704fa3b15cc8421fd7f78334b7b0"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

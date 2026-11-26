@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-advanced-09-static-low-box-position.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-advanced-09-static-low-box-position.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:19:56.580398+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-advanced",
+  "series_number": 9,
+  "group_number": 13,
+  "anthology_index": 129,
+  "anthology_size": 200,
+  "title": "低位箱式姿态",
+  "description": "孔版印刷描绘双岩包构成的紧凑箱式支撑，不靠腾跃完成。",
+  "difficulty_theme": "进阶抱石·低位动作",
+  "verified_route_grade": false,
+  "sha256": "6b33e37edded14aa90189bcd7548579def58ede5c95d3ad1854456ef847d1857",
+  "native_sha256": "6b33e37edded14aa90189bcd7548579def58ede5c95d3ad1854456ef847d1857",
+  "prompt_sha256": "0caf10e9a194eff0ecfeaf3d494e65242e1ff490f24bffbc4418c0a57858df49",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3367305,
+  "art_direction": {
+    "medium": "hand-painted oil illustration with restrained impasto",
+    "scene": "Create an original risograph composition of a fictional adult holding a compact box-like position between two low geometric bouldering volumes. Broad hand edges and positive shoe ledges support the body on a shallow inclined wall, keeping both knees naturally bent and the feet close to the thick crash mat. The climber shifts one hand a short distance while the remaining contacts stay engaged. Use an oblique wide view that reveals the relationship of both volumes and the full clear landing area. Layer plum, apricot, and deep blue printed textures with imperfect registration. All clothing is opaque, anatomy plausible. Include no dynamic leap, text, logo, high exposure, or circus pose.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:21:10.715808+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b487048e03ae28e580b0927a1a435b7bf1526269a95e420292994d47ca9d4c2c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

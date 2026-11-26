@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-endurance-01-easy-traverse-pause.png",
+  "refined_prompt": "../prompts/climbing-atlas-endurance-01-easy-traverse-pause.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:08:50.239137+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-endurance",
+  "series_number": 1,
+  "group_number": 9,
+  "anthology_index": 81,
+  "anthology_size": 200,
+  "title": "轻松横移停一下",
+  "description": "成人低墙短距离横移后停住，双脚支撑，动作不赶。",
+  "difficulty_theme": "基础技术｜轻松连续移动",
+  "verified_route_grade": false,
+  "sha256": "967a031f388fa09205da2f2e27dc0301a21c3c61acb088bf2c912629c7fe0588",
+  "native_sha256": "967a031f388fa09205da2f2e27dc0301a21c3c61acb088bf2c912629c7fe0588",
+  "prompt_sha256": "a1db6f28753c0c89571c37514a916f6c341e48894f476702db4ab80e648245be",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2490447,
+  "art_direction": {
+    "medium": "clean cel-shaded sports animation with crisp anatomy and soft environmental light",
+    "scene": "A fictional adult pauses partway through a short easy traverse on a nearly vertical low wall, both feet settled on broad footholds and hands comfortably around large jugs. The hips stay close to the wall, shoulders quiet, and face relaxed rather than exhausted. Show only a small wall section with a clear descent option and no long demanding circuit. A soft mat and distant bench create a patient practice atmosphere. Use opaque gouache, broad matte strokes, simplified architectural planes, and an airy ochre, teal, and cream palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:10:40.601519+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "4fe3d095e82f3ffc591dec2b2d0c485867978f30732588a31e13d966adfd352d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-balance-02-supported-single-leg.png",
+  "refined_prompt": "../prompts/climbing-atlas-balance-02-supported-single-leg.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:58:41.644622+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-balance",
+  "series_number": 2,
+  "group_number": 6,
+  "anthology_index": 52,
+  "anthology_size": 200,
+  "title": "扶着墙站稳",
+  "description": "成人一手轻扶墙边固定栏杆，另一脚轻离地。",
+  "difficulty_theme": "入门｜有支撑平衡",
+  "verified_route_grade": false,
+  "sha256": "49b4b3115079952208070a907490701bfc17bc2807f978ea42406ff976c926d5",
+  "native_sha256": "49b4b3115079952208070a907490701bfc17bc2807f978ea42406ff976c926d5",
+  "prompt_sha256": "a771db77e9a0f7dcc7be7069de0c16e1f3dbdb3dccbaface1788aa2e842ab1ed",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2949819,
+  "art_direction": {
+    "medium": "opaque gouache illustration with broad matte brush marks",
+    "scene": "A fictional adult stands beside a fixed low wall rail, one hand touching it lightly while one foot lifts only a few centimeters. The supporting knee remains soft and the pelvis level. Capture a calm face and free hand at the side, with trainers and a clear level floor visible. A bright open window and plain folded mat create an approachable exercise corner rather than an athletic performance scene. Use ink-and-wash illustration with sparse expressive contours, broad diluted color, and a pale blue, olive, and charcoal palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:03:07.446475+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b977c72246fb0f9b65adc8d66dbf5600e0e208462c0c3ec59b79879dca676534"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

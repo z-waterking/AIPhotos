@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-mobility-08-standing-calf-ease.png",
+  "refined_prompt": "../prompts/climbing-atlas-mobility-08-standing-calf-ease.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:54:14.910996+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-mobility",
+  "series_number": 8,
+  "group_number": 4,
+  "anthology_index": 38,
+  "anthology_size": 200,
+  "title": "小腿慢慢舒展",
+  "description": "成人双手扶墙，后脚跟贴地，做温和的小腿活动。",
+  "difficulty_theme": "入门｜小腿活动",
+  "verified_route_grade": false,
+  "sha256": "cef45d691d89c6b7f7b11a1d36b3b4e7f3a4448eb5f37a74bdbfbeb4adf8bcc1",
+  "native_sha256": "cef45d691d89c6b7f7b11a1d36b3b4e7f3a4448eb5f37a74bdbfbeb4adf8bcc1",
+  "prompt_sha256": "ddaf352e6603c6ac3217de4d22311fbcd6ad8f3d0cdc4919505ca1c14490ff8c",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3337315,
+  "art_direction": {
+    "medium": "soft pastel drawing with clear contour accents",
+    "scene": "A fictional adult uses both palms on a plain wall for support while standing in a short staggered stance. The back heel remains planted and the rear knee softly extended, creating only a gentle calf stretch. The front knee bends modestly, and the torso stays long rather than folded. Compose a clean full-body side view, with a plant outside the foot area and soft late-afternoon light on the floor. Use etched-ink illustration with delicate controlled hatching, a few flat washes, and warm sepia balanced by pale turquoise. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:55:28.702741+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f7d17dae7709e3230efd93be46a0f3f0e0d3d0c6b8302c089a25109da6bc3d8"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

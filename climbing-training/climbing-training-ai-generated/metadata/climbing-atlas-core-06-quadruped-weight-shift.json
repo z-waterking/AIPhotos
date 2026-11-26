@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-core-06-quadruped-weight-shift.png",
+  "refined_prompt": "../prompts/climbing-atlas-core-06-quadruped-weight-shift.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:48:18.528134+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-core",
+  "series_number": 6,
+  "group_number": 2,
+  "anthology_index": 16,
+  "anthology_size": 200,
+  "title": "重心向手上走一点",
+  "description": "成人四点跪撑，缓缓把重心前移，四肢仍贴垫。",
+  "difficulty_theme": "入门｜支撑控制",
+  "verified_route_grade": false,
+  "sha256": "b86124f7e1e96739e1c1b4d5eeaa1eedbeb51ba91ecdc227b5ebabff96abe185",
+  "native_sha256": "b86124f7e1e96739e1c1b4d5eeaa1eedbeb51ba91ecdc227b5ebabff96abe185",
+  "prompt_sha256": "49581b62549023350b1e09f639d540d0bcce141f3f4785f020dd7d4d9cd0ea0a",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2521104,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "A fictional adult remains on hands and knees while shifting the torso slightly forward over open palms, keeping both knees on the mat. The elbows stay softly extended, the back level, and the head follows the spine. Capture only a small comfortable shift, with no knee lift or demanding plank. Use a near side view with the hands in the foreground and a pale climbing gym exercise wall behind the mat. Use dry-brush acrylic illustration with blocky forms, textured edge transitions, and a clear gray-green, persimmon, and cream palette. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:50:18.774215+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "d94b2d64395261deb402ef91ccb35997bcc5a1f394408953a0d63630c397f6c3"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-advanced-07-low-heel-to-foot-release.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-advanced-07-low-heel-to-foot-release.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:18:55.103321+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-advanced",
+  "series_number": 7,
+  "group_number": 13,
+  "anthology_index": 127,
+  "anthology_size": 200,
+  "title": "勾跟转踏点",
+  "description": "钢笔淡彩记录低位勾跟解除并移向附近脚点的控制瞬间。",
+  "difficulty_theme": "进阶抱石·低位动作",
+  "verified_route_grade": false,
+  "sha256": "302add467dbcfd5f9ad2e31569537dbc80fc0b6f9f66d339181f6310f156f496",
+  "native_sha256": "302add467dbcfd5f9ad2e31569537dbc80fc0b6f9f66d339181f6310f156f496",
+  "prompt_sha256": "a0b4c474cbe3685ca2cb66eacb543e32661adfc9edfba48f7c22ceeca943d230",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3180621,
+  "art_direction": {
+    "medium": "linocut print with indigo shadows and ochre highlights",
+    "scene": "Create an original pen-and-watercolor illustration of a fictional adult transitioning from a low heel hook to a nearby positive foothold. The heel leaves a knee-high rounded volume slowly while the other foot and both hands retain stable support. A shallow overhanging panel carries broad blue edges in a compact lateral route, with the entire action close to thick uninterrupted crash mats. Use a medium-wide side angle that clearly separates the moving shoe from the volume and shows the next foothold. Fine dark ink, muted blue washes, and warm gray wall planes convey concentration. The adult is fully clothed. No leaps, swinging feet, text, brands, or dramatic height.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:21:10.642555+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b487048e03ae28e580b0927a1a435b7bf1526269a95e420292994d47ca9d4c2c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

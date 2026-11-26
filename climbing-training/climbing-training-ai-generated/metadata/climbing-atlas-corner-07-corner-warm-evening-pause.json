@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-corner-07-corner-warm-evening-pause.png",
+  "refined_prompt": "../prompts/climbing-atlas-corner-07-corner-warm-evening-pause.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:32:24.130806+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-corner",
+  "series_number": 7,
+  "group_number": 18,
+  "anthology_index": 177,
+  "anthology_size": 200,
+  "title": "暖灯内角小停顿",
+  "description": "油画笔触中，浅内角低位停顿显得平静，完整软垫环绕墙角。",
+  "difficulty_theme": "内角·基础平衡",
+  "verified_route_grade": false,
+  "sha256": "8d02e07a08d89de613f413b9e65cd689dc326e27340f58420f2d69296abdfd3d",
+  "native_sha256": "8d02e07a08d89de613f413b9e65cd689dc326e27340f58420f2d69296abdfd3d",
+  "prompt_sha256": "b7d3478d445374899146f5a7539ca6b946e29d2440a26c2b2341c2e4f69bbebe",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3439957,
+  "art_direction": {
+    "medium": "linocut print with indigo shadows and ochre highlights",
+    "scene": "Create an original oil-painting illustration of a fictional adult pausing on a low route inside a shallow gym corner under warm evening lights. Both hands rest on broad blue jugs, both shoes occupy generous footholds across the two faces, and the body remains upright in a comfortable stance. The adult calmly looks toward the next nearby hold. Use a wide three-quarter camera with the whole opaque-clothed figure, adjoining walls, and uninterrupted crash mats wrapping into the corner. Rich ochre illumination, blue-gray shadows, and visible impasto create a peaceful original image. Keep proportions plausible and the landing clear. No text, brands, leaps, dangerous height, or forced flexibility.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:33:17.680652+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "2b9315fd47577f0f14949a58cfcd1ffc336045b948c04ab9e455c26c108cfab4"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

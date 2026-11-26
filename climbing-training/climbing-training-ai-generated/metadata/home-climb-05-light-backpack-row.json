@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-05-light-backpack-row.png",
+  "refined_prompt": "../prompts/home-climb-05-light-backpack-row.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:37.273700+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 5,
+  "title": "轻背包俯身划船",
+  "sha256": "ddbb2c24f9a9c37bcfb181bd253e8d4f270a5916a35edc77828fd9732cd6f45c",
+  "native_sha256": "c0850a9f46cd48e5693b3617258a5869de1c9ec2a7a638e3db5194cedea3c99f",
+  "prompt_sha256": "952fba8c3eaaf7009361372a581f1342b990f3d9d688564acc25aef42339e063",
+  "file_size_bytes": 608065,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "轻背包俯身划船",
+    "sub": "轻负重 · 背部拉力基础",
+    "category": "上肢拉力",
+    "equipment": "牢固轻背包",
+    "cue": [
+      "微屈膝折髋，背部保持自然",
+      "双手各握一条肩带，包靠腿",
+      "手肘向后拉，再缓慢放回"
+    ],
+    "dose": "轻重量6–10次 × 1–2组",
+    "mistake": "圆背、耸肩或甩动背包",
+    "easy": "减轻包内重量，缩小拉动幅度",
+    "labels": [
+      "折髋、握牢肩带",
+      "肘向后拉至腰侧"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.108591+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

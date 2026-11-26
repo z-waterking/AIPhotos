@@ -1,0 +1,94 @@
+{
+  "output": "../climbing-basics-08-wall-pushup.png",
+  "refined_prompt": "../prompts/climbing-basics-08-wall-pushup.txt",
+  "source_prompt": "../prompts/climbing-basics-series.txt",
+  "created_at": "2026-11-02T02:53:06.028090+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-basics",
+  "series_number": 8,
+  "title": "给推力也留一组",
+  "sha256": "2eb2d7f18c68ba7ee4532222fa9d1eac01f056ae96708a03e0788b2493bc75fb",
+  "native_sha256": "9037aab08832407ae98eac4fe42a8d4a7c296a005825371a16cedc12d906726e",
+  "prompt_sha256": "7797daf4b93b01ac8c42db5437cc8a945326d438f6cc91cec6e21dd2df79f59c",
+  "file_size_bytes": 361724,
+  "art_direction": {
+    "style": "muted teal and terracotta sports editorial illustration",
+    "composition": "two original adult movement studies with deterministic Chinese instructional typesetting",
+    "fictional_adults": true
+  },
+  "exercise": {
+    "title": "给推力也留一组",
+    "sub": "墙面俯卧撑 · 推力基础",
+    "category": "基础体能",
+    "cue": [
+      "双手略宽于肩，撑在胸口高",
+      "身体成一直线，屈肘靠近墙",
+      "平稳推回，手肘不向两侧外张"
+    ],
+    "dose": "6–10次 × 1–2组；保留余力",
+    "mistake": "塌腰，或伸脖子去碰墙",
+    "easy": "双脚靠近墙，减小身体倾斜",
+    "labels": [
+      "直线撑墙",
+      "屈肘靠近"
+    ]
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        74,
+        240,
+        906,
+        795
+      ],
+      "preserved_aspect_ratio": true,
+      "cropped": false,
+      "upscaled": false
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.105610+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "series_status": "historical exploration; superseded by home-climb for the current home-only request",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

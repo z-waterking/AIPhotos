@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-04-bird-dog.png",
+  "refined_prompt": "../prompts/home-climb-04-bird-dog.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:36.975357+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 4,
+  "title": "鸟狗式",
+  "sha256": "df6c08dda74b8a83d325441c7759d1cc9314c3e45df6dd9b8bdd484f70e28b90",
+  "native_sha256": "8fb26aea2cde5e7f9982459607ecc1439b3377d7489d677bd74ad70a9efabe33",
+  "prompt_sha256": "4b2a31fc4287d0fff9cd2ea6e219ea3609c734f6751de376a9153e7cc4d66d5c",
+  "file_size_bytes": 513663,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "鸟狗式",
+    "sub": "四点跪撑 · 对侧伸长",
+    "category": "协调稳定",
+    "equipment": "瑜伽垫",
+    "cue": [
+      "双手在肩下，双膝在髋下",
+      "对侧手脚缓慢向前后伸长",
+      "骨盆保持平稳，再缓慢收回"
+    ],
+    "dose": "左右各4–6次 × 1–2组",
+    "mistake": "抬腿过高，塌腰扭髋",
+    "easy": "只伸一条腿，脚尖贴地滑动",
+    "labels": [
+      "四点跪撑",
+      "对侧手脚伸长"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.108591+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "output": "../home-climb-09-ground-target-balance.png",
+  "refined_prompt": "../prompts/home-climb-09-ground-target-balance.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:38.488879+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 9,
+  "title": "单脚点位平衡",
+  "sha256": "49bce94015428980a718edb73808e566d188662919b07de7fbfab029d9bfe316",
+  "native_sha256": "c35d0ab8b1fafef30e2404451a335c57548b924b2149edfd28002a7213c7614d",
+  "prompt_sha256": "ba5e2e91b1a152be3951d6581e5fcadcef0214f31945cf9a034bfd43bfe25cbd",
+  "file_size_bytes": 608035,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "单脚点位平衡",
+    "sub": "地面协调 · 三个方向轻点",
+    "category": "平衡协调",
+    "equipment": "防滑地面＋胶带",
+    "cue": [
+      "支撑脚全脚掌着地站稳",
+      "自由脚轻点前、侧、后标记",
+      "重心保持稳定，缓慢换侧"
+    ],
+    "dose": "每侧3点 × 2轮；练1–2组",
+    "mistake": "自由脚蹬地，或支撑膝内扣",
+    "easy": "一手扶墙，把地面标记移近",
+    "labels": [
+      "单脚站稳",
+      "自由脚轻点标记"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.112079+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

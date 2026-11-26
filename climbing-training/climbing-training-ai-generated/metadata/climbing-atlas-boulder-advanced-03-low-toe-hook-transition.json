@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-boulder-advanced-03-low-toe-hook-transition.png",
+  "refined_prompt": "../prompts/climbing-atlas-boulder-advanced-03-low-toe-hook-transition.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:17:47.957712+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-boulder-advanced",
+  "series_number": 3,
+  "group_number": 13,
+  "anthology_index": 123,
+  "anthology_size": 200,
+  "title": "低岩包勾脚转换",
+  "description": "彩铅细描低岩包边缘的轻勾脚动作，支撑脚和落地区域清楚。",
+  "difficulty_theme": "进阶抱石·低位动作",
+  "verified_route_grade": false,
+  "sha256": "9fb6275ef7769f9ba47ed32df0f60a7d73d1d06bb7e699fb944dcc8e6b078fcc",
+  "native_sha256": "9fb6275ef7769f9ba47ed32df0f60a7d73d1d06bb7e699fb944dcc8e6b078fcc",
+  "prompt_sha256": "6a30bc4355668b939da499235b829f6be542f602e0398e388e7f585f71c47128",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3234155,
+  "art_direction": {
+    "medium": "fine pen and transparent watercolor on warm paper",
+    "scene": "Create an original colored-pencil scene of a fictional fully clothed adult using a gentle low toe hook beneath the lip of a broad volume. The other foot remains on a positive low foothold, both hands hold large rounded edges, and the torso stays close to the lightly inclined wall. The hook is a controlled balance aid, with no suspended acrobatics or extreme twisting. Show a medium-wide side view that makes the volume edge, both shoe contacts, and thick empty crash mats visible. Use grainy ochre paper, indigo pencil shadows, and warm teal clothing. Keep adult anatomy credible. Include no words, logos, jumping, height drama, or blocked landing.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:21:10.493383+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "b487048e03ae28e580b0927a1a435b7bf1526269a95e420292994d47ca9d4c2c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

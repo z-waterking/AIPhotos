@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-arete-09-arete-broad-opposition-low.png",
+  "refined_prompt": "../prompts/climbing-atlas-arete-09-arete-broad-opposition-low.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:30:12.566893+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-arete",
+  "series_number": 9,
+  "group_number": 17,
+  "anthology_index": 169,
+  "anthology_size": 200,
+  "title": "棱角宽点对向",
+  "description": "木版画以两面宽手点描绘低位对向平衡，成人姿态紧凑但自然。",
+  "difficulty_theme": "外棱·中阶平衡",
+  "verified_route_grade": false,
+  "sha256": "49d917969f5c668a45e5c6352a0f040b89a6da90a73bd7ceaf310bd358003327",
+  "native_sha256": "49d917969f5c668a45e5c6352a0f040b89a6da90a73bd7ceaf310bd358003327",
+  "prompt_sha256": "9ab95c2566f97f2232b52ad45a21f4edb5372a3700049c950669f4f131ea4a17",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3959140,
+  "art_direction": {
+    "medium": "hand-painted oil illustration with restrained impasto",
+    "scene": "Create an original woodcut-style illustration of a fictional adult balancing between broad opposing holds on either side of a rounded indoor arete. Both feet stand on visible positive low footholds, the knees bend naturally, and the hips remain close to the wall edge. The movement is a small controlled weight shift rather than an airborne compression maneuver. Show an oblique wide scene with the full opaque-clothed adult, both wall faces, and thick continuous crash mats. Carved navy contours, warm ivory paper grain, and restrained orange hold accents define the original composition. Maintain plausible hands and shoe contacts. No lettering, logos, jumps, extreme strain, or high exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:31:19.683158+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "f93aeb1579e0b4a57f361123dd8e4f53b6d4d92e8dd4038ade0ee11c2baf2166"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

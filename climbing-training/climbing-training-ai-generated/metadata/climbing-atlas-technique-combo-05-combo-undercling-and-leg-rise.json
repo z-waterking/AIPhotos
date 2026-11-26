@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-technique-combo-05-combo-undercling-and-leg-rise.png",
+  "refined_prompt": "../prompts/climbing-atlas-technique-combo-05-combo-undercling-and-leg-rise.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:05:35.845205+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-technique-combo",
+  "series_number": 5,
+  "group_number": 20,
+  "anthology_index": 195,
+  "anthology_size": 200,
+  "title": "反手点接腿部上移",
+  "description": "赛璐璐风格中，低反手点与单腿推动形成清楚的短组合。",
+  "difficulty_theme": "综合动作·中阶低位",
+  "verified_route_grade": false,
+  "sha256": "94d28af7efc7e575a807d0455503c5f58878c4b534410228456a24a0fc37064c",
+  "native_sha256": "94d28af7efc7e575a807d0455503c5f58878c4b534410228456a24a0fc37064c",
+  "prompt_sha256": "e1f11d8e4e321c760b56d44171118ac697eacb0cb5042b2916bd4560c4526da0",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3300928,
+  "art_direction": {
+    "medium": "two-ink risograph with teal and coral spot colors and precise drawn anatomy",
+    "scene": "Create an original cel-shaded illustration of a fictional fully clothed adult combining a broad low undercling with a short leg-driven rise. One hand grips the clearly visible underside of the hold, both shoes remain on positive footholds, and one bent knee straightens modestly to bring the torso near the next jug. The shallow overhanging panel keeps the action low over continuous thick crash mats, with no cut-loose feet. Use a medium-wide side-oblique composition showing the whole adult and clear landing. Crisp navy contours, mint holds, and warm coral wall planes create an original animated scene. Maintain natural anatomy. No leaps, writing, logos, extreme back arch, or high exposure.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:12:04.271705+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7f1e76310ed4f28c3d578af6f4da887e98fa7fa9fc54b3eda391c799eb87294d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

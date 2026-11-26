@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-endurance-06-partner-turns.png",
+  "refined_prompt": "../prompts/climbing-atlas-endurance-06-partner-turns.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:08:42.135069+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-endurance",
+  "series_number": 6,
+  "group_number": 9,
+  "anthology_index": 86,
+  "anthology_size": 200,
+  "title": "轮流上墙不着急",
+  "description": "一人低墙轻松暂停，另一人在垫区外等候，留足间隔。",
+  "difficulty_theme": "基础技术｜轮换与休息",
+  "verified_route_grade": false,
+  "sha256": "076354ca45bcd8002a1b2ccb2b1cf1d149c0e9d6a023ace301a3449a01ade1c1",
+  "native_sha256": "076354ca45bcd8002a1b2ccb2b1cf1d149c0e9d6a023ace301a3449a01ade1c1",
+  "prompt_sha256": "d042ea59808eddd4a3591a19a18ca55baca5b48f64ef1cd33416416b149cd963",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2489673,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "A fictional adult rests in a stable low-wall posture on large handholds and broad foot supports just above the mat. Their companion sits on a bench outside the landing boundary, waiting calmly with shoes placed neatly under the bench. The wide scene makes the separation unmistakable and keeps the mat entirely clear. A short easy route, obvious descent holds, and relaxed expressions emphasize taking turns and resting rather than continuous hard effort. Use clean cel illustration with precise varied line weights, hard shadow shapes, and fresh turquoise, amber, and slate colors. Create one original 1536x1024 wordless scene, fictional fully clothed adults, natural anatomy; no brands, arrows or panels. Climbing stays low above continuous thick mats, with immediate step-down.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:10:40.782801+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "4fe3d095e82f3ffc591dec2b2d0c485867978f30732588a31e13d966adfd352d"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

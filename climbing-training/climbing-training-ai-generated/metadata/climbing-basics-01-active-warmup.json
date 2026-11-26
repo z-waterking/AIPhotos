@@ -1,0 +1,94 @@
+{
+  "output": "../climbing-basics-01-active-warmup.png",
+  "refined_prompt": "../prompts/climbing-basics-01-active-warmup.txt",
+  "source_prompt": "../prompts/climbing-basics-series.txt",
+  "created_at": "2026-11-02T02:53:04.345391+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-basics",
+  "series_number": 1,
+  "title": "先热起来",
+  "sha256": "bd80bc797f1f79674cdb3de7e286c44db4d94e30aec510d7cfbca126f2a390cb",
+  "native_sha256": "0bcf93c0107a0657a7b11be863887461649ca69c2e100f047f6216e75dc98036",
+  "prompt_sha256": "2f84d087211560148d1b0ef25925544e69f00430cfc48db2ed229e1a1029ebd2",
+  "file_size_bytes": 419358,
+  "art_direction": {
+    "style": "muted teal and terracotta sports editorial illustration",
+    "composition": "two original adult movement studies with deterministic Chinese instructional typesetting",
+    "fictional_adults": true
+  },
+  "exercise": {
+    "title": "先热起来",
+    "sub": "热身与主动关节活动",
+    "category": "准备活动",
+    "cue": [
+      "轻松走动，让身体逐渐微热",
+      "肩、肘、腕缓慢主动活动",
+      "手指张开合拢，不用力掰拉"
+    ],
+    "dose": "约5–8分钟，逐渐增加幅度",
+    "mistake": "冷身上墙，或用力掰手指",
+    "easy": "原地踏步，缩小活动幅度",
+    "labels": [
+      "轻松走动",
+      "肩腕活动"
+    ]
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        74,
+        240,
+        906,
+        795
+      ],
+      "preserved_aspect_ratio": true,
+      "cropped": false,
+      "upscaled": false
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.100112+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "series_status": "historical exploration; superseded by home-climb for the current home-only request",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-vertical-04-vertical-ladder-of-colors.png",
+  "refined_prompt": "../prompts/climbing-atlas-vertical-04-vertical-ladder-of-colors.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:22:54.044099+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-vertical",
+  "series_number": 4,
+  "group_number": 15,
+  "anthology_index": 144,
+  "anthology_size": 200,
+  "title": "直壁彩色阶梯",
+  "description": "剪纸将短阶梯路线与完整人物剪影构成明快场景。",
+  "difficulty_theme": "直壁·基础动作",
+  "verified_route_grade": false,
+  "sha256": "50785ca6786a354e6b43f79da7c2654001bbcc48870c9e126825d7b11bb74f40",
+  "native_sha256": "50785ca6786a354e6b43f79da7c2654001bbcc48870c9e126825d7b11bb74f40",
+  "prompt_sha256": "2c8836323e68c1236de3e615c7f087f4150cfae60666f3e112312fa93bc10031",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 3114590,
+  "art_direction": {
+    "medium": "colored pencil sports sketch with layered visible pencil marks",
+    "scene": "An original cut-paper illustration depicts a fictional fully clothed adult following a short staircase of large holds on a low vertical bouldering panel. Broad red-orange handholds alternate with blue positive footholds, allowing the climber to take a modest upward step while keeping three comfortable contacts. Show a whole-body wide view with layered cream wall planes, visible paper fibers, and thick continuous crash mats stretching across the foreground. The route ends at a low reachable hold rather than a high top-out. Keep limbs proportionate and shoe contact clear. Use gentle stacked shadows and opaque clothing shapes. Exclude lettering, logos, leaps, dramatic exposure, and portrait-only composition.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:27:37.463138+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "7be3c640c4013bae611080b3e9128cf9e051f665dc89b902cca7d8bf9bdd5edc"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

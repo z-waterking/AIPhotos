@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-arete-06-arete-low-volume-transfer.png",
+  "refined_prompt": "../prompts/climbing-atlas-arete-06-arete-low-volume-transfer.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T04:29:01.318009+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-arete",
+  "series_number": 6,
+  "group_number": 17,
+  "anthology_index": 166,
+  "anthology_size": 200,
+  "title": "棱角低岩包换位",
+  "description": "粉彩描绘外棱两边低岩包间的小幅移脚，落地区域空旷。",
+  "difficulty_theme": "外棱·中阶平衡",
+  "verified_route_grade": false,
+  "sha256": "cb0810be916a741c5124c667d52858cf1965c2c40d3860789784714a3193a3ef",
+  "native_sha256": "cb0810be916a741c5124c667d52858cf1965c2c40d3860789784714a3193a3ef",
+  "prompt_sha256": "ab52fecb94d7da3e731711d53c0f6c3be0ae61c9e0a396ec01e1d698e1805e1c",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2924706,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "An original soft-pastel illustration shows a fictional fully clothed adult transferring a shoe between two low broad volumes near a rounded indoor arete. Positive ledges are visible on both volumes, large mint handholds provide support, and the moving shoe travels only a short distance while the other foot stays engaged. The torso turns naturally toward the new stance. Compose a wide three-quarter scene with the whole adult, both wall faces, and thick continuous crash mats extending around the edge. Use dusty peach, deep plum, and pale sage pigments. Keep anatomy believable and the landing clear. No captions, brands, leaps, narrow high edges, or exposed climbing.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T04:31:19.538893+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "f93aeb1579e0b4a57f361123dd8e4f53b6d4d92e8dd4038ade0ee11c2baf2166"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

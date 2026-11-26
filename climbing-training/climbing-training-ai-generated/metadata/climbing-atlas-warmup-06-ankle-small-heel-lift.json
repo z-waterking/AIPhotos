@@ -1,0 +1,55 @@
+{
+  "output": "../climbing-atlas-warmup-06-ankle-small-heel-lift.png",
+  "refined_prompt": "../prompts/climbing-atlas-warmup-06-ankle-small-heel-lift.txt",
+  "source_prompt": "../prompts/climbing-atlas-series.txt",
+  "created_at": "2026-11-09T03:44:48.563557+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-atlas-warmup",
+  "series_number": 6,
+  "group_number": 1,
+  "anthology_index": 6,
+  "anthology_size": 200,
+  "title": "脚踝轻唤醒",
+  "description": "成人扶普通墙面小幅提踵，地面平整。",
+  "difficulty_theme": "基础热身",
+  "verified_route_grade": false,
+  "sha256": "fdee6ba6fdf443e161b88576dfe37733be1000deb1b138739acd8e9177d2a72c",
+  "native_sha256": "fdee6ba6fdf443e161b88576dfe37733be1000deb1b138739acd8e9177d2a72c",
+  "prompt_sha256": "4b9c2d00c4582edca23c131856c8ebdf75ab9580957bd887a4d1ca47f9b5f211",
+  "source_prompt_sha256": "bca8aad55d46f232bd6295318933fa5b4485159b3e607a45ee39b970ee488643",
+  "file_size_bytes": 2172544,
+  "art_direction": {
+    "medium": "editorial geometric illustration with credible adult proportions",
+    "scene": "A fictional adult rests fingertips lightly against an ordinary solid wall and makes a small two-foot heel raise on stable flooring. The knees are softly straight, heels only slightly elevated, and balance is comfortable. Show the body side-on at medium-wide distance with shoes fully visible, no edge balancing or weights. Use a calm ordinary adult in opaque clothing with believable anatomy. Clear environmental depth, visible foot contacts and relaxed concentration make the moment readable. No words, numbers, logos, dangerous heights, falling, extreme strain or crowded landing zones.",
+    "fictional_adults": true,
+    "composition": "original wordless landscape scene"
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-contact-sheet-review",
+    "reviewed_at": "2026-11-09T03:47:19.450571+00:00",
+    "method": "ten-scene compressed JPEG contact sheet, 1280x464",
+    "review_sha256": "884a5e4710d2f40381aafa52f66ce061d3a0fabb7a48c25aa2062eb40994fb2f"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.review_file"
+  ]
+}

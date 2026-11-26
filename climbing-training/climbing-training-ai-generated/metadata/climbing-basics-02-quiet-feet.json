@@ -1,0 +1,94 @@
+{
+  "output": "../climbing-basics-02-quiet-feet.png",
+  "refined_prompt": "../prompts/climbing-basics-02-quiet-feet.txt",
+  "source_prompt": "../prompts/climbing-basics-series.txt",
+  "created_at": "2026-11-02T02:53:04.544405+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "climbing-basics",
+  "series_number": 2,
+  "title": "脚步轻一点",
+  "sha256": "b596e3df5a6e8f0a56d5dcbdd27b7ed3a8b1323ec484bd16b740026d5a742ec6",
+  "native_sha256": "da80623c49ad13081afa2340d09cdaa7461e4394c79e28ea8d62ce674d190130",
+  "prompt_sha256": "e84156b11b5fa1e78e20e48e9178524c1f9b5e73807ddd49aa7e73563e4b96f3",
+  "file_size_bytes": 433308,
+  "art_direction": {
+    "style": "muted teal and terracotta sports editorial illustration",
+    "composition": "two original adult movement studies with deterministic Chinese instructional typesetting",
+    "fictional_adults": true
+  },
+  "exercise": {
+    "title": "脚步轻一点",
+    "sub": "低位静音踩点",
+    "category": "上墙技术",
+    "cue": [
+      "先看脚点，再缓慢移动鞋尖",
+      "轻轻落脚，踩稳再转移重心",
+      "双手扶大点，保持低位横移"
+    ],
+    "dose": "每趟4–6步 × 2趟；趟间歇1分钟",
+    "mistake": "鞋尖刮墙，脚还没稳就蹬",
+    "easy": "握稳大手点，每次只动一脚",
+    "labels": [
+      "看准脚点",
+      "轻放鞋尖"
+    ]
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        74,
+        240,
+        906,
+        795
+      ],
+      "preserved_aspect_ratio": true,
+      "cropped": false,
+      "upscaled": false
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.101114+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ]
+  },
+  "series_status": "historical exploration; superseded by home-climb for the current home-only request",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

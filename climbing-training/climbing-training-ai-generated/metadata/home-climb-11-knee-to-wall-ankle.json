@@ -1,0 +1,97 @@
+{
+  "output": "../home-climb-11-knee-to-wall-ankle.png",
+  "refined_prompt": "../prompts/home-climb-11-knee-to-wall-ankle.txt",
+  "source_prompt": "../prompts/home-climb-series.txt",
+  "created_at": "2026-11-02T03:12:39.080778+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "home-climb",
+  "series_number": 11,
+  "title": "膝触墙活动踝",
+  "sha256": "b8f279f10c4fcf4b753ae0253da647ee49f292ff16a76f88d1c4924a718d9fcd",
+  "native_sha256": "a2ba92baabb52b82c6d32c5f271852026b41a261ba410acd96b17da816b34625",
+  "prompt_sha256": "01c59212d3845eba26204a76fd7e2953c563c41b3f01d9651c4f9c0932c81573",
+  "file_size_bytes": 585726,
+  "art_direction": {
+    "style": "muted teal and terracotta home sports editorial illustration",
+    "composition": "two original fictional adult movement studies with local Chinese instructions",
+    "environment": "home; no climbing gym required"
+  },
+  "exercise": {
+    "title": "膝触墙活动踝",
+    "sub": "踝关节活动 · 脚跟贴住地面",
+    "category": "踝部活动",
+    "equipment": "稳固墙面",
+    "cue": [
+      "脚尖朝前，脚跟全程贴地",
+      "膝沿第二脚趾方向向前移",
+      "轻触墙面，再缓慢退回"
+    ],
+    "dose": "每侧6–8次 × 1–2组",
+    "mistake": "脚跟抬起，或膝盖向内倒",
+    "easy": "脚靠近墙，减少前移幅度",
+    "labels": [
+      "脚掌贴地准备",
+      "膝盖轻轻前移触墙"
+    ]
+  },
+  "source_text": {
+    "path": "../prompts/home-climb-user-source.txt",
+    "role": "user-provided background text; independently rewritten beginner content; linked images not accessed or uploaded"
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "Lanczos proportional reduction",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "artwork_fit": {
+      "method": "full-native-contain",
+      "source_box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "target_box": [
+        134,
+        309,
+        846,
+        784
+      ],
+      "preserved_aspect_ratio": true
+    }
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-02T03:14:12.113574+00:00",
+    "method": "compressed JPEG single/contact-sheet review, longest edge <=1280px",
+    "checks": [
+      "complete movement illustrations; no obscured head or key joint",
+      "readable Chinese title and coaching cues",
+      "support/contact points and beginner movement pattern",
+      "no unintended additional limbs or people",
+      "native/full-output/prompt provenance preserved"
+    ],
+    "correction": "Regenerated lower-leg close-up to show grounded heel during ankle dorsiflexion"
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}
