@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-08-sage-envelope.png",
+  "refined_prompt": "../prompts/minimal-dreamers-08-sage-envelope.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "鼠尾草信封 · 有点期待: 雾绿底，奶白信封翻起珊瑚色小封口，露出期待眼神。",
+  "composition_variation": "A small cream-white envelope brought to life on a smooth muted sage-green field. Rounded rectangular envelope body at a gentle tilt, one lifted triangular flap with a restrained warm coral inner face, forming a single coherent silhouette. Only two subtle fold lines where needed, no realistic paper texture. Two tiny charcoal eyes on the front panel look toward the raised flap with a quietly expectant expression; one minute curved mouth. No stamps, letters, text, hearts or contents sticking out. Off-white, sage, coral and charcoal only. Envelope roughly 61 percent width, centered with generous blank space and a simple memorable silhouette. Charming private little message spirit, no arms or legs.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:57:51.017398+08:00",
+  "sha256": "154d3e7b1a855a58f8880855483298c74999f937050ee3a5dda1c33f0dc19adf",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

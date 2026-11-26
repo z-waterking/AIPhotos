@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-03-sleepy-panda.png",
+  "refined_prompt": "../prompts/minimal-friends-03-sleepy-panda.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "困困熊猫 · 放空: 冷白底，两只圆耳与黑眼圈，露出半睁的小眼神。",
+  "composition_variation": "A very minimal close-up panda face on smooth cool off-white. White face merges with white background and is not enclosed by an outline. Two small soft-black round ears near upper-center and two perfectly balanced organic black eye patches, not huge bulging circles. In the patches, tiny ivory oval eye openings contain black pupils gazing sleepily toward the viewer with one fine white glint. Tiny black rounded triangular nose and one short relaxed mouth. The composition is sparse, compact and endearing, with a subtle tilt and ample empty space. Just black and off-white. No body, blush, bamboo or accessories. Light understated drawn character, not realistic animal eyes.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:29:32.434820+08:00",
+  "sha256": "5d42ab28df203542a576bd0f6beeb9d3ea606e7ad077610677a0d43ba1ad2aa0",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

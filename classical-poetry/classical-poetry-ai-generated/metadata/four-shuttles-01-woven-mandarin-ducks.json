@@ -1,0 +1,56 @@
+{
+  "output": "../four-shuttles-01-woven-mandarin-ducks.png",
+  "refined_prompt": "../prompts/four-shuttles-01-woven-mandarin-ducks.txt",
+  "source_prompt": "../prompts/four-shuttles-01-woven-mandarin-ducks-poem.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "poem_title": "四张机",
+  "poem_author": "佚名",
+  "poem_dynasty": "宋",
+  "poem_text": "四张机，鸳鸯织就欲双飞。可怜未老头先白，春波碧草，晚寒深处，相对浴红衣。",
+  "poem_variant": "晚寒深处",
+  "art_direction": "Original ink-wash and gongbi illustration of a loom with a woven pair of mandarin ducks, real ducks in a spring stream, and a quiet weaver; text added locally.",
+  "sha256": "5fd34dab10207521693b3c2c1c8f6977cd735d98407fd98d2dc3e2c5b30ccceb",
+  "native_sha256": "10cfd6ef92504f4f1b7528ed3299d92588d99f877d10f78482e86616e9b3c2bf",
+  "prompt_sha256": "4d2c08addef9c0f598ec68f8dec212ca433dec55a1fd71571e05c54465fc91bf",
+  "poem_sha256": "debf2c6f1ee219d39aa9636a09e96b9df4d44b5b82e13b8991f4782d5cb91021",
+  "created_at_utc": "2026-11-06T02:40:37.182730+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "poem_lines": [
+      "四张机，",
+      "鸳鸯织就欲双飞。",
+      "可怜未老头先白，",
+      "春波碧草，",
+      "晚寒深处，",
+      "相对浴红衣。"
+    ],
+    "poem_font_size": 43,
+    "text_area": [
+      984,
+      105,
+      1490,
+      930
+    ],
+    "background": "translucent pale silk gradient"
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

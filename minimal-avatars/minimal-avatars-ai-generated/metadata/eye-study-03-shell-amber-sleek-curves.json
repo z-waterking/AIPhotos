@@ -1,0 +1,32 @@
+{
+  "output": "../eye-study-03-shell-amber-sleek-curves.png",
+  "refined_prompt": "../prompts/eye-study-03-shell-amber-sleek-curves.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浅贝壳底，柔金细长弧眼；自然收尖，瞳孔完整收在眼形内。",
+  "composition_variation": "Two clean slender crescent-almond eyes use continuous supple curved contours, drawing on the paired gold-eye reference. Each opening is about 3.1 times wider than tall. The two outer corners taper naturally into fine short tips; the inner corners remain gentle, so the pair never forms an angry V. Keep them almost level, with only 5 percent scale difference. Large black pupil forms stay completely within the eye outline and join the upper boundary, with one single amber iris crescent along the lower arc. The crescent gradually thins at both ends and is not a U-shaped cup. Both pupils look calmly forward and contain one subtle narrow ivory glint. No upper eyeliner wing, eyelash flick, eyebrows or other features. Matte flat fill, precise flowing edges, no shine, protruding pupil, droplet or geometric cut.",
+  "visible_subject": "exactly two eye graphics; no other animal features",
+  "anthology_index": 3,
+  "style": "clean organic cut-paper eye illustration",
+  "shape": "slender supple crescent-almond eyes",
+  "gaze": "clear coordinated forward gaze",
+  "user_feedback": "前一批过于怪异，重来；保持只画双眼，同色浅底，回到参考的自然比例与弧线。",
+  "palette": {
+    "background": "#F3E9E6",
+    "iris": "#C3A15E"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T04:01:54.048560+00:00",
+  "sha256": "08bfe1ecbeabcdaf4f92e8463f0e3afcfd0f133d36b437d033bc883c68d632d9",
+  "visual_review": "passed: inspected compressed contact sheet; eyes only: two eye marks in the individually specified style, matching accent colors and pale background; no other facial features, square construction, jelly rendering or watermark"
+}

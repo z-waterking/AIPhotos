@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-25-letter-beyond-the-pond.png",
+  "refined_prompt": "../prompts/poetic-longing-25-letter-beyond-the-pond.txt",
+  "source_prompt": "../prompts/poetic-longing-25-letter-beyond-the-pond-source.txt",
+  "created_at": "2026-11-23T07:54:06.658127+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 25,
+  "anthology_index": 25,
+  "title": "桃花落，闲池阁。山盟虽在，锦书难托。",
+  "description": "落桃花漂在池面，一人持未寄出的素封锦书，远山隔着宽水隐入雾中。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "桃花落，闲池阁。山盟虽在，锦书难托。",
+    "author": "陆游",
+    "work": "钗头凤·红酥手",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_95261dd79b46.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "refined ink outlines, muted coral washes and embroidered cloth detail",
+    "composition": "Fallen peach petals gather across a quiet pond beside a small open pavilion. A fully clothed adult holds a plain sealed letter in a modest embroidered silk sleeve. Beyond the pavilion water and mist separate the foreground from distant mountains. Keep the packet tangible and unmarked. Refined ink outlines and muted coral washes convey a promise preserved without an available messenger.",
+    "theme": "旧游与旧约",
+    "fictional_adults": true
+  },
+  "sha256": "f3b0a72d25ed6ec81f5a3cb6a9d20eb19cf69a9d1d0c8c5c911670c54abfb388",
+  "native_sha256": "f3b0a72d25ed6ec81f5a3cb6a9d20eb19cf69a9d1d0c8c5c911670c54abfb388",
+  "prompt_sha256": "ebcbc34238529ba99bb72fa849b4c4900c03e7e538ea69c361decbcfc788aaa3",
+  "source_prompt_sha256": "7e78411f651d08127d09780b11b5d7b3d9f8ce8c80df116f8213ec0da68a84d0",
+  "file_size_bytes": 3017781,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:58:41.679721+00:00",
+    "contact_sheet_sha256": "53fc3cd0db081dc15b7fabad1ecac6892f0d87b8538fb0ccaca011882b4fe9ff",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-39-far-coast-gray-temples.png",
+  "refined_prompt": "../prompts/poetic-longing-39-far-coast-gray-temples.txt",
+  "source_prompt": "../prompts/poetic-longing-39-far-coast-gray-temples-source.txt",
+  "created_at": "2026-11-23T08:31:20.291027+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 39,
+  "anthology_index": 39,
+  "title": "今年海角天涯，萧萧两鬓生华。",
+  "description": "远方海港清晨，鬓边微白的成年旅人沿平缓木栈道望海，海天宽阔而陌生。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "今年海角天涯，萧萧两鬓生华。",
+    "author": "李清照",
+    "work": "清平乐·年年雪里",
+    "source_url": "https://zh.wikisource.org/wiki/清平樂_(李清照)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "colored-pencil grain and soft sea-colored gouache with pale coastal light",
+    "composition": "A fully clothed adult traveler with subtle gray strands near the temples stands on a level wooden coastal walkway beside a calm harbor. A small woven travel bag rests nearby. Distant low boats and an unfamiliar shoreline recede beneath a pale morning sky. Colored-pencil grain and sea-colored gouache emphasize ordinary aging, extensive travel and a quiet horizon without dangerous surf.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "66d66a5c68af34ee6d1b1690bbc11b09f71f84c3db7d0bbb3644cf22389f0c90",
+  "native_sha256": "66d66a5c68af34ee6d1b1690bbc11b09f71f84c3db7d0bbb3644cf22389f0c90",
+  "prompt_sha256": "1626ff38cbf1d15d61f94c9fe23a3c441d06aa1eaa186b1de05ab78587016166",
+  "source_prompt_sha256": "469b3aad0d2a205632e6608bb222a81a83814e402e13926f39746276b85df0d0",
+  "file_size_bytes": 2850828,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:40:44.748321+00:00",
+    "contact_sheet_sha256": "16aaad0b8b98f767d5a1baa0d727eafe56bef9f091789b17683298c1ae979ba3",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

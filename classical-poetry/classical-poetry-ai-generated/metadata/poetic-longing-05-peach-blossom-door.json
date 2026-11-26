@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-05-peach-blossom-door.png",
+  "refined_prompt": "../prompts/poetic-longing-05-peach-blossom-door.txt",
+  "source_prompt": "../prompts/poetic-longing-05-peach-blossom-door-source.txt",
+  "created_at": "2026-11-23T07:05:45.570864+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 5,
+  "anthology_index": 5,
+  "title": "人面不知何处去，桃花依旧笑春风。",
+  "description": "一位成年访客停在旧木门前，桃花越过院墙盛放，却无人应门。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "人面不知何处去，桃花依旧笑春风。",
+    "author": "崔护",
+    "work": "题都城南庄",
+    "source_url": "https://zh.wikisource.org/wiki/題都城南莊",
+    "verified": true,
+    "variant_note": "不知一作祗今，取通行不知。"
+  },
+  "art_direction": {
+    "medium": "fine ink and transparent watercolor with expressive warm spring brushwork",
+    "composition": "An adult visitor stands before a closed, weathered courtyard door beneath abundant peach blossoms. Branches reach over the low wall, scattering petals along an undisturbed threshold. Show the visitor at a respectful distance, hands relaxed, without theatrical distress. The flourishing tree is immediate and alive while the silent doorway remains plain. Warm spring whites, soft pinks and earth-colored ink.",
+    "theme": "故人与空景",
+    "fictional_adults": true
+  },
+  "sha256": "364836e54d6c66548d1a70d54d55ca007abf7d867dad36efcee27131af531837",
+  "native_sha256": "364836e54d6c66548d1a70d54d55ca007abf7d867dad36efcee27131af531837",
+  "prompt_sha256": "d66f6799d7fd65d5c23273fb9a3c514a282165d2a094ece3e2555c964cecc030",
+  "source_prompt_sha256": "6277ea9f7c9dbc1d8d7de6b5f1a6b5e2dbbad2f3e24ca57e8db1afda6a6d48c8",
+  "file_size_bytes": 3350857,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:31:43.544482+00:00",
+    "contact_sheet_sha256": "7d17d73540cf0481538a57be3492ca70f04e75074ecff9656d2164109b67e07a",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-17-dream-reunion-path.png",
+  "refined_prompt": "../prompts/poetic-longing-17-dream-reunion-path.txt",
+  "source_prompt": "../prompts/poetic-longing-17-dream-reunion-path-source.txt",
+  "created_at": "2026-11-23T07:43:37.861452+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 17,
+  "anthology_index": 17,
+  "title": "从别后，忆相逢，几回魂梦与君同。",
+  "description": "薄雾花径中，两位成年人相向走近，在熟悉树下含笑停步。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "从别后，忆相逢，几回魂梦与君同。",
+    "author": "晏几道",
+    "work": "鹧鸪天·彩袖殷勤捧玉钟",
+    "source_url": "http://www.cllc.gxnu.edu.cn/gdwx/2018/1204/c2565a53371/pagem.htm",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "soft luminous watercolor with delicate pale-green and blush mineral layers",
+    "composition": "Two fully clothed adults approach each other along a familiar garden path and pause beneath an old flowering tree. Their expressions are quietly glad, gestures natural and unforced. Keep both figures solid and believable with no ghosts or overlapping timelines. The pathway dissolves into soft morning mist, giving a simple reunion the tender uncertain completeness of a remembered dream.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "0d1594e08ca88486382b2aca4f0c34b52ace06aaf6b27b0747cedffe92d7b9ea",
+  "native_sha256": "0d1594e08ca88486382b2aca4f0c34b52ace06aaf6b27b0747cedffe92d7b9ea",
+  "prompt_sha256": "6e4781140c5695d3be4746fd803ee10d82b61085c9f0a3056fd2d8f40123f7ff",
+  "source_prompt_sha256": "b9641781f95f0630ee136835fa2cfee4e4211237e13664204c028fbea8a109dd",
+  "file_size_bytes": 3181650,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:46:11.433602+00:00",
+    "contact_sheet_sha256": "6290e6d1c7b6ad4d77e53abf1b7097fbde383b69d46d56d29d95ae9bd5e7618c",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

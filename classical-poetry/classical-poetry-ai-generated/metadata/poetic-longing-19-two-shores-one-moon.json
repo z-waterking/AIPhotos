@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-19-two-shores-one-moon.png",
+  "refined_prompt": "../prompts/poetic-longing-19-two-shores-one-moon.txt",
+  "source_prompt": "../prompts/poetic-longing-19-two-shores-one-moon-source.txt",
+  "created_at": "2026-11-23T07:43:19.737206+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 19,
+  "anthology_index": 19,
+  "title": "一生一代一双人，争教两处销魂。",
+  "description": "宽河分开两岸小院，两位成年人各站一岸，遥望同一轮月。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "一生一代一双人，争教两处销魂。",
+    "author": "纳兰性德",
+    "work": "画堂春·一生一代一双人",
+    "source_url": "https://zh.wikisource.org/zh-hans/畫堂春_(一生一代一雙人)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "expansive blue mineral landscape with warm pinpoint domestic lights",
+    "composition": "A wide river separates two modest garden homes on opposing banks. One fully clothed adult stands outside each home, both turned toward the same rising moon. Use a single continuous elevated landscape with unequal bank shapes and natural perspective rather than a mirrored split screen. Small readable figures and uninterrupted central water quietly express two lives held apart.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "04b5af8aee976374b59cff7db7f68985978969aaae1e421b66d3262e434a5544",
+  "native_sha256": "04b5af8aee976374b59cff7db7f68985978969aaae1e421b66d3262e434a5544",
+  "prompt_sha256": "7d137ac0abf7d40fbbadb99abb1b50716e6e4e94e93fcf64a7765190508742f5",
+  "source_prompt_sha256": "e2822fc5cec8bfa1ca4e3a93358e3bb2d07b75619232cc23f43ef003a24ce2a3",
+  "file_size_bytes": 2842599,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:46:11.509971+00:00",
+    "contact_sheet_sha256": "6290e6d1c7b6ad4d77e53abf1b7097fbde383b69d46d56d29d95ae9bd5e7618c",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

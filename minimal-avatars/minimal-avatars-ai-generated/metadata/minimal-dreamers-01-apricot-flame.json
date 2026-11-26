@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-01-apricot-flame.png",
+  "refined_prompt": "../prompts/minimal-dreamers-01-apricot-flame.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "杏黄火苗 · 小小自信: 午夜蓝底，杏黄圆火苗向一侧弯尖，奶白内焰与自信小眼神。",
+  "composition_variation": "A single rounded little flame on a smooth deep midnight-blue field. Warm apricot-yellow outer flame has a broad soft teardrop base and a graceful tip curling once to the right like a relaxed forelock. One small milk-white inner flame rises from the base, following the same curve; no orange gradients. Two small midnight-blue almond eyes in the upper-middle apricot region glance gently sideways with quiet confidence, one minuscule short mouth beneath. Outline is simple, flowing and lovable, not spiky. The silhouette fills about 55 percent of image width and 65 percent height. Three colors only. No candles, matches, smoke, sparks or surrounding fire. A peaceful friendly character, clean graphic elegance.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:49:31.610781+08:00",
+  "sha256": "693e5af0fb539ae854dc0478b4b716ecf8a67249a959167ca875bf843c6ee3b6",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

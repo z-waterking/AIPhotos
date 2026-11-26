@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-34-letter-unreachable-valleys.png",
+  "refined_prompt": "../prompts/poetic-longing-34-letter-unreachable-valleys.txt",
+  "source_prompt": "../prompts/poetic-longing-34-letter-unreachable-valleys-source.txt",
+  "created_at": "2026-11-23T08:25:55.150116+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 34,
+  "anthology_index": 34,
+  "title": "欲寄彩笺兼尺素，山长水阔知何处？",
+  "description": "古道高处一人握素封书信，长河穿过层层山谷，远路消失在云水之间。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "欲寄彩笺兼尺素，山长水阔知何处？",
+    "author": "晏殊",
+    "work": "蝶恋花·槛菊愁烟兰泣露",
+    "source_url": "https://zh.wikisource.org/wiki/蝶戀花_(晏殊)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "layered cut-paper-inspired mountain shapes translated into blue-green ink painting",
+    "composition": "From a high safe hillside road a fully clothed adult looks over a river winding through many mountain valleys. A plain sealed letter is held close while distant roads branch and vanish into haze. Avoid maps, written addresses or floating messages. Layered cut-paper-inspired mountain shapes and blue-green ink textures make geographical distance immediately readable and quietly immense.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "36ce6662a5982503e9a7aba859f6382d3f1a24e35524c0c42fa75d376cbe13e5",
+  "native_sha256": "36ce6662a5982503e9a7aba859f6382d3f1a24e35524c0c42fa75d376cbe13e5",
+  "prompt_sha256": "5c03bc4872f6e12e091079a7b5f896c3de54b8976f667c8942552b40c0263ae3",
+  "source_prompt_sha256": "21cf1da62c0ab978396673b550697f8edca56211fcb3f8dfa1ded80e4cea3bf5",
+  "file_size_bytes": 2992853,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:29:48.169270+00:00",
+    "contact_sheet_sha256": "3d0c58c37ed3c15c7cce969e8231bb5cd8081cd29899f170bf43c1cb4cc7873b",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

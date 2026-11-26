@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-09-sleeping-moon.png",
+  "refined_prompt": "../prompts/minimal-friends-09-sleeping-moon.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "香槟月亮 · 打盹: 深靛底，香槟金饱满月牙，闭眼与小小侧脸。",
+  "composition_variation": "A sculptural but completely flat pale champagne-gold crescent moon on a smooth very dark midnight-indigo field. One full-bodied generous crescent tilted slightly, with softly rounded tips rather than sharp spikes. A delicate closed eye curve sits on the wide cheek; a minute nose and tiny relaxed smile are gently suggested by the inner crescent contour. Serene and cute, elegant almost abstract facial expression; no human realism. Gold shape occupies the middle 55 percent width, 63 percent height with abundant blank night color. No stars, clouds, glow, gradients, dots or decorations. Beautiful flowing contour and quiet editorial simplicity.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:35:37.243542+08:00",
+  "sha256": "6b7df62df30aa254e7e6d21643a478545c125de34f880c6f31afd317a66455d7",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

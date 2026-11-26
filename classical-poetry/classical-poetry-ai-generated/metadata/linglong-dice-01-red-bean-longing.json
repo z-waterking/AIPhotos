@@ -1,0 +1,59 @@
+{
+  "output": "../linglong-dice-01-red-bean-longing.png",
+  "refined_prompt": "../prompts/linglong-dice-01-red-bean-longing.txt",
+  "source_prompt": "../prompts/linglong-dice-01-red-bean-longing-source.txt",
+  "created_at": "2026-11-20T03:32:47.479896+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "linglong-dice",
+  "series_number": 1,
+  "title": "玲珑骰子 · 入骨相思",
+  "source_text": {
+    "kind": "user-provided-classical-poetry-excerpt",
+    "text": "玲珑骰子安红豆，入骨相思知不知"
+  },
+  "description": "冷青烟水与旧窗间，一枚乳白镂空玉骰静置木台，朱红相思豆深藏骰中，被一线暖光照亮。",
+  "art_direction": {
+    "style": "gongbi linework, Chinese mineral pigments and watercolor on silk",
+    "composition": "one pierced jade die and enclosed red seed near an empty window; misty distant river",
+    "palette": "celadon, silver-blue, ivory and a single vermilion accent",
+    "mood": "restrained longing and quiet patient waiting"
+  },
+  "sha256": "78bb62c03a7af7fd48ed9480495341fcd6b7d2050b704626e12487dc1ac00c05",
+  "native_sha256": "78bb62c03a7af7fd48ed9480495341fcd6b7d2050b704626e12487dc1ac00c05",
+  "prompt_sha256": "ed42a80645a3c893019f123943359a0e4a64c7d4dada272f63e0904c05926a60",
+  "source_prompt_sha256": "7de69e27618ad3832a2437df126f3557fab7989a252b9652c8cdbea7ea43cff3",
+  "file_size_bytes": 2754462,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-20T03:39:58.985846+00:00",
+    "preview_size": "1280x853",
+    "preview_sha256": "fd20abd353aba9af309e5c2c2e3a9dceac5d55b287c47a90aae594067d00a760",
+    "method": "single compressed JPEG inspection; original native preserved"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.preview_file"
+  ]
+}

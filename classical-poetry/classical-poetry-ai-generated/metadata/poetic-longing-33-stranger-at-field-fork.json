@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-33-stranger-at-field-fork.png",
+  "refined_prompt": "../prompts/poetic-longing-33-stranger-at-field-fork.txt",
+  "source_prompt": "../prompts/poetic-longing-33-stranger-at-field-fork-source.txt",
+  "created_at": "2026-11-23T08:26:00.590728+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 33,
+  "anthology_index": 33,
+  "title": "相顾无相识，长歌怀采薇。",
+  "description": "暮色田野岔路旁，提野菜篮的旅人停步，远处农人各自归家，没有谁认出他。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "相顾无相识，长歌怀采薇。",
+    "author": "王绩",
+    "work": "野望",
+    "source_url": "https://sxss.ntu.edu.cn/2018/0124/c6266a165731/page.htm",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "warm linocut-like drawn marks, rough paper grain and muted dusk pigments",
+    "composition": "A fully clothed adult carrying a wicker basket of leafy greens pauses at a rural path fork. Several distant adult villagers return independently across golden fields with no greetings exchanged. The foreground traveler gazes toward low hills rather than appearing distressed. Warm linocut-like marks, rough paper texture and quiet dusk shadows give the modest landscape a sense of unfamiliar company.",
+    "theme": "旧游与旧约",
+    "fictional_adults": true
+  },
+  "sha256": "72b547a9e3238dc2828b5667cae56942138ece18a7981fddf47efd181b6faaea",
+  "native_sha256": "72b547a9e3238dc2828b5667cae56942138ece18a7981fddf47efd181b6faaea",
+  "prompt_sha256": "ff9161369cc731e0427788a84c554b86cca7c02d5732d6b40c0adcac8e3ccd52",
+  "source_prompt_sha256": "b77f08c855238367e9b752e4aab910de5ed60d50c5a85a398b93002aa034e5e7",
+  "file_size_bytes": 3618934,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:29:48.133513+00:00",
+    "contact_sheet_sha256": "3d0c58c37ed3c15c7cce969e8231bb5cd8081cd29899f170bf43c1cb4cc7873b",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

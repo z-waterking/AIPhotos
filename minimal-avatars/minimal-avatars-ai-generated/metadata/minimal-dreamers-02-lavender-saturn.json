@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-02-lavender-saturn.png",
+  "refined_prompt": "../prompts/minimal-dreamers-02-lavender-saturn.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾紫土星 · 歪戴星环: 冷白底，雾紫小星球斜戴杏色星环，从环下露出淡定眼神。",
+  "composition_variation": "A small matte lavender planet wearing a pale apricot orbital ring like a rakishly tilted wide-brim hat, on a clean porcelain-white background. The ring is one elegant tilted ellipse passing behind and in front of the planet with clear simple occlusion, only two flat layers, no shading. In the lower visible lavender face beneath the front arc of the ring, two little charcoal half-lidded eyes convey affectionate nonchalance. One very short mouth optional. The planet is gently off-round and the ring has thin tapered ends; the overall character sits at a charming 15-degree diagonal, centered. No stars, craters, realistic planets, glows or other objects. Silhouette roughly 68 percent width, lots of white space.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:49:58.733428+08:00",
+  "sha256": "1e08f077d39fdf893fccf94c0eaa20545bfd4f258949c7790e04f47f0eb25a52",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

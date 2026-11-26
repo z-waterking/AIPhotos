@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-07-bamboo-mistaken-visitor.png",
+  "refined_prompt": "../prompts/poetic-longing-07-bamboo-mistaken-visitor.txt",
+  "source_prompt": "../prompts/poetic-longing-07-bamboo-mistaken-visitor-source.txt",
+  "created_at": "2026-11-23T07:05:21.878817+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 7,
+  "anthology_index": 7,
+  "title": "西窗下，风摇翠竹，疑是故人来。",
+  "description": "竹院里一人闻声转向半开的门，风摇竹叶，空荡的来路仍未见故人。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "西窗下，风摇翠竹，疑是故人来。",
+    "author": "秦观",
+    "work": "满庭芳·碧水惊秋",
+    "source_url": "https://m.gushiwen.cn/shiwenv_1d8879a519d2.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "loose green ink painting and layered pale celadon washes",
+    "composition": "A fully clothed adult turns gently toward a half-open garden gate as wind moves a stand of green bamboo. Broken bamboo shadows fall naturally across the approach, suggesting movement without forming a literal human silhouette. A west-facing room glows faintly behind the figure. Compose a believable quiet courtyard with subtle motion in leaves and expansive dusk between foreground and gate.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "2526de59afcd07808b350bcaf8c9ea14ea06783f905225785b595dcdcae0082f",
+  "native_sha256": "2526de59afcd07808b350bcaf8c9ea14ea06783f905225785b595dcdcae0082f",
+  "prompt_sha256": "76f9f7681b8467eb84b9681a9fcf8919f0e76b0c51e17ef248b85b053cb9da6f",
+  "source_prompt_sha256": "79772b4d36aee3d016f8b530b4fbb853067b67ca7390deb97de64aea0b94c72b",
+  "file_size_bytes": 2909009,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:31:43.617656+00:00",
+    "contact_sheet_sha256": "7d17d73540cf0481538a57be3492ca70f04e75074ecff9656d2164109b67e07a",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

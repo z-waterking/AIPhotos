@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-21-midnight-different-stars.png",
+  "refined_prompt": "../prompts/poetic-longing-21-midnight-different-stars.txt",
+  "source_prompt": "../prompts/poetic-longing-21-midnight-different-stars-source.txt",
+  "created_at": "2026-11-23T07:47:58.731732+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 21,
+  "anthology_index": 21,
+  "title": "似此星辰非昨夜，为谁风露立中宵？",
+  "description": "露湿山坡上，一位成年人披外衣独立望星，村落灯火渐熄。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "似此星辰非昨夜，为谁风露立中宵？",
+    "author": "黄景仁",
+    "work": "绮怀十六首·其十五",
+    "source_url": "https://zh.wikisource.org/zh-hans/綺懷",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "fine stippled mineral pigments and expansive midnight-blue watercolor",
+    "composition": "One fully clothed adult stands on a dew-covered hillside at midnight, looking into an expansive star-filled sky. A small village below is gradually darkening. Place the figure low and off-center, with silver moisture catching on grasses and the traveling cloak. Fine stippled pigments and deep blue washes suggest a familiar night whose emotional meaning has quietly changed.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "0be7301afd316874bfaf5978d714ccf156aeb4664138715d421a6d5c20f89884",
+  "native_sha256": "0be7301afd316874bfaf5978d714ccf156aeb4664138715d421a6d5c20f89884",
+  "prompt_sha256": "ecae6ba1efc8ed0344d730b96c432ec818b8f230102ce9cca37e7c537bc373a6",
+  "source_prompt_sha256": "ac4bbffc0df574a7f72afae5cd104fa2b879d295f59a7d1cbd13c76318af351c",
+  "file_size_bytes": 2693419,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:52:22.572993+00:00",
+    "contact_sheet_sha256": "a22a5299533b91a0dc6ed99c3ee9b9bfdaafbf7f11e6f8b1877bd07cf83d386e",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

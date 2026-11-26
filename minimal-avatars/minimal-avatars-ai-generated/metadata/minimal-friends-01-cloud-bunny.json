@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-01-cloud-bunny.png",
+  "refined_prompt": "../prompts/minimal-friends-01-cloud-bunny.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "云朵兔 · 慵懒: 浅雾蓝底，白色圆脸兔与一立一折长耳，微眯眼。",
+  "composition_variation": "A soft white bunny head against a perfectly flat very pale mist-blue field. A beautifully rounded cheek silhouette, two long ears with one gently folded tip, inner ears a restrained dusty-pink accent. Head tilted just a little, two black long oval eyes gently half-lidded with single tiny white highlights, a minuscule charcoal Y-shaped nose-mouth. The face has quiet self-assured sweetness rather than babyish excitement. Head and ears occupy about the middle 65 percent of the image, balanced ample breathing space all around. No body, paws, collar or accessories. Rounded graceful shapes and a mildly amused look; minimal marks, not a detailed rabbit drawing.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:27:02.439749+08:00",
+  "sha256": "2dfe73999b2fc78e09c73ec51c68fd98e2d41c60becfb69f67d178c5bdda189c",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

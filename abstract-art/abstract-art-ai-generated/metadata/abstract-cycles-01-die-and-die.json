@@ -1,0 +1,43 @@
+{
+  "output": "../abstract-cycles-01-die-and-die.png",
+  "refined_prompt": "../prompts/abstract-cycles-01-die-and-die.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "abstract-cycles",
+  "series_number": 1,
+  "user_text": "die, die, and die",
+  "art_direction": "Three ink rings become broken and dissipate on warm fiber paper, joined by a muted red line; exact user text is added locally.",
+  "sha256": "022d1f2360c215bd3b4429f3511097c1dba317d6f8848db90fdda3a383afa767",
+  "native_sha256": "d104f50862adc34f0d7fad3dcd783889db4994ba217433af1b70a08bc6073365",
+  "prompt_sha256": "6744d4c2e44f46212a8431ae9859cab9eab318170e4031ab447565e3b0daf892",
+  "created_at_utc": "2026-11-06T03:46:50.882528+00:00",
+  "postprocessing": {
+    "method": "local-english-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "font_size": 67,
+    "text": "die, die, and die",
+    "text_center": [
+      768,
+      898
+    ],
+    "background": "subtle translucent pale gradient in lower margin"
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

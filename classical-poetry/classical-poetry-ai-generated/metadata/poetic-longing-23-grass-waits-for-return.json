@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-23-grass-waits-for-return.png",
+  "refined_prompt": "../prompts/poetic-longing-23-grass-waits-for-return.txt",
+  "source_prompt": "../prompts/poetic-longing-23-grass-waits-for-return-source.txt",
+  "created_at": "2026-11-23T07:48:16.433687+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 23,
+  "anthology_index": 23,
+  "title": "春草明年绿，王孙归不归？",
+  "description": "山村归路重长春草，一人站在田埂上，远处村口仍没有归人。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "春草明年绿，王孙归不归？",
+    "author": "王维",
+    "work": "山中送别",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_7d490f517ef6.aspx",
+    "verified": true,
+    "variant_note": "明年一作年年；本组取明年。"
+  },
+  "art_direction": {
+    "medium": "pale-green mineral landscape and restrained earth-colored dry brushwork",
+    "composition": "Fresh spring grass covers a long rural path leading toward a distant village. One fully clothed adult stands on a raised field boundary, looking down the empty approach. Tiny new leaves brighten weathered fences and stones. Compose the road as a spacious gently curving invitation through the landscape, using pale green mineral pigments and restrained earth-colored brushwork.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "90790d535a9f71592ec4b1c111c78771a5b45b28e89aab0f9a2a8edc0e997e34",
+  "native_sha256": "90790d535a9f71592ec4b1c111c78771a5b45b28e89aab0f9a2a8edc0e997e34",
+  "prompt_sha256": "7a7cf4f9b133a7f9c23887ed1f2408811c23084469717339f84aff9091069875",
+  "source_prompt_sha256": "23e45582575444409ea6046dbb888f64d6da2283ebeadfe602aed5ca8a53e98b",
+  "file_size_bytes": 2984837,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:52:22.761965+00:00",
+    "contact_sheet_sha256": "a22a5299533b91a0dc6ed99c3ee9b9bfdaafbf7f11e6f8b1877bd07cf83d386e",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-22-green-silk-meadow.png",
+  "refined_prompt": "../prompts/poetic-longing-22-green-silk-meadow.txt",
+  "source_prompt": "../prompts/poetic-longing-22-green-silk-meadow-source.txt",
+  "created_at": "2026-11-23T07:48:12.542242+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 22,
+  "anthology_index": 22,
+  "title": "记得绿罗裙，处处怜芳草。",
+  "description": "春草径旁，一人携叠好的绿罗裙停步，轻触与裙色相近的柔软芳草。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "记得绿罗裙，处处怜芳草。",
+    "author": "牛希济",
+    "work": "生查子·春山烟欲收",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_b32414ca1f19.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "delicate colored-pencil marks and translucent fresh-green watercolor",
+    "composition": "A fully clothed adult pauses beside a spring meadow, carrying a neatly folded green silk skirt over one arm. The free hand lightly touches fresh grasses of a related green. Let fabric and living plants echo through color and soft texture, without floating memories or additional figures. Delicate colored-pencil marks and translucent watercolor open across a countryside path.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "1796e07fc91c75e507b328a750641a6f4628d4a708bd0ec2c4208b3decbfa5ae",
+  "native_sha256": "1796e07fc91c75e507b328a750641a6f4628d4a708bd0ec2c4208b3decbfa5ae",
+  "prompt_sha256": "43f30c13cb447c1be950e2fc1b462a7da3dedbdea59949b38f1630cf6d8468ce",
+  "source_prompt_sha256": "41d308447fb5fa90d314b71973834e533e691836c134043ecafa575e85acf999",
+  "file_size_bytes": 3377055,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:52:22.663931+00:00",
+    "contact_sheet_sha256": "a22a5299533b91a0dc6ed99c3ee9b9bfdaafbf7f11e6f8b1877bd07cf83d386e",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "output": "../ding-feng-bo-01-walk-through-rain.png",
+  "refined_prompt": "../prompts/ding-feng-bo-01-walk-through-rain.txt",
+  "source_prompt": "../prompts/ding-feng-bo-01-walk-through-rain-poem.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "poem_title": "定风波",
+  "poem_author": "苏轼",
+  "poem_dynasty": "宋",
+  "poem_text": "莫听穿林打叶声，何妨吟啸且徐行。",
+  "poem_selection": "opening two lines",
+  "art_direction": "Original abstract ink rain crossing bamboo strokes on pale paper; the two lines are typeset locally.",
+  "sha256": "9998d081ed754b0081102c629a9fb7b92f2cd850170b48c0f336349b9121b3a0",
+  "native_sha256": "538dfc71f72cedd71294355e443e38ac06e802f26b7050f344bcf9b774aa9fbe",
+  "prompt_sha256": "4c1b441c977884fca05f573201c37be8d8497b7bcdeef00a577a51f88c5d07a7",
+  "poem_sha256": "652e13734c7435be852927a61bb180cca2b3b9feee9d212828b64a63d5504552",
+  "created_at_utc": "2026-11-06T04:26:50.257717+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "poem_lines": [
+      "莫听穿林打叶声，",
+      "何妨吟啸且徐行。"
+    ],
+    "poem_font_size": 58,
+    "text_area": [
+      973,
+      360,
+      1490,
+      750
+    ],
+    "background": "translucent pale paper gradient"
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "output": "../tengwang-autumn-01-fishing-song-wild-geese.png",
+  "refined_prompt": "../prompts/tengwang-autumn-01-fishing-song-wild-geese.txt",
+  "source_prompt": "../prompts/tengwang-autumn-01-fishing-song-wild-geese-source.txt",
+  "created_at": "2026-11-25T04:15:39.681864+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2.5-flare",
+  "deployment": "gpt-image-2.5-flare",
+  "deployment_model_version": "2026-09-08",
+  "deployment_verified_at": "2026-11-25",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "generation_endpoint": "https://carina-aih-eastus2.openai.azure.com/openai/deployments/gpt-image-2.5-flare/images/generations?api-version=2024-02-01",
+  "api_version": "2024-02-01",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "tengwang-autumn",
+  "series_number": 1,
+  "title": "渔舟唱晚 · 雁阵惊寒",
+  "description": "秋日暮湖中渔舟缓归，近舟渔人仰首似在唱晚；远舟灯火映水，寒雁列队掠过暖霞与蓝紫夜空。",
+  "poem_title": "滕王阁序",
+  "poem_author": "王勃",
+  "poem_dynasty": "唐",
+  "poem_text": "渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。",
+  "source_text": {
+    "kind": "public-domain-classical-prose",
+    "verified_url": "https://www.gushiwen.cn/shiwenv_ce802de625e5.aspx",
+    "interpretation": "poetic synthesis of distant shores in one original landscape, not a geographic reconstruction"
+  },
+  "art_direction": {
+    "medium": "Chinese ink and mineral-pigment landscape with cinematic atmospheric depth",
+    "palette": "blue-gray, lavender dusk, muted teal, apricot-rose afterglow",
+    "composition": "near fishing skiff at lower left, sparse distant boat light, geese receding through open upper-right sky",
+    "fictional_adult": true,
+    "text_overlay": false
+  },
+  "sha256": "6ac3ec227f94e5c864e9c81dbffe1acec97b1bebc72629224eca9070aeb4606c",
+  "native_sha256": "6ac3ec227f94e5c864e9c81dbffe1acec97b1bebc72629224eca9070aeb4606c",
+  "prompt_sha256": "ee2d699c2bce4e1980336bd2ca2cb9f1b51d1e50d56bec22eec2d034dacb47e1",
+  "source_prompt_sha256": "c0d381a9cfe797d6687ee6561ce413ef472ce397fbbb449137022e707e8d7f02",
+  "file_size_bytes": 2737686,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-25T04:15:39.681864+00:00",
+    "method": "single compressed JPEG review, longest edge at most 1280 pixels",
+    "preview_dimensions": [
+      1280,
+      853
+    ],
+    "preview_bytes": 193801,
+    "preview_sha256": "9fb222efe33d4bf32c0dbb57a06bec011bd8502b322d13d46fa60b4fe5c5996c"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.preview_file"
+  ]
+}

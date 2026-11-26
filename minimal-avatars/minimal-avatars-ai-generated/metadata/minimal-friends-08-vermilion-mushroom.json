@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-08-vermilion-mushroom.png",
+  "refined_prompt": "../prompts/minimal-friends-08-vermilion-mushroom.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "红帽蘑菇 · 淡定: 冷白底，朱红圆帽下露出短白柄与淡定小眼。",
+  "composition_variation": "A quietly charming mushroom character on a smooth pale cool-gray-white field. One generous rounded muted vermilion-red cap with an elegant shallow dome and slightly sloping brim, sitting on a short plump white stem. Two tiny elongated black eyes on the stem are half-lidded and relaxed; a very short horizontal mouth. Just two small off-white irregular oval spots on one side of the cap, tasteful and spacious, not a dense polka-dot pattern. The red brim lightly shades the eyes only by overlapping flat shapes, no actual shadow. Compact balanced silhouette occupying 60 percent width, ample blank space around. No arms, feet, grass, scene or outline around the whole mushroom.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:34:48.930894+08:00",
+  "sha256": "3397e3145be41467e8aa4770715f2a7c716ef22b8f7bfdd3af98a007479bef08",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

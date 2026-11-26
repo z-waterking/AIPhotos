@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-02-terracotta-fox.png",
+  "refined_prompt": "../prompts/minimal-friends-02-terracotta-fox.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "赤陶狐 · 机灵: 冷白底，赤陶耳尖和双颊，白色负形脸与轻挑眼神。",
+  "composition_variation": "A fox face reduced to a handful of elegant shapes on a smooth cool white field. Warm terracotta-orange pointed ears and swept cheek wedges frame a white central face that merges into the background. Two soft charcoal almond eyes glance to the side with a clever relaxed expression; a tiny dark inverted triangular nose sits below. Symmetrical overall but a small natural head tilt, no excessive lopsidedness. Only a small pale orange region at ear interiors, no fur strokes or whiskers. Centered close-up head at roughly 62 percent width, much empty space. Charming elegant fox, not a sharp aggressive sports-team logo. No full outline around the face.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:27:24.572292+08:00",
+  "sha256": "bf8c61c3e885faad25d806f77bf8f1c60ea0c694ea97564569a45e1dfc52a86f",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-20-shared-candle-rain.png",
+  "refined_prompt": "../prompts/poetic-longing-20-shared-candle-rain.txt",
+  "source_prompt": "../prompts/poetic-longing-20-shared-candle-rain-source.txt",
+  "created_at": "2026-11-23T07:44:58.132011+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 20,
+  "anthology_index": 20,
+  "title": "何当共剪西窗烛，却话巴山夜雨时。",
+  "description": "山城夜雨旁，两位成年人同坐烛光下，一人照看烛芯，另一人静静倾听。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "何当共剪西窗烛，却话巴山夜雨时。",
+    "author": "李商隐",
+    "work": "夜雨寄北",
+    "source_url": "https://lib.ncpu.edu.cn/index/Meishuguan/image_show.html?c_id=2&id=146",
+    "verified": true,
+    "variant_note": "收信者有妻子、友人两说；画面为虚构相聚愿景，不声称复原具体人物。"
+  },
+  "art_direction": {
+    "medium": "intimate warm amber gouache and cool slate-blue rain textures",
+    "composition": "Two fully clothed adults sit beside a west-facing window in a small mountain-town room. One gently trims a candle wick with ordinary household snuffers while the other listens with an attentive expression. Rain glistens beyond the window with dim mountain roofs outside. Shared candlelight and easy conversation are the emotional center: an imagined hopeful reunion in amber and soft slate, not historical people.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "dd130502f0eac645b449eab9cff9aef9e69cd3f0c318159b81baadada9778cf8",
+  "native_sha256": "dd130502f0eac645b449eab9cff9aef9e69cd3f0c318159b81baadada9778cf8",
+  "prompt_sha256": "fbe0b154fdc9a75155715073fcf967bfef39b765db33ff41e000404b647f2ed3",
+  "source_prompt_sha256": "d942b01fbf1150fdafd76569c292bd048d2bf4bf08efe6fff23663474cd66a3b",
+  "file_size_bytes": 2854989,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:46:11.548482+00:00",
+    "contact_sheet_sha256": "6290e6d1c7b6ad4d77e53abf1b7097fbde383b69d46d56d29d95ae9bd5e7618c",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

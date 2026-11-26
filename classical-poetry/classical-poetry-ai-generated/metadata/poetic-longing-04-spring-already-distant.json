@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-04-spring-already-distant.png",
+  "refined_prompt": "../prompts/poetic-longing-04-spring-already-distant.txt",
+  "source_prompt": "../prompts/poetic-longing-04-spring-already-distant-source.txt",
+  "created_at": "2026-11-23T07:01:49.824494+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 4,
+  "anthology_index": 4,
+  "title": "此情可待成追忆，只是当时已惘然。",
+  "description": "春日游园人群缓缓前行，一人停在落花的水阶边，近在眼前的繁华已显遥远。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "此情可待成追忆，只是当时已惘然。",
+    "author": "李商隐",
+    "work": "锦瑟",
+    "source_url": "https://zh.wikisource.org/zh-hans/錦瑟",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "layered watercolor and colored mineral wash with expressive soft brush edges",
+    "composition": "A spring garden is lively with small groups of fully clothed adults walking beneath flowering branches. In the foreground, one adult pauses at shallow waterside steps, holding a single fallen petal. The festive scene continues nearby, yet the figure feels quietly detached from it. Use sensitive painted detail and softened reflections to suggest a beautiful moment already slipping beyond reach.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "f93f4ec6b50b9c46cdddc1e877635d20a7bedf73545da53454206881b1cb09a3",
+  "native_sha256": "f93f4ec6b50b9c46cdddc1e877635d20a7bedf73545da53454206881b1cb09a3",
+  "prompt_sha256": "1cbc52958b6a4ef73500b83b87ef272172e0e6b6a383e1cf2080d3cb999befbb",
+  "source_prompt_sha256": "d9685868729e4890ace86930350770c64b24a152e3ac13ecdb5a562366434303",
+  "file_size_bytes": 3309141,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:03:31.822132+00:00",
+    "contact_sheet_sha256": "679a89e7c01eb7b592f29bf3beb3062fe97a5df95b2e22201a90ea5e0257b6fe",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-26-lantern-crowd-absence.png",
+  "refined_prompt": "../prompts/poetic-longing-26-lantern-crowd-absence.txt",
+  "source_prompt": "../prompts/poetic-longing-26-lantern-crowd-absence-source.txt",
+  "created_at": "2026-11-23T07:54:19.429715+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 26,
+  "anthology_index": 26,
+  "title": "不见去年人，泪湿春衫袖。",
+  "description": "灯会长街上，一人在缓行的成年人群中寻找熟悉面孔，抬袖片刻后仍独自向前。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "不见去年人，泪湿春衫袖。",
+    "author": "欧阳修／朱淑真（署名有异说）",
+    "work": "生查子·元夕",
+    "source_url": "https://www.gushiwen.cn/shiwenv_c616fab1b377.aspx",
+    "verified": true,
+    "variant_note": "常题欧阳修，亦有归朱淑真说；湿一作满，取湿。"
+  },
+  "art_direction": {
+    "medium": "soft matte pastel figures and layered amber-violet festival gouache",
+    "composition": "A lantern-lit street contains a gentle evening flow of fully clothed adults. One adult pauses among them searching familiar faces, then lightly raises a sleeve near the cheek. Avoid a crying close-up. The warm festival continues without acknowledging the private absence. Layer soft pastel figures, amber lanterns without writing and deep violet street shadows in a spacious composition.",
+    "theme": "故人与空景",
+    "fictional_adults": true
+  },
+  "sha256": "8fb11dfb3b372422b0eec82f22ccddb0538036aa8a09636caa403e151e13ff61",
+  "native_sha256": "8fb11dfb3b372422b0eec82f22ccddb0538036aa8a09636caa403e151e13ff61",
+  "prompt_sha256": "38b4a9d461a00c21acccd4013853f5cb0be2cc90da42bd15ad27027b508377a6",
+  "source_prompt_sha256": "51bef8077d42c5d7740be675cdf687c9ff8272638f183f89ba02f91fbae329f4",
+  "file_size_bytes": 3006870,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:58:41.705725+00:00",
+    "contact_sheet_sha256": "53fc3cd0db081dc15b7fabad1ecac6892f0d87b8538fb0ccaca011882b4fe9ff",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-08-passing-sails-waiting.png",
+  "refined_prompt": "../prompts/poetic-longing-08-passing-sails-waiting.txt",
+  "source_prompt": "../prompts/poetic-longing-08-passing-sails-waiting-source.txt",
+  "created_at": "2026-11-23T07:06:54.905983+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 8,
+  "anthology_index": 8,
+  "title": "过尽千帆皆不是，斜晖脉脉水悠悠。",
+  "description": "江楼栏边一位成年女子远望，帆船渐远，斜晖落在仍空着的近岸泊位。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "过尽千帆皆不是，斜晖脉脉水悠悠。",
+    "author": "温庭筠",
+    "work": "望江南·梳洗罢",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_8782bcb209b0.aspx",
+    "verified": true,
+    "variant_note": "词牌亦称梦江南。"
+  },
+  "art_direction": {
+    "medium": "delicate hand-painted landscape gouache and warm river-light washes",
+    "composition": "From a high riverside pavilion, one fully clothed adult woman watches several small sailing boats recede along a wide river. None approaches the empty mooring directly below. Place the waiting figure near one edge and give most of the landscape to moving water and the fading procession of sails. Long golden reflections, understated architecture and an increasingly spacious evening sky.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "78a5a067084a9a29838414cd2d1d3a27ccee4d56ed371958913c3e8daf07ffa3",
+  "native_sha256": "78a5a067084a9a29838414cd2d1d3a27ccee4d56ed371958913c3e8daf07ffa3",
+  "prompt_sha256": "d85f4b810a67cac7c1dfb9f94a9114f0d5b0d7d5cd5b357784d846990e582821",
+  "source_prompt_sha256": "e39025ba647a4427477ca8bd5b48748ac3894141c25f2654fd93069445d946a2",
+  "file_size_bytes": 2908284,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:31:43.681812+00:00",
+    "contact_sheet_sha256": "7d17d73540cf0481538a57be3492ca70f04e75074ecff9656d2164109b67e07a",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

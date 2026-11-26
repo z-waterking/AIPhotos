@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-30-wutong-dusk-rain.png",
+  "refined_prompt": "../prompts/poetic-longing-30-wutong-dusk-rain.txt",
+  "source_prompt": "../prompts/poetic-longing-30-wutong-dusk-rain-source.txt",
+  "created_at": "2026-11-23T08:00:35.389332+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 30,
+  "anthology_index": 30,
+  "title": "梧桐更兼细雨，到黄昏、点点滴滴。",
+  "description": "黄昏小院里，雨沿梧桐大叶滴入浅水，远处屋门渐暗，整幅画只留点滴。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "梧桐更兼细雨，到黄昏、点点滴滴。",
+    "author": "李清照",
+    "work": "声声慢·寻寻觅觅",
+    "source_url": "https://m.gushiwen.cn/mingju/juv_80edd4a91095.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "monochrome Chinese ink texture and restrained indigo rain washes",
+    "composition": "A mature Chinese parasol tree (Firmiana simplex, wutong) fills part of a quiet courtyard at dusk. Its large palmately veined leaves have three to five broad smooth-edged lobes. Rain beads along the leaves and drops into shallow puddles, making overlapping rings. A modest house recedes into dimness. Peaceful unoccupied composition, monochrome ink and restrained indigo emphasizing droplets and gathering evening.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "6a1640d95805ef645ab13cce1993adef68f7b2455b3ab68d22c340f0bad312d1",
+  "native_sha256": "6a1640d95805ef645ab13cce1993adef68f7b2455b3ab68d22c340f0bad312d1",
+  "prompt_sha256": "a6273df6abe79448bb0d0e5f3f59c0aa5e98695079ac19729afc44b101dd5338",
+  "source_prompt_sha256": "275abef80951831ce48d818969894fffd016c7f7551317ec6e3a664c855798e9",
+  "file_size_bytes": 2927358,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:19:41.290104+00:00",
+    "contact_sheet_sha256": "c66e62e6d5e4bfb7c49ee631f4ee3b6a9a8c6674f1283c673a0ef67b4bb02885",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-01-osmanthus-return.png",
+  "refined_prompt": "../prompts/poetic-longing-01-osmanthus-return.txt",
+  "source_prompt": "../prompts/poetic-longing-01-osmanthus-return-source.txt",
+  "created_at": "2026-11-23T15:00:01.503313+08:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 1,
+  "anthology_index": 1,
+  "title": "欲买桂花同载酒，终不似，少年游。",
+  "description": "秋江渡口，成年旅人携桂花与封口酒坛登舟，回望渐远的岸上人群。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "欲买桂花同载酒，终不似，少年游。",
+    "author": "刘过",
+    "work": "唐多令·芦叶满汀洲",
+    "source_url": "https://www.hbgyzy.edu.cn/wx/info/1026/1348.htm",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "sensitive ink contours and translucent amber mineral washes on warm silk",
+    "composition": "An adult traveler boards a small wooden boat at an autumn ferry, carrying fresh osmanthus branches and a sealed wine jar. The departing riverside gathering is distant and softly blurred. Emphasize the vivid flowers beside a worn traveling coat: familiar pleasures remain available, but their former season cannot be recovered. Spacious river, pale evening sky, restrained ink and amber washes.",
+    "theme": "旧游与旧约",
+    "fictional_adults": true
+  },
+  "sha256": "4f89436f861f135b8961867950921f4f61fbaec17a9acb1c9b2a7b2fc2c63bb0",
+  "native_sha256": "4f89436f861f135b8961867950921f4f61fbaec17a9acb1c9b2a7b2fc2c63bb0",
+  "prompt_sha256": "ddaeac0bf88d2742a6a836ee8ac0d0c63e9ee8cd6c81e946dd8f0fcffea0366a",
+  "source_prompt_sha256": "7800fe3ae86293709d1f600b521fc95b322f1db1140fdf60e2bc077c4c356fc6",
+  "file_size_bytes": 2904951,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T15:03:31.691096+08:00",
+    "contact_sheet_sha256": "679a89e7c01eb7b592f29bf3beb3062fe97a5df95b2e22201a90ea5e0257b6fe",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

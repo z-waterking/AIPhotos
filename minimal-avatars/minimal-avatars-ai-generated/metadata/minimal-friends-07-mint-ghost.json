@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-07-mint-ghost.png",
+  "refined_prompt": "../prompts/minimal-friends-07-mint-ghost.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "薄荷小幽灵 · 偷看: 深黑底，薄荷白小幽灵轻轻倾斜，朝侧面偷看。",
+  "composition_variation": "A friendly little ghost rendered as a single elegant pale mint-white silhouette on a flat soft-black field. Round domed head, softly narrowing body and a bottom edge with only two calm fabric-like waves. The whole silhouette tilts slightly like a curious listener. Two tiny black vertical oval eyes shifted subtly to one side, a little white highlight in each, and no mouth. Cute gentle curious presence, absolutely no frightening details. Silhouette occupies about 52 percent of canvas width and 60 percent height centered with generous black space. No limbs, decorations, translucent effects, glow or shadows. Exceptionally clean balanced icon with slight hand-drawn softness.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:33:38.016479+08:00",
+  "sha256": "e55f02db1a8e2f2e1d954866318267a85f2cb653d057e6de5e664ed9e971fc6c",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

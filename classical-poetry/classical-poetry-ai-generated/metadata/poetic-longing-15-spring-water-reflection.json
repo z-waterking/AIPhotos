@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-15-spring-water-reflection.png",
+  "refined_prompt": "../prompts/poetic-longing-15-spring-water-reflection.txt",
+  "source_prompt": "../prompts/poetic-longing-15-spring-water-reflection-source.txt",
+  "created_at": "2026-11-23T07:38:51.210587+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 15,
+  "anthology_index": 15,
+  "title": "伤心桥下春波绿，曾是惊鸿照影来。",
+  "description": "春日石桥旁一人俯看碧水，水面只映着桥拱与花枝。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "伤心桥下春波绿，曾是惊鸿照影来。",
+    "author": "陆游",
+    "work": "沈园二首·其一",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_e58de98ee39c.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "fine gongbi landscape lines and fresh malachite-green mineral washes",
+    "composition": "A fully clothed adult pauses beside a low stone bridge, looking down into clear green spring water. Flowering branches and the bridge arch cast delicate reflections across the current; there is no human reflection beyond the present observer. Compose from a slightly elevated angle giving the water generous space. Fresh mineral greens and soft blossom shadows let beauty itself carry quiet absence.",
+    "theme": "故人与空景",
+    "fictional_adults": true
+  },
+  "sha256": "380815ae0ac6d53ac241dce7fc5ac43b4236c01b13679ec2eea5584184837797",
+  "native_sha256": "380815ae0ac6d53ac241dce7fc5ac43b4236c01b13679ec2eea5584184837797",
+  "prompt_sha256": "13f4f1d1b5d4b4e1fee948e80b1b2bd8eab74d5155e3b07a83c7fa007dcabc95",
+  "source_prompt_sha256": "c2a61672d1f1a657eb4b53e48ce6a39b662680c9ddacb10ee778da5ccc595aff",
+  "file_size_bytes": 3381520,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:41:33.925471+00:00",
+    "contact_sheet_sha256": "d9c83c6cdb8dff2497013df6f83fbcb964d45a61d4cbe4cef9f32382bf8fca40",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

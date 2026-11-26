@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-09-guest-forgotten-dream.png",
+  "refined_prompt": "../prompts/poetic-longing-09-guest-forgotten-dream.txt",
+  "source_prompt": "../prompts/poetic-longing-09-guest-forgotten-dream-source.txt",
+  "created_at": "2026-11-23T07:33:54.300944+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 9,
+  "anthology_index": 9,
+  "title": "梦里不知身是客，一晌贪欢。",
+  "description": "温暖春园里，成年旅人与几位旧友围桌小聚，门边行囊暂时被忘在一旁。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "梦里不知身是客，一晌贪欢。",
+    "author": "李煜",
+    "work": "浪淘沙令·帘外雨潺潺",
+    "source_url": "https://zh.wikisource.org/zh-hans/浪淘沙令",
+    "verified": true,
+    "variant_note": "采用一晌版本；画面为虚构梦境，不表现历史事件。"
+  },
+  "art_direction": {
+    "medium": "luminous warm gouache with soft watercolor garden edges",
+    "composition": "A warmly painted spring garden holds a small gathering of fully clothed adults sharing fruit and tea around a low table. An adult traveler participates with an unguarded peaceful expression; a modest travel bundle rests unnoticed beside the entrance. Keep this a single coherent scene. Softened edges and luminous flowering branches give the temporary welcome the immersive quality of a dream. No historical likenesses.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "e3704b354389b3f062910b0849d41f7cc7d225ae44a8431af3c0f3ecfab2cac6",
+  "native_sha256": "e3704b354389b3f062910b0849d41f7cc7d225ae44a8431af3c0f3ecfab2cac6",
+  "prompt_sha256": "f5b74daeef00086c086878e5e7ccf4470c3ac744153820bf4eb5847d0902f412",
+  "source_prompt_sha256": "2f14c5da6a09c9b94e2e8453be8ab1da48e728c1cef0e25506094d3343a76408",
+  "file_size_bytes": 3180237,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:36:34.529094+00:00",
+    "contact_sheet_sha256": "c3fc7b0a0a9903d1025dcdfdd9a9cb60aa03f32fdd3001cb856df365ef604866",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

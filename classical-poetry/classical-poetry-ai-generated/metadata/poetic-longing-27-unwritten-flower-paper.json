@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-27-unwritten-flower-paper.png",
+  "refined_prompt": "../prompts/poetic-longing-27-unwritten-flower-paper.txt",
+  "source_prompt": "../prompts/poetic-longing-27-unwritten-flower-paper-source.txt",
+  "created_at": "2026-11-23T07:54:17.834387+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 27,
+  "anthology_index": 27,
+  "title": "相思本是无凭语，莫向花笺费泪行。",
+  "description": "竹廊里一人把毛笔停在花纹素笺上方，纸页空白，春光安静铺向庭院。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "相思本是无凭语，莫向花笺费泪行。",
+    "author": "晏几道",
+    "work": "鹧鸪天·醉拍春衫惜旧香",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_c9bc1b8a974a.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "fine ink drawing and warm textured paper with delicate floral watercolor",
+    "composition": "On an open bamboo verandah a fully clothed adult pauses with a brush above an entirely unwritten sheet decorated only with faint painted flowers. A simple inkstone and unused paper occupy the foreground; fresh garden light opens beyond them. Show hesitation through still hands and generous blank space. Fine ink drawing and warm paper textures keep the scene intimate and restrained.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "a83f0ee2c715565d18e9dac2e2f0e4e62573ad7dc5a195a4c11aaccde887a796",
+  "native_sha256": "a83f0ee2c715565d18e9dac2e2f0e4e62573ad7dc5a195a4c11aaccde887a796",
+  "prompt_sha256": "cb68970b287c4c6743ac6989f79f9a3c486be9acebb38f1749117091688cdafd",
+  "source_prompt_sha256": "2fa50dcb4e75f581d991e8ad2ee5220ab886cc5b07ed84a684c260ad60b5a4da",
+  "file_size_bytes": 3095970,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:58:41.740354+00:00",
+    "contact_sheet_sha256": "53fc3cd0db081dc15b7fabad1ecac6892f0d87b8538fb0ccaca011882b4fe9ff",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

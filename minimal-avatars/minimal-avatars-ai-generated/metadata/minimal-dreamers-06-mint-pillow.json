@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-06-mint-pillow.png",
+  "refined_prompt": "../prompts/minimal-dreamers-06-mint-pillow.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "薄荷枕头 · 偷懒一下: 黑底，薄荷绿软方枕四角轻翘，低低眼皮与轻弧短嘴。",
+  "composition_variation": "A plush-looking but purely flat illustrated mint-green pillow floating as a single character on a perfectly flat soft-black field. A beautifully rounded square silhouette with four softly lifted corners and gently concave edges creates the sense of a pillow without any shading or stitching. A slight diagonal tilt. Two dark half-lidded tiny oval eyes in the center look pleasantly drowsy; a minuscule curved mouth below. Just one tiny off-white curved mark near one corner, if needed, to emphasize its soft folded shape. The pillow fills about 58 percent width and has ample black space all around. Three colors, no bed, zzz text, stars, limbs or fabric patterns. Delightfully relaxed, tasteful and clean.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:55:24.741741+08:00",
+  "sha256": "f2eddddb5e422ae3bcdb477b8bca366023d5ebbf0d6380a00cc71abd648fcdfc",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

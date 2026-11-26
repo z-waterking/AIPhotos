@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-31-geese-above-west-tower.png",
+  "refined_prompt": "../prompts/poetic-longing-31-geese-above-west-tower.txt",
+  "source_prompt": "../prompts/poetic-longing-31-geese-above-west-tower-source.txt",
+  "created_at": "2026-11-23T16:22:08.849111+08:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 31,
+  "anthology_index": 31,
+  "title": "云中谁寄锦书来？雁字回时，月满西楼。",
+  "description": "满月照着中式西楼，一人在木廊上望向归雁，掌中的素封信笺仍未展开。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "云中谁寄锦书来？雁字回时，月满西楼。",
+    "author": "李清照",
+    "work": "一剪梅·红藕香残玉簟秋",
+    "source_url": "https://www.qdhxu.edu.cn/content/CTWH/9fbb7beaf46c443294660b4d60ab9730",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "luminous silver mineral-pigment architecture and expansive blue night air",
+    "composition": "A fully clothed adult stands on a sheltered open wooden gallery of a traditional Chinese west-facing residential pavilion, looking toward migrating geese beneath a luminous full moon. Architecture is unmistakably Chinese: dark timber columns and bracket sets, white plaster walls, a gray curved tile roof with modest upturned eaves, and a simple waist-high wooden balustrade. Absolutely no European architecture, church tower, turret, dome, spire, bell tower or fortress. A plain unmarked sealed letter packet rests in one hand. Geese are naturally spaced and form no readable characters. Silver clouds and blue night air occupy most of the view.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "3070ec166ba89c36e7c30cb5252646ffa10b247d073b5a3ec17e28a587384e42",
+  "native_sha256": "3070ec166ba89c36e7c30cb5252646ffa10b247d073b5a3ec17e28a587384e42",
+  "prompt_sha256": "740a5ea1246543f2ae578a2090879898a66046643f10bc498b55efdd61d8e89e",
+  "source_prompt_sha256": "7ecb1167415d77619d93a6aae0a4a9b4f199b71809e1ad88f605f829b4519114",
+  "file_size_bytes": 2533595,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T16:24:07.157389+08:00",
+    "contact_sheet_sha256": "809e851610d5d20b3798a253eeea2ceb13dbcfb3286875cb92f3a60471f0935c",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

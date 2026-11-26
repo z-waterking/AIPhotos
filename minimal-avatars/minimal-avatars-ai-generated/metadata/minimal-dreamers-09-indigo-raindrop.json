@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-09-indigo-raindrop.png",
+  "refined_prompt": "../prompts/minimal-dreamers-09-indigo-raindrop.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "靛蓝雨滴 · 清澈抬眼: 浅杏底，靛蓝水滴尖端像柔软刘海，薄荷小眼睛轻轻上望。",
+  "composition_variation": "A single generously rounded indigo raindrop character on a smooth pale apricot background. The top tip bends softly left like a little forelock; the lower silhouette is round and stable, filling about 50 percent canvas width and 64 percent height. Two small pale mint oval eyes with very small dark pupils glance gently upward; a tiny mint mouth below adds a quiet sense of wonder. A single narrow ivory highlight stroke near the upper side, drawn as a flat clean shape, no glass or transparency. Four colors at most, large negative space. No puddle, umbrella, rain, additional droplets or shine gradients. Graceful calm magical simplicity.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:59:27.265931+08:00",
+  "sha256": "5db570b86847aebb5d2d7f9365f757b8a4e5826b059196ef317054fb98ef5305",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

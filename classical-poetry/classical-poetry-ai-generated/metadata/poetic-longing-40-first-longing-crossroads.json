@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-40-first-longing-crossroads.png",
+  "refined_prompt": "../prompts/poetic-longing-40-first-longing-crossroads.txt",
+  "source_prompt": "../prompts/poetic-longing-40-first-longing-crossroads-source.txt",
+  "created_at": "2026-11-23T08:33:20.636631+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 40,
+  "anthology_index": 40,
+  "title": "平生不会相思，才会相思，便害相思。",
+  "description": "春游散场的岔路，一位成年年轻人回望渐远同伴，想招呼的手轻轻停在半途。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "平生不会相思，才会相思，便害相思。",
+    "author": "徐再思",
+    "work": "折桂令·春情",
+    "source_url": "https://zh.wikisource.org/zh-hans/折桂令·春情",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "clear illustrated silhouettes and warm luminous watercolor spring light",
+    "composition": "At a flowering garden crossroads one fully clothed young adult turns back toward another adult already departing along a separate path. A small unfinished greeting gesture reveals newly discovered longing without exaggerated sorrow or illness imagery. Both figures remain natural and solid. Warm watercolor light, clear illustrated silhouettes and softly falling petals keep this first separation tender and quietly hopeful.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "6fe0bc1b06334c16233902d1c1f0575dc8edba0f44186e4b5174066c5f3071ef",
+  "native_sha256": "6fe0bc1b06334c16233902d1c1f0575dc8edba0f44186e4b5174066c5f3071ef",
+  "prompt_sha256": "71978be9387f8c7bc053d047de22f22d4e22ffcfa20ecf2907957c135d4d05c5",
+  "source_prompt_sha256": "c39e61b9feabd9addb77903fd0dbd5405bdcaeebd17da5b023eb6ab4c4d4e4f1",
+  "file_size_bytes": 3220779,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:40:44.794408+00:00",
+    "contact_sheet_sha256": "16aaad0b8b98f767d5a1baa0d727eafe56bef9f091789b17683298c1ae979ba3",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

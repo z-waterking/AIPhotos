@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-06-mist-seal.png",
+  "refined_prompt": "../prompts/minimal-friends-06-mist-seal.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾蓝海豹 · 软糯: 雾蓝底，白色圆脸海豹探头，细小眼睛与短胡须。",
+  "composition_variation": "A serene round white baby seal face peeks up from lower-middle on a clean desaturated mist-blue field. One soft slightly tilted white oval head, centered comfortably within a circular crop. Small dark oval eyes with tiny white glints, one very small charcoal nose, two short fine whisker strokes on each side, minute mouth below. Only a little suggestion of soft cheek shape; no body, flippers or ocean. The face is gentle, a little sleepy and extraordinarily simple. Blue background surrounds it generously, including clear space below. Hand-drawn soft curves, clean flat colors, no blur or texture.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:32:23.436423+08:00",
+  "sha256": "bffe56e650d2b9a181527ff5a2104246bc3bf80156b86feb8ed5d937ffaecca6",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

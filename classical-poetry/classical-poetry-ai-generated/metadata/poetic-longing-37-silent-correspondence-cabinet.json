@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-37-silent-correspondence-cabinet.png",
+  "refined_prompt": "../prompts/poetic-longing-37-silent-correspondence-cabinet.txt",
+  "source_prompt": "../prompts/poetic-longing-37-silent-correspondence-cabinet-source.txt",
+  "created_at": "2026-11-23T08:31:37.432575+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 37,
+  "anthology_index": 37,
+  "title": "别来半岁音书绝，一寸离肠千万结。",
+  "description": "暮春旧屋里，一人打开书信小柜，只有早已收好的旧纸封，门外新叶长满枝头。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "别来半岁音书绝，一寸离肠千万结。",
+    "author": "韦庄",
+    "work": "应天长·别来半岁音书绝",
+    "source_url": "https://zh.wikisource.org/zh-hans/應天長_(別來半歲音書絕)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "warm charcoal drawing with softly layered dusty sunlight gouache",
+    "composition": "A fully clothed adult opens a small household cabinet containing a few old plain folded letter packets. There is no fresh delivery. Beyond an open doorway late-spring leaves have grown dense on a courtyard tree. Focus on the careful unhurried gesture rather than distress. Warm charcoal drawing and dusty sunlight make the passage of an unanswered season tangible. No anatomical imagery.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "a9db17cbcb5e06d2f74720e74f6e50e6c7d9d9c60449f9594873b34132484f23",
+  "native_sha256": "a9db17cbcb5e06d2f74720e74f6e50e6c7d9d9c60449f9594873b34132484f23",
+  "prompt_sha256": "70562702ed4c3a3e716adedae8baf4861806f80e6bfd5d9787dc5a3adc1c629c",
+  "source_prompt_sha256": "b981a6a68bd638240eb8d19ac0ac19789b24f8ca9464d5e8e01b09a962e3e522",
+  "file_size_bytes": 2953657,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:40:44.690357+00:00",
+    "contact_sheet_sha256": "16aaad0b8b98f767d5a1baa0d727eafe56bef9f091789b17683298c1ae979ba3",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

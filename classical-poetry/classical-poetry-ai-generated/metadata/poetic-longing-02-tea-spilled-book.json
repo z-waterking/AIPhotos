@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-02-tea-spilled-book.png",
+  "refined_prompt": "../prompts/poetic-longing-02-tea-spilled-book.txt",
+  "source_prompt": "../prompts/poetic-longing-02-tea-spilled-book-source.txt",
+  "created_at": "2026-11-23T06:59:49.951112+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 2,
+  "anthology_index": 2,
+  "title": "赌书消得泼茶香，当时只道是寻常。",
+  "description": "春日书房里，一人轻收旧书，茶渍与花影留在曾供两人共读的桌面。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "赌书消得泼茶香，当时只道是寻常。",
+    "author": "纳兰性德",
+    "work": "浣溪沙·谁念西风独自凉",
+    "source_url": "https://zh.wikisource.org/zh-hans/浣溪沙_(誰念西風獨自涼)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "intimate matte gouache with fine hand-painted book cloth and wood textures",
+    "composition": "A quiet spring study contains two closed, unmarked books, a modest teapot, and an accidental tea stain across an old wooden reading table. One fully clothed adult gently gathers the books. Sunlit blossom shadows cross the tabletop, preserving the warmth of ordinary companionship through tangible, familiar objects. Render the room in intimate gouache detail with a softly breathing courtyard beyond. No readable writing on books.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "bc4643bce89ba1fa2efd73e9a04a3000638a5927d7bc908ddb7caf37005bc5a8",
+  "native_sha256": "bc4643bce89ba1fa2efd73e9a04a3000638a5927d7bc908ddb7caf37005bc5a8",
+  "prompt_sha256": "67735b91490081eca83aa88907b7d9afb620a24b41bddf8c0d0c43db212834a5",
+  "source_prompt_sha256": "bdaa45a0e891e634c7cca81e028e721c0d9f4109bfca35da674105aa0d2fa93f",
+  "file_size_bytes": 2821750,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:03:31.737256+00:00",
+    "contact_sheet_sha256": "679a89e7c01eb7b592f29bf3beb3062fe97a5df95b2e22201a90ea5e0257b6fe",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

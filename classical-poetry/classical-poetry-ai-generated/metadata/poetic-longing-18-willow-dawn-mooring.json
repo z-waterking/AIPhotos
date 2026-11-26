@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-18-willow-dawn-mooring.png",
+  "refined_prompt": "../prompts/poetic-longing-18-willow-dawn-mooring.txt",
+  "source_prompt": "../prompts/poetic-longing-18-willow-dawn-mooring-source.txt",
+  "created_at": "2026-11-23T07:43:14.354388+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 18,
+  "anthology_index": 18,
+  "title": "今宵酒醒何处？杨柳岸，晓风残月。",
+  "description": "拂晓柳岸，成年旅人醒坐在系泊的小舟里，清冷水面上悬着薄薄残月。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "今宵酒醒何处？杨柳岸，晓风残月。",
+    "author": "柳永",
+    "work": "雨霖铃·寒蝉凄切",
+    "source_url": "https://zh.wikisource.org/zh-hans/雨霖鈴_(柳永)",
+    "verified": true,
+    "variant_note": "宵有霄异文，采用通行宵；标点为整理标点。"
+  },
+  "art_direction": {
+    "medium": "fine willow ink lines and spacious silver-blue dawn washes",
+    "composition": "At dawn a fully clothed adult traveler wakes quietly inside a small wooden boat moored beneath drooping willows. A modest closed wine flask rests near folded bedding. Show the boat in a believable peaceful mooring with a pale crescent moon above wide cool water. Fine willow leaves stir in the breeze; silver washes and open sky dominate the horizontal view.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "7e38e3df40819f2a43a9f2c31abb57f9a6a24483d835d1ea6ddb1add3a299c6f",
+  "native_sha256": "7e38e3df40819f2a43a9f2c31abb57f9a6a24483d835d1ea6ddb1add3a299c6f",
+  "prompt_sha256": "402570b6aa709729874371832f8473821a6704641971cfc9f705005289f0b8d7",
+  "source_prompt_sha256": "fa835bdff07722a6cb0398ebd866528abfef2b15c7605da185fbeea066903898",
+  "file_size_bytes": 2799480,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:46:11.475959+00:00",
+    "contact_sheet_sha256": "6290e6d1c7b6ad4d77e53abf1b7097fbde383b69d46d56d29d95ae9bd5e7618c",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

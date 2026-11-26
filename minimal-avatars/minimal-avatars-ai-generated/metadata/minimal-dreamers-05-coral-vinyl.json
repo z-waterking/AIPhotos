@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-05-coral-vinyl.png",
+  "refined_prompt": "../prompts/minimal-dreamers-05-coral-vinyl.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "珊瑚黑胶 · 听歌精灵: 浅灰白底，炭黑唱片与珊瑚小圆标，圆标上露出好奇眼睛。",
+  "composition_variation": "One little vinyl record as a character on a clean near-white very pale gray field. A perfectly readable near-black disc with a slight drawn irregularity, a small coral-red circular center label shifted visually only a hair off-center for a charming handmade feel. Two tiny black oval eyes within the coral label look up with gentle curiosity, a short tiny mouth below. One single thin off-white partial groove arc near the upper-left edge of the black disc gives rhythmic life; no other groove rings. The label is large enough for the face to read but leaves a wide black rim. Disc centered, about 61 percent of canvas diameter. Four colors max. No text, spindle hole through face, player, headphones, notes or arms. Refined minimal music spirit.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:54:58.293134+08:00",
+  "sha256": "0728426b79c18981fe0d2237f94300bbd58ce7124804ade3cf61803471dfa4d2",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

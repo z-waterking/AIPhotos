@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-38-spring-river-distance.png",
+  "refined_prompt": "../prompts/poetic-longing-38-spring-river-distance.txt",
+  "source_prompt": "../prompts/poetic-longing-38-spring-river-distance-source.txt",
+  "created_at": "2026-11-23T08:31:43.482792+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 38,
+  "anthology_index": 38,
+  "title": "离愁渐远渐无穷，迢迢不断如春水。",
+  "description": "春水绕过重重青山远去，成年旅人沿近岸缓行，长河伸向画面尽头。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "离愁渐远渐无穷，迢迢不断如春水。",
+    "author": "欧阳修",
+    "work": "踏莎行·候馆梅残",
+    "source_url": "https://zh.wikisource.org/zh-hans/踏莎行_(歐陽修)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "sweeping ink-wash curves and pale turquoise mineral highlights",
+    "composition": "A broad spring river winds through successive green hills, continuing far beyond a small adult traveler on the near-bank path. The fully clothed figure moves quietly toward distance while uninterrupted water provides the dominant visual rhythm. Sweeping ink-wash curves, pale turquoise highlights and generous atmospheric gaps keep the landscape gentle, allowing the river's continuity to express separation without extra symbols.",
+    "theme": "等候与归盼",
+    "fictional_adults": true
+  },
+  "sha256": "ce33b1d03a852e14c392bb4f0ed03c0c8d3a3cef4bada337ff3db2760fe5acb2",
+  "native_sha256": "ce33b1d03a852e14c392bb4f0ed03c0c8d3a3cef4bada337ff3db2760fe5acb2",
+  "prompt_sha256": "93a08d045983cf37497a0d02ef98fa3d9e4a74cbd69997b278e01f7a34cbb04b",
+  "source_prompt_sha256": "1f2e6c66854936bdb1343d9e161cb047ad2eca072ece17f2ddfcf6eb76aed0b3",
+  "file_size_bytes": 3061697,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:40:44.716358+00:00",
+    "contact_sheet_sha256": "16aaad0b8b98f767d5a1baa0d727eafe56bef9f091789b17683298c1ae979ba3",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

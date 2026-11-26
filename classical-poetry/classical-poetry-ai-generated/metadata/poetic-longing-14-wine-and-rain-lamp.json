@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-14-wine-and-rain-lamp.png",
+  "refined_prompt": "../prompts/poetic-longing-14-wine-and-rain-lamp.txt",
+  "source_prompt": "../prompts/poetic-longing-14-wine-and-rain-lamp-source.txt",
+  "created_at": "2026-11-23T07:38:26.457808+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 14,
+  "anthology_index": 14,
+  "title": "桃李春风一杯酒，江湖夜雨十年灯。",
+  "description": "江边客舍夜雨中，旅人守着暖灯，旧酒杯旁留着一枝干桃花。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "桃李春风一杯酒，江湖夜雨十年灯。",
+    "author": "黄庭坚",
+    "work": "寄黄几复",
+    "source_url": "https://zh.wikisource.org/wiki/寄黄幾復",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "expressive dark ink wash with a tightly observed honey-gold lamplight pool",
+    "composition": "A fully clothed adult traveler sits in a quiet riverside guesthouse as steady rain darkens wooden eaves. A warm oil lamp illuminates a worn drinking cup and a dried peach-blossom sprig beside a closed travel bundle. Through the open doorway river darkness stretches far away. Contrast the small enduring pool of lamplight with broad ink-blue weather and unhurried passing time.",
+    "theme": "旧游与旧约",
+    "fictional_adults": true
+  },
+  "sha256": "a747c79ce41e8e9ae9d4e82926261243bf5c00d7ed42fc5c5ee2421f993a3755",
+  "native_sha256": "a747c79ce41e8e9ae9d4e82926261243bf5c00d7ed42fc5c5ee2421f993a3755",
+  "prompt_sha256": "5021f13b046b993545266bccffbbe96bb3e78e770acb87d8ccb1bcfe70f08a0e",
+  "source_prompt_sha256": "ec4f6c109403c81cf678c621f58eb549024f7888491c04cba4c7b91729ecff57",
+  "file_size_bytes": 2568132,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:41:33.889339+00:00",
+    "contact_sheet_sha256": "d9c83c6cdb8dff2497013df6f83fbcb964d45a61d4cbe4cef9f32382bf8fca40",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

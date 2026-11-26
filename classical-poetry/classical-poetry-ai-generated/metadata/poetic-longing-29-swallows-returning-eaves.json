@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-29-swallows-returning-eaves.png",
+  "refined_prompt": "../prompts/poetic-longing-29-swallows-returning-eaves.txt",
+  "source_prompt": "../prompts/poetic-longing-29-swallows-returning-eaves-source.txt",
+  "created_at": "2026-11-23T08:00:33.857042+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 29,
+  "anthology_index": 29,
+  "title": "无可奈何花落去，似曾相识燕归来。",
+  "description": "旧屋檐下燕子归巢，春花片片落在石阶上，无人院落里季节照常归来。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "无可奈何花落去，似曾相识燕归来。",
+    "author": "晏殊",
+    "work": "浣溪沙·一曲新词酒一杯",
+    "source_url": "https://m.gushiwen.cn/mingju/juv_b47df92ece13.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "woodcut-like hand-drawn contours with restrained cream, green and warm-brown pigment",
+    "composition": "View an old courtyard roof from beneath a flowering tree as two swallows return to a small natural nest under the eaves. Petals fall toward pale stone steps below. Include no human figures or symbolic possessions. Familiar bird movement coexists with quiet falling flowers. Restrained woodcut-like contours, cream paper grain, muted green and warm brown suggest recurrence and gentle inevitability.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "8aac901d4e4ac63fc926cf4948b3939fb9a0570f1f0bc1c8d1cdf3a078d3c3d2",
+  "native_sha256": "8aac901d4e4ac63fc926cf4948b3939fb9a0570f1f0bc1c8d1cdf3a078d3c3d2",
+  "prompt_sha256": "270f67c57c7bed252271b757319bcd5ec25fb779f7063224eac10652573a80de",
+  "source_prompt_sha256": "f1e7990e6be5c24581cc5b543dd7021e5f1fc2c0623c1523d07c64dc409d993b",
+  "file_size_bytes": 3587146,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:19:41.186814+00:00",
+    "contact_sheet_sha256": "c66e62e6d5e4bfb7c49ee631f4ee3b6a9a8c6674f1283c673a0ef67b4bb02885",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-10-porcelain-robot.png",
+  "refined_prompt": "../prompts/minimal-friends-10-porcelain-robot.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "瓷白机器人 · 好奇: 浅灰蓝底，圆角白色方脸、黑屏小眼与珊瑚旋钮。",
+  "composition_variation": "A tiny friendly retro robot portrait reduced to a soft white rounded-square face on a flat very light blue-gray field. Head tilted about five degrees, one small coral-orange circular side knob on the right. Two dark rounded-rectangular screen eyes, close in size, one gently narrower for a curious expression; one short horizontal dark mouth. A small white reflection inset in each black screen eye. Smooth balanced curves, matte flat fills, barely any outlines. No neck, body, wires, screws, antennae, buttons or symbols. Refined adorable compact character at center with plentiful empty space; three or four colors total. Not 3D or metallic.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:37:17.763860+08:00",
+  "sha256": "7a349c5fcaa72dc7f41a649ae2f7b3d1c1c746509f4f78d93fdf0be9f391d69f",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-12-rain-unmended-clothes.png",
+  "refined_prompt": "../prompts/poetic-longing-12-rain-unmended-clothes.txt",
+  "source_prompt": "../prompts/poetic-longing-12-rain-unmended-clothes-source.txt",
+  "created_at": "2026-11-23T07:35:41.801179+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 12,
+  "anthology_index": 12,
+  "title": "空床卧听南窗雨，谁复挑灯夜补衣。",
+  "description": "南窗夜雨旁，一位着衣成年人安静休息；针线篮和尚未补好的衣衫静置桌上。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "空床卧听南窗雨，谁复挑灯夜补衣。",
+    "author": "贺铸",
+    "work": "鹧鸪天·重过阊门万事非",
+    "source_url": "https://www.gushiwen.cn/mingju/juv_62f04966605b.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "matte indigo gouache and fine rain-lit interior ink contours",
+    "composition": "In a modest bedroom, one fully clothed adult rests quietly along one side of a broad wooden bed, listening toward a rain-streaked southern window. An unfinished garment, sewing basket and extinguished lamp lie on a nearby table. Make ordinary objects readable without a memorial display. Gentle rain reflections and muted indigo convey familiar care now absent. No distressing event is shown.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "6b374c3954be9fd127c413b293b3431bda429472feedd485f266840a2cc80a64",
+  "native_sha256": "6b374c3954be9fd127c413b293b3431bda429472feedd485f266840a2cc80a64",
+  "prompt_sha256": "30606882fd49536e797cb4cbd2f668f15ca09b1c411987dd32bec84acaea5f63",
+  "source_prompt_sha256": "a4e54ce73936710f017a06248441eca8a8a645a74fbc82d5944c1d716d6b7a9c",
+  "file_size_bytes": 2734637,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:36:34.807115+00:00",
+    "contact_sheet_sha256": "c3fc7b0a0a9903d1025dcdfdd9a9cb60aa03f32fdd3001cb856df365ef604866",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

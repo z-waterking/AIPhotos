@@ -1,0 +1,60 @@
+{
+  "output": "../frontier-promise-01-empty-seat-at-dusk.png",
+  "refined_prompt": "../prompts/frontier-promise-01-empty-seat-at-dusk.txt",
+  "source_prompt": "../prompts/frontier-promise-01-empty-seat-at-dusk-source.txt",
+  "created_at": "2026-11-23T02:41:09.445243+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "frontier-promise",
+  "series_number": 1,
+  "title": "塞上牛羊 · 空许约",
+  "source_text": {
+    "kind": "user-provided-text",
+    "text": "塞上牛羊空许约"
+  },
+  "description": "塞外暮色下，牛羊在草原上归牧；牧舍旁一位成年男子独坐，身旁的空木凳与两只陶碗寄托未竟之约。",
+  "art_direction": {
+    "style": "Chinese ink contours, mineral pigment and matte gouache on warm silk",
+    "composition": "one fictional seated adult beside an empty stool; cattle and sheep in a broad dusk pasture",
+    "palette": "muted ochre, cream, honey-gold and blue-gray",
+    "mood": "peaceful pastoral longing and an unfulfilled promise",
+    "fictional_adult": true
+  },
+  "sha256": "1cd55697a220f0fb894c54fde9755d478d97a4e83b42002e3507d228f386ce79",
+  "native_sha256": "1cd55697a220f0fb894c54fde9755d478d97a4e83b42002e3507d228f386ce79",
+  "prompt_sha256": "2dbb839ef232c238069b75b06f5ceea77cdc3d8eb1cc643fdc113496c88959bf",
+  "source_prompt_sha256": "af4220dee47a21f48d0d71c57d4b7990eddeb59a55e2ab35f99f94b476743e36",
+  "file_size_bytes": 2889190,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-23T02:43:11.031786+00:00",
+    "preview_size": "1280x853",
+    "preview_sha256": "122af942dc76d1206a2fdc2a7db4a6e9e5b95bfcd36a13c877297c1676902d23",
+    "method": "single compressed JPEG inspection; original native preserved"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.preview_file"
+  ]
+}

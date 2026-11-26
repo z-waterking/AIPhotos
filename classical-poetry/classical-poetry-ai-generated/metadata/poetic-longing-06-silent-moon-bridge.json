@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-06-silent-moon-bridge.png",
+  "refined_prompt": "../prompts/poetic-longing-06-silent-moon-bridge.txt",
+  "source_prompt": "../prompts/poetic-longing-06-silent-moon-bridge-source.txt",
+  "created_at": "2026-11-23T07:05:08.945166+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 6,
+  "anthology_index": 6,
+  "title": "二十四桥仍在，波心荡，冷月无声。",
+  "description": "无人石桥横跨静水，微波轻轻荡开冷月倒影，远处屋影消融在夜气里。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "二十四桥仍在，波心荡，冷月无声。",
+    "author": "姜夔",
+    "work": "扬州慢·淮左名都",
+    "source_url": "https://www.gushiwen.cn/shiwenv_a8062138a414.aspx",
+    "verified": true,
+    "variant_note": "波心荡后的逗号亦常排作顿号。构图为诗意桥景，不声称复原特定历史桥梁。"
+  },
+  "art_direction": {
+    "medium": "deep indigo ink wash and restrained silver mineral highlights",
+    "composition": "An elegant old stone bridge spans a broad, still river beneath a cool moon. View it obliquely from a low reed bank, allowing its arches and long reflections to form the main rhythm. Gentle ripples disturb the reflected moon near the image center. Keep the bridge unoccupied, with sparse distant roofs and immense blue-gray night air. An imagined poetic bridge, not a reconstruction.",
+    "theme": "故人与空景",
+    "fictional_adults": true
+  },
+  "sha256": "6970263192dfe2217c11533b6d31969d1cf8af5feed4e6d2b0f8bcf1b45be318",
+  "native_sha256": "6970263192dfe2217c11533b6d31969d1cf8af5feed4e6d2b0f8bcf1b45be318",
+  "prompt_sha256": "89947785de614c4e4b88b29fb0e1726dbd5d06375fe7aa240fd6cd48ac1a5efe",
+  "source_prompt_sha256": "3bd1026d9f3b0ab4f5cf5474315aaab471dc7320384d3cb53744510613c87ee4",
+  "file_size_bytes": 2661538,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:31:43.575199+00:00",
+    "contact_sheet_sha256": "7d17d73540cf0481538a57be3492ca70f04e75074ecff9656d2164109b67e07a",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

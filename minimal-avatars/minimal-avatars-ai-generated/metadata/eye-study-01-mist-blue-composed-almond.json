@@ -1,0 +1,32 @@
+{
+  "output": "../eye-study-01-mist-blue-composed-almond.png",
+  "refined_prompt": "../prompts/eye-study-01-mist-blue-composed-almond.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "雾蓝底，灰青杏眼；平稳眼睑、同向侧目与克制高光。",
+  "composition_variation": "Draw two calm, elegant almond eye openings. Each is approximately 2.8 times wider than tall; the right only 5 percent larger. Place their centers at nearly the same height, with a small natural upward rhythm to the right. A gently bowed black upper eyelid and one smooth lower curve enclose each colored aperture. The large black pupil is contained INSIDE the aperture, clipped naturally by the upper lid, never protruding above or below. Its width is about 55 percent of the aperture; iris color remains visible as restrained side wedges. Both pupils look slightly left toward exactly the same point. One small thin ivory vertical glint per pupil, not a long glowing streak. Softly tapered curved corners, no extensions or decorative tails. The expression is steady, composed and subtly observant, not sleepy, surprised or cute.",
+  "visible_subject": "exactly two eye graphics; no other animal features",
+  "anthology_index": 1,
+  "style": "restrained matte editorial gouache",
+  "shape": "balanced flowing almond apertures",
+  "gaze": "calm slightly sidelong",
+  "user_feedback": "前一批过于怪异，重来；保持只画双眼，同色浅底，回到参考的自然比例与弧线。",
+  "palette": {
+    "background": "#E9EEF2",
+    "iris": "#719396"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T04:02:18.343556+00:00",
+  "sha256": "2697e06d0ad7f321b437aed6c5d0bdc1502507313ddd5b3021cea970dc37501d",
+  "visual_review": "passed: inspected compressed contact sheet; eyes only: two eye marks in the individually specified style, matching accent colors and pale background; no other facial features, square construction, jelly rendering or watermark"
+}

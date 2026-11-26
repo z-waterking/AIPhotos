@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-07-butter-bell.png",
+  "refined_prompt": "../prompts/minimal-dreamers-07-butter-bell.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "奶油小铃 · 认真听你: 深青底，奶油黄小铃铛微微歪斜，深色开口与好奇侧望。",
+  "composition_variation": "A little soft butter-yellow bell with personality, centered on a flat deep petrol-teal background. Its dome flows into a softly flared rounded rim with a tiny loop on top. A narrow dark-teal underside opening and one tiny pale yellow clapper create clean shape hierarchy, no outlines or metallic shading. Two small dark-teal oval eyes above the rim glance slightly left with attentive curiosity, head tilt about eight degrees. No extra mouth needed because the little opening suggests one. Rounded graceful silhouette, about 52 percent width and 64 percent height. Two or three colors only. No sound lines, ribbons, musical notes, sparkles or decorations. Elegant witty everyday-object avatar.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:57:29.981008+08:00",
+  "sha256": "4cbc3c56643ddb7cfae9b8daaa5275ebc6442c0d99cc60a4f8f24b7de1dbb410",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

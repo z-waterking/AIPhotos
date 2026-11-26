@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-11-ten-year-flower-shadow.png",
+  "refined_prompt": "../prompts/poetic-longing-11-ten-year-flower-shadow.txt",
+  "source_prompt": "../prompts/poetic-longing-11-ten-year-flower-shadow-source.txt",
+  "created_at": "2026-11-23T07:33:54.409088+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 11,
+  "anthology_index": 11,
+  "title": "背灯和月就花阴，已是十年踪迹十年心。",
+  "description": "一人背向屋内暖灯走入花阴，月光照着被多年触摸磨亮的旧门柱。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "背灯和月就花阴，已是十年踪迹十年心。",
+    "author": "纳兰性德",
+    "work": "虞美人·银床淅沥青梧老",
+    "source_url": "https://zh.wikisource.org/zh-hans/虞美人_(納蘭性德)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "rich charcoal-like ink contours and translucent violet-gray mineral washes",
+    "composition": "A fully clothed adult steps away from a softly lit house into moonlit flowering vines. One hand rests lightly against a smooth weathered gatepost, suggesting a route taken many times across the years. The figure remains small within the garden. Layer warm lamp light behind the body and cool moonlight ahead, using rich contours and translucent violet-gray floral shadows.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "9c7f9a1b8b753271844d5633e7318f1384fd5e3f85d0f098fdac2d51ba635f33",
+  "native_sha256": "9c7f9a1b8b753271844d5633e7318f1384fd5e3f85d0f098fdac2d51ba635f33",
+  "prompt_sha256": "0a9fc53098cef0db714437811e282ab9c81b6d6e326843edb7fafe8b517cfb23",
+  "source_prompt_sha256": "a98b65044b69e524c551238955a48e772ceec4075b3cc17f06f6b26d1e889de1",
+  "file_size_bytes": 3150635,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:36:34.719422+00:00",
+    "contact_sheet_sha256": "c3fc7b0a0a9903d1025dcdfdd9a9cb60aa03f32fdd3001cb856df365ef604866",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

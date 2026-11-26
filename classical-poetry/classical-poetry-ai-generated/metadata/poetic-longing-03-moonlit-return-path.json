@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-03-moonlit-return-path.png",
+  "refined_prompt": "../prompts/poetic-longing-03-moonlit-return-path.txt",
+  "source_prompt": "../prompts/poetic-longing-03-moonlit-return-path-source.txt",
+  "created_at": "2026-11-23T07:00:02.538631+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 3,
+  "anthology_index": 3,
+  "title": "当时明月在，曾照彩云归。",
+  "description": "明月照亮通向旧门的石径，一人停在廊下，望着空荡的归路。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "当时明月在，曾照彩云归。",
+    "author": "晏几道",
+    "work": "临江仙·梦后楼台高锁",
+    "source_url": "https://news.nankai.edu.cn/mtnk/system/2024/12/24/030065225.shtml",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "gongbi-sensitive contours and layered blue mineral pigments with luminous silver washes",
+    "composition": "Moonlight illuminates a pale stone path winding from a flowering garden toward an old courtyard gate. The gate is open, but its familiar inner light has gone out. One fully clothed adult waits beneath a distant covered walkway. Let the uninterrupted path dominate the composition, with luminous cloud edges and cool mineral blues quietly carrying the memory of a return.",
+    "theme": "故人与空景",
+    "fictional_adults": true
+  },
+  "sha256": "5ae8b4f403ee1a685c38f7adb7fb85a9565fb783a33ac154e1850e92fda55847",
+  "native_sha256": "5ae8b4f403ee1a685c38f7adb7fb85a9565fb783a33ac154e1850e92fda55847",
+  "prompt_sha256": "fca4efa3828eae9041f7cdad4320a86d7a880251384ac7d82f59f12b7f72ba2d",
+  "source_prompt_sha256": "037db9ff5a4795573936e228d493d5194ff91f062516ce888a30dd83e68d4a8a",
+  "file_size_bytes": 3315400,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:03:31.777945+00:00",
+    "contact_sheet_sha256": "679a89e7c01eb7b592f29bf3beb3062fe97a5df95b2e22201a90ea5e0257b6fe",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-friends-05-midnight-penguin.png",
+  "refined_prompt": "../prompts/minimal-friends-05-midnight-penguin.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "夜色企鹅 · 呆萌: 黑底，奶白梨形胸脸与极小杏黄嘴喙。",
+  "composition_variation": "An abstract penguin portrait on perfectly flat near-black. Its black head and body merge invisibly into the background; only an elegant rounded white pear-shaped facial and upper-belly patch is visible at center. Two tiny black slightly asymmetric oval eyes sit in the white face, and a very small muted apricot-yellow short beak angled just a little. Quiet attentive deadpan expression, delightful restraint. White shape is smoothly rounded with a little narrower top, not a complete separate white egg; bottom ends well inside avatar safe area. No flippers, feet, ice, clothes or extra objects. Lots of black negative space, elegant flat composition.",
+  "style_inspiration": "Broad style cues from the two chat examples: minimalist flat color, expressive small faces, sparse palette and generous negative space. Subjects and compositions are original and different. No attachment was uploaded as binary model input.",
+  "created_at": "2026-10-19T16:31:32.397682+08:00",
+  "sha256": "8ea5c21cec454de3b07e3bae5234a60a6af90aa457b86617f11e5452cfdd8fce",
+  "visual_review": "passed: compressed preview inspected; distinct requested subject, uncluttered flat illustration, clean silhouette, no visible text or watermark"
+}

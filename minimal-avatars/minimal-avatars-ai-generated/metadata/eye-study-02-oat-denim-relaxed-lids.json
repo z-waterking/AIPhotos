@@ -1,0 +1,32 @@
+{
+  "output": "../eye-study-02-oat-denim-relaxed-lids.png",
+  "refined_prompt": "../prompts/eye-study-02-oat-denim-relaxed-lids.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "燕麦白底，雾蓝舒展半眯眼；轻微高低差，无眉无嘴。",
+  "composition_variation": "Make two broad relaxed eyes in the quiet flat shape language of the ivory-and-blue reference. The left is 10 percent less open and 3 percent lower; the right naturally fuller. Use one slightly arched soft-black upper-lid brush shape per eye, with tapered ends, never a straight bar. Below each lid is a shallow smoothly curved blue eye opening, with a generous black pupil taking about 60 percent of its width and staying completely inside. Colored iris appears at the two sides and in a narrow lower rim, without a full thick ring. Both eyes have the exact same blue and look calmly forward. One short slender ivory glint inside each pupil. Keep the eye pair broad but unobtrusive, centered with generous space. No smile, eyebrow or extra feature. Relaxed without exaggerated half-closure or an exhausted downward angle.",
+  "visible_subject": "exactly two eye graphics; no other animal features",
+  "anthology_index": 2,
+  "style": "simple handmade picture-book flat painting",
+  "shape": "quiet low curved eye bowls under arched upper lids",
+  "gaze": "relaxed direct look",
+  "user_feedback": "前一批过于怪异，重来；保持只画双眼，同色浅底，回到参考的自然比例与弧线。",
+  "palette": {
+    "background": "#F3EFDF",
+    "iris": "#668AA4"
+  },
+  "style_inspiration": "Four user-supplied chat attachments were inspected locally for minimalist gouache/cut-paper style, asymmetric floating eyes, sparse highlights and restrained expression. The generation request contains text only; no reference image or existing generated artwork was uploaded.",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "created_at": "2026-10-22T04:02:14.899839+00:00",
+  "sha256": "e0784173db9215deca964c7fc59d7696de19b88cf850c0a55f6380f717907794",
+  "visual_review": "passed: inspected compressed contact sheet; eyes only: two eye marks in the individually specified style, matching accent colors and pale background; no other facial features, square construction, jelly rendering or watermark"
+}

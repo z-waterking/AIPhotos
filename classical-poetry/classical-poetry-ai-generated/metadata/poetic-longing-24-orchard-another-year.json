@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-24-orchard-another-year.png",
+  "refined_prompt": "../prompts/poetic-longing-24-orchard-another-year.txt",
+  "source_prompt": "../prompts/poetic-longing-24-orchard-another-year-source.txt",
+  "created_at": "2026-11-23T07:50:09.572207+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 24,
+  "anthology_index": 24,
+  "title": "去年花里逢君别，今日花开又一年。",
+  "description": "坡上梨园再次开花，一人停在石径转弯处，曾并肩走过的路如今只有一人。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "去年花里逢君别，今日花开又一年。",
+    "author": "韦应物",
+    "work": "寄李儋元锡",
+    "source_url": "https://www.gushiwen.cn/mingju_372.aspx",
+    "verified": true,
+    "variant_note": "李儋字元锡；题名所指为一位收信人。"
+  },
+  "art_direction": {
+    "medium": "airy dry-brush gouache and broad cream-white blossom strokes",
+    "composition": "A fully clothed adult revisits a hillside pear orchard in full bloom, pausing where an old stone path bends between the trees. White blossoms spread brightly across weathered branches, while the path continues without a companion. Emphasize renewal through fresh flowers against enduring stone. Dry-brush gouache and broad cream-colored petals create a quietly reflective spring landscape.",
+    "theme": "旧游与旧约",
+    "fictional_adults": true
+  },
+  "sha256": "b801a56dabdac11f4fc1d121ed145971e1672e8d10b48cc4c24982dbecbcb325",
+  "native_sha256": "b801a56dabdac11f4fc1d121ed145971e1672e8d10b48cc4c24982dbecbcb325",
+  "prompt_sha256": "b9b720b99804dd15b6dc241632a4b21e331d40f27d71c78e9dc6e34a232943d7",
+  "source_prompt_sha256": "97357f4b7b0861909ab9e9eda720ba2c85e4f008cecf0b0798550794f8742e81",
+  "file_size_bytes": 3281485,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:52:22.849337+00:00",
+    "contact_sheet_sha256": "a22a5299533b91a0dc6ed99c3ee9b9bfdaafbf7f11e6f8b1877bd07cf83d386e",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

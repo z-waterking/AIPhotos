@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-04-vermilion-persimmon.png",
+  "refined_prompt": "../prompts/minimal-dreamers-04-vermilion-persimmon.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "朱橙柿子 · 歪帽掌柜: 冷白底，扁圆朱橙柿子顶着墨绿小叶帽，半眯眼与短嘴。",
+  "composition_variation": "A single plump slightly flattened persimmon on a smooth cool white field. Rich warm vermilion-orange fruit silhouette with softly squared rounded shoulders and a small dip at the top; a compact deep moss-green four-lobed calyx sits slightly askew like a tiny cap, with a very short stem. Two minute charcoal half-lidded eyes and a very short horizontal mouth low on the fruit make it calm, quietly proud and charming. The cap is an essential part of the same subject, no extra leaves floating around. Fruit fills the center 58 percent width. Four flat colors including background, no fruit shine, dimensional shading, arms or feet. Elegant, endearing, memorable profile icon.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T10:52:30.675766+08:00",
+  "sha256": "7f66c99e87180b5622629c7d7a4e3b21b47b6f661e4d75b4ff2e1fc5a537aaef",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

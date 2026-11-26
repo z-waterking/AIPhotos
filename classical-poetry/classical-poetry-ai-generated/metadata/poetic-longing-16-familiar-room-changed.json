@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-16-familiar-room-changed.png",
+  "refined_prompt": "../prompts/poetic-longing-16-familiar-room-changed.txt",
+  "source_prompt": "../prompts/poetic-longing-16-familiar-room-changed-source.txt",
+  "created_at": "2026-11-23T07:40:06.645261+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 16,
+  "anthology_index": 16,
+  "title": "物是人非事事休，欲语泪先流。",
+  "description": "熟悉庭院里一人停下整理旧衣，门环、盆花和晾衣绳依然如常。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "物是人非事事休，欲语泪先流。",
+    "author": "李清照",
+    "work": "武陵春·春晚",
+    "source_url": "https://jzgscxh.cumt.edu.cn/bb/dc/c6882a375772/page.htm",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "warm-earth colored-pencil and matte watercolor domestic illustration",
+    "composition": "In a familiar courtyard a fully clothed adult pauses while folding a plain old garment. The door ring, flowering pot and clothesline remain carefully maintained around them. Show restrained emotion through lowered eyes and hands resting motionless on the cloth, avoiding a crying close-up. Sunlight crosses ordinary household textures, making continuity feel more pronounced than overt symbolism.",
+    "theme": "日常与缺席",
+    "fictional_adults": true
+  },
+  "sha256": "c225c8761a1810b5f751b013f3627066bfa4f946c6bd32b53583753e8e9228e5",
+  "native_sha256": "c225c8761a1810b5f751b013f3627066bfa4f946c6bd32b53583753e8e9228e5",
+  "prompt_sha256": "676ebcc7029bb3f13b0382fe3c46051c46a68546a3f08e4a3befe5d67f681629",
+  "source_prompt_sha256": "f45e230d746fbca604e9408537f0c219895a05a8be3655ff893e4c546c9e090e",
+  "file_size_bytes": 3170033,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:41:33.964470+00:00",
+    "contact_sheet_sha256": "d9c83c6cdb8dff2497013df6f83fbcb964d45a61d4cbe4cef9f32382bf8fca40",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

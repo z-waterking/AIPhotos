@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-36-meeting-without-approach.png",
+  "refined_prompt": "../prompts/poetic-longing-36-meeting-without-approach.txt",
+  "source_prompt": "../prompts/poetic-longing-36-meeting-without-approach-source.txt",
+  "created_at": "2026-11-23T08:27:45.277816+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 36,
+  "anthology_index": 36,
+  "title": "相见争如不见，有情何似无情。",
+  "description": "安静旧街上，两位成年人隔开阔石路相望，脚步停住，却没有谁走近。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "相见争如不见，有情何似无情。",
+    "author": "司马光（传统署名）",
+    "work": "西江月·宝髻松松挽就",
+    "source_url": "https://zh.wikisource.org/zh-hans/西江月_(司馬光)",
+    "verified": true,
+    "variant_note": "署名存在旧词话异议；何在白香词谱笺中作还，本组取通行何版本。"
+  },
+  "art_direction": {
+    "medium": "matte pastel surfaces, sensitive ink contours and soft afternoon shadow shapes",
+    "composition": "Two fully clothed adults unexpectedly recognize each other across a broad quiet old street. Their bodies remain turned along separate walking directions while their gazes meet briefly. Keep expressions restrained and the distance clearly visible. A few closed market stalls and soft afternoon shadows establish ordinary surroundings. Matte pastel surfaces and sensitive ink contours hold the unresolved encounter.",
+    "theme": "旧游与旧约",
+    "fictional_adults": true
+  },
+  "sha256": "624e396eef1183f9a37c429d95ab9957f03d0c4245186b32e6859cbcc9a279a1",
+  "native_sha256": "624e396eef1183f9a37c429d95ab9957f03d0c4245186b32e6859cbcc9a279a1",
+  "prompt_sha256": "2303cfb23f49ad9e09dcdae5e15d3aeab27ea563dd9a3fc5a9a9221b824b993c",
+  "source_prompt_sha256": "d25cad554eced39443466755c87d4da8c18bad0e9543de544364cb75d34b6105",
+  "file_size_bytes": 3081933,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:29:48.266088+00:00",
+    "contact_sheet_sha256": "3d0c58c37ed3c15c7cce969e8231bb5cd8081cd29899f170bf43c1cb4cc7873b",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

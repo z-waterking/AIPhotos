@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-13-same-rooftop-moon.png",
+  "refined_prompt": "../prompts/poetic-longing-13-same-rooftop-moon.txt",
+  "source_prompt": "../prompts/poetic-longing-13-same-rooftop-moon-source.txt",
+  "created_at": "2026-11-23T07:38:16.700474+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 13,
+  "anthology_index": 13,
+  "title": "同来望月人何处？风景依稀似去年。",
+  "description": "一人重登宽阔屋台望月，两只旧酒葫芦靠在栏边，城中屋脊仍似去年。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "同来望月人何处？风景依稀似去年。",
+    "author": "赵嘏",
+    "work": "江楼感旧",
+    "source_url": "https://m.gushiwen.cn/shiwenv_189e58273572.aspx",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "elevated ink landscape and luminous slate-blue watercolor",
+    "composition": "One fully clothed adult stands on a broad rooftop terrace beneath a rising moon. Two worn wine gourds rest together on the low parapet while familiar rooflines and a distant garden tree fill the city below. Use an elevated expansive composition distinct from an intimate window scene. The unchanged evening landscape is gently recognizable, with one companion's place in it unresolved.",
+    "theme": "故人与空景",
+    "fictional_adults": true
+  },
+  "sha256": "b4315c64b49ff3fee6a52eaf15d7375126d7e6f4d22c6beaa038b267af2bb6b1",
+  "native_sha256": "b4315c64b49ff3fee6a52eaf15d7375126d7e6f4d22c6beaa038b267af2bb6b1",
+  "prompt_sha256": "f7fa5eeff652534f24004fea047377380282cc3afee6895c79012088f9e424c7",
+  "source_prompt_sha256": "0b77668dc157027c24305b003881169bdf50a848dac90bd114b8ac29f4c3ec3b",
+  "file_size_bytes": 2771639,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T07:41:33.860718+00:00",
+    "contact_sheet_sha256": "d9c83c6cdb8dff2497013df6f83fbcb964d45a61d4cbe4cef9f32382bf8fca40",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}

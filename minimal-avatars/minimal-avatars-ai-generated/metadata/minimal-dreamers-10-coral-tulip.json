@@ -1,0 +1,21 @@
+{
+  "output": "../minimal-dreamers-10-coral-tulip.png",
+  "refined_prompt": "../prompts/minimal-dreamers-10-coral-tulip.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "珊瑚郁金香 · 温柔绅士: 墨绿底，珊瑚粉三瓣花冠与短叶领口，细长眼睛神态温和。",
+  "composition_variation": "A single coral-pink tulip blossom as a poised little character, on a smooth very dark forest-green field. The flower has an elegant compact cup silhouette whose top edge makes three rounded petal peaks, not spiky zigzags. Two short fresh sage-green leaves rise from a tiny stem below like a tasteful collar; attached to the same flower, not a bouquet. Two delicate dark half-lidded almond eyes and a minute mouth on the coral blossom create a warm polite expression. The whole character tilts just slightly. Shape fills about 52 percent width and 66 percent height. Only coral, dark green and sage with at most one off-white eye glint. No pot, extra flowers, veins, petal shading or decorative objects. A beautifully balanced imaginative botanical avatar.",
+  "style_inspiration": "Continuing the established minimalist flat-color avatar collection, with newly invented everyday-object characters, restrained palette and generous negative space. Text-only generation; no source or generated image was supplied as binary model input.",
+  "created_at": "2026-10-20T11:00:20.614059+08:00",
+  "sha256": "b2f9c100231106f88055021680c8365c6ffdb371a754eebfd8c1f3f3564ef3f2",
+  "visual_review": "passed: compressed preview inspected; distinct original object character, readable silhouette, restrained flat palette, no visible text or watermark"
+}

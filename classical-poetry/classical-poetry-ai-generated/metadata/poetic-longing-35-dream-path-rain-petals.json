@@ -1,0 +1,66 @@
+{
+  "output": "../poetic-longing-35-dream-path-rain-petals.png",
+  "refined_prompt": "../prompts/poetic-longing-35-dream-path-rain-petals.txt",
+  "source_prompt": "../prompts/poetic-longing-35-dream-path-rain-petals-source.txt",
+  "created_at": "2026-11-23T08:26:11.983149+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "poetic-longing",
+  "series_number": 35,
+  "anthology_index": 35,
+  "title": "相寻梦里路，飞雨落花中。",
+  "description": "花雨细雨交织的竹径上，一人循弯曲石步寻找，路末隐在柔亮晨雾里。",
+  "source_text": {
+    "kind": "source-verified-classical-poetry-excerpt",
+    "text": "相寻梦里路，飞雨落花中。",
+    "author": "晏几道",
+    "work": "临江仙·斗草阶前初见",
+    "source_url": "https://zh.wikisource.org/zh-hans/臨江仙_(晏幾道)",
+    "verified": true,
+    "variant_note": ""
+  },
+  "art_direction": {
+    "medium": "soft wet-on-silk watercolor with pale bamboo-green and translucent floral washes",
+    "composition": "A fully clothed adult follows curved stepping stones through a bamboo grove as gentle rain carries pale blossom petals across the path. The destination is hidden within luminous morning mist. Show one continuous believable landscape with solid figures and ordinary plants, avoiding ghosts or layered dream portraits. Soft wet-on-silk watercolor edges create a searching atmosphere with faint welcoming light ahead.",
+    "theme": "梦醒与追忆",
+    "fictional_adults": true
+  },
+  "sha256": "0e0b89b6078cf906c9ea7de2db8d329e70c2d4b87cedcdd97eaa051168b0382c",
+  "native_sha256": "0e0b89b6078cf906c9ea7de2db8d329e70c2d4b87cedcdd97eaa051168b0382c",
+  "prompt_sha256": "de3599f80ed5b3bd641b0413c731d783659730e5e85219d61cfb854e64b4c445",
+  "source_prompt_sha256": "81086bd6be5039115fe1156bf88ad4d3ce1cb32f6111eccb249e88f4b1b357b9",
+  "file_size_bytes": 3060460,
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-23T08:29:48.218716+00:00",
+    "contact_sheet_sha256": "3d0c58c37ed3c15c7cce969e8231bb5cd8081cd29899f170bf43c1cb4cc7873b",
+    "preview_size": "1280x853",
+    "method": "one compressed four-or-fewer-image JPEG contact sheet; native preserved unchanged"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.contact_sheet_file",
+    "visual_qa.preview_file"
+  ]
+}
