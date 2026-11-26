@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-48-ivory-harp-morning-studio.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-48-ivory-harp-morning-studio.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "白金长辫女性在明亮练习室抚触小竖琴弦，杏色裙装映出清透晨光。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 27 years old, with platinum-white hair in a long, smooth single braid draped over one shoulder. She has mature, self-assured elegance and realistic adult proportions. Give her clear ice-blue eyes, warm-toned skin, fine brows, and a serene slight smile. Her opaque apricot short-sleeved summer dress has a modest round neckline, soft waist shaping, and a calf-length skirt. She sits upright beside a small lap harp, one hand gently touching a few strings while the other steadies its wooden frame close to her lap. Keep the instrument narrow and fingers naturally spaced. A sunlit studio window, a simple ceramic vase of white cosmos, and light oak flooring establish a refined space. Warm cream highlights and pale blue shadows emphasize the delicacy of her hair and expression. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:23:19.914790+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "6ca304e0dce8cb6c3c79466ce1e2ffe8a6930fa992d018e6171de1b54148cc89",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 48,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "platinum-white hair in a long, smooth single braid draped over one shoulder",
+    "title": "晨光竖琴练习室",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: silver braid reading beneath wisteria, peach bun with cactus pot, blue bob displaying waterlily painting, brunette with tambourine, plum updo playing piano and white braid with small harp. Attractive adult faces, coherent hands, varied art activities, secure opaque attire and quiet upper space. No extra people, unwanted text or evident anatomy defects."
+  },
+  "visible_description": "白金长辫女性在明亮练习室抚触小竖琴弦，杏色裙装映出清透晨光。"
+}

@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-06-tifa-lockhart-summer-fountain-step.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-06-tifa-lockhart-summer-fountain-step.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "二十岁的蒂法穿白色无袖圆领上衣和海军蓝宽松亚麻短裤，在阳光喷泉广场轻快转步，两臂自然展开，长黑发与水雾形成流畅弧线。",
+  "composition_variation": "Render Tifa Lockhart as her recognizable twenty-year-old adult self, with long straight black hair, ruby-brown eyes, and a warm playful smile, in a wholly original summer city-square scene. Catch a light spontaneous dance step beside a decorative fountain: one heel lifts, her torso turns naturally, and her bent arms open in a compact graceful gesture. Dress her in a completely opaque white sleeveless crewneck summer top, loose navy linen shorts, and simple flat sandals. The scene celebrates confident movement without fighting, sensual posing, or body-part emphasis. Her hair sweeps in a clean arc through sparkling mist. Use refined anime character rendering, warm ivory architecture, saturated blue water, and tiny citrus-colored accents. Keep the top quarter quiet and bright. Her face should sit around forty-five percent height; preserve both hands within the central narrow wallpaper crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:32:43.696123+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "c85206b61f7657ad2bea243c281658c6bdbc31ff56b5a8d0c6ff7e294c8d53e9",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 6,
+    "category": "summer-heroines",
+    "franchise": "最终幻想7",
+    "title": "喷泉边的轻快节拍",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "二十岁的蒂法穿白色无袖圆领上衣和海军蓝宽松亚麻短裤，在阳光喷泉广场轻快转步，两臂自然展开，长黑发与水雾形成流畅弧线。"
+}

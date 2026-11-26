@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-05-coral-boardwalk-gelato.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-05-coral-boardwalk-gelato.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "珊瑚粉长发女性在木栈道边举着开心果冰淇淋，杏色短袖长裙带来轻快夏日感。",
+  "composition_variation": "Create an original anime summer portrait of a visibly adult 25-year-old woman pausing on a quiet wooden boardwalk with a pistachio gelato. Give her clear hazel eyes, a gentle heart-shaped adult face, elegant straight brows, naturally colored lips, and a bright confident smile. Her muted coral-pink hair forms a loose side braid secured with a tiny ivory ribbon. She wears an opaque apricot cotton midi dress with short puff sleeves, a modest crew neckline, practical side pockets, and simple white canvas shoes. One hand holds the gelato upright at chest level without eating it; the other rests casually inside the dress pocket. Her torso turns a little toward the sea while her gaze returns warmly toward the viewer. The composition includes weathered pale planks, a distant striped beach kiosk without lettering, and a broad ribbon of clear blue water. A few tiny gull silhouettes may appear low on the horizon. Use fresh apricot, pistachio, coral, and blue accents in clean cel shading enriched by fine watercolor-like edges. Keep the pose easy, fully balanced, and convincingly everyday. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:11:09.115491+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "1f28cd5851ad4e7c5c8834123f5f9f85a0b70798654cee2b6722579df4f107b2",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 5,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "Muted coral-pink long hair in a loose side braid, with wispy bangs",
+    "title": "珊瑚木栈道",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet: 01 seaside turn in cobalt skirt, 02 silver bob studying shell, 03 seated brunette sketching harbor, 04 blonde adjusting scarf by ferry, 05 pink braid holding gelato, 06 violet hair and straw hat by lighthouse. Pleasant adult anime faces, distinct palettes, coherent hands, clothing and central crops; clear clock space and no unwanted text or people."
+  },
+  "visible_description": "珊瑚粉长发女性在木栈道边举着开心果冰淇淋，杏色短袖长裙带来轻快夏日感。"
+}

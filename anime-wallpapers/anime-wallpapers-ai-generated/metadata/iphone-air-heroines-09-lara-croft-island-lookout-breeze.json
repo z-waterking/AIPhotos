@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-09-lara-croft-island-lookout-breeze.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-09-lara-croft-island-lookout-breeze.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "成年劳拉穿青绿色无袖旅行衬衫与卡其宽松短裤，在海岛观景台踏上低石阶，一手扶遮阳帽、一手握折叠地图，棕色发辫被海风吹起。",
+  "composition_variation": "Imagine Lara Croft as a clearly adult woman in her thirties, recognizable through brown eyes, strong brows, long chestnut braid, and an adventurous self-possessed smile, reinterpreted in polished anime illustration. On a peaceful island lookout, she steps onto a low stone ledge and looks back toward the viewer, one hand holding her sunhat and the other carrying a neatly folded map. Dress her in an opaque teal sleeveless travel shirt with a secure collar, loose khaki linen shorts, and lightweight hiking shoes. Include no weapons, holsters, danger, or suggestive posing. The confident diagonal movement contrasts with serene turquoise coves and distant white sailboats. Use warm limestone, sea glass greens, and bright airy shadows. Keep the upper quarter clean sky, her face near mid-height, and all key gestures inside the narrow central wallpaper-safe area.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:34:24.040077+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "72ed9ba7305d41806756f512770dad92d6ec95c7f4eaf51a2b13e709eaecff0a",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 9,
+    "category": "summer-heroines",
+    "franchise": "古墓丽影",
+    "title": "海岛观景台",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "成年劳拉穿青绿色无袖旅行衬衫与卡其宽松短裤，在海岛观景台踏上低石阶，一手扶遮阳帽、一手握折叠地图，棕色发辫被海风吹起。"
+}

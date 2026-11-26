@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-20-rooftop-cafe-jasmine-tea.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-20-rooftop-cafe-jasmine-tea.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "铂金低马尾女性在天台咖啡馆倒茶，淡紫衬衫与深蓝长裙衬托温柔晚霞。",
+  "composition_variation": "Develop an elegant original anime wallpaper of a 29-year-old woman serving jasmine tea at a quiet rooftop cafe. Her beautiful mature face combines luminous gray-green eyes, fine brows, a clean nose bridge, softly defined lips, and an attentive composed smile. Platinum-blonde hair is tied into a sleek low ponytail with a subtle side part. She wears a fully opaque pale-lilac short-sleeved linen blouse with a modest standing collar, a midnight-blue midi skirt, and flat silver-gray sandals. Standing close to a small outdoor table, she pours tea from a compact white teapot into one white cup, holding the handle with one hand and resting the other gently on the lid. Keep both elbows near her body and the pouring movement small and believable. A folded linen cloth and a tiny jasmine sprig decorate the tabletop. A low cream parapet frames distant softened rooftops. Late sunset light paints warm peach edges onto her hair while the sky remains light and airy. Use refined anime linework, accurate porcelain reflections, and layered lilac, midnight blue, platinum, and peach tones. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:16:43.829188+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "f70d59a0ae7a14fab2aec556dbf747a93582cfdfe98ec1b5a0264e4b2fb06318",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 20,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Platinum-blonde hair in a sleek low ponytail, with a soft side part",
+    "title": "天台茉莉茶",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet checked: strawberry tart at cafe, pouring jasmine tea on rooftop, placing bookmark in book, raised citrus drink on terrace, bouquet by bakery, and daisy arrangement in courtyard. Attractive adult anime faces, natural coherent hands, nonsexual opaque clothes, clear upper clock space and no unwanted people or lettering."
+  },
+  "visible_description": "铂金低马尾女性在天台咖啡馆倒茶，淡紫衬衫与深蓝长裙衬托温柔晚霞。"
+}

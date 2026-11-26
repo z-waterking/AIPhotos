@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-39-rose-maze-burgundy-updo.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-39-rose-maze-burgundy-updo.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "酒红盘发女性在玫瑰花墙前翻看植物卡片，奶油色裙装与深绿花园相映。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 30 years old, with rich burgundy hair pinned into a relaxed French twist with two curved loose strands. She has mature, self-assured elegance and realistic adult proportions. Give her dark olive eyes, a mature oval face, graceful cheekbones, and a thoughtful half-smile. Her opaque buttercream linen wrap-style dress is securely closed, with a modest neckline, short sleeves, and a below-knee hem; add a tiny botanical brooch. She holds two small blank botanical cards together at chest level and tilts her head slightly toward a pale climbing rose. Keep her fingers clearly separated and compact. A low clipped hedge and cream rose trellis suggest a peaceful garden maze. Late-afternoon light produces warm edges on her hair and soft leaf shadows across the dress, never across the eyes. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:20:25.446272+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e009d3d100461de2104e82f7bbe6b8e4ca7d23649366575ab7ed30b217098dc5",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 39,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "rich burgundy hair pinned into a relaxed French twist with two curved loose strands",
+    "title": "玫瑰迷宫里的酒红盘发",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: blonde with folded fan, blue-haired woman by hydrangeas after rain, burgundy updo with seed envelopes, pink bob using magnifier in botanical house, dark-haired woman pouring tea, short-haired woman at garden gate. Adult anime faces, natural nonsexual poses, opaque outfits, clear clock space, no unwanted people or lettering. 42 hair rendered warm olive-brown rather than saturated sage."
+  },
+  "visible_description": "酒红盘发女性在玫瑰花墙前翻看植物卡片，奶油色裙装与深绿花园相映。"
+}

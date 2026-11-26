@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-heroines-17-ningguang-ivory-gold-summer-step.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-17-ningguang-ivory-gold-summer-step.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "凝光穿象牙白无袖上衣和浅金短裤，侧身迈过花园廊桥，双手轻扶遮阳帽。",
+  "composition_variation": "Create a luxurious original anime summer illustration of adult Ningguang, recognizable by flowing white hair, ruby-red eyes, and delicate gold hair ornaments. Give her a serene beautiful face and a quietly delighted expression. She wears an opaque ivory sleeveless blouse, tailored but relaxed pale-gold summer shorts, understated jewelry, and comfortable sandals. Capture a graceful turning step on a garden footbridge, with both hands gently holding a broad sunhat in front of her waist and her hair moving in the breeze. The pose is assured and lively without exposing undergarments or emphasizing anatomy. Use ivory, warm gold, jade-green foliage, and sunlit osmanthus blossoms. One adult woman in an everyday nonviolent scene. Keep the upper quarter airy and uncluttered; set her head near forty percent height and all key gestures within the central crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T14:03:17.407658+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8ce76e057de4bf13ef4fd1c683c4e76de47e05470ec1144f08eb078f3c853515",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-11-19/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 17,
+    "category": "summer-heroines-second",
+    "franchise": "原神",
+    "title": "金桂晴步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects.",
+    "character": "Ningguang"
+  },
+  "visible_description": "凝光穿象牙白无袖上衣和浅金短裤，侧身迈过花园廊桥，双手轻扶遮阳帽。"
+}

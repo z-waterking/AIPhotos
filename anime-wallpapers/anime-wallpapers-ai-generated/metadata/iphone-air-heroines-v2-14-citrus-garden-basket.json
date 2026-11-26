@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-14-citrus-garden-basket.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-14-citrus-garden-basket.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "焦糖棕长发女性在城市柑橘庭院提着小果篮，白衬衫与日光黄色半裙明朗温柔。",
+  "composition_variation": "Render a radiant original anime woman of 30 in a small city courtyard planted with citrus trees. Her beauty feels mature and warm: bright olive-green eyes, softly defined cheekbones, graceful brows, a straight nose, and a natural open smile. Her caramel-brown hair is gathered into a loose ponytail, allowing soft waves to catch the sunlight behind one shoulder. She wears an opaque white linen blouse with short cuffed sleeves and a modest collar, a sunflower-yellow calf-length skirt, flat woven sandals, and small gold earrings. She stands beside a low citrus branch, holding a shallow wicker basket of three oranges against her waist with one arm. Her free hand lightly turns one orange within the basket, avoiding an overhead reach. The lower background contains a pale terracotta planter, geometric cream tiles, and a low stucco wall with soft tree shadows. Keep foliage sparse above her head so the composition remains airy. Early afternoon sunshine creates glowing fruit color and clean leaf shadows, balanced by reflected cream light across her face. Use refined anime rendering and tactile linen and wicker detail. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:15:18.532302+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "153f14b4e3630b0efbee2bcf29565aa71b0765b4c4482c0a840e80fa589ba8af",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 14,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Caramel-brown long hair in a loose ponytail, with soft natural waves",
+    "title": "柑橘庭院收获",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 13 lilac bob with map by hydrangea fountain, 14 brunette and orange basket, 15 teal waves watering rooftop herbs, 16 compact seated sandal adjustment, 17 short-haired woman with espresso, 18 gray-haired woman choosing a vinyl sleeve. Complete hands and secure opaque clothing, attractive adult faces, adequate clock area, no bystanders or text. 16 includes the sandal and both hands in the crop."
+  },
+  "visible_description": "焦糖棕长发女性在城市柑橘庭院提着小果篮，白衬衫与日光黄色半裙明朗温柔。"
+}

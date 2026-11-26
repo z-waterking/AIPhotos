@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-65-desert-botanical-walkway.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-65-desert-botanical-walkway.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "蜜铜色发女性沿沙地植物园步道漫步，遮阳帽与赤陶色几何景观呈现明快旅行感。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 30-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Her mature features include amber eyes, a softly sculpted nose, subtle freckles, and a bright but calm expression. A long honey-copper ponytail catches the breeze behind her shoulders. She wears an opaque pale-aqua short-sleeved linen shirt, loose sand-colored walking shorts ending just above the knee, and lightweight sneakers. Walking along a quiet botanical garden path, she carries a rolled visitor leaflet in one hand beside her waist and steadies a small shoulder bag with the other. Both elbows remain close to her body. Sculptural cacti, terracotta planters, and pale stone walls give the scene rhythm without visual clutter. Use aqua and warm earth tones, a clean open sky, and gentle morning sunlight that defines fabric folds clearly. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:28:23.731086+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "02657d08257aab47d321da7b324d736fa6414ca8299f7e360ea553ab71ec8d3b",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 65,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "honey copper, long loose ponytail with softly curved bangs",
+    "title": "沙地植物园的清风",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: teal bob with map at tram, chestnut braid checking ticket at alpine station, lilac hair at lavender field, dark bob with sketchbook on canal bridge, copper ponytail at desert botanical walk, and indigo-haired seated traveler studying printed photograph. Adult design, coherent natural hands, secure opaque summer attire, scenic variety and clean upper areas. No extra people or unwanted text."
+  },
+  "visible_description": "蜜铜色马尾女性沿沙地植物园步道漫步，薄荷衬衫配卡其短裤，一手拿着卷起的导览图。"
+}

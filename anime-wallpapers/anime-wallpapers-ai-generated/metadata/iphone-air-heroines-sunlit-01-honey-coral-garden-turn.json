@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-01-honey-coral-garden-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-01-honey-coral-garden-turn.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "蜜金卷发、蓝眼女性穿珊瑚红短袖夏裙，在青绿晴空下转身微笑，一手轻挥，金色花丛衬托明亮面容。",
+  "composition_variation": "Change the reference to a new 26-year-old woman with honey-blonde shoulder-length waves, translucent gold-lit strands, clear sapphire eyes, softly rounded adult cheekbones, a delicate straight nose and a bright warm open smile. Her face should be visibly different from the red-haired reference while equally appealing and rendered with identical care. Dress her in a rich coral-red short-sleeved summer dress with a secure soft-square neckline, fitted fabric waist and gently flared knee-length skirt; small turquoise drop earrings. She has just turned while walking, torso oriented toward the opposite side from the reference, head turning toward the viewer. One hand makes a small natural greeting beside the shoulder; the other trails gently beside the skirt. Both feet are grounded in an easy crossing step, no lifted back foot. Warm breeze lifts golden curls and only the outer hem. Frame from hair to below knees, making her face large and clear like the reference. Turquoise summer sky, sunlit cream and golden daisies, touches of cobalt foliage shadow and coral petals; a painted flower path recedes softly. Clear gold sunlight on face and hair, beautiful saturated natural colors, crisp expressive face and fabric folds.",
+  "created_at": "2026-10-12T15:43:19.845630+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "4549a6a8a17d15d30c187b32789241e01c91e83434f1d04eaafbe1166c0eebb9",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 1,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "honey-blonde shoulder-length waves with golden translucent strands",
+    "title": "蜜金花风",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed preview inspected against selected reference: new honey-blonde curls, blue eyes and coral dress, grounded turn with small greeting. Fine colored anime lines, warm glowing face, golden hair rims, flowing cloth and turquoise-gold natural garden closely match reference style. Key hands and face visible, no extra people or text."
+  },
+  "visible_description": "蜜金卷发、蓝眼女性穿珊瑚红短袖夏裙，在青绿晴空下转身微笑，一手轻挥，金色花丛衬托明亮面容。"
+}

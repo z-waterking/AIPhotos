@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-88-hiking-meadow-trail-sign.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-88-hiking-meadow-trail-sign.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "橄榄绿长发女性在草甸步道旁查看纸质路线卡，淡黄外搭和蓝绿山景展现轻户外氛围。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 30-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Give her hazel-green eyes, mature confident cheek contours, subtle freckles, and a calm attentive smile. Olive-green hair is gathered into a loose braid. She wears an opaque pale-yellow short-sleeved hiking shirt, slate-blue relaxed ankle trousers, and comfortable trail shoes, with a compact daypack fitted close to her back. At a meadow trail junction she studies a small folded route card held in both hands at mid-torso. Its markings stay abstract and unreadable. A simple timber signpost appears off to one side, while wild grasses and layered distant hills suggest an accessible summer trail. Use pale yellow, olive, slate blue, and soft meadow green, with even late-morning light and carefully drawn natural fabric folds. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:35:13.774714+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "3e0976bf0ae0e5e3c52645c6a19866085a5e20a2ec872bcdb7a2c6e7cf84c82f",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 88,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "olive green, long loose braid with a few windblown strands",
+    "title": "山间草甸的路线选择",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cycling rest with helmet and water, tennis break with towel, riverside jogger, olive braid checking hiking map, pink ponytail with badminton racket and shuttlecock, brunette pouring tea at picnic table. All adult anime characters, varied natural activities, coherent visible hands and secure opaque clothes. Clear clock areas, no unwanted text or people."
+  },
+  "visible_description": "橄榄绿长发女性在草甸步道旁查看纸质路线卡，淡黄外搭和蓝绿山景展现轻户外氛围。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-06-football-centered-sole-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-06-football-centered-sole-turn.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "铜橙短发女性用鞋底拉球转向，一脚扎实支撑、双臂保持平衡，宝石绿与橙红球场色彩鲜明。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. Keep both balancing arms bent at the elbows with both complete hands near the ribcage, not spread wide. Place the football centrally below her body; both shoes, knees and the full ball fit comfortably inside the narrow vertical figure footprint.\n\nOne striking original adult anime football player aged 26, with copper-orange short waves swept back by an emerald hairband, bright golden-brown eyes, beautifully shaped brows and a spirited focused smile. Opaque emerald short-sleeved jersey with cream geometric panels, charcoal loose training shorts, emerald knee-high football socks and orange-white cleats. A real sole-pullback turn: supporting foot firmly planted with knee gently flexed, opposite foot placed on the upper near side of a single football, pulling it backward toward her. Hips begin to turn, shoulders counter-rotate, both arms extend modestly at different heights for balance. Show accurate shoe-to-ball contact; the ball stays round and separate from the legs. Her gaze points down toward control of the ball while her face remains clear in three-quarter view. Camera slightly above waist height, full-body figure with diagonal stance compressed into the central phone crop. Saturated jewel-green playing surface, blazing orange-red wall, cobalt shadows and yellow brushstroke accents. Upper 20 percent is a clean luminous orange field. Refined detailed adult anime face and crisp angular highlights in hair, natural joints, one football, no goalkeepers or spectators. Movement, footwork and vivid palette dominate rather than a static pose.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:52:08.516995+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "088759793dd27bcf426334e237fd359bf57e282de26e4336f26f4b693b0bb023",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 6,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "copper-orange short waves swept back with an emerald band",
+    "title": "橙焰控球",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed contact sheet inspected: sole-control football turn, low two-foot rope skip with two handles and full loop, compact table-tennis forehand with complete paddle and one visible white ball, and vertical bouldering with both hands and shoes contacting holds. Adult anime faces, natural sportswear, strong complementary color and different weight/limb patterns. Equipment and key contacts now inside final crop; no unwanted text or additional people."
+  },
+  "visible_description": "铜橙短发女性用鞋底拉球转向，一脚扎实支撑、双臂保持平衡，宝石绿与橙红球场色彩鲜明。"
+}

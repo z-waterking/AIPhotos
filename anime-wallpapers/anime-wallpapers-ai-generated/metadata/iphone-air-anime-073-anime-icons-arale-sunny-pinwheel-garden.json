@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-anime-073-anime-icons-arale-sunny-pinwheel-garden.png",
+  "refined_prompt": "../prompts/iphone-air-anime-073-anime-icons-arale-sunny-pinwheel-garden.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "阿拉蕾穿长袖上衣和完整牛仔背带裤，在阳光花园捧着彩色纸风车。",
+  "composition_variation": "Illustrate Arale Norimaki from Dr. Slump in an original sunny garden scene, standing with both feet planted and holding one colorful paper pinwheel at chest height. Preserve her purple hair, large round glasses, bright red cap, and cheerful curious smile. Dress her in an opaque long-sleeved cream shirt, full-length blue denim overalls, socks, and sneakers; use age-appropriate child proportions. Render soft colored-pencil textures, mint hedges, butter-yellow flowers, and gentle morning light. Keep the upper 28% quiet for a clock and the face inside x240-784 of the 1024x1536 canvas. One character only, no lettering, logos, UI, weapons, or other people. Do not copy an existing panel, frame, or promotional artwork.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:36:05.665713+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "c9d510d5c590eeab9d5bf47380c0158fae7c0187f921f52d7386897c4db255d3",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 73,
+    "category": "anime-icons",
+    "franchise": "人气动漫精选",
+    "title": "阿拉蕾·风车花园",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "阿拉蕾穿长袖上衣和完整牛仔背带裤，在阳光花园捧着彩色纸风车。",
+  "selection_note": "An earlier unrelated Pikachu concept for this slot returned HTTP400 without producing a saved image. This Arale composition is the sole completed output for073."
+}

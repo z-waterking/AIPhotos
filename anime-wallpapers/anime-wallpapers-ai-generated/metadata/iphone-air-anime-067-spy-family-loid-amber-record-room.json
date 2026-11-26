@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-067-spy-family-loid-amber-record-room.png",
+  "refined_prompt": "../prompts/iphone-air-anime-067-spy-family-loid-amber-record-room.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "洛伊德穿墨绿针织衫在唱片室听音乐，画面有复古琥珀光。",
+  "composition_variation": "Depict Loid Forger in a peaceful record-listening room, wearing a dark olive knitted sweater and tailored brown trousers. He stands beside a small turntable, holding a plain unlettered record sleeve at his side. Use retro editorial illustration, warm amber wood, burgundy upholstery, soft directional lamplight, and confident simplified forms. Give him a relaxed listening expression, with no espionage objects or extra people. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:22:54.643170+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "62b42df02e28fa03abe0d342e9044a03ef950581af37e8deea908e4322c9d932",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 67,
+    "category": "spy-family",
+    "franchise": "间谍过家家",
+    "title": "洛伊德·琥珀唱片室",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "洛伊德穿墨绿针织衫在唱片室听音乐，画面有复古琥珀光。"
+}

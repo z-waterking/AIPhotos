@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-59-golden-ginkgo-green-tea.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-59-golden-ginkgo-green-tea.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "黑金挑染长发女性在银杏树下捧茶小憩，浅绿衣裙与初金树叶轻柔呼应。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 30 years old, with black hair with subtle golden highlights, worn long and loosely gathered over one shoulder. She has mature, self-assured elegance and realistic adult proportions. Design clear dark brown eyes, finely shaped brows, elegant cheekbones, and a serene thoughtful smile. Her opaque pale-sage cap-sleeved midi dress has a modest high neckline and a relaxed waist tied with a narrow fabric belt. She sits upright on a low garden bench, holding a small ceramic tea cup with both hands near her chest, shoulders comfortably relaxed. A few late-summer ginkgo leaves turn golden among the green foliage, kept mainly at the sides. Place a simple stone path and tiny tea tray low in the frame. Soft amber light and celadon shadows create a luminous, peaceful pause. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:26:40.212582+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "f75721288f461f05eb8a6c65de048eaac38dedb6656c9b2d2090ee011fcf3e8e",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 59,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "black hair with subtle golden highlights, worn long and loosely gathered over one shoulder",
+    "title": "银杏树下的绿茶时光",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: ice-blue waves and hat at waterfall lookout, coral braid holding sea lavender, strawberry bob tying sneaker on alpine path, black hair drinking tea beneath ginkgo, violet hair carrying herb basket by lake. Adult figures, natural varied postures, complete key hands, opaque clothes and usable clock space. 58 compact crouch includes shoe and hands; no extra people or text."
+  },
+  "visible_description": "黑金挑染长发女性在银杏树下捧茶小憩，浅绿衣裙与初金树叶轻柔呼应。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-02-pearl-white-coral-terrace.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-02-pearl-white-coral-terrace.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "白金海风 · 绯珊瑚晴台：27岁成年原创女性，珍珠白长发、冰蓝双眼和绯珊瑚红夏裙，近景侧身拢发直视镜头，以群青晴空、青绿海水和玫红花卉衬托精致面容。",
+  "composition_variation": "Eye-level close head-to-upper-thigh portrait, gentle head tilt, one hand tucking hair behind an ear and the other resting on a seaside terrace railing. Large legible face with both eyes visible and clean sky at the top.",
+  "created_at": "2026-10-13T16:56:31.057516+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7ce9db1b69c72ecc1040f38d4c6dfce6d01208b10d2d3635100c2688d7ce49e9",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-white-hair-wallpaper/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "jewel-color-seaside",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Pearl-white long hair with pale silver-lavender shadows and delicate warm rim light",
+    "title": "白金海风 · 绯珊瑚晴台",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 JPEG of the canonical wallpaper. One adult original woman with clear pearl-white hair, large refined face, readable blue eyes and a natural slight smile. Raised hand tucks hair by the ear with coherent visible fingers; the other forearm rests at the terrace railing and its hand is occluded. Opaque coral short-sleeved dress, deep blue sky, turquoise sea and magenta flowers. Clear upper sky, no text, watermark or unwanted people."
+  },
+  "visible_description": "珍珠白长发、冰蓝双眼的成年女性穿绯珊瑚红短袖夏裙，在海边石栏旁拢起耳侧发丝，近景直视镜头浅笑；群青晴空与青绿海水衬托白发和明亮面容。"
+}

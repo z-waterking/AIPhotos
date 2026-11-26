@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-01-seaside-copper-hair.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-01-seaside-copper-hair.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "盛夏海风 · 宝石撞色：27岁成年原创女性，铜橘长发、祖母绿眼睛与孔雀蓝夏裙，海边花园行走回望并扶草帽；青绿海水、钴蓝晴空、玫红三角梅与金黄逆光。",
+  "composition_variation": "Head-to-mid-thigh three-quarter view with one hand holding straw hat, natural shoulder-to-hip turn, clear face and upper 22 percent sky for clock.",
+  "created_at": "2026-10-13T16:50:14.433149+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e9c075c917ba21d594a440d62adba3a8b858e48584ec3cc3c130b952c29aea8f",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-seaside-wallpaper/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 1,
+    "category": "jewel-color-seaside",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Copper-orange long waves with golden backlighting",
+    "title": "盛夏海风 · 宝石撞色",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 JPEG of the canonical wallpaper. One adult woman with refined green-eyed face, copper-orange windblown hair, straw hat and opaque short-sleeved blue dress. Natural backward glance and hat-holding gesture; both visible arms and hands are coherent. Bright cyan sea, blue sky, magenta flowers and golden highlights. Clear sky above the hat, no text, watermark or unwanted people."
+  },
+  "visible_description": "铜橘长发、翠绿眼睛的成年女性穿孔雀蓝短袖夏裙，扶着草帽沿海岸花径回望；青蓝海天、玫红花丛与金色透光发丝形成鲜明撞色。"
+}

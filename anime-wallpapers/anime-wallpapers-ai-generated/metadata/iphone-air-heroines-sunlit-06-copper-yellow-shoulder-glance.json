@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-06-copper-yellow-shoulder-glance.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-06-copper-yellow-shoulder-glance.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "铜金编发、碧绿眼女性穿日光黄夏裙，双手松松背在身后，轻快迈步回望，雀斑与透光发丝显得生动。",
+  "composition_variation": "A distinct 27-year-old adult woman with copper-gold hair in a thick braid over one shoulder, tiny natural freckles across her nose, bright emerald eyes, a softly heart-shaped adult face and a playful warm smile. She wears an opaque sun-yellow short-sleeved summer dress with small covered buttons, a secure ordinary neckline, lightly gathered waist and a knee-length hem. Her pose: lightly walking forward with both hands loosely linked behind her lower back, shoulders open and relaxed, one knee advancing a little; she glances over her nearer shoulder directly toward the viewer. Hands may be partly naturally occluded by her back, but no detached fingers or floating arms. Distinct from the reference: grounded walking, arms behind rather than spread, braid rather than loose curls. Head-to-knees framing, enough face area for subtle freckles and detailed irises. Sky is a luminous turquoise-blue; rich dark-teal foliage, golden daisies and scattered coral-red flowers surround the lower scene. Gold rim light picks out separate braid strands; clear cool shadows inside yellow cloth folds. Preserve the reference’s precision, cheerful mature-young-adult beauty, warm sunlight and natural abundant garden color. No rigid symmetry or exaggerated body shapes.",
+  "created_at": "2026-10-12T15:50:57.772110+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "aa46d5bb1367782336fd44f991cabc02559fa3370f3e3420c7c0289301bd4f60",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 6,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "copper-gold thick braid draped over one shoulder with soft freckles",
+    "title": "铜金晴步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: violet waves adjusting hair in warm orange-apricot dress, copper braid looking back with hands linked behind in yellow dress, teal bob leaning slightly forward holding white blossom in cherry dress. Close refined adult anime faces, radiant eyes, gold-lit strands and natural turquoise garden style match uploaded reference. Coherent visible hands, distinct poses and no unwanted people or text; outer lowered hand of 05 partially framed off at edge."
+  },
+  "visible_description": "铜金编发、碧绿眼女性穿日光黄夏裙，双手松松背在身后，轻快迈步回望，雀斑与透光发丝显得生动。"
+}

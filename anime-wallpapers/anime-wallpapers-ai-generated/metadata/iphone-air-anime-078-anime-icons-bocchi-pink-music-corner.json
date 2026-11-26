@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-078-anime-icons-bocchi-pink-music-corner.png",
+  "refined_prompt": "../prompts/iphone-air-anime-078-anime-icons-bocchi-pink-music-corner.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "后藤一里穿宽松粉色运动服，在柔和灯光下抱着吉他休息。",
+  "composition_variation": "Portray Hitori Gotoh from Bocchi the Rock seated in a tidy bedroom music corner, fully covered in her recognizable loose pink tracksuit. A black electric guitar rests peacefully across her lap, with both hands relaxed and anatomically clear. Use soft lo-fi anime shading, blush pink and midnight-blue tones, a small amber lamp, and a shy hopeful smile. Keep instrument branding and sheet lettering absent. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:26:10.936628+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "2ad58f15a2f3ac3f4b802f1e241c51ae787e26899fa1432e4f68416129a1f156",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 78,
+    "category": "anime-icons",
+    "franchise": "人气动漫精选",
+    "title": "小孤独·粉色练习室",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "后藤一里穿宽松粉色运动服，在柔和灯光下抱着吉他休息。"
+}

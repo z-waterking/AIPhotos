@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-30-sunshower-street-step.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-30-sunshower-street-step.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "淡紫粉短卷发女性在雨后明亮街角轻跨浅水洼，淡蓝短袖长裙与合拢黄伞充满活力。",
+  "composition_variation": "Design a lively original anime wallpaper featuring a visibly adult 25-year-old woman stepping around a shallow puddle after a brief summer sunshower. She has clear teal eyes, elegant eyebrows, a refined nose, smooth warm skin, and a bright confident smile that still reads mature. Her pale lilac-pink wavy bob reaches her chin and falls from a soft side part. She wears an opaque light-blue short-sleeved cotton midi dress with a modest crew neckline, a relaxed waist, and practical white sneakers. Capture one small natural step onto dry paving, with her torso upright and both arms kept close. One hand carries a closed butter-yellow umbrella downward beside her leg; the other steadies a compact cream crossbody bag. Avoid jumping, exaggerated limb spread, or windswept clothing. Wet pavement reflects pastel shopfront colors without any readable signs. A faint rainbow may sit low in the far background, while the upper sky stays clean and pale. Soft renewed sunlight gives her face a fresh glow and creates restrained pavement sparkle. Use delicate anime linework, believable movement, and a joyful everyday atmosphere. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:19:54.369540+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "aaca645d7b5c2a9ec686cedfa435776d45c4a705b662a806f19d3cad39504fa9",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 30,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "Pale lilac-pink chin-length wavy bob, with a soft side part",
+    "title": "晴雨后的街角",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: copper ponytail with bicycle, indigo hair and closed parasol at tram stop, ash-brown hair adjusting tote, green waves choosing flower, blonde and melon soda on canal bridge, lilac bob walking after sunshower. Adult anime presentation, attractive varied faces, coherent visible hands and secure summer clothing. 25 bicycle cropped intentionally while both hands remain visible; clock areas clear."
+  },
+  "visible_description": "淡紫粉短卷发女性在雨后明亮街角轻跨浅水洼，淡蓝短袖长裙与合拢黄伞充满活力。"
+}

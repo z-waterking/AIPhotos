@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-58-alpine-daisies-strawberry-bob.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-58-alpine-daisies-strawberry-bob.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "草莓金渐粉短发女性在高山雏菊旁紧凑蹲下系鞋带，完整姿态与奶油、鼠尾草配色自然轻快。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one beautiful 25-year-old adult woman with strawberry-blonde chin-length hair, pale pink tips, and soft side-swept bangs. Her warm olive eyes, elegant adult facial proportions, graceful nose, and cheerful focused smile show mature confidence. She wears an opaque cream short-sleeved cotton shirt, sage-green loose cropped trousers, and white walking shoes. In a stable compact crouch on a level meadow path, she ties one shoelace with both hands directly above the shoe, knees and elbows kept naturally near her center line. Her torso inclines slightly, and she briefly lifts her face with a friendly smile. Use a compact full-body crouching portrait with her complete head, both hands, knees, and both shoes visible; keep all parts inside the central narrow crop with space below the soles. Set the camera at her crouching eye level, avoiding any upward viewpoint. Small alpine daisies and rounded stones frame the lower edges, while distant meadow slopes fade into pale blue. Fresh morning light gives luminous skin and delicate fabric folds. Place the entire compact figure in the middle and lower frame; leave the upper 25% calm for the clock. Refined anime linework, natural anatomy, opaque clothing, no text, logos, bystanders, or copied characters.",
+  "created_at": "2026-10-12T11:26:43.162938+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "df1390e7a1b157846357ed448eefbe24a7335f0ccf0a22f57a5d1e537793c843",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 58,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "strawberry-blonde hair in a soft chin-length bob with pale pink tips and side-swept bangs",
+    "title": "高山雏菊与草莓金短发",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: ice-blue waves and hat at waterfall lookout, coral braid holding sea lavender, strawberry bob tying sneaker on alpine path, black hair drinking tea beneath ginkgo, violet hair carrying herb basket by lake. Adult figures, natural varied postures, complete key hands, opaque clothes and usable clock space. 58 compact crouch includes shoe and hands; no extra people or text."
+  },
+  "visible_description": "草莓金渐粉短发女性在高山雏菊旁紧凑蹲下系鞋带，完整姿态与奶油、鼠尾草配色自然轻快。"
+}

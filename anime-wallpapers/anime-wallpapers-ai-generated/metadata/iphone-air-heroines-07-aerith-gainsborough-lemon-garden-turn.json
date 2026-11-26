@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-07-aerith-gainsborough-lemon-garden-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-07-aerith-gainsborough-lemon-garden-turn.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "二十二岁的爱丽丝穿薄荷绿不透光及膝夏裙，发辫系着粉色丝带，在柠檬庭园里自然转身，一手扶草帽、一手拎小花篮。",
+  "composition_variation": "Create a luminous original anime wallpaper of Aerith Gainsborough, unmistakably twenty-two and adult, retaining her green eyes, chestnut braid, loose framing curls, and familiar pink hair ribbon. In a quiet lemon courtyard, she turns with an easy delighted smile, one hand gently steadying a straw hat while the other carries a small basket of garden flowers close to her side. Give her an opaque mint knee-length sundress with a secure rounded neckline and flat tan sandals. The skirt moves only in a gentle natural sway, conveying buoyant summer elegance without revealing or sexual styling. Sunlit yellow lemons, white stucco, and soft sage foliage create a fresh restrained palette. Employ delicate linework and polished game-inspired anime shading. Reserve the upper quarter as clean cream-blue light, center her face near mid-height, and keep her hands and basket inside the phone crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:32:46.107704+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "53874673f8d36188506d1dd3f2dba8e8807fe4d8932404ef30304a43a79615fd",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 7,
+    "category": "summer-heroines",
+    "franchise": "最终幻想7",
+    "title": "柠檬树下的旋转",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "二十二岁的爱丽丝穿薄荷绿不透光及膝夏裙，发辫系着粉色丝带，在柠檬庭园里自然转身，一手扶草帽、一手拎小花篮。"
+}

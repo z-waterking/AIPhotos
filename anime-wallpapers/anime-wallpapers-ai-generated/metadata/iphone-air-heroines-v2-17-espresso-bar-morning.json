@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-17-espresso-bar-morning.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-17-espresso-bar-morning.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "暖金栗短发女性站在咖啡吧边捧着瓷杯，橄榄绿衬衫与奶白长裤体现利落成熟气质。",
+  "composition_variation": "Paint an original anime scene of a sophisticated 30-year-old woman enjoying an espresso at a quiet open-front cafe. Her adult face has luminous dark amber eyes, a graceful nose bridge, defined brows, subtle cheekbones, and a confident relaxed smile. Golden-chestnut hair forms a short layered bob tucked neatly behind both ears, revealing small pearl studs. She wears a fully opaque olive-green short-sleeved linen shirt with a conventional collar, cream tailored trousers, and simple brown loafers. Standing beside a pale stone counter, she holds a small white espresso cup in one hand at mid-torso while the other supports its matching saucer. Her elbows stay close, her shoulders relaxed, and her gaze rests on the sunlit street beyond the cafe. A compact brass coffee machine, a plain glass jar of beans, and two stacked cups supply restrained background detail without brands or lettering. Use early morning beams across the counter, warm amber reflections, and cooler ivory shadows around her face. The image should combine precise anime facial beauty with quiet editorial restraint, realistic cup handling, and a comfortable everyday stance. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:15:21.686090+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "05f357e07993853a2b4a798728cc6bdd5acf9e81bbe7e6d5351610fddc9a8af5",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 17,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Golden-chestnut short layered bob, neatly tucked behind both ears",
+    "title": "清晨浓缩咖啡吧",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 13 lilac bob with map by hydrangea fountain, 14 brunette and orange basket, 15 teal waves watering rooftop herbs, 16 compact seated sandal adjustment, 17 short-haired woman with espresso, 18 gray-haired woman choosing a vinyl sleeve. Complete hands and secure opaque clothing, attractive adult faces, adequate clock area, no bystanders or text. 16 includes the sandal and both hands in the crop."
+  },
+  "visible_description": "暖金栗短发女性站在咖啡吧边捧着瓷杯，橄榄绿衬衫与奶白长裤体现利落成熟气质。"
+}

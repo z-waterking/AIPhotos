@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-50-turquoise-pottery-garden.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-50-turquoise-pottery-garden.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "绿松石短发女性在小院陶桌旁修整杯口，围裙与陶土形成温暖的手作氛围。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 26 years old, with vivid turquoise hair in a neat ear-length crop with a softly swept fringe. She has mature, self-assured elegance and realistic adult proportions. Give her expressive dark teal eyes, gentle freckles, balanced adult facial features, and a contented focused smile. Her opaque white rolled-sleeve linen shirt is worn beneath a loose sage-green apron over tan trousers. Seated upright at a compact pottery table, she smooths the rim of a small clay cup with one hand while the other steadies its base. Avoid a cluttered wheel and show both hands clearly near the center. Low flowerpots and a few finished ivory bowls surround the shaded courtyard. Warm reflected terracotta light, cool leaf shadows, and a pale summer sky create a tactile, calming artwork. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:23:50.454096+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "a751068c1a072801704d314d3f3c31a4f7b44c14656a57b959e8bbd10e9d71c0",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 50,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "vivid turquoise hair in a neat ear-length crop with a softly swept fringe",
+    "title": "绿松石短发的庭院陶艺",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: auburn-haired listener with headphones, turquoise pixie shaping pottery, rose updo with embroidery hoop, raven bob sketching sculpture, forest-green hair with wooden flute, lavender ponytail holding violin at sunset. Adult anime faces, distinct activities and palettes, coherent visible hands and secure opaque clothing; no extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "绿松石短发女性在小院陶桌旁修整杯口，围裙与陶土形成温暖的手作氛围。"
+}

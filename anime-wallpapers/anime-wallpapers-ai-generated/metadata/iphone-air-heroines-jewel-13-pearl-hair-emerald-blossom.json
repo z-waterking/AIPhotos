@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-13-pearl-hair-emerald-blossom.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-13-pearl-hair-emerald-blossom.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "银雪翠梦：纯二维动漫画法，柔和短鹅蛋脸、平缓颧骨、圆润下颌、清透琥珀眼，珍珠白长卷发与翡翠绿夏裙；海边花园的钴蓝、青绿、绯红与橘色形成鲜明撞色。",
+  "composition_variation": "Near-frontal head-to-below-waist portrait, soft head tilt, clear facial contour and a small white flower held at waist. Bright cel-shaded 2D drawing, not photorealistic.",
+  "created_at": "2026-10-13T17:32:13.076888+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "738acd0226d801de21842c09836ab401b01c0640faeba2f8b45bfb11e47d11ac",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-pearl-blossom-retry/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 13,
+    "category": "jewel-color-soft-oval-face-study",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "Pearl-white long waves with light silver-lavender cel shadows",
+    "title": "银雪翠梦 · 花间晴风",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 JPEG of canonical wallpaper. Clear 2D anime rendering, softly modeled oval face with golden eyes and a gentle smile, pearl-white long waves and an orange-red flower at the ear. Opaque green short-sleeved dress; visible fingers hold a white flower stem coherently near the lower-right edge. Saturated blue sky and turquoise sea with red flowers, clear upper sky, no text, watermark, extra limbs or unwanted people."
+  },
+  "visible_description": "银白长卷发女性耳边别着橘红花，金色双眼含笑望向镜头；身穿翠绿短袖夏裙，双手轻握小白花，青蓝海天与绯红花簇衬托清透面容。"
+}

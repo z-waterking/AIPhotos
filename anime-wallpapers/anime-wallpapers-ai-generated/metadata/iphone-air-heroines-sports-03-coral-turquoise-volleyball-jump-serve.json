@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-03-coral-turquoise-volleyball-jump-serve.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-03-coral-turquoise-volleyball-jump-serve.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "珊瑚红马尾女性跃起发排球，一手上挥、双腿前后错开，青绿天空与橙红球场充满动势。",
+  "composition_variation": "One exceptionally attractive original adult woman aged 25 performing a volleyball jump serve on an empty outdoor court. Coral-red ponytail, golden hair highlights, vivid turquoise eyes, sharply drawn adult features and a bright competitive smile. Opaque turquoise short-sleeved performance shirt, loose navy mid-thigh sports shorts, white knee pads and white-coral volleyball shoes. Capture her clearly airborne with feet separated front-to-back and knees naturally flexed. Her striking arm extends upward and slightly forward with an open palm approaching the ball, while the non-striking arm lowers diagonally for balance. The ball is one white-coral-teal sphere above and just in front of the striking hand, never obscuring her face. Head tilts slightly upward to follow it. Keep the entire hand-ball relationship beneath the clean top 20 percent of sky. A small three-quarter side angle allows the raised arm, torso and two legs to remain readable in a narrow full-body composition. Saturated turquoise sky, blazing coral court, cobalt shadows and a low golden fence. Two restrained curved orange paint trails behind her emphasize upward momentum. Strong beautiful face detail and wind-swept hair, believable shoulder rotation, no duplicate ball or extra arms, energetic nonsexual athletic illustration.",
+  "created_at": "2026-10-12T14:41:24.628889+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8fbeed3fed82275cbab26469d511ab51da00e6ec60c09a22a4c862a9498ab6ec",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 3,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "coral-red long ponytail with gold highlights",
+    "title": "珊瑚腾空",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed preview inspected: coral ponytail athlete airborne for volleyball serve, opposite arm lowered and legs offset, one ball near extended palm. All essential hands, ball and legs visible; bright cyan-coral palette, detailed adult anime face and coherent anatomy. Ball enters upper-right clock band but central upper space remains clear."
+  },
+  "visible_description": "珊瑚红马尾女性跃起发排球，一手上挥、双腿前后错开，青绿天空与橙红球场充满动势。"
+}

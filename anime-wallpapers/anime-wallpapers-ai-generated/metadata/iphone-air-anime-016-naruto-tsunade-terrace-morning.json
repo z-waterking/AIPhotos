@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-016-naruto-tsunade-terrace-morning.png",
+  "refined_prompt": "../prompts/iphone-air-anime-016-naruto-tsunade-terrace-morning.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "成年纲手穿绿色外套与高领休闲服，端着茶杯靠在露台栏杆旁。",
+  "composition_variation": "Create a mature editorial anime portrait of Tsunade in a peaceful terrace garden. Preserve her long blonde twin sections of hair, amber-brown eyes, and small forehead diamond. Dress her in a fully covering cream high-neck blouse, green open jacket, relaxed dark trousers, and flat shoes. She stands with an easy side lean against a solid balcony rail, holding a small ceramic tea cup. Use olive foliage, pale limestone, honey morning light, and a quiet washed-green background. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:04:43.155254+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "06b16b01bd7880adf12bab580329a3671cd58b72c03d0381ba88cdc7080cb321",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 16,
+    "category": "naruto",
+    "franchise": "火影忍者",
+    "title": "纲手的露台清晨",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "成年纲手穿绿色外套与高领休闲服，端着茶杯靠在露台栏杆旁。"
+}

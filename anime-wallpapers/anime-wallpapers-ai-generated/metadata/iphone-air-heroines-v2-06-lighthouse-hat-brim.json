@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-06-lighthouse-hat-brim.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-06-lighthouse-hat-brim.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "深紫长发女性轻扶草帽站在灯塔小径上，白色短袖衬衫与鼠尾草绿半裙迎着海风。",
+  "composition_variation": "Develop a luminous original anime illustration of a 30-year-old woman on a narrow coastal path beneath a distant white lighthouse. Her mature, beautiful face combines slightly elongated violet-gray eyes, clean cheekbone definition, a fine nose, and a serene subtle smile. Deep violet hair falls smoothly behind her shoulders and moves in a light breeze. She wears a fully opaque white short-sleeved blouse with a neat folded collar, a sage-green calf-length pleated skirt, tan walking sandals, and a natural straw hat with a plain dark ribbon. She steadies the front edge of the hat using one hand at temple height, keeping the elbow close, while the other arm hangs comfortably with a small woven handbag. Her stance is upright and unhurried, with one foot slightly ahead on the path. Small coastal grasses and pale yellow flowers border the paving, while turquoise sea and pale cliffs recede behind her. Late-morning sunlight creates a soft hat shadow over her forehead without hiding her eyes. Aim for clean refined facial rendering, airy skirt folds, and calm open space. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:11:24.368978+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "2d6fd351bef0b9774383e604a6c700247d9500e0afe2e871559742fb3f4cb9d8",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 6,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Deep violet long hair with smooth natural volume, falling behind the shoulders",
+    "title": "灯塔下的草帽",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet: 01 seaside turn in cobalt skirt, 02 silver bob studying shell, 03 seated brunette sketching harbor, 04 blonde adjusting scarf by ferry, 05 pink braid holding gelato, 06 violet hair and straw hat by lighthouse. Pleasant adult anime faces, distinct palettes, coherent hands, clothing and central crops; clear clock space and no unwanted text or people."
+  },
+  "visible_description": "深紫长发女性轻扶草帽站在灯塔小径上，白色短袖衬衫与鼠尾草绿半裙迎着海风。"
+}

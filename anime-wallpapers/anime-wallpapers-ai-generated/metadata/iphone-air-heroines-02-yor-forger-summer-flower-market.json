@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-02-yor-forger-summer-flower-market.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-02-yor-forger-summer-flower-market.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "二十七岁的约尔穿不透光的珊瑚色及膝夏裙，抱着小束雏菊，在花市回身微笑，抬手整理被风吹起的长发。",
+  "composition_variation": "Illustrate Yor Forger as her recognizable twenty-seven-year-old adult self, with long black hair, red eyes, and small gold hair ornaments, in an original peaceful summer flower-market composition. She turns back mid-stride with a bright slightly bashful smile, lifting one hand to tuck windblown hair behind her ear while the other holds a modest bunch of white daisies. Her opaque coral knee-length sundress has a secure modest neckline and a relaxed skirt, paired with comfortable ivory sandals. Convey lively confidence through the turning shoulders and natural flowing fabric, without sexual posing. Soft mint shop shutters, cream paving, and distant flower baskets frame her. Render polished anime linework with translucent-looking sunlight, while keeping clothing completely opaque. Reserve the upper quarter for clean warm sky; place her face near mid-height and contain her hands within the central phone crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:31:07.809064+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "71a7df64879d42d9fdb1ca4abb44e81be83518b5ceddf82930eb88371dcf1070",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "summer-heroines",
+    "franchise": "间谍过家家",
+    "title": "花市回眸",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "二十七岁的约尔穿不透光的珊瑚色及膝夏裙，抱着小束雏菊，在花市回身微笑，抬手整理被风吹起的长发。"
+}

@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-04-rose-skyblue-wall-seat.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-04-rose-skyblue-wall-seat.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "玫瑰棕盘发、茶色眼女性穿天蓝短袖上衣与白裙，侧坐低矮花墙，手撑身侧，转头露出明朗笑容。",
+  "composition_variation": "Invent a beautiful 29-year-old adult woman with rose-brown hair in a loosely gathered updo, soft wavy locks by both ears, rich tea-brown eyes, a gentle adult square-oval face, finely rendered lashes and a broad natural smile. She wears an opaque sky-blue blouse with short puff sleeves and a secure rounded neckline, paired with a white A-line summer skirt falling to the knees; small pearl and gold earrings. She sits sideways on a low sunlit garden wall, torso turning toward the viewer. Both knees angle to one side below frame, one hand supports her beside her body on the wall, the other rests loosely on her nearer knee. Her shoulders are relaxed and offset, expression radiant, a few hair curls caught by wind. Frame head to knees, using a very slight elevated three-quarter view so the face remains prominent and hands fit naturally. Behind her: vivid turquoise sky, butter-yellow blossoms, coral bougainvillea, rich blue-green foliage and a pale peach wall. Preserve the reference’s delicate colored linework, attractive adult face, luminous warm skin and sharp yet flowing fabric folds. White skirt gets clean cyan shadows and golden sunlight. A charming close character illustration, not a distant landscape or low-angle body view.",
+  "created_at": "2026-10-12T15:48:56.886188+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0b1c430038c38736df20284927e96c35b737ddc6a0561071004d4b9f61443d0d",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 4,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "rose-brown loosely gathered updo with wavy face-framing locks",
+    "title": "玫瑰晴台",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected against actual reference: 02 dark ponytail close terrace lean with cheek-touch gesture, 03 silver-lavender braid and emerald dress with raised petal palm, 04 rose-brown updo seated in blue blouse and white skirt. Detailed bright adult faces, gold-lit fine hair, clear jewel fabric folds and turquoise-gold garden match reference. Pose and clothing differ; portrait edges crop outer forearm/palm in 03 and supporting hand in 04, while faces and primary body gestures remain clear. No extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "玫瑰棕盘发、茶色眼女性穿天蓝短袖上衣与白裙，侧坐低矮花墙，手撑身侧，转头露出明朗笑容。"
+}

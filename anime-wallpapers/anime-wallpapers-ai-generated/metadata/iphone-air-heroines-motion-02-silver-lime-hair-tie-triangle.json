@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-motion-02-silver-lime-hair-tie-triangle.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-motion-02-silver-lime-hair-tie-triangle.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "银白长发女性双手在后脑束发，两肘形成三角轮廓，荧光绿上衣与紫色短裤置于亮紫撞色背景。",
+  "composition_variation": "An exceptionally beautiful original 27-year-old adult anime woman with long pearlescent silver hair, lavender undersides, sharp emerald eyes, elegant adult cheekbones and a poised half-smile directed at the viewer. She gathers her hair into a ponytail using both hands behind her head. Both elbows form a strong asymmetrical triangular silhouette; show two anatomically plausible arms and relaxed shoulders. Her weight rests on one leg while the other knee bends slightly. Frame from hair to mid-thigh so her face is substantially larger and more detailed than in a distant full-body illustration. Outfit: opaque acid-lime cap-sleeve crew-neck summer top tucked into high-waisted violet tailored shorts, simple silver earrings. Relaxed movement and secure clothing. Camera at face height, gently three-quarter frontal. Ultraviolet background contains one large neon-lime circle low behind her shoulders and minimal cobalt graphic arcs. Top quarter is an intense violet field. Fluorescent yellow-green bounce on silver hair, rich blue shadow shapes, precise eyelashes, brilliant emerald irises and luminous peach skin. Bold graphic poster craft without letters. The raised-arm triangle and exquisite close facial design dominate.",
+  "created_at": "2026-10-12T14:27:47.582313+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0ef9661df54799b6c5b6436d71ed46f247e76fccc41db7418404af7201e0667a",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-motion-six/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "explosive-color-motion-study",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "long pearlescent silver hair with lavender shadow and lime reflected edges",
+    "title": "银发荧光",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cyan ponytail turning through a stride, silver hair gathered with raised arms, crimson bob leaning with crossed arms and one bent knee. Strong magenta-cyan, lime-violet and cobalt-vermilion palettes; distinct silhouettes and larger detailed adult anime faces. Visible hands coherent and outfits opaque. Elbows and trailing hair partly extend beyond crop as intentional composition; all key hands and faces remain visible."
+  },
+  "visible_description": "银白长发女性双手在后脑束发，两肘形成三角轮廓，荧光绿上衣与紫色短裤置于亮紫撞色背景。"
+}

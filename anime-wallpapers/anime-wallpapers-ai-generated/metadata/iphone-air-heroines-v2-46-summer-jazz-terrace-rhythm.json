@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-46-summer-jazz-terrace-rhythm.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-46-summer-jazz-terrace-rhythm.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "巧克力色卷发女性在露台轻敲手鼓，宽松黄衬衫与暮色蓝相互衬托。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 29 years old, with dark chocolate-brown hair in abundant shoulder-length curls swept away from one eye. She has mature, self-assured elegance and realistic adult proportions. Give her deep amber eyes, subtly arched brows, a graceful broad smile, and warm luminous skin. Dress her in an opaque marigold short-sleeved blouse with a modest collar and soft navy wide-leg trousers. She sits comfortably upright on a simple terrace chair, holding a small tambourine close above her lap and tapping its edge with relaxed fingertips. The pose should feel rhythmic but completely natural. A quiet record player and one potted olive tree sit low behind her. Evening blue shadows mingle with warm string-light bokeh at the side edges, evoking an intimate summer music break without a crowd. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:22:07.973419+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8e563ad82d0a21cf956256bd2b08b955ce6f68f310cacd9cc9075995d4accb43",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 46,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "dark chocolate-brown hair in abundant shoulder-length curls swept away from one eye",
+    "title": "夏日露台的小节拍",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: silver braid reading beneath wisteria, peach bun with cactus pot, blue bob displaying waterlily painting, brunette with tambourine, plum updo playing piano and white braid with small harp. Attractive adult faces, coherent hands, varied art activities, secure opaque attire and quiet upper space. No extra people, unwanted text or evident anatomy defects."
+  },
+  "visible_description": "巧克力色卷发女性在露台轻敲手鼓，宽松黄衬衫与暮色蓝相互衬托。"
+}

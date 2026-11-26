@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-16-sculpture-garden-sandal.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-16-sculpture-garden-sandal.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "乌黑齐肩发女性在白石雕塑旁坐着整理凉鞋带，完整紧凑坐姿和淡蓝长裙显得清爽从容。",
+  "composition_variation": "Design an original premium 2D anime wallpaper featuring one beautiful 29-year-old adult woman on a bench in a minimalist sculpture garden. Her clear dark eyes, fine brows, gentle cheekbones, and faint amused smile convey mature, confident elegance. Jet-black straight shoulder-length hair stays behind her cheeks. She wears an opaque sky-blue short-sleeved midi dress with a modest round neckline and relaxed waist, plus tan lace-up sandals. Sitting comfortably, she places one foot on a low footstool directly in front of her and gently adjusts its sandal strap with both hands. Her torso inclines only slightly, her knees remain together, and the flowing skirt securely covers them. Use a compact full-body seated portrait: her complete head, hands, knees, and both sandals remain visible inside the central column, with the raised foot directly below her hands. Place the camera at her seated eye level. A small white abstract sculpture, low clipped hedges, and pale gravel establish the setting. Diffused morning light creates soft blue shadows and luminous skin. Keep her in the middle and lower frame, with the upper 25% calm and empty for the clock. Refined linework, natural anatomy, opaque fabric, no text, logos, bystanders, or copied characters.",
+  "created_at": "2026-10-12T11:15:02.264860+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "b1e8010e0b0f94d8cbbf0d03cb6b241c6169a774612782189bdf7dd30ba98116",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 16,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Jet-black straight shoulder-length hair with a clean center part",
+    "title": "雕塑园整理鞋带",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 13 lilac bob with map by hydrangea fountain, 14 brunette and orange basket, 15 teal waves watering rooftop herbs, 16 compact seated sandal adjustment, 17 short-haired woman with espresso, 18 gray-haired woman choosing a vinyl sleeve. Complete hands and secure opaque clothing, attractive adult faces, adequate clock area, no bystanders or text. 16 includes the sandal and both hands in the crop."
+  },
+  "visible_description": "乌黑齐肩发女性在白石雕塑旁坐着整理凉鞋带，完整紧凑坐姿和淡蓝长裙显得清爽从容。"
+}

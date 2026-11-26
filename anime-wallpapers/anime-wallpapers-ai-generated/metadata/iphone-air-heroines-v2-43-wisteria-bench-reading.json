@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-43-wisteria-bench-reading.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-43-wisteria-bench-reading.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "灰金波浪发女性在紫藤廊下翻书，浅紫花影落在淡蓝长裙上。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 27 years old, with ash-blonde hair falling in soft shoulder-length waves with a loose side braid. She has mature, self-assured elegance and realistic adult proportions. Use gentle blue eyes, a small beauty mark near one cheek, refined brows, and a relaxed thoughtful expression. She wears an opaque powder-blue short-sleeved midi dress with a modest rounded collar and a slender woven belt. Sitting straight on a pale wooden bench, knees naturally together, she turns one page of a small open book resting on her lap. Keep the book free of readable text. Wisteria clusters hang only along the side edges and behind her shoulders, leaving space above. Pale violet petals, soft green leaves, and dappled morning light create a quiet literary mood with luminous skin tones. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:22:05.010907+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "f9338cc3648f061cf0e30df525d006cbde790d71565aa2c0671afaf807419243",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 43,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "ash-blonde hair falling in soft shoulder-length waves with a loose side braid",
+    "title": "紫藤长椅上的翻页",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: silver braid reading beneath wisteria, peach bun with cactus pot, blue bob displaying waterlily painting, brunette with tambourine, plum updo playing piano and white braid with small harp. Attractive adult faces, coherent hands, varied art activities, secure opaque attire and quiet upper space. No extra people, unwanted text or evident anatomy defects."
+  },
+  "visible_description": "灰金波浪发女性在紫藤廊下翻书，浅紫花影落在淡蓝长裙上。"
+}

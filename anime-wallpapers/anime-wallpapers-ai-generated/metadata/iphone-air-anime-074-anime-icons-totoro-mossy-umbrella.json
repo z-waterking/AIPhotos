@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-074-anime-icons-totoro-mossy-umbrella.png",
+  "refined_prompt": "../prompts/iphone-air-anime-074-anime-icons-totoro-mossy-umbrella.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "龙猫坐在长满青苔的林间空地，宽大绿叶轻轻遮在头顶。",
+  "composition_variation": "Depict one large friendly Totoro seated on a mossy forest clearing after light rain, holding a broad green leaf gently above its head. Preserve its gray rounded body, cream belly, and recognizable markings. Use lush painterly gouache, soft fern shadows, deep green textures, and tiny warm sunbeams near the ground. Keep the mood wholesome and dreamy, with no other creatures or people. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:25:30.582970+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e2e9d63b673f038d2eceeda2dc1cd868a71e93b702e3a5b83d7c635c675ce599",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 74,
+    "category": "anime-icons",
+    "franchise": "人气动漫精选",
+    "title": "龙猫·苔绿雨后",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "龙猫坐在长满青苔的林间空地，宽大绿叶轻轻遮在头顶。"
+}

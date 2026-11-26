@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-099-original-heroines-electric-blue-fashion-step.png",
+  "refined_prompt": "../prompts/iphone-air-anime-099-original-heroines-electric-blue-fashion-step.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "27岁原创女主穿宽肩蓝色西装和长裤，在明亮街景大步向前。",
+  "composition_variation": "Design an original 27-year-old anime woman with a sleek platinum-blonde bob, captured taking a bold natural walking step along a quiet modern plaza. She wears an opaque electric-blue oversized blazer over a high-neck black top and matching full-length trousers, with simple sneakers. Use high-contrast fashion illustration, lemon-yellow architectural accents, crisp noon shadows, and a lively raised-chin smile. Keep the composition dynamic through fabric movement and perspective alone. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:33:31.957998+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "f0e3d817c839cf82a29edcc4c4eefc80f0e98d5dc799d61ed546c63c87632d55",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 99,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "电光蓝街景·大步向前",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "27岁原创女主穿宽肩蓝色西装和长裤，在明亮街景大步向前。"
+}

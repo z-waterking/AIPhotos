@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-76-garden-library-bookmark.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-76-garden-library-bookmark.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "蜂蜜棕波浪发女性在临园书斋制作压叶书签，双手整理小纸片与竹叶，米白与青竹色清雅宁静。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 25-year-old adult woman with long honey-brown waves resting behind her shoulders. Her bright olive-brown eyes, refined oval face, softly shaped brows, and focused gentle smile convey mature composure. She wears an opaque cream short-sleeved linen blouse with a modest collar and a muted green flowing midi skirt. Seated upright at a narrow desk beside an open garden-library window, she makes a simple pressed-leaf bookmark. One hand steadies a small cream bookmark card on the desk while the other carefully lays a single slender pressed bamboo leaf at its center. Keep both hands close together immediately below her torso and the task easy to read. An open clothbound book with blank abstract pages and a short sage ribbon rest nearby; no sharp tools are present. A low timber bookshelf stays along one side, with bamboo leaves and a pale garden wall beyond the window. Warm honey light, ivory paper, and cool green reflections create a tranquil craft scene. Use a seated eye-level portrait, with her face, hair, hands, and small project inside the narrow central crop in the middle and lower frame. Leave the upper 25% quietly luminous for the clock. Refined anime rendering, natural anatomy, opaque fabric, no text, logos, or extra people.",
+  "created_at": "2026-10-12T11:31:43.617153+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "342e97329f2578d89afbea60e80b6b0efd8476df7299e77d70727c04e1b660d3",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 76,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "honey brown, long soft waves with a relaxed side part",
+    "title": "园中书斋的书签",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: red-haired woman with plum vase, pale-green braid through moon gate, dark updo listening to rain chain, brunette crafting pressed-leaf bookmark, silver-haired woman on garden bridge, auburn braid watering bonsai. Adult anime figures, distinct facial designs and hands, opaque summer clothing, usable clock areas. No unwanted people, text or obvious anatomy errors."
+  },
+  "visible_description": "蜂蜜棕波浪发女性在临园书斋制作压叶书签，双手整理小纸片与竹叶，米白与青竹色清雅宁静。"
+}

@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-03-silver-emerald-petal-palm.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-03-silver-emerald-petal-palm.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "银紫长辫、灰紫眼女性穿祖母绿无袖夏裙，抬起掌心接金色花瓣，另一手轻搭腰侧，青绿背景与暖阳映出清透气质。",
+  "composition_variation": "New 27-year-old adult woman with silver-lavender hair in a long loose braid and delicate wispy curls at the temples, pale violet-gray irises, almond eye shape, subtly angular elegant adult jaw, softly shaped lips and a delighted gentle smile. Outfit: opaque deep emerald sleeveless summer dress with a secure high rounded neckline, defined waist and flowing hem, tiny amethyst earrings. She stands in three-quarter view, torso lightly turned; one forearm bends upward with an open palm receiving a single warm-gold flower petal, the other hand rests loosely at her waist. Her gaze lifts from the petal toward the viewer, chin slightly tilted. Make this a head-to-mid-thigh portrait with the face and open hand as equal clear focal points. Keep hand compact beside shoulder so no fingers are cut. Sunlight makes silver hair edges pale gold, lavender shadows defining separate strands. Turquoise sky, golden flowering shrubs, dark peacock-green foliage and scattered warm peach petals create the same radiant summer garden atmosphere as the reference. Crisp jewel-toned dress folds, soft warm skin and precise beautiful eyes. Natural floating petals only, no magical action, no rigid standing mannequin pose.",
+  "created_at": "2026-10-12T15:48:48.220731+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "2abe6f629a9f464a39b2cc6bf72c966271d5f37104d48c0d609648997a32a79e",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 3,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "silver-lavender long loose braid with soft wispy temple curls",
+    "title": "银发拾光",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected against actual reference: 02 dark ponytail close terrace lean with cheek-touch gesture, 03 silver-lavender braid and emerald dress with raised petal palm, 04 rose-brown updo seated in blue blouse and white skirt. Detailed bright adult faces, gold-lit fine hair, clear jewel fabric folds and turquoise-gold garden match reference. Pose and clothing differ; portrait edges crop outer forearm/palm in 03 and supporting hand in 04, while faces and primary body gestures remain clear. No extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "银紫长辫、灰紫眼女性穿祖母绿无袖夏裙，抬起掌心接金色花瓣，另一手轻搭腰侧，青绿背景与暖阳映出清透气质。"
+}

@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-064-spy-family-bond-moonlit-window.png",
+  "refined_prompt": "../prompts/iphone-air-anime-064-spy-family-bond-moonlit-window.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "邦德趴在窗边软垫上，蓝白月光与暖色小灯交织。",
+  "composition_variation": "Paint Bond the large fluffy white dog resting on a soft cushion beneath a moonlit window. Preserve his distinctive dark paws and gentle sleepy eyes, with no other characters or animals. Use thick soft brushwork, velvety navy shadows, a warm honey-colored floor lamp, and subtle silver fur highlights. Frame his face and front paws in the lower central area for an inviting cozy portrait. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:21:28.696015+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8123b2ce71397eb5f3b65ef225027f7d5d782a13bd3286abeb01c8b1288cd780",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 64,
+    "category": "spy-family",
+    "franchise": "间谍过家家",
+    "title": "邦德·月光窗边",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "邦德趴在窗边软垫上，蓝白月光与暖色小灯交织。"
+}

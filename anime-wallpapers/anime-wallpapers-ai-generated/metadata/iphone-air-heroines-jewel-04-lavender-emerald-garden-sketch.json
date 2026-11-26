@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-04-lavender-emerald-garden-sketch.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-04-lavender-emerald-garden-sketch.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "浅薰衣草紫齐肩波波头，轻薄斜刘海，蜜金色杏眼，秀气椭圆脸，鼻唇精巧。她坐在暖杏色花园矮墙上，膝上摊开小速写本，一手握画笔停顿，另一手轻压书页，抬头与镜头自然对视微笑。头顶至大腿上部近景，脸部足够大。穿不透明薄荷绿短袖连衣裙。背景边缘是祖母绿叶片、洋红三角梅与钴蓝花盆，顶部留出明亮蓝绿色晴空，面部光线柔和均匀。",
+  "composition_variation": "浅紫齐肩短发女性穿薄荷绿夏裙坐在花园矮墙上，执笔停下速写，抬眼浅笑，洋红花朵与钴蓝花盆环绕。",
+  "created_at": "2026-10-13T17:05:50.662693+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "b9935a9db434dd37dcd10f4eee703242df34f3a4071b7279950a6020d1793453",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 4,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "浅薰衣草紫齐肩波波头",
+    "title": "紫雾花园画笺",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet with full composition and face detail. Lavender bob, golden eyes and large readable face; coherent brush-holding hand and hand resting on sketchbook. Mint dress remains opaque; magenta flowers, sea and sky frame one adult subject. No text or extra limbs."
+  },
+  "visible_description": "浅紫齐肩短发女性穿薄荷绿夏裙坐在花园矮墙上，执笔停下速写，抬眼浅笑，洋红花朵衬着明亮海天。"
+}

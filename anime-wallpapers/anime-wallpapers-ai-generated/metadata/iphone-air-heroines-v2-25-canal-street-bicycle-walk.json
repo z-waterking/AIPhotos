@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-25-canal-street-bicycle-walk.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-25-canal-street-bicycle-walk.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "亮铜马尾女性沿运河缓缓推车，双手靠近扶着薄荷色车把，自行车只在下方局部入画。",
+  "composition_variation": "Illustrate an original premium 2D anime woman, clearly 28 years old, slowly walking a mint-green city bicycle along a quiet canal street. Her refined adult face has bright blue-green eyes, gently defined cheekbones, neat brows, and a relaxed confident smile. Bright copper hair is tied in a practical low ponytail with fine windblown strands. She wears an opaque cream short-sleeved cotton top with a modest crew neckline, ocean-blue linen trousers, and white walking shoes. Taking one small natural step, she keeps both hands close together around the nearby center and grip of the handlebar, elbows relaxed beside her ribs. Angle the bicycle slightly away into depth; show only its handlebar, basket rim, and a partial front wheel at the lower edge. Keep both hands and the meaningful bicycle details inside the narrow central crop. Pale cobblestones, a low canal rail, and distant pastel houses establish depth, with turquoise reflections low behind her. Gentle late-morning light balances copper hair with mint, ivory, and blue. Use an eye-level portrait with her face and body centered in the middle and lower frame. Leave the upper 25% pale and uncluttered for the clock. Precise anatomy, believable bicycle geometry, opaque clothing, no lettering, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:18:20.851181+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0bfb63a5f84a11617e5625e5243b4724f17411d2ffb95bb2931cca304ff1185e",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 25,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Bright copper long hair in a loose practical ponytail",
+    "title": "运河街道推车",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: copper ponytail with bicycle, indigo hair and closed parasol at tram stop, ash-brown hair adjusting tote, green waves choosing flower, blonde and melon soda on canal bridge, lilac bob walking after sunshower. Adult anime presentation, attractive varied faces, coherent visible hands and secure summer clothing. 25 bicycle cropped intentionally while both hands remain visible; clock areas clear."
+  },
+  "visible_description": "亮铜马尾女性沿运河缓缓推车，双手靠近扶着薄荷色车把，自行车只在下方局部入画。"
+}

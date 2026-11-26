@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-53-forest-green-flute-garden.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-53-forest-green-flute-garden.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "森林绿长发女性在花园小径练习后垂握木笛，白衬衫与淡金裙装温柔清爽。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 27 years old, with dark forest-green hair in a long half-up style secured with a tiny ivory ribbon. She has mature, self-assured elegance and realistic adult proportions. Her face has warm hazel eyes, a small straight nose, delicate lips, and an easy radiant smile. Dress her in an opaque white cap-sleeved summer blouse with a high rounded neckline and a pale-gold flowing midi skirt. She pauses after practicing and holds a short wooden recorder vertically with both hands in front of her torso, looking toward a patch of flowers beside the path. The instrument is clearly a small musical recorder, with simple finger holes. Low daisies and fern borders lead toward a sunlit garden wall. Soft lemon sunlight and cool green shade create peaceful, melodic freshness. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:25:08.177201+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "a7019ba9e9a0bbb1fc443af18c93322a0cef257b318fa14ba25bc81715498c06",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 53,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "dark forest-green hair in a long half-up style secured with a tiny ivory ribbon",
+    "title": "森林绿长发与花园笛声",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: auburn-haired listener with headphones, turquoise pixie shaping pottery, rose updo with embroidery hoop, raven bob sketching sculpture, forest-green hair with wooden flute, lavender ponytail holding violin at sunset. Adult anime faces, distinct activities and palettes, coherent visible hands and secure opaque clothing; no extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "森林绿长发女性在花园小径练习后垂握木笛，白衬衫与淡金裙装温柔清爽。"
+}

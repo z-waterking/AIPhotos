@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-90-lakeside-picnic-thermos-pour.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-90-lakeside-picnic-thermos-pour.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "深巧克力长卷发女性在湖边野餐桌斟茶，奶白与砖橙服装呈现从容明亮的休闲气质。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 29-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Design warm golden-brown eyes, refined mature cheekbones, a graceful nose, and a contented smile. Her dark-chocolate waves are pinned back on one side so the face stays clear. She wears an opaque ivory short-sleeved linen blouse, rust-orange wide-leg cropped trousers, and simple woven flats. Seated upright at a small lakeside picnic table, she pours tea from a compact thermos into a plain cup, keeping both hands close together over the tabletop and the stream short and believable. A folded cloth and a small fruit bowl add restrained everyday detail. Calm water, distant reeds, and a soft tree canopy provide the backdrop. Use chocolate brown, rust orange, warm ivory, and muted blue-green, with mellow late-afternoon light. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:36:11.565758+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "404ed2e8c584dea4db6f78f402412a9b4488e08ca0d16a073881d029f441127e",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 90,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "dark chocolate brown, long loose waves pinned back on one side",
+    "title": "湖畔野餐的温柔收尾",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cycling rest with helmet and water, tennis break with towel, riverside jogger, olive braid checking hiking map, pink ponytail with badminton racket and shuttlecock, brunette pouring tea at picnic table. All adult anime characters, varied natural activities, coherent visible hands and secure opaque clothes. Clear clock areas, no unwanted text or people."
+  },
+  "visible_description": "深巧克力长卷发女性在湖边野餐桌斟茶，奶白与砖橙服装呈现从容明亮的休闲气质。"
+}

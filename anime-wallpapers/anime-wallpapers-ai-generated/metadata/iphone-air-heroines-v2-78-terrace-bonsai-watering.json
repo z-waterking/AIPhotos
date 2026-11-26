@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-78-terrace-bonsai-watering.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-78-terrace-bonsai-watering.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "栗红双辫盘髻女性在露台给小盆景浇水，青白配色和晨光体现细腻生活感。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 28-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Design expressive warm brown eyes, a mature balanced face, softly freckled cheeks, and a focused but cheerful expression. Her auburn braids are pinned into a neat low bun. She wears an opaque pale-sage sleeveless collared blouse, cream loose trousers, and practical low shoes. At a quiet garden terrace she waters a small bonsai using a compact ceramic watering jug, one hand on the handle and the other supporting its base close to her body. Show a thin graceful stream reaching the soil. The plant and low table occupy only the lower side of the composition, leaving her face unobstructed. White plaster, bamboo screening, and restrained foliage complement sage and auburn tones beneath clear early-morning light. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:32:01.964452+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "bd5e25fae844fc841b46a78d80e45608223ebd9a99aa60723bfd63aeb7c694a4",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 78,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "auburn red, two braids pinned into a neat low bun",
+    "title": "露台盆景的晨间照料",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: red-haired woman with plum vase, pale-green braid through moon gate, dark updo listening to rain chain, brunette crafting pressed-leaf bookmark, silver-haired woman on garden bridge, auburn braid watering bonsai. Adult anime figures, distinct facial designs and hands, opaque summer clothing, usable clock areas. No unwanted people, text or obvious anatomy errors."
+  },
+  "visible_description": "栗红双辫盘髻女性在露台给小盆景浇水，青白配色和晨光体现细腻生活感。"
+}

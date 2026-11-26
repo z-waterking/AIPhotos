@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-66-lake-pier-camera-review.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-66-lake-pier-camera-review.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "海军蓝马尾女性坐在湖畔栈桥长椅上回看一张旅行照片，小相机收在身侧，雾色湖水宁静柔和。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 25-year-old adult woman with navy-blue hair tied in a relaxed low ponytail. Her luminous gray-green eyes, refined adult cheeks, softly shaped brows, and pleased thoughtful smile suggest a fond travel memory. She wears an opaque cream sleeveless utility blouse, sage-green wide-leg cropped trousers, and simple canvas shoes. Seated upright on a narrow bench at the end of a timber lake pier, she studies a single small printed travel photograph held by its lower corners in both hands above her lap. Its image shows only softly abstract mountain colors, without writing or faces. Keep the photo narrower than her torso and the fingers simple and clearly separated. A compact camera is tucked in an open canvas pouch beside her on the bench, with no visible screen. Reeds, a quiet mooring post, and misty wooded hills create layered depth. Soft celadon water reflections illuminate her face beneath pale morning haze. Use a natural seated eye-level camera, with her face, hands, and torso centrally in the middle and lower frame. Reserve the upper 25% as calm pale atmosphere for the lock-screen clock. Refined linework, believable seated anatomy, opaque clothing, no lettering, logos, additional people, or copied characters.",
+  "created_at": "2026-10-12T11:28:46.790744+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "eb77dec6fcee09770093b69218fbac28bee06bd551e694e5a4b539dc15df91ef",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 66,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "navy blue, long straight hair tied in a relaxed low ponytail",
+    "title": "湖畔栈桥回看照片",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: teal bob with map at tram, chestnut braid checking ticket at alpine station, lilac hair at lavender field, dark bob with sketchbook on canal bridge, copper ponytail at desert botanical walk, and indigo-haired seated traveler studying printed photograph. Adult design, coherent natural hands, secure opaque summer attire, scenic variety and clean upper areas. No extra people or unwanted text."
+  },
+  "visible_description": "海军蓝马尾女性坐在湖畔栈桥长椅上回看一张旅行照片，小相机收在身侧，雾色湖水宁静柔和。"
+}

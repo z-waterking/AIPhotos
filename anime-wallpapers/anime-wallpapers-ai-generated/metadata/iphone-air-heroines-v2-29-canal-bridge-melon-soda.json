@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-29-canal-bridge-melon-soda.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-29-canal-bridge-melon-soda.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "淡金长卷发女性在石桥边看水面，鼠尾草上衣与白长裤搭配清透蜜瓜汽水。",
+  "composition_variation": "Create an original anime illustration of a 29-year-old woman pausing on a small stone bridge with a melon soda after a summer walk. Her mature face is exceptionally graceful, with blue-gray almond eyes, softly structured brows, a refined nose, subtle cheekbone definition, and a gentle relaxed smile. Pale golden-blonde curls fall behind her shoulders, swept neatly away from her face. She wears an opaque sage-green short-sleeved blouse with a modest square neckline, white tailored linen trousers, tan sandals, and small round gold earrings. She stands beside the bridge parapet, holding a clear cup of pale-green soda close to her abdomen with one hand while her other forearm rests lightly on the stone. She looks toward the water rather than striking a dramatic pose. Keep the cup free of branding and the straw unused. Below the bridge, quiet canal reflections and a few lily pads add cool color; distant cream facades remain soft and low. Evening sunlight creates warm gold edges against mint and pale stone. Use refined facial detail, realistic relaxed shoulders, and gentle painterly atmosphere. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:20:05.340868+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "637b2c2117cde61e1dc895432ebcf6594999c3f7b03d36610dc5663d063c8534",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 29,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Pale golden-blonde long loose curls, swept back neatly from the face",
+    "title": "小桥上的蜜瓜汽水",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: copper ponytail with bicycle, indigo hair and closed parasol at tram stop, ash-brown hair adjusting tote, green waves choosing flower, blonde and melon soda on canal bridge, lilac bob walking after sunshower. Adult anime presentation, attractive varied faces, coherent visible hands and secure summer clothing. 25 bicycle cropped intentionally while both hands remain visible; clock areas clear."
+  },
+  "visible_description": "淡金长卷发女性在石桥边看水面，鼠尾草上衣与白长裤搭配清透蜜瓜汽水。"
+}

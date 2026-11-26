@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-31-moonflower-veranda-star-atlas.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-31-moonflower-veranda-star-atlas.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "银发成熟女性坐在月花露台，轻捧星图册，月蓝与奶白色构成宁静夜景。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 27 years old, with silvery ash hair in a long loose side braid with a few softly curled face-framing strands. She has mature, self-assured elegance and realistic adult proportions. Give her almond-shaped blue-gray eyes, softly defined cheekbones, a straight elegant nose, and a serene closed-mouth smile. Dress her in an opaque ivory sleeveless linen blouse with a modest round neckline and a flowing slate-blue midi skirt. Seated upright on a small veranda stool, she balances an open star atlas on her lap and turns a page with relaxed fingertips. Moonflowers climb a low railing beside a white ceramic teacup. A single distant star cluster floats above hazy garden silhouettes. Cool moonlight outlines her braid while a low amber lantern gives her face delicate warmth. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:06:07.399458+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "bd85464f792d5e173e23b426345a7d62c0fd16b26171ec40d24e6606c9cc3d9f",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 31,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "silvery ash hair in a long loose side braid with a few softly curled face-framing strands",
+    "title": "月花露台与星图",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet visually inspected. 31 silver braid reading on moonflower veranda, 32 indigo braid and thermos beside meteor lake, 33 copper ponytail adjusting hair clip on sunset terrace. Adult anime faces, coherent visible anatomy, opaque summer outfits and useful clock space; no text or bystanders."
+  },
+  "visible_description": "银发成熟女性坐在月花露台，轻捧星图册，月蓝与奶白色构成宁静夜景。"
+}

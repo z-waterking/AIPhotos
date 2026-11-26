@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-041-one-piece-luffy-peach-harbor.png",
+  "refined_prompt": "../prompts/iphone-air-anime-041-one-piece-luffy-peach-harbor.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "草帽路飞坐在安静码头，落日把海面染成桃金色。",
+  "composition_variation": "Show Monkey D. Luffy seated casually on a harbor bollard, holding his straw hat against his chest and smiling toward the horizon. His red vest and blue shorts are fully intact. Use soft cel shading, a peach and apricot sunset, teal water reflections, and a tiny sailboat far below. Frame the seated figure from knees upward in the lower center. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:14:26.408078+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "07e17f4af880f4e09030b66e3a97b04cc5fd0e330ae4082a4afdb96903445027",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 41,
+    "category": "one-piece",
+    "franchise": "海贼王",
+    "title": "路飞·桃色海港",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "草帽路飞坐在安静码头，落日把海面染成桃金色。"
+}

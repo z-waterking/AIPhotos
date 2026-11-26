@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-19-window-cafe-strawberry-tart.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-19-window-cafe-strawberry-tart.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "樱桃红中长发女性坐在临街窗边轻转甜点盘，白衬衫与浅蓝长裙搭配干净柔光。",
+  "composition_variation": "Create a luminous original anime scene of a visibly adult 26-year-old woman at a cafe window with a small strawberry tart. Give her bright hazel-green eyes, softly shaped brows, a refined nose, graceful cheekbones, and a pleased gentle smile. Her cherry-red medium-length hair forms polished loose waves with soft curtain bangs. She wears an opaque white short-sleeved cotton blouse with a modest rounded collar, a pale-blue ankle-length skirt, and simple cream flats. She sits upright at a small round marble table, with both feet comfortably on the floor. One hand lightly rotates the white dessert plate while the other holds a small fork resting just above the tabletop; she looks toward the tart with calm anticipation. Keep the gesture ordinary and the dessert small, avoiding exaggerated eating expressions. A glass of still water, a folded linen napkin, and a pale vase with one daisy complete the table. Through the open window, a quiet summer street becomes a soft pastel backdrop. Cool window light balances warm interior tones, creating delicate red, blue, ivory, and rose accents around a crisply drawn face. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:16:36.995828+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "226c3616969dcd6b64bf59b54b4a81447409709a20b67d952206951b0fe98036",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 19,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "Cherry-red medium-length hair in loose polished waves with soft curtain bangs",
+    "title": "窗边草莓塔",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet checked: strawberry tart at cafe, pouring jasmine tea on rooftop, placing bookmark in book, raised citrus drink on terrace, bouquet by bakery, and daisy arrangement in courtyard. Attractive adult anime faces, natural coherent hands, nonsexual opaque clothes, clear upper clock space and no unwanted people or lettering."
+  },
+  "visible_description": "樱桃红中长发女性坐在临街咖啡桌旁，一手持餐叉、一手扶着草莓塔餐盘，白衬衫与浅蓝长裙映着柔光。"
+}

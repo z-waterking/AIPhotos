@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-52-raven-bob-sculpture-courtyard.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-52-raven-bob-sculpture-courtyard.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "乌鸦黑短发女性在白色雕塑庭院看速写本，暖白建筑与青绿树影保持简洁。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 30 years old, with raven-black hair in a precise jaw-length bob with an elegant long side fringe. She has mature, self-assured elegance and realistic adult proportions. Give her luminous gray-green eyes, a softly angular jaw, finely arched brows, and a composed thoughtful expression. Her opaque dusty-rose sleeveless collared blouse pairs with stone-colored wide-leg linen trousers and understated loafers. She stands comfortably in a small sculpture courtyard, holding a slim sketchbook open at chest height and touching its page with a short pencil held close to the book. Keep all marks abstract and unreadable. Behind her are one smooth nonfigurative white sculpture, a low cypress planter, and pale limestone walls. Clear morning illumination and soft teal foliage shadows produce a refined gallery atmosphere. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:24:53.838243+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "1a735e3f44a17f207fa88c0014764383348530f8a143c80a03a4b020eda83c92",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 52,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "raven-black hair in a precise jaw-length bob with an elegant long side fringe",
+    "title": "雕塑小院的黑发速写者",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: auburn-haired listener with headphones, turquoise pixie shaping pottery, rose updo with embroidery hoop, raven bob sketching sculpture, forest-green hair with wooden flute, lavender ponytail holding violin at sunset. Adult anime faces, distinct activities and palettes, coherent visible hands and secure opaque clothing; no extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "乌鸦黑短发女性在白色雕塑庭院看速写本，暖白建筑与青绿树影保持简洁。"
+}

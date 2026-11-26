@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "橘红卷发女性在青绿与橙黄花园中轻快旋身，孔雀蓝夏裙与发丝形成相反方向的弧线，动作明亮灵动。",
+  "composition_variation": "One dazzling original 25-year-old adult anime woman with shoulder-length tangerine-red wavy hair, sparkling sea-green eyes, beautifully proportioned adult features and a broad joyful confident smile. Capture a lively dance turn in a sunlit abstract summer garden. Her weight rests on one foot, the other heel lifts behind in a small natural step. Her torso rotates as she turns her face back to the viewer. One bent arm rises to shoulder height in an open gesture, the other sweeps downward in the opposite direction. Draw both hands clearly inside the central crop. Shoulder line, hair wave and skirt movement form three opposing curves. Outfit: opaque peacock-blue short-sleeved fit-and-flare summer dress ending just above the knees, secure comfortable neckline, white flats. Skirt moves gently but never lifts high. Head-to-ankles framing with a subtle five-degree tilted horizon at eye level; expression highly legible. Intense turquoise background, blazing orange-red floral color accents at outer edges, golden-yellow backlight and ultramarine cel shadows. Top quarter is vivid clean turquoise. Elegant anime game-art face, luminous orange hair and saturated painterly gestures without grain or muted earth tones.",
+  "created_at": "2026-10-12T14:29:33.260511+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8be74561228156d755f7073fe149b45c5f84b299cc6b480eb86ec3daf1c5fb25",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-motion-six/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 5,
+    "category": "explosive-color-motion-study",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "bright tangerine-red shoulder-length waves with golden highlights",
+    "title": "橘焰旋身",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: violet hair side-seated on mint steps with bent and lowered legs, orange hair mid-turn with opposite arm arcs, mint bob in compact sneaker-tying crouch. Saturated coral-mint, orange-turquoise and pink-lime palettes. Large legible adult anime faces, distinct weight balance and gesture silhouettes, coherent visible hands and secure opaque summer clothes. No unwanted people, text or evident extra limbs."
+  },
+  "visible_description": "橘红卷发女性在青绿与橙黄花园中轻快旋身，孔雀蓝夏裙与发丝形成相反方向的弧线，动作明亮灵动。"
+}

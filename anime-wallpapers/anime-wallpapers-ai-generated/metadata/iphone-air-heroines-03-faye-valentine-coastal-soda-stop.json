@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-03-faye-valentine-coastal-soda-stop.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-03-faye-valentine-coastal-soda-stop.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "成年菲穿芥末黄无袖衬衫与深蓝宽松短裤，靠在海岸汽水小店的栏杆旁，一脚轻搭低台阶，举着透明柠檬汽水杯神气微笑。",
+  "composition_variation": "Design a fresh anime wallpaper featuring Faye Valentine in her recognizable twenty-three-year-old adult appearance, short violet hair, green eyes, and an amused confident expression. At a small retro seaside soda kiosk, she rests one forearm naturally on a low painted railing and places one foot on a shallow step, holding a clear cup of sparkling lemon soda near shoulder level. Outfit her in an opaque mustard sleeveless button-front shirt with a normal closed neckline, navy loose tailored shorts, and simple canvas sneakers. Keep the pose relaxed, charismatic, and nonsexual. Use sunwashed peach walls, turquoise ocean glimpses, a striped awning edge, and restrained vintage color grading. No writing, brands, weapons, or other people. Her face sits around forty-five percent height, with both hands safely centered. Leave generous clean pale-blue space above for the lock-screen clock.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:31:03.415531+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8bb5ac36f731e776d7aa24c78bcb7360fcf25d0dd450b9ac1d2bc427645517fd",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 3,
+    "category": "summer-heroines",
+    "franchise": "星际牛仔",
+    "title": "汽水与海岸",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "成年菲穿芥末黄无袖衬衫与深蓝宽松短裤，靠在海岸汽水小店的栏杆旁，一脚轻搭低台阶，举着透明柠檬汽水杯神气微笑。"
+}

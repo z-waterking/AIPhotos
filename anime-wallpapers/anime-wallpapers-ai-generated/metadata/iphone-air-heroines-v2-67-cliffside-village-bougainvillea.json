@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-67-cliffside-village-bougainvillea.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-67-cliffside-village-bougainvillea.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "玫瑰棕卷发女性在白墙花巷轻抚鬓发，三角梅与远海组成鲜亮夏日风景。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 28-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Give her sparkling hazel eyes, a confident adult profile, a softly defined chin, and a natural open smile. Her rose-brown curls rest over one shoulder. She wears an opaque cobalt sleeveless blouse with a high rounded neckline, an ivory linen midi skirt, and simple brown sandals. She pauses halfway along a whitewashed village lane and tucks a windblown curl behind one ear, keeping her forearm comfortably within her silhouette; her other hand rests on the strap of a small bag. Bougainvillea blossoms spill down one side wall, and a slim glimpse of distant sea appears beyond a corner. Use saturated cobalt and fuchsia sparingly against broad chalk-white surfaces, with softened Mediterranean sunlight and crisp but delicate linework. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:28:48.862121+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "dbf602b5c830a7a3db28c18586f3217101282f57115fcd5ae2ffb241606dd44a",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 67,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "rose brown, medium-length loose curls swept over one shoulder",
+    "title": "崖边小镇花影",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: brunette walking bougainvillea village, icy bob with postcard at harbor, dark-green waves and coconut, blonde with binoculars on hilltop, dark-haired woman with teacup beside lotus pond, violet updo holding folded fan. Adult anime faces, varied confident natural poses, coherent hands, secure opaque outfits and useful clock areas; no text or extra people."
+  },
+  "visible_description": "玫瑰棕卷发女性在白墙花巷轻抚鬓发，三角梅与远海组成鲜亮夏日风景。"
+}

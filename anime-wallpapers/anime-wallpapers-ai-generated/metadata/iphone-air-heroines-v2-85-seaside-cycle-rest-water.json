@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-85-seaside-cycle-rest-water.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-85-seaside-cycle-rest-water.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "栗金马尾女性在海滨自行车旁拧开水壶，运动休闲装与蓝海形成轻快夏日画面。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 27-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Give her lively olive eyes, a mature oval face, gently flushed cheeks, and an energetic, easy smile. Chestnut-gold hair is pulled into a practical high ponytail. She wears an opaque loose aqua athletic T-shirt, navy knee-length relaxed cycling shorts, and white trainers, with a properly fitted bicycle helmet. Standing beside a stationary city bicycle on a quiet seaside path, she unscrews a water-bottle cap with both hands near her waist. The bicycle remains partially visible at one lower edge. A pale railing and calm blue water establish the coast, with no other people present. Use aqua, navy, sunlit gold, and white, with soft morning highlights and crisp but unaggressive sporty linework. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:34:00.672670+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "025f0c4ba66dc33aa00e73fe60d873de4f6962990b37ad210541bb8b0081e980",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 85,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "chestnut gold, high ponytail with softly curled ends",
+    "title": "海边骑行后的补水",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cycling rest with helmet and water, tennis break with towel, riverside jogger, olive braid checking hiking map, pink ponytail with badminton racket and shuttlecock, brunette pouring tea at picnic table. All adult anime characters, varied natural activities, coherent visible hands and secure opaque clothes. Clear clock areas, no unwanted text or people."
+  },
+  "visible_description": "栗金马尾女性在海滨自行车旁拧开水壶，运动休闲装与蓝海形成轻快夏日画面。"
+}

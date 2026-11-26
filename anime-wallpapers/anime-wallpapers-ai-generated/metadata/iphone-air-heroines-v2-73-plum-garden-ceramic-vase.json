@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-73-plum-garden-ceramic-vase.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-73-plum-garden-ceramic-vase.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "莓红齐肩发女性在庭院桌旁捧起素色花瓶，淡粉花枝衬托端雅神情。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 26-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Design clear amber eyes, a softly rounded adult face, defined lips, and a gentle, interested smile. Her berry-red hair ends curve inward at the shoulders. She wears an opaque ivory sleeveless blouse with a high neat neckline, loose dusty-rose cropped trousers, and flat cloth shoes. Beside a small courtyard table, she lifts a modest ceramic vase with both hands at mid-torso, considering a single plum branch already inside it. The vase is simple and light enough to hold naturally. A pale plaster wall, a low timber door, and delicate blossoms form the setting. Use ivory, dusty rose, berry red, and subdued celadon, with soft springlike light rendered as a pleasant summer garden morning and subtle shadows beneath the leaves. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:30:36.759683+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e8afbc79e6ad9487fdb9ce0fc648095a30bf01064bc4477e43a1f4048614d009",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 73,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "berry red, shoulder-length straight hair with softly curved ends",
+    "title": "梅园小花瓶",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: red-haired woman with plum vase, pale-green braid through moon gate, dark updo listening to rain chain, brunette crafting pressed-leaf bookmark, silver-haired woman on garden bridge, auburn braid watering bonsai. Adult anime figures, distinct facial designs and hands, opaque summer clothing, usable clock areas. No unwanted people, text or obvious anatomy errors."
+  },
+  "visible_description": "莓红齐肩发女性在庭院桌旁捧起素色花瓶，淡粉花枝衬托端雅神情。"
+}

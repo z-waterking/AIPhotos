@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-087-original-heroines-violet-neon-raincoat.png",
+  "refined_prompt": "../prompts/iphone-air-anime-087-original-heroines-violet-neon-raincoat.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "27岁原创女主穿不透明紫色雨衣，在霓虹倒影中从容迈步。",
+  "composition_variation": "Design an original 27-year-old anime woman with a sharp navy bob, strolling along an empty rainy street in an opaque violet technical raincoat and full-length charcoal trousers. She tilts a clear umbrella while smiling with calm assurance. Use polished cinematic anime rendering, cyan and magenta reflections, dark plum masonry, and soft rainfall. Keep the luminous geometric signs abstract and unlettered, with no weapons or futuristic armor. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:29:05.632632+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "bdb89e95eb4bd66ab6cae222180e5cbf4878ebba5b54ca2feea32a33c2016d64",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 87,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "紫色霓虹·雨巷漫步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "27岁原创女主穿不透明紫色雨衣，在霓虹倒影中从容迈步。"
+}

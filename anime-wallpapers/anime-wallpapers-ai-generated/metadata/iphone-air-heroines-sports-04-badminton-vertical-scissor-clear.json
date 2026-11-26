@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-04-badminton-vertical-scissor-clear.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-04-badminton-vertical-scissor-clear.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "紫发女性转肩挥拍打羽毛球高远球，双腿形成剪刀步，玫红与深钴蓝色块强调上挥轨迹。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. Stack the overhead racket and shuttlecock above the shoulder but below the upper clock margin. Bring the non-racket forearm close beside the waist, hand complete. Legs form a compact scissor step without extending toward either side edge.\n\nA beautiful original 27-year-old adult anime badminton player with a dark-violet high ponytail, electric-pink hair streaks, clear ice-blue eyes and an intent self-assured expression. She wears an opaque white and magenta short-sleeved sports jersey, dark cobalt relaxed athletic shorts, white ankle socks and magenta court shoes, no branding. Capture a real overhead clear: torso rotates three-quarter sideways, racket arm lifted with a naturally bent then extending elbow, non-racket arm drawn down for balance, legs switching in a compact scissor step. Her face remains visible in three-quarter profile, eyes looking toward the single shuttlecock above and slightly ahead. One complete oval badminton racket with fine strings, narrow shaft and one handle genuinely held by the hand. Shuttlecock is separate from racket strings, its cork oriented toward the racket. Use a slightly elevated diagonal sideline camera, full athletic gesture inside the central crop; overhead equipment below the upper clock band. Hot-magenta court meets deep-cobalt shadow planes, with electric cyan and neon-pink paint arcs behind the stroke. Quiet cobalt upper field. Beautiful precise anime face, polished light-catching hair, distinct readable shoulder-elbow-wrist chain and no duplicate racket, bird or limbs.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:50:57.758369+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7860b30f329dd7a959ec874b6046f27e8800c08fa243819dbfe097f31456299c",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 4,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "dark violet high ponytail with electric pink streaks",
+    "title": "紫电高远",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed preview inspected: adult violet-haired badminton athlete in a stepping overhead clear, complete racket and shuttlecock, both hands and shoes visible. Strong magenta-cobalt palette and readable shoulder-arm chain; narrower framing preserves equipment and clear upper space."
+  },
+  "visible_description": "紫色马尾女性转肩跨步打出头顶高远球，完整球拍与羽毛球清楚分离，玫红和钴蓝笔触强调上挥轨迹。"
+}

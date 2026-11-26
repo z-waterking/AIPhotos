@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-10-mercy-lakeside-sunlit-summer-break.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-10-mercy-lakeside-sunlit-summer-break.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "三十七岁的天使安吉拉穿奶油白无袖上衣和淡黄色及膝裙，倚在湖畔露台栏杆边，抬手拨开额前金发，另一手拿着冰柠檬茶。",
+  "composition_variation": "Create an original elegant anime wallpaper of Mercy, Angela Ziegler, shown as her recognizable thirty-seven-year-old adult self, with blonde hair in a soft ponytail, warm brown eyes, and a composed bright smile. During a peaceful lakeside afternoon break, she leans lightly against a terrace railing, turns her shoulders toward the viewer, and lifts one hand to brush a loose strand of hair aside. Her other hand holds a glass of iced lemon tea near waist level. Dress her in an opaque cream sleeveless blouse with a modest neckline and a flowing pale-yellow knee-length skirt, with flat sandals. No armor, wings, medical equipment, or sensual framing. Alpine lake blues, white terrace stone, and golden sunlight provide refined summer atmosphere. Leave the top quarter quiet, place her face near mid-height, and keep both hands safely inside the center crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:34:24.129482+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "88f62672238fda3c47e65a2263e17950626a8206c5d4c85fc96e6ba888955d84",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 10,
+    "category": "summer-heroines",
+    "franchise": "守望先锋",
+    "title": "湖畔午后的阳光",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "三十七岁的天使安吉拉穿奶油白无袖上衣和淡黄色及膝裙，倚在湖畔露台栏杆边，抬手拨开额前金发，另一手拿着冰柠檬茶。"
+}

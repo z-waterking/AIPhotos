@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-55-landscape-designer-bamboo-courtyard.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-55-landscape-designer-bamboo-courtyard.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "三十岁成年景观设计师在明亮竹庭中站立观察，象牙白短袖衬衫与灰绿宽松长裤搭配小本和普通铅笔。",
+  "composition_variation": "Create an exquisite original anime illustration of a clearly adult 30-year-old female landscape designer surveying a bright bamboo courtyard. Her elegant face has expressive moss-green eyes, softly defined cheekbones, balanced brows, a straight nose, and a composed, confident smile. Smoky auburn hair is arranged in a neat low ponytail, with a few soft strands beside her ears. She wears an opaque ivory short-sleeved cotton shirt with a conventional collar, loose slate-green linen trousers, comfortable brown loafers, and small understated gold earrings. She stands upright on a pale stone path with relaxed shoulders and both feet naturally grounded. One hand supports a small plain notebook at waist height; the other holds an ordinary wooden pencil above its page as she pauses to observe the garden. Keep her elbows close and fingers anatomically clear. The notebook contains only abstract landscape shapes without readable lettering. Slender bamboo clusters, a low stone planter, and a shallow gravel bed create restrained architectural layers behind her. Soft morning sunlight and reflected cream light illuminate her face evenly. Use refined linework, delicate fabric texture, and warm ivory, muted green, and auburn colors. Frame her at eye level in the middle-to-lower portion of a vertical wallpaper, leaving the upper quarter clean and pale for the clock.",
+  "created_at": "2026-10-12T11:38:03.105428+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "35772089d63177dd5b7a87e52db127c4d7f9026b7a78a59b0ae6be8a04c4f527",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 55,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Smoky auburn hair in a neat low ponytail, with a few soft strands beside the ears",
+    "title": "竹庭景观设计师",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed preview inspected: adult landscape designer standing naturally with notebook and pencil in sunlit bamboo courtyard, opaque ivory shirt and loose green trousers. Attractive mature anime face, coherent hands, no extra people or text, clear upper clock space."
+  },
+  "visible_description": "三十岁成年景观设计师在明亮竹庭中站立观察，象牙白短袖衬衫与灰绿宽松长裤搭配小本和普通铅笔。"
+}

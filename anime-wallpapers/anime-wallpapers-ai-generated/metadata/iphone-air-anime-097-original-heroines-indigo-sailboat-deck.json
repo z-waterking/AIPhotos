@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-097-original-heroines-indigo-sailboat-deck.png",
+  "refined_prompt": "../prompts/iphone-air-anime-097-original-heroines-indigo-sailboat-deck.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "29岁原创女主穿高领航海外套，在平静帆船甲板轻扶栏杆。",
+  "composition_variation": "Depict an original 29-year-old anime woman with long chestnut hair, standing on the calm deck of a small civilian sailboat. She wears an opaque indigo high-neck sailing jacket, white full-length trousers, and secure deck shoes. One hand rests gently on the railing while wind lifts her hair. Use elegant cel shading, sea-glass green water, creamy sail textures, and soft silver morning light. Her expression is adventurous and serene. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:32:36.471989+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "9769193251f0a390202a8dc648f817fe6c43f05bbe074fbbd5170d984f6cb011",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 97,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "靛蓝甲板·海风长发",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "29岁原创女主穿高领航海外套，在平静帆船甲板轻扶栏杆。"
+}

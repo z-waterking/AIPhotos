@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-002-shinchan-raincoat-puddle-reflection.png",
+  "refined_prompt": "../prompts/iphone-air-anime-002-shinchan-raincoat-puddle-reflection.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "穿黄色雨衣的小新在雨后水洼边探头，倒影与蓝紫雨色相映。",
+  "composition_variation": "Create a charming gouache wallpaper of Shinnosuke Nohara leaning forward to examine his reflection in a tiny puddle. His iconic thick eyebrows remain visible beneath a yellow raincoat hood; he is fully dressed in raincoat, shorts, and red rubber boots. One hand gently holds his hood edge while the other rests at his side. Frame him centrally below a distant soft violet rain cloud, using teal pavement reflections, fine raindrops, and generous misty open sky. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T18:59:59.541051+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "eeb83cd45cf589b804b44742054b9b8988c531672ba00b15c9c2523cf38e4c7e",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "shinchan",
+    "franchise": "蜡笔小新",
+    "title": "雨后黄色雨衣",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "穿黄色雨衣的小新在雨后水洼边探头，倒影与蓝紫雨色相映。"
+}

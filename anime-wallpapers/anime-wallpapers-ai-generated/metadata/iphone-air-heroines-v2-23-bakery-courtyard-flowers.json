@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-23-bakery-courtyard-flowers.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-23-bakery-courtyard-flowers.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "巧克力棕侧辫女性站在面包店庭院里抱着小花束与纸袋，淡粉衬衫搭象牙白长裙。",
+  "composition_variation": "Paint an original anime scene of a 29-year-old woman leaving a small courtyard bakery with flowers and a paper bread bag. Her mature beauty includes clear dark-teal eyes, softly defined brows, a graceful straight nose, warm skin, and a gentle self-assured smile. Chocolate-brown hair, touched by subtle chestnut highlights, falls in a relaxed side braid. She wears an opaque pale-pink short-sleeved linen blouse with a modest collar, an ivory calf-length skirt, tan loafers, and tiny gold studs. She stands just beyond the bakery doorway, holding a small bouquet of white cosmos and a plain brown paper bag together in one arm at waist level. Her free hand lightly supports the bouquet stems, with fingers clearly separated and relaxed. The courtyard contains a low stone bench, a peach stucco wall, and a narrow blue-gray door without signs or lettering. A few petals near the paving add delicate detail. Warm morning sun highlights her cheek and the flower edges, while cool doorway shade gives the background depth. Use soft rose, chocolate, ivory, and muted blue to convey an unhurried cheerful morning. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:18:10.377512+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "2c63e38806cb7bb966a1998bc5948229ca1329c732d053ace198a7bf8787cdbe",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 23,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Chocolate-brown long hair in a relaxed side braid with subtle chestnut highlights",
+    "title": "面包店庭院花束",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet checked: strawberry tart at cafe, pouring jasmine tea on rooftop, placing bookmark in book, raised citrus drink on terrace, bouquet by bakery, and daisy arrangement in courtyard. Attractive adult anime faces, natural coherent hands, nonsexual opaque clothes, clear upper clock space and no unwanted people or lettering."
+  },
+  "visible_description": "巧克力棕侧辫女性站在面包店庭院里抱着小花束与纸袋，淡粉衬衫搭象牙白长裙。"
+}

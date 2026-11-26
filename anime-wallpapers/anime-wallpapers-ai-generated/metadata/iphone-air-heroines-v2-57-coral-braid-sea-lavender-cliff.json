@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-57-coral-braid-sea-lavender-cliff.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-57-coral-braid-sea-lavender-cliff.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "珊瑚红长辫女性走过海薰衣草小径，手持小花束，蓝海与紫花舒展成背景。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 27 years old, with coral-red hair woven into a loose long braid with soft strands around her face. She has mature, self-assured elegance and realistic adult proportions. Her face has clear turquoise eyes, gentle freckles across the nose, softly defined lips, and an open confident smile. Choose an opaque white sleeveless collared summer blouse with comfortable shoulders and a muted lavender calf-length skirt. She takes a small natural step along a wide, safe coastal path, holding a tiny bouquet close to her waist with both hands. Keep the skirt movement light and believable, with no dramatic exposure. Sea lavender and low grasses fill the lower edges, while a calm blue sea and distant headland dissolve into haze. Warm late-afternoon sunlight gives her red braid glowing edges. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:26:13.207327+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "6816144b9b3497f73be1af98d7ae97fb5c35c91c19c104e60e51197530faf5ef",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 57,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "coral-red hair woven into a loose long braid with soft strands around her face",
+    "title": "珊瑚红长辫与海岸花田",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: ice-blue waves and hat at waterfall lookout, coral braid holding sea lavender, strawberry bob tying sneaker on alpine path, black hair drinking tea beneath ginkgo, violet hair carrying herb basket by lake. Adult figures, natural varied postures, complete key hands, opaque clothes and usable clock space. 58 compact crouch includes shoe and hands; no extra people or text."
+  },
+  "visible_description": "珊瑚红长辫女性走过海薰衣草小径，手持小花束，蓝海与紫花舒展成背景。"
+}

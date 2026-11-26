@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-motion-04-violet-mint-angular-step-seat.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-motion-04-violet-mint-angular-step-seat.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "紫黑长发女性侧坐薄荷色台阶，一手撑在身侧、另一手搭膝，两腿错落，珊瑚背景与紫色衣装形成强对比。",
+  "composition_variation": "A gorgeous original adult woman aged 27 in precise sophisticated anime style. Long violet-black hair with electric lavender ends, deep turquoise eyes, fine lashes, graceful adult face, direct confident eye contact and a warm mischievous smile. She sits sideways on a broad mint-green architectural step: one hand supports her beside her body, the other rests on the nearer knee. Both knees point diagonally to the same side, one leg relaxed down toward a lower step, the other bent with its foot one step higher. Her shoulder, hip, knee and ankle form a compact zigzag, clearly different from standing. Keep natural comfortable secure coverage. Outfit: opaque lavender sleeveless round-neck summer top, dark purple relaxed mid-thigh shorts, mint canvas sneakers. Camera slightly above eye line at three-quarter side angle; full seated figure is large and centrally arranged. A saturated coral-orange wall, one crisp magenta diagonal shadow and turquoise-to-mint steps. Violet hair strongly contrasts orange with luminous aqua edge light. Especially precise and clear face, jewel-like irises and warm skin gradients. Upper quarter stays a calm solid coral glow. Bold geometric fashion composition, empty hands.",
+  "created_at": "2026-10-12T14:29:19.567164+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "66c960ed3301a4cbb0de67d8d8f7c8988a7e51ea977be56fdc8957712f5293f8",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-motion-six/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 4,
+    "category": "explosive-color-motion-study",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "long violet-black hair with electric lavender tips",
+    "title": "紫影侧坐",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: violet hair side-seated on mint steps with bent and lowered legs, orange hair mid-turn with opposite arm arcs, mint bob in compact sneaker-tying crouch. Saturated coral-mint, orange-turquoise and pink-lime palettes. Large legible adult anime faces, distinct weight balance and gesture silhouettes, coherent visible hands and secure opaque summer clothes. No unwanted people, text or evident extra limbs."
+  },
+  "visible_description": "紫黑长发女性侧坐薄荷色台阶，一手撑在身侧、另一手搭膝，两腿错落，珊瑚背景与紫色衣装形成强对比。"
+}

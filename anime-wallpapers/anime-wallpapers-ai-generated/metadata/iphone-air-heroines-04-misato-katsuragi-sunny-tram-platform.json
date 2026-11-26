@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-04-misato-katsuragi-sunny-tram-platform.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-04-misato-katsuragi-sunny-tram-platform.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "二十九岁的美里穿红色短袖开襟衬衫、白色背心和米色亚麻短裤，在海滨电车站抬手按住遮阳帽，转身迈步，紫色长发迎风扬起。",
+  "composition_variation": "Paint Misato Katsuragi as an unmistakably adult twenty-nine-year-old woman, with long dark violet hair, brown eyes, her familiar small cross necklace, and a lively confident grin. In an original quiet coastal tram-platform setting, capture her turning into a brisk step while one hand catches the brim of a sunhat and the other lightly holds a folded tourist map. She wears an open red short-sleeved camp shirt over an opaque white sleeveless crewneck top, relaxed beige linen shorts, and low walking shoes. Her shoulders and gestures convey bold summer energy without erotic emphasis. Add a soft distant yellow tram, blue water, and sunlit overhead cable lines low in the background. Keep the top quarter almost empty sky. Position her face below the clock zone, with her raised hand and map entirely inside the central safe crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:31:01.027367+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "b8afeca925a1113c8b10146ae1f32aa22da00f69b39a5203081907c5e3f408fc",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 4,
+    "category": "summer-heroines",
+    "franchise": "新世纪福音战士",
+    "title": "夏日车站的风",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "二十九岁的美里穿红色短袖开襟衬衫、白色背心和米色亚麻短裤，在海滨电车站抬手按住遮阳帽，转身迈步，紫色长发迎风扬起。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-08-sailboat-dock-camera.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-08-sailboat-dock-camera.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "暖铜短卷发女性在帆船码头低头查看相机，海蓝衬衫与象牙白长裤显得爽朗。",
+  "composition_variation": "Create a crisp editorial anime wallpaper showing a clearly adult 28-year-old woman reviewing a photograph at a bright sailboat dock. Her fine features include lively emerald eyes, softly defined cheekbones, a small nose, warm freckles, and a satisfied thoughtful smile. Give her a warm copper wavy bob, held neatly on one side by a small plain clip. She wears an opaque pale ocean-blue short-sleeved button-front shirt with a normal collar, ivory tailored linen trousers, comfortable loafers, and a narrow camera strap. She holds a compact silver camera with both hands at lower-chest height, looking down slightly at its back screen; her elbows remain comfortably near her ribs. Keep the screen dark and unreadable. A clean white sailboat hull appears in the middle distance, its mast kept below or away from the open central sky. Weathered dock boards and a single neat rope cleat give the scene believable scale. Choose copper, pale blue, cream, and sea-green color notes under clear morning light. Her body stays upright and naturally balanced, with meticulous hand anatomy and gentle rather than exaggerated expression. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:12:48.314752+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e583268bba5e3e8820a9c191551ebfcff3dadac865fce057110e0849841b0baf",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 8,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Warm copper short wavy bob with one small plain hair clip",
+    "title": "帆船码头快照",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 07 teal bob and lemonade at wooden pier, 08 copper bob reviewing camera, 09 blonde walking through irises, 10 brunette tending potted fern, 11 blue-gray braid painting by lotus pond, 12 burgundy bob reading on garden steps. Adult faces, varied natural gestures, secure opaque outfits and clean clock space; no unwanted people, text or evident anatomy errors."
+  },
+  "visible_description": "暖铜短卷发女性在帆船码头低头查看相机，海蓝衬衫与象牙白长裤显得爽朗。"
+}

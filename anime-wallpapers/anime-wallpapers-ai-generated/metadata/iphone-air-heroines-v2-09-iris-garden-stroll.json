@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-09-iris-garden-stroll.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-09-iris-garden-stroll.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "亚麻金直发女性沿鸢尾花径缓步，靛蓝短袖连衣裙与浅紫花丛构成优雅画面。",
+  "composition_variation": "Design a graceful original anime scene of a 29-year-old woman walking through a contemporary city garden filled with pale violet irises. She has a refined oval face, calm sapphire eyes, softly structured brows, a slim straight nose, and an intelligent gentle smile. Her flaxen-blonde hair falls smoothly to mid-back, controlled by a slim navy headband. She wears an opaque indigo linen midi dress with short sleeves, a softly folded collar, a loose self-fabric waist belt, and cream low-heeled sandals. Capture a measured step along a pale stone path; one hand carries a closed ivory sun umbrella vertically at her side, while the other lightly gathers the handle of a small handbag. Her gaze turns toward the flowers without lowering her chin dramatically. Keep the iris beds around knee height and arrange distant glass buildings as faint, low silhouettes. Soft morning light touches her face and the petal edges, with a palette of indigo, flax gold, lavender, and pale limestone. Use polished anime facial design, delicate fabric texture, and a calm symmetrical balance that still feels candid. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:13:21.990296+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "ebe904d7dea2cc039a360ec8f0a67d215c55adf2480fcbacdaf7a50234661f11",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 9,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Flaxen-blonde straight hair to mid-back, with a slim navy headband",
+    "title": "鸢尾花园漫步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 07 teal bob and lemonade at wooden pier, 08 copper bob reviewing camera, 09 blonde walking through irises, 10 brunette tending potted fern, 11 blue-gray braid painting by lotus pond, 12 burgundy bob reading on garden steps. Adult faces, varied natural gestures, secure opaque outfits and clean clock space; no unwanted people, text or evident anatomy errors."
+  },
+  "visible_description": "亚麻金直发女性沿鸢尾花径缓步，靛蓝短袖连衣裙与浅紫花丛构成优雅画面。"
+}

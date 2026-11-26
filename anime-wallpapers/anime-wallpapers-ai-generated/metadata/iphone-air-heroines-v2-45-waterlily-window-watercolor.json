@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-45-waterlily-window-watercolor.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-45-waterlily-window-watercolor.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "钴蓝齐肩发女性在睡莲窗边举起刚完成的小幅水彩欣赏，晾画架与池水反光衬出安静创作氛围。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one beautiful 28-year-old adult woman with cobalt-blue shoulder-length hair and a small pinned-back braid. Her pale gray eyes, softly sculpted cheekbones, neat brows, and quietly pleased smile express mature creative confidence. She wears an opaque ivory sleeveless mock-neck summer blouse and loose lavender linen trousers. Standing beside a bright studio window, she holds a finished small watercolor sheet upright at mid-torso with both hands gently gripping its lower corners. She tilts the painting slightly to inspect its translucent aqua and apricot washes; the page contains only abstract waterlily shapes without lettering. Keep the sheet narrower than her shoulders and both elbows close to her waist. A tiny wooden drying rack with two plain sheets and a closed paint box sit low behind her. Beyond the window, a still waterlily pond dissolves into soft green circles. Cool reflected daylight meets warm cream walls, creating luminous skin and refined color depth. Frame at eye level, keeping her entire face, hair, hands, and painting inside the central narrow column in the middle and lower image. Leave the upper 25% quiet for the lock-screen clock. Elegant linework, natural anatomy, secure opaque clothing, no logos, extra people, or copied characters.",
+  "created_at": "2026-10-12T11:22:03.678661+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "775d05becfb50e948219e570b89dfbd14ed4ccba262a845b592818c0a85b9344",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 45,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "cobalt-blue hair in a sleek shoulder-length lob with one small braid pinned back",
+    "title": "睡莲窗边的水彩画家",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: silver braid reading beneath wisteria, peach bun with cactus pot, blue bob displaying waterlily painting, brunette with tambourine, plum updo playing piano and white braid with small harp. Attractive adult faces, coherent hands, varied art activities, secure opaque attire and quiet upper space. No extra people, unwanted text or evident anatomy defects."
+  },
+  "visible_description": "钴蓝齐肩发女性在睡莲窗边举起刚完成的小幅水彩欣赏，晾画架与池水反光衬出安静创作氛围。"
+}

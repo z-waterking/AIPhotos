@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-27-boutique-window-summer-tote.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-27-boutique-window-summer-tote.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "灰棕齐肩发女性在简洁橱窗前整理帆布袋肩带，白衬衫与陶粉阔腿裤展现都市气质。",
+  "composition_variation": "Develop a refined original anime wallpaper of a 30-year-old woman pausing beside a minimalist boutique window on a quiet summer street. Her beautiful adult face features clear green eyes, neat softly arched brows, sculpted cheekbones, a fine nose, and an understated knowing smile. Ash-brown shoulder-length hair has a middle part and softly outward-curving ends. Dress her in an opaque white short-sleeved linen shirt with a modest collar, terracotta-pink wide-leg trousers, flat tan mules, and a plain natural canvas tote. She adjusts the tote strap on her shoulder with one hand close to her collarbone while the other hand carries a folded light cardigan at hip level. Her body remains upright and relaxed, with a slight natural turn toward the window. The glass reflects only pale architecture and sky; display one simple ceramic bowl rather than mannequins or faces. A low cream wall and a small sidewalk planter add clean urban shapes. Warm late-afternoon light produces soft shadows across the pavement, with ivory, dusty rose, ash brown, and muted green accents. Emphasize thoughtful expression and polished contemporary anime craftsmanship. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:18:27.124388+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "80e5f3bdae030dcb66e0025e3fe33be215902600614a7d8157657e48f20967db",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 27,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Ash-brown shoulder-length hair with a soft outward flick and a middle part",
+    "title": "夏日橱窗前",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: copper ponytail with bicycle, indigo hair and closed parasol at tram stop, ash-brown hair adjusting tote, green waves choosing flower, blonde and melon soda on canal bridge, lilac bob walking after sunshower. Adult anime presentation, attractive varied faces, coherent visible hands and secure summer clothing. 25 bicycle cropped intentionally while both hands remain visible; clock areas clear."
+  },
+  "visible_description": "灰棕齐肩发女性在简洁橱窗前整理帆布袋肩带，白衬衫与陶粉阔腿裤展现都市气质。"
+}

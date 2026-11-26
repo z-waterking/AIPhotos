@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-heroines-01-nico-robin-seabreeze-library-terrace.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-01-nico-robin-seabreeze-library-terrace.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "成年罗宾穿淡紫无袖上衣与奶油色亚麻短裤，沿海边书屋露台轻快迈步，一手合书、一手扶住被海风吹动的宽檐帽。",
+  "composition_variation": "Create an original premium anime portrait wallpaper of Nico Robin, unmistakably her adult age of thirty, with long black hair, blue eyes, and a composed, knowing smile. On a Mediterranean seaside library terrace, she takes a confident forward step while closing a small paperback with one hand and steadying a straw hat with the other. Dress her in an opaque lavender sleeveless boatneck blouse, loose cream linen shorts, and flat woven sandals. Her movement feels breezy and self-assured, never sexual. Wind lifts loose hair and the blouse hem naturally. Use turquoise sea, pale limestone, a tiny bougainvillea accent, crisp elegant linework, and luminous summer shadows. Leave the top quarter as uncluttered pale sky. Center her face around forty-five percent of the image height; keep her face and both hands inside the narrow central safe region.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T13:31:05.647467+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "f68a295ae280f9712fe9d82dff8f4f0609fadd4b7300e2978f4461b9a3dea3f4",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-10/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 1,
+    "category": "summer-heroines",
+    "franchise": "海贼王",
+    "title": "海风翻页",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "成年罗宾穿淡紫无袖上衣与奶油色亚麻短裤，沿海边书屋露台轻快迈步，一手合书、一手扶住被海风吹动的宽檐帽。"
+}

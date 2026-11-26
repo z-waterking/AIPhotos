@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-02-pearl-cove-shell-find.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-02-pearl-cove-shell-find.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "浅银短发女性在安静的浅滩旁端详贝壳，淡紫夏装融入珍珠色海岸。",
+  "composition_variation": "Design a refined anime wallpaper featuring one original woman, visibly 26 years old, on a peaceful pearl-colored cove. Give her a sculpted yet gentle face, luminous sea-green eyes, long clean lashes, natural rosy lips, and an attentive half-smile. A pearl-silver bob frames her jaw, its curved ends catching the reflected water light. She wears a fully opaque lilac cotton sleeveless blouse with a high rounded neckline, loose white linen trousers ending above the ankles, and simple woven sandals. She stands upright at the dry edge of the beach, holding a single spiral shell at mid-torso in her relaxed right hand and studying its shape; her left hand loosely supports the right wrist. Keep both hands close to her body with anatomically clear fingers. Small smooth pebbles and a line of receding foam occupy the foreground; a pale rock arch remains distant and softly simplified. The palette combines lavender, pearl, seafoam, and muted silver. Gentle afternoon light creates quiet sparkle without glare, while restrained brush texture gives the setting a tranquil illustrated elegance. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:11:23.259342+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "69bd762f8edabab311a05638b69172a247c4285f71f07f6dc5f78305f0cfce22",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "Pearl-silver chin-length bob with softly curved ends and side-swept bangs",
+    "title": "珍珠湾拾贝",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet: 01 seaside turn in cobalt skirt, 02 silver bob studying shell, 03 seated brunette sketching harbor, 04 blonde adjusting scarf by ferry, 05 pink braid holding gelato, 06 violet hair and straw hat by lighthouse. Pleasant adult anime faces, distinct palettes, coherent hands, clothing and central crops; clear clock space and no unwanted text or people."
+  },
+  "visible_description": "浅银短发女性在安静的浅滩旁端详贝壳，淡紫夏装融入珍珠色海岸。"
+}

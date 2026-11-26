@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-08-chocolate-cobalt-step-rest.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-08-chocolate-cobalt-step-rest.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "巧克力长卷发、琥珀眼女性穿钴蓝无袖上衣与奶白短裤，侧坐花园台阶，一手搭膝、一手轻撑，神情从容明亮。",
+  "composition_variation": "Invent a poised beautiful 29-year-old adult woman with long chocolate-brown waves half tied by a pale-blue ribbon, golden amber eyes, elegant slightly elongated face, softly defined adult cheekbones and a cheerful easy smile. Opaque cobalt-blue sleeveless round-neck blouse with delicate cloth gathers, cream tailored normal mid-thigh shorts and simple white flat sandals. She sits sideways on a broad low garden step. One hand rests on the nearer knee, the other supports her naturally on the step beside her hip; both knees point diagonally to the same side, one foot on the lower step and one foot beside it. Torso turns gently toward camera, shoulders relaxed. Use a close three-quarter seated portrait from head to just below knees, not a wide full-body shot, so her face remains as beautifully readable as the uploaded reference. Cobalt fabric and dark-brown hair against luminous turquoise atmosphere, warm pale stone, rich yellow flowers, emerald shadows and small orange petals. Hair edges glow gold in strong summer sunlight. Fine expressive eyes, delicate colored contours and natural luminous skin. Secure comfortable clothing, no exaggerated pose or low-angle view. Focus on the same airy sunlit garden beauty with a clearly new seated composition.",
+  "created_at": "2026-10-12T15:52:45.597223+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "589b2b2fe90c14da4ac724f0f93ba6f8b82c3a01cb713f51520eb6d836dd9914",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 8,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "long chocolate-brown waves half tied with a pale blue ribbon",
+    "title": "钴蓝花阶",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 08 chocolate waves and blue ribbon, cobalt sleeveless blouse and cream shorts in a relaxed seated pose; 09 peach-pink curls in ivory blouse and terracotta skirt turning with greeting. Distinct poses and clothing, large attractive adult faces, fine luminous hair and fabric, natural turquoise-gold garden rendering closely match reference. No unwanted text, people or obvious anatomy defects; supporting hand in 08 naturally outside close portrait frame."
+  },
+  "visible_description": "巧克力长卷发、琥珀眼女性穿钴蓝无袖上衣与奶白短裤，侧坐花园台阶，一手搭膝、一手轻撑，神情从容明亮。"
+}

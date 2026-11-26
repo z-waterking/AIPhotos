@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-19-cherry-pony-dignified-neon-gaze.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-19-cherry-pony-dignified-neon-gaze.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "绯夜静辉：29岁成年原创女性，饱满宽鹅蛋脸、额头宽润、平直眉与端正灰绿双眼、鼻唇舒展、圆润下巴，双唇轻合且平视；樱桃红高马尾、黑白骑行夹克与腰侧头盔，雨后电青洋红霓虹衬托从容大方面容。",
+  "composition_variation": "Eye-level near-frontal head-to-upper-thigh portrait, upright head, relaxed weight shift, one forearm supports helmet at waist and opposite hand rests on a parked motorcycle; clear upper clock space.",
+  "created_at": "2026-10-13T19:36:46.309646+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "60c43d28600b2d805ef184d86de024f2da4b2a0cb9e39b473003882e7ced43ed",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-dignified-rainlight/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 19,
+    "category": "jewel-color-dignified-night-rider",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Deep cherry-red high ponytail with ruby-magenta highlights",
+    "title": "绯夜静辉 · 从容凝望",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 1220x1280 full-and-detail contact sheet. Upright near-frontal adult anime face with fuller cheeks, natural forehead width, level eyes and closed relaxed lips; calm direct expression. Cherry-red ponytail, coherent two-arm silhouette, single helmet at waist with supporting hand partly cropped at left; opposite hand partly cropped at right beside motorcycle. Opaque black-white jacket and dark clothing. Clean upper night sky, cyan-magenta reflections. No visible text, watermark, extra limbs or other people."
+  },
+  "visible_description": "樱桃红高马尾女性正视镜头，额头和面颊饱满舒展，眉眼平稳、双唇轻合；身穿黑白骑行夹克、腰侧托着头盔，电青洋红夜景衬托从容神态。"
+}

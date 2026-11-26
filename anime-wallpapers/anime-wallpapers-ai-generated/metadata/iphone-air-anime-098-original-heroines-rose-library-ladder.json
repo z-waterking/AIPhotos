@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-098-original-heroines-rose-library-ladder.png",
+  "refined_prompt": "../prompts/iphone-air-anime-098-original-heroines-rose-library-ladder.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "32岁原创女主穿完整长袖套装，在图书馆阶梯旁抱书回望。",
+  "composition_variation": "Create an original 32-year-old anime woman with a dark braided bun and round amber glasses, standing safely beside a low library step stool. She wears an opaque rose-colored long-sleeved blouse, high-waisted full-length charcoal trousers, and flats. A plain closed book rests against her shoulder as she turns with a knowing smile. Use refined watercolor linework, walnut shelves, pale cream walls, and soft dusty sunlight without visible lettering. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:33:00.991128+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "48b5e38dd677b1c0d869ba79abe12523bcf9a2436ac6bac7f4f7a924998f409f",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 98,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "玫瑰书馆·轻盈回望",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "32岁原创女主穿完整长袖套装，在图书馆阶梯旁抱书回望。"
+}

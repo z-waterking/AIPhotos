@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-32-meteor-lake-indigo-braid.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-32-meteor-lake-indigo-braid.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "靛蓝长辫女性站在静谧湖边，双手捧保温杯仰望微弱流星。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 28 years old, with deep indigo hair gathered into a thick low braid, with airy curved bangs. She has mature, self-assured elegance and realistic adult proportions. Design a striking oval face with clear amber eyes, gently arched brows, and an attentive, quietly delighted expression. Her opaque pale-blue cotton shirt has short flutter sleeves and a neat collar, paired with soft white wide-leg linen trousers. She stands naturally beside a lakeside bench, holding a small closed thermos near her waist while lifting her gaze slightly toward one delicate meteor. Keep her shoulders relaxed and her feet comfortably grounded. Reed tips and the lake reflection remain low in the frame. Indigo water, dusty pink horizon haze, and soft silver light create a luminous summer night. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:06:03.940724+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e8702f91c680a0c9df4778e76e85a282b5c710b02ac5b66df8ada0f8dd945877",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 32,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "deep indigo hair gathered into a thick low braid, with airy curved bangs",
+    "title": "流星湖畔的靛蓝长辫",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet visually inspected. 31 silver braid reading on moonflower veranda, 32 indigo braid and thermos beside meteor lake, 33 copper ponytail adjusting hair clip on sunset terrace. Adult anime faces, coherent visible anatomy, opaque summer outfits and useful clock space; no text or bystanders."
+  },
+  "visible_description": "靛蓝长辫女性站在静谧湖边，双手捧保温杯仰望微弱流星。"
+}

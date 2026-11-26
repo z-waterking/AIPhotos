@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-heroines-19-triss-berry-rooftop-summer-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-19-triss-berry-rooftop-summer-turn.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "特莉丝穿莓红无袖连衣裙，在鲜花环绕的露台上轻盈转身，红发与绿色眼睛格外明亮。",
+  "composition_variation": "Render an original strongly anime-styled adult Triss Merigold, retaining rich auburn-red wavy hair, bright green eyes, subtle freckles, and a charming beautiful face. Reimagine her in an opaque berry-red sleeveless summer dress with a secure neckline and a normal above-knee hem, plus simple flat sandals. Capture a light turning dance step on a flower-filled rooftop terrace, one hand holding a small bouquet close to her waist and the other open near her shoulder as she greets someone beyond the frame. The skirt moves gently while remaining securely covering. Use berry red, sage green, warm cream walls, and soft golden sunset light. One adult character only, cheerful nonsexual everyday fashion without magic battles. Leave the upper quarter quiet and airy, head near forty percent height, with face and both hands fully inside the center crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T14:04:54.073952+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "717c3ec706b2a5d06eabda90a1b8f2e783dff0f73d1f4c29689a11c12e7b649d",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-11-19/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 19,
+    "category": "summer-heroines-second",
+    "franchise": "巫师",
+    "title": "莓红花旋",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects.",
+    "character": "Triss Merigold"
+  },
+  "visible_description": "特莉丝穿莓红无袖连衣裙，在鲜花环绕的露台上轻盈转身，红发与绿色眼睛格外明亮。"
+}

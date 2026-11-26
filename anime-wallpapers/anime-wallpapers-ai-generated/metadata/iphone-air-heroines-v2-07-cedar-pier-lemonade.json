@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-07-cedar-pier-lemonade.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-07-cedar-pier-lemonade.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "深青发女性靠在码头矮栏旁捧着柠檬水，奶油色上衣与砖红阔腿裤构成温暖配色。",
+  "composition_variation": "Render a sophisticated original anime woman of 27 beside a cedar pier at the quiet end of a summer afternoon. She has radiant golden-brown eyes, elegant eyebrows, smooth olive-toned skin, a straight nose, and a relaxed smile with natural lips. Her deep teal shoulder-length hair curls gently inward around her jaw, divided by a clean center part. Dress her in an opaque cream knitted short-sleeved top with a modest round neckline, rust-red linen wide-leg trousers, understated brown sandals, and a tiny oval pendant. She stands beside a waist-high wooden rail rather than leaning across it, her forearm resting lightly along its top. Her other hand holds a clear glass of lemonade close to her torso, with a lemon slice and a few mint leaves visible. Show her gaze following a small sailboat in the distance. Use the cedar grain, mellow amber water reflections, and a few softly painted rope coils to establish the harbor without clutter. Golden side light outlines her hair, while gentle skylight keeps both eyes clearly visible. Convey a peaceful pause after a pleasant walk. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:12:36.078369+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "bb2702e0a8a4792ffa5e37d99ba492aa83d305a0cb901a94561c2a42770b5ba8",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 7,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Deep teal shoulder-length hair with a soft inward curl and a center part",
+    "title": "杉木码头柠檬水",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 07 teal bob and lemonade at wooden pier, 08 copper bob reviewing camera, 09 blonde walking through irises, 10 brunette tending potted fern, 11 blue-gray braid painting by lotus pond, 12 burgundy bob reading on garden steps. Adult faces, varied natural gestures, secure opaque outfits and clean clock space; no unwanted people, text or evident anatomy errors."
+  },
+  "visible_description": "深青发女性靠在码头矮栏旁捧着柠檬水，奶油色上衣与砖红阔腿裤构成温暖配色。"
+}

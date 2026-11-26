@@ -1,0 +1,53 @@
+{
+  "output": "../iphone-air-heroines-jewel-14-silver-wolfcut-cobalt-street.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-14-silver-wolfcut-cobalt-street.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "银刃晴街：27岁成年原创女性，银白短狼尾、紫晶眼睛、柔方鹅蛋脸与英气眉眼，钴蓝街头外套、完整白T恤与工装裤，电青天空、绯橘台阶和酸橙黄点缀形成高饱和撞色。",
+  "composition_variation": "Head-to-upper-thigh street-fashion portrait, slight stepping turn, one hand at jacket collar and the other in trouser pocket, confident near-frontal gaze and clean sky above.",
+  "created_at": "2026-10-13T17:38:20.328463+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7a37fb74cf03e621dd5c0dd40b58e8db2920938e48fa2b7786f36e6e808f3f9c",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-electric-street/native. Canonical wallpaper is cropped and resized.",
+    "retouch": {
+      "method": "Local color-mask cleanup of generated pseudo-lettering on dark shoulder trim; replaced only letter pixels with matching dark fabric color.",
+      "region_in_final_pixels": [
+        1060,
+        990,
+        1200,
+        1210
+      ],
+      "native_preserved": true
+    }
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 14,
+    "category": "jewel-color-confident-street-fashion",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Pearl-silver short layered wolf cut with blue-violet shadows",
+    "title": "银刃晴街 · 电青绯橘",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed full wallpaper and shoulder-detail contact sheet after cleanup. One adult original woman, silver layered short wolf cut, purple eyes and a confident expression. Coherent hand holding jacket collar and other hand in trouser pocket, opaque blue jacket and white shirt, saturated blue-orange-lime palette. Pseudo-lettering on shoulder trim removed locally. No unwanted people, text, watermark or evident anatomical defects."
+  },
+  "visible_description": "银白短狼尾、紫晶眼睛的成年女性身穿钴蓝外套与白T恤，一手提衣领、一手插袋，电蓝晴空、绯橘台阶和酸橙黄细节衬出利落英气。"
+}

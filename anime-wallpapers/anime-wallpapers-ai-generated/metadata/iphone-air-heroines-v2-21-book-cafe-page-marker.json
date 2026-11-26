@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-21-book-cafe-page-marker.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-21-book-cafe-page-marker.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "深梅紫长发女性在明亮书咖里夹入书签，薄荷衬衫与米色长裤表现安静知性之美。",
+  "composition_variation": "Render an original anime woman, clearly 28 years old, marking her place in a book at a sun-filled book cafe. Her adult face has gentle amber eyes, balanced arched brows, a fine straight nose, and a small intelligent smile. Deep plum-purple hair falls behind her shoulders, with the temple sections pinned back by two discreet clips. Dress her in an opaque pale-mint short-sleeved blouse with a modest soft collar, warm beige linen wide-leg trousers, and dark green flats. She stands beside a waist-high shelf, holding a plain closed book against her abdomen with one hand and sliding a simple cream bookmark between its pages with the other. Her head tilts only slightly as she looks down at the page edge. Behind her, low shelves hold softly painted books with unlettered spines, while a round window and one fern offer gentle shape contrast. Keep the highest area largely pale daylight rather than dense shelving. Use soft morning sunshine, mint and plum accents, honey-colored wood, and restrained depth of field. Her posture should convey thoughtful ease, with anatomically precise fingers and carefully rendered adult facial proportions. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:16:58.834576+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "599218a6e0a80f117178d7a8570966bf0177ae2cf6ebe1acadf3e6ecab8d8811",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 21,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Deep plum-purple long hair, loosely pinned back at the temples",
+    "title": "书咖里的书签",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet checked: strawberry tart at cafe, pouring jasmine tea on rooftop, placing bookmark in book, raised citrus drink on terrace, bouquet by bakery, and daisy arrangement in courtyard. Attractive adult anime faces, natural coherent hands, nonsexual opaque clothes, clear upper clock space and no unwanted people or lettering."
+  },
+  "visible_description": "深梅紫长发女性在明亮书咖里夹入书签，薄荷衬衫与米色长裤表现安静知性之美。"
+}

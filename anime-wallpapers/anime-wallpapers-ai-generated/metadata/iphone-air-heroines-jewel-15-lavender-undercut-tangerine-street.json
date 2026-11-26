@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-15-lavender-undercut-tangerine-street.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-15-lavender-undercut-tangerine-street.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "紫电橘光：27岁原创成年女性，银紫不对称短发、金琥珀眼睛、利落英气的柔方脸；宽松橘红夹克搭完整黑T恤与钴蓝工装裤，电青街景与荧光黄细节点缀。",
+  "composition_variation": "Head-to-upper-thigh street portrait, relaxed folded arms and slight leaning shoulder angle, direct confident gaze, large refined anime face and clean sky above.",
+  "created_at": "2026-10-13T17:50:51.520976+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "fadbc1f431a9ce4bf40c3dc54b68b5472d831c4d1643bef20be56b1b4426cab7",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-lavender-street/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 15,
+    "category": "jewel-color-confident-street-fashion",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Pale silver-lavender layered short hair, side part and exposed ear",
+    "title": "紫电橘光 · 晴街侧倚",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 JPEG of canonical wallpaper. One adult original woman with silver-lavender asymmetric short hair, amber eyes and a confident slight smile. Refined 2D anime face, coherent relaxed folded arms with one visible hand resting on upper arm and other hand occluded. Opaque orange jacket, black shirt and dark blue trousers. Clean electric-blue sky, teal wall and yellow window accents. No visible text, watermark, unwanted people or evident anatomical defects."
+  },
+  "visible_description": "银紫不对称短发、琥珀眼睛的成年女性身穿橘红夹克与黑T恤，松松交叠双臂倚着蓝色栏杆浅笑；电青天空、青绿墙面和明黄窗框形成强烈撞色。"
+}

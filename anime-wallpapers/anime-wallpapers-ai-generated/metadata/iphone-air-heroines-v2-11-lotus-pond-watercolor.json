@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-11-lotus-pond-watercolor.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-11-lotus-pond-watercolor.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "雾蓝长发女性在荷塘边的矮桌前调色，奶白棉麻套装与淡粉荷花显得安静明亮。",
+  "composition_variation": "Illustrate a quiet original anime portrait of a visibly adult 26-year-old woman preparing watercolors beside an urban lotus pond. Give her luminous gray eyes, elegant slightly arched brows, a softly defined jaw, a delicate straight nose, and a thoughtful smile. Her dusty blue hair forms a loose low braid over one shoulder, its length resting naturally against her blouse. She wears a fully opaque cream linen short-sleeved shirt with a modest stand collar, matching wide-leg trousers, and pale gray canvas shoes. She sits upright on a simple bench at a small low outdoor painting table, both feet grounded. One hand steadies a compact palette while the other stirs a brush in a shallow ceramic mixing well, keeping the action close to her waist. A page on the table displays only an indistinct wash of pink and green. Place broad lotus leaves, a few delicate flowers, and low pale stone borders around the lower scene. Soft overcast summer light produces even skin tones and gentle reflections. Favor powder blue, warm ivory, muted pink, and sage, with precise facial detail and restrained painterly surroundings. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:13:12.896139+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "100f9ab6a75e08157276acd50890b09a1d54a77b3d01aa49c3541b0590540e56",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 11,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "Dusty blue long hair gathered in a loose low braid over one shoulder",
+    "title": "荷塘水彩午后",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 07 teal bob and lemonade at wooden pier, 08 copper bob reviewing camera, 09 blonde walking through irises, 10 brunette tending potted fern, 11 blue-gray braid painting by lotus pond, 12 burgundy bob reading on garden steps. Adult faces, varied natural gestures, secure opaque outfits and clean clock space; no unwanted people, text or evident anatomy errors."
+  },
+  "visible_description": "雾蓝长发女性在荷塘边的矮桌前调色，奶白棉麻套装与淡粉荷花显得安静明亮。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-08-burgundy-cyan-seaside-open-shutter.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-08-burgundy-cyan-seaside-open-shutter.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "酒红色低马尾，柔软的脸侧碎发，矢车菊蓝双眼，清晰秀丽的椭圆脸，自然玫瑰色嘴唇。她在海边小镇的露台窗前刚推开一扇宝蓝窗扉，一手轻扶窗边，另一只手自然放在身前窗台上，身体朝向室外，近乎正面的脸看向镜头温柔微笑。头顶至腰部近景。穿不透明湖蓝短袖衬衫与象牙白长裙。暖橘墙面和宝蓝窗框只在画面边缘出现，顶部仍可见洁净晴空，海水青绿，少量明黄小花装饰窗台；细腻面容与酒红发丝最清晰。",
+  "composition_variation": "酒红低马尾女性穿湖蓝衬衫推开宝蓝窗扉，扶窗望向镜头，暖橘墙面与青绿海水衬托明亮蓝眼睛。",
+  "created_at": "2026-10-13T17:08:46.993250+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "f618804fe1475b2385200a6b857de4008283150733ad73e88256a1d96ec8a1e6",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 8,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "酒红色低马尾",
+    "title": "酒红晴窗海风",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet with full wallpaper and face detail. Burgundy low ponytail, vivid blue eyes and expressive mature face. One hand on sill is clearly articulated; raised hand partly at right border holds shutter. Opaque blue blouse and ivory skirt, sea and town backdrop. No text, extra limbs or other people."
+  },
+  "visible_description": "酒红低马尾女性穿湖蓝衬衫与象牙白裙，扶着宝蓝窗框和窗台望向镜头，青绿海湾与白色小镇衬托明亮蓝眼睛。"
+}

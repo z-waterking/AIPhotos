@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-motion-01-electric-cyan-fuchsia-stride.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-motion-01-electric-cyan-fuchsia-stride.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "电青高马尾女性在洋红与钴蓝街景中大步回望，白色短袖上衣配深蓝短裤，发束划出鲜明斜线。",
+  "composition_variation": "A beautiful 26-year-old original anime woman with a long electric-cyan high ponytail, cobalt underlayers, bright sapphire almond eyes and a spirited confident grin. Outfit: opaque white short-sleeve waist-length sporty top, cobalt high-waisted loose mid-thigh shorts, white sneakers with coral accents. Capture a decisive fast walking stride across a stylized summer city plaza: one leg clearly advances, the other trails, her shoulders rotate as she looks back toward the viewer. Arms counter-swing naturally at different heights, one bent near her ribs and the other extended down beside her trailing hip. Ponytail streams in a diagonal arc. Clearly offset shoulder line, separated knees and real momentum. Use head-to-shin framing and a mildly tilted eye-level camera, face and both hands inside the central safe area. Blazing hot-magenta architecture, cobalt shadows, electric cyan hair and small acid-yellow sunlight accents. Crisp parallel motion strokes behind the hair emphasize speed. Upper quarter is a radiant magenta-to-coral sky. Razor-clean facial drawing, sparkling eyes, warm peach cheek light, cyan rim light and deep violet shadow edges. Athletic everyday confidence and a striking graphic silhouette.",
+  "created_at": "2026-10-12T14:27:58.860727+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "eb652a109899a729e38bf4b14592ca92a1e3119283304a468067a30edfc6ceb9",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-motion-six/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 1,
+    "category": "explosive-color-motion-study",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "long electric cyan high ponytail with cobalt undersides",
+    "title": "电蓝疾步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cyan ponytail turning through a stride, silver hair gathered with raised arms, crimson bob leaning with crossed arms and one bent knee. Strong magenta-cyan, lime-violet and cobalt-vermilion palettes; distinct silhouettes and larger detailed adult anime faces. Visible hands coherent and outfits opaque. Elbows and trailing hair partly extend beyond crop as intentional composition; all key hands and faces remain visible."
+  },
+  "visible_description": "电青高马尾女性在洋红与钴蓝街景中大步回望，白色短袖上衣配深蓝短裤，发束划出鲜明斜线。"
+}

@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-068-spy-family-bond-autumn-steps.png",
+  "refined_prompt": "../prompts/iphone-air-anime-068-spy-family-bond-autumn-steps.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "邦德坐在铺满橘色落叶的台阶上，白毛在暖阳下发光。",
+  "composition_variation": "Create a gentle portrait of Bond sitting on broad stone steps scattered with orange autumn leaves. His shaggy white fur catches soft backlight, and his dark paws rest symmetrically near the center. Use tactile colored-pencil textures, muted pumpkin and sage colors, a blurred garden railing, and a pleasant open-mouth expression. Keep the composition simple and comforting, with no leash-holder or human figures. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:23:09.641736+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "9831900b46f536b0930727c6ce666afd813332b0683fca411a6b8950de3a8593",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 68,
+    "category": "spy-family",
+    "franchise": "间谍过家家",
+    "title": "邦德·秋叶台阶",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "邦德坐在铺满橘色落叶的台阶上，白毛在暖阳下发光。"
+}

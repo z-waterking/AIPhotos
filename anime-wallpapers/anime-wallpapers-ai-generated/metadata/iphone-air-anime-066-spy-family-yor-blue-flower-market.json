@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-066-spy-family-yor-blue-flower-market.png",
+  "refined_prompt": "../prompts/iphone-air-anime-066-spy-family-yor-blue-flower-market.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "约尔穿端庄蓝色外套抱着花束，花市清晨明亮宁静。",
+  "composition_variation": "Show adult Yor Forger returning from a small flower market in an opaque cornflower-blue long coat over a white high-neck blouse and full-length trousers. She carries one paper-wrapped bouquet under her arm, turning with an easy smile. Use luminous watercolor, cobalt doorways, peach stone pavement, and drifting fabric hems. The market is empty of people, with floral arrangements kept low and peripheral. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:22:52.300367+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "fc585777c34987b9d682933445da910131f02cfeaf35bc081dc3298ef3773832",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 66,
+    "category": "spy-family",
+    "franchise": "间谍过家家",
+    "title": "约尔·蓝色花市",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "约尔穿端庄蓝色外套抱着花束，花市清晨明亮宁静。"
+}

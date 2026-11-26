@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-08-table-tennis-compact-contact.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-08-table-tennis-compact-contact.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "冰蓝短发女性屈前膝向前快攻乒乓球，后腿蹬地、球拍前挥，亮橙墙面与湖蓝球台构成利落斜线。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. Use a compact forehand drive rather than a wide lunge. The complete paddle, complete paddle-holding hand and one small white ball must be visible near the middle of the frame beside her waist. The ball floats 10 cm in front of the paddle face above the table. Table occupies only the lowest foreground corner.\n\nOne beautiful original adult female anime table-tennis player aged 28 with an ice-blue asymmetrical bob, sapphire hair shadows, vivid amber eyes and an intent confident smile. Opaque white-orange short-sleeved performance shirt, navy loose sport shorts and white-cyan indoor court shoes. Capture a compact forward forehand drive: front knee bends over a planted foot, rear leg pushes against the floor, torso rotates forward while her paddle arm swings across at waist-to-rib height. The other arm is slightly out for balance. A single small red-black table-tennis paddle is naturally held, and one white ball is just ahead of it above the table, never pasted to the hand. Table edge occupies only the lower foreground corner and does not slice through the body or wrists. Camera is three-quarter from just beyond the near table corner, slightly above net level, with diagonal perspective showing her face and driving weight shift. Intense orange wall, lake-cyan table, deep navy shadow and electric-yellow edge streaks. Clean bright orange-to-coral upper band for clock. Sharp anime eyes and eyelashes, clear mature features, precise hair edges, realistic paddle scale and one ball. A genuine sporting action, not a stationary equipment display.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:52:27.424542+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8e11712249d62fdb713e7ff468fd58895187ad51be2e2ecfa504be13eaa688ad",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 8,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "ice-blue asymmetrical bob with deep sapphire roots",
+    "title": "蓝橙快攻",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed contact sheet inspected: sole-control football turn, low two-foot rope skip with two handles and full loop, compact table-tennis forehand with complete paddle and one visible white ball, and vertical bouldering with both hands and shoes contacting holds. Adult anime faces, natural sportswear, strong complementary color and different weight/limb patterns. Equipment and key contacts now inside final crop; no unwanted text or additional people."
+  },
+  "visible_description": "冰蓝短发女性屈前膝向前快攻乒乓球，后腿蹬地、球拍前挥，亮橙墙面与湖蓝球台构成利落斜线。"
+}

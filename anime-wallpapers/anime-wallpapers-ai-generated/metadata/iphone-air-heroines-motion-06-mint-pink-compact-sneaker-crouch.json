@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-motion-06-mint-pink-compact-sneaker-crouch.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-motion-06-mint-pink-compact-sneaker-crouch.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "薄荷短发女性在亮粉与荧光黄步道上紧凑蹲下系鞋，抬头微笑，白色运动上衣配深绿短裤，形成清晰三角构图。",
+  "composition_variation": "An original beautiful 26-year-old adult anime woman with a mint-green tousled bob, dark turquoise tips, vivid violet eyes, arched brows and a beaming self-confident adult face. She crouches compactly on a bright city park path to tie a sneaker, one foot planted forward and the opposite knee tucked close, naturally balanced. Both hands meet at the forward shoe laces with carefully articulated fingers; she lifts her head to smile toward the viewer. Her torso leans naturally forward. Camera is above eye level, emphasizing her face, arms and triangular body silhouette. Complete compact figure with knees, sneakers, hands and face clearly separated. Outfit: opaque white short-sleeved loose athletic T-shirt, dark emerald normal mid-thigh sports shorts, white-lime sneakers; clothing stays securely covering. Saturated bubblegum-pink pavement, two neon-yellow diagonal court stripes at the bottom, deep cobalt foliage silhouettes at outer edges. Upper quarter is a vivid magenta-to-purple field. Mint hair highlights, delicate pink cheek reflection and decisive emerald/ultramarine shadows. Large precise face with brilliant irises, crisp eyelashes and attractive adult proportions. Energetic nonsexual sports-fashion mood with explosive color-block design.",
+  "created_at": "2026-10-12T14:29:28.403718+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "ed462f42890e371bc2f83ba8c2a5db6b71b32b0e1d3bc25ad76713f94398f1e5",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-motion-six/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 6,
+    "category": "explosive-color-motion-study",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "short mint-green tousled bob with turquoise shadowed tips",
+    "title": "薄荷跃色",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: violet hair side-seated on mint steps with bent and lowered legs, orange hair mid-turn with opposite arm arcs, mint bob in compact sneaker-tying crouch. Saturated coral-mint, orange-turquoise and pink-lime palettes. Large legible adult anime faces, distinct weight balance and gesture silhouettes, coherent visible hands and secure opaque summer clothes. No unwanted people, text or evident extra limbs."
+  },
+  "visible_description": "薄荷短发女性在亮粉与荧光黄步道上紧凑蹲下系鞋，抬头微笑，白色运动上衣配深绿短裤，形成清晰三角构图。"
+}

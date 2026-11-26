@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-18-cherry-pony-rainlight-helmet.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-18-cherry-pony-rainlight-helmet.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "绯夜回声：28岁成年原创女性，深樱桃红高马尾、灰绿眼睛、黑白骑行夹克，腰侧托着深蓝头盔、另一手搭停稳机车车座；暖白面光和电青玫红边光分离，雨后霓虹倒影衬托清晰英气面容。",
+  "composition_variation": "Near-frontal head-to-upper-thigh portrait beside a parked motorcycle, slight weight shift and shoulder-to-hip counterturn; one forearm cradles helmet below chest and opposite hand rests on seat. Clear two-arm silhouette.",
+  "created_at": "2026-10-13T19:20:07.060397+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "c383b456d1480a2879e16228caec1913d4da62c423cd52df911014b5032b83b2",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-cherry-rainlight/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 18,
+    "category": "jewel-color-neon-night-rider",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Deep cherry-red high ponytail with ruby-magenta highlights",
+    "title": "绯夜回声 · 雨光骑手",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 1220x1280 contact sheet with full wallpaper, enlarged face and helmet/hand detail. One adult original woman with cherry-red ponytail, clear gray-green eyes, natural slight smile and coherent face shading. Two sleeved arms; near hand supports helmet lower rim with coherent visible fingers, far hand is mostly occluded at the right edge near the motorcycle. Single well-formed helmet with cyan/magenta visor reflections. Opaque black-white jacket and dark clothing, no text, watermark, extra limbs or additional people. Composition is tight at the top; clock clearance is less than the requested 20 percent."
+  },
+  "visible_description": "樱桃红高马尾女性穿黑白骑行夹克，腰侧托着深蓝头盔，回头露出轻快浅笑；灰绿眼睛清晰，电青和玫红灯带映在面罩与雨后街面上。"
+}

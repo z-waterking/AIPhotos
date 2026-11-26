@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-26-tram-stop-ivory-parasol.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-26-tram-stop-ivory-parasol.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "靛蓝长直发女性在安静电车站等车，浅柠檬黄短袖裙与收拢的象牙白遮阳伞明净优雅。",
+  "composition_variation": "Create an elegant original anime summer scene of a 27-year-old woman waiting at a quiet neighborhood tram stop. Her refined adult face has luminous dark-gray eyes, graceful brows, a softly angular jaw, a delicate straight nose, and a calm assured smile. Indigo hair falls straight behind her shoulders with smooth tapered ends and a neat side part. She wears a fully opaque pale-lemon short-sleeved midi dress with a modest rounded neckline, a narrow self-fabric belt, cream sandals, and a small ivory shoulder bag. She holds a closed ivory parasol vertically in front of her with both hands resting lightly on its handle at waist level. Her weight shifts naturally to one leg as she looks along the empty track. A low blue bench and a simple open shelter sit behind her, with no timetable lettering or advertising. A distant pale-green tram may appear as a small soft shape near the horizon. Gentle high-cloud daylight produces clean yellow, indigo, ivory, and soft blue colors. Keep the mood quietly anticipatory and sophisticated, with believable finger placement and delicate fabric texture. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:18:27.043263+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7d4922131a2f8bccb409fd23d742fa7cad71c0a95714c87a1b1c7680254a2744",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 26,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Indigo long straight hair with a neat side part and smooth tapered ends",
+    "title": "电车站的白伞",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: copper ponytail with bicycle, indigo hair and closed parasol at tram stop, ash-brown hair adjusting tote, green waves choosing flower, blonde and melon soda on canal bridge, lilac bob walking after sunshower. Adult anime presentation, attractive varied faces, coherent visible hands and secure summer clothing. 25 bicycle cropped intentionally while both hands remain visible; clock areas clear."
+  },
+  "visible_description": "靛蓝长直发女性在安静电车站等车，浅柠檬黄短袖裙与收拢的象牙白遮阳伞明净优雅。"
+}

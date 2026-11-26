@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-071-anime-icons-doraemon-blue-cloud-rooftop.png",
+  "refined_prompt": "../prompts/iphone-air-anime-071-anime-icons-doraemon-blue-cloud-rooftop.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "哆啦A梦坐在低矮屋顶边，白云与蓝色天空营造轻快气氛。",
+  "composition_variation": "Illustrate Doraemon seated safely on a broad low rooftop ledge, holding a small golden dorayaki in both round paws and smiling. Preserve his round blue body, white face, red collar, and little bell, without any lettering. Use crisp cheerful cel shading, airy sky blue, warm terracotta roof tiles, and a few cottony clouds near the horizon. His entire silhouette stays within the central crop. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:24:32.310812+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "d3e118057f44f49666174b5942b3b2219da0ef5efd8dfc26b1d4dab29d663e03",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 71,
+    "category": "anime-icons",
+    "franchise": "人气动漫精选",
+    "title": "哆啦A梦·云蓝屋顶",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "哆啦A梦坐在低矮屋顶边，白云与蓝色天空营造轻快气氛。"
+}

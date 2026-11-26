@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-037-dragon-ball-future-trunks-lavender-platform.png",
+  "refined_prompt": "../prompts/iphone-air-anime-037-dragon-ball-future-trunks-lavender-platform.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "成年特兰克斯穿蓝色短外套站在安静站台，紫色头发映着夕阳与远山。",
+  "composition_variation": "Create a soft cinematic anime portrait of adult Future Trunks waiting at a quiet rural train platform. Preserve his distinctive lavender center-parted hair, blue eyes, and thoughtful adult expression. Dress him in a plain cropped blue jacket, fully covering black shirt, gray trousers, and sturdy boots, with no equipment on his back. He stands at ease holding a small travel bag by its handle. Use dusty lilac mountains, honey sunset edges, pale concrete, and a spacious rose-to-blue sky gradient. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:11:16.599060+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "32c4ba24089ddff3887778627f22ffd5297c60efc42ff90eaa0dbfde6e495a9a",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 37,
+    "category": "dragon-ball",
+    "franchise": "龙珠",
+    "title": "特兰克斯的薰衣草站台",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "成年特兰克斯穿蓝色短外套站在安静站台，紫色头发映着夕阳与远山。"
+}

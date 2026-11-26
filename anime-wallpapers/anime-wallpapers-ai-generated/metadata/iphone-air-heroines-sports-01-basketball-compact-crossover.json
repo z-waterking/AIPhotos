@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-01-basketball-compact-crossover.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-01-basketball-compact-crossover.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "电青高马尾女性屈膝降低重心，跨步变向运篮球，荧光橙球场与电光蓝阴影构成强烈撞色。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. Compress the dribble gesture by bringing the ball just in front of the forward shin. Both arms bent naturally; the balancing arm is beside the torso. Show the ENTIRE basketball with empty space around its circumference.\n\nA beautiful 26-year-old adult anime basketball player with an electric-cyan high ponytail, navy hair shadows, vivid amber eyes and an excited determined smile. She wears an opaque cobalt short-sleeved athletic shirt with broad orange side panels, loose navy basketball shorts ending at mid-thigh and white-orange high-top sneakers, no lettering. Capture an actual low crossover dribble, not a portrait holding a ball: torso inclined forward, knees flexed, one foot stepping diagonally across the court while her weight shifts. Her near hand is above the rising orange basketball just after its bounce, fingers spread naturally to guide it; the other hand is held outward for balance. The ball is separate from her palm, low beside the forward knee. Show full head-to-sneaker action in a three-quarter frontal view, camera at torso height with a slight diagonal tilt. Keep key joints and the one basketball inside the central crop. A brilliant orange urban court, deep electric-blue cast shadows, turquoise architecture and small hot-pink paint ribbons behind her emphasize acceleration. Clear orange-to-coral sky above. Precise beautiful anime face, sparkling eyes, cyan hair streaming opposite motion; believable foot traction, coordinated knees and toes, one ball only.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:50:58.137688+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7c0cc1bdfeec178f251b775f30e455491cbb7a35324782911086bc7f8a455caf",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 1,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "electric cyan high ponytail with navy underlayers",
+    "title": "电青变向",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed contact sheet inspected: 01 compact basketball crossover with full basketball, both hands and shoes; 02 two-handed backhand with full racket frame, one ball and complete footwork. Distinct athletic weight shifts, detailed adult faces and saturated complementary colors. Revision successfully fits essential equipment within final crop."
+  },
+  "visible_description": "电青高马尾女性屈膝降低重心，跨步变向运篮球，荧光橙球场与电光蓝阴影构成强烈撞色。"
+}

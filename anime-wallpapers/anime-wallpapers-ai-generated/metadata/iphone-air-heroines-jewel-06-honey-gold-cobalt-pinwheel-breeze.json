@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-06-honey-gold-cobalt-pinwheel-breeze.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-06-honey-gold-cobalt-pinwheel-breeze.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "蜂蜜金锁骨卷发，浅琥珀绿眼睛，丰盈柔和的脸颊和精致眉眼。她站在海岸露台上，身体稍侧向海风，脸正朝镜头微笑，一只手在肩部外侧举着一枚小小的钴蓝与柠檬黄纸风车，风车不遮脸，另一只手在腰边自然放松。头顶至大腿上部近景。穿不透明樱桃红短袖连衣裙，小巧珍珠耳钉。背景以青绿海水、宝蓝天空、柠檬黄花簇和少量珊瑚墙面为主，金发透明发丝与海风有自然动感。",
+  "composition_variation": "蜂蜜金锁骨卷发女性穿樱桃红夏裙，在青绿海湾旁举着蓝黄纸风车，明亮正脸带着轻松笑意。",
+  "created_at": "2026-10-13T17:08:43.347361+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "1c0611972bcc5e2607c85f1f775919a567d5ff3cc6e803963a3c70242b1c436f",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 6,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "蜂蜜金锁骨卷发",
+    "title": "蜜金风车晴湾",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet with full wallpaper and face detail. Honey-gold waves, green-amber eyes, refined adult face and opaque red dress. Visible fingers hold pinwheel shaft coherently; pinwheel extends to left crop edge without hiding the face. Clear blue upper sky, no text, other people or evident malformed anatomy."
+  },
+  "visible_description": "蜂蜜金卷发女性穿樱桃红夏裙，在青绿海湾旁举着蓝黄纸风车，明亮正脸带着轻松笑意。"
+}

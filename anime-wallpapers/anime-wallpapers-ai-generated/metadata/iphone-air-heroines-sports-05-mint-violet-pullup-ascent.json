@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-05-mint-violet-pullup-ascent.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-05-mint-violet-pullup-ascent.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "薄荷绿发女性双手正握单杠向上拉起，肘部向下收、双膝微屈，亮紫与荧青轮廓光突出运动力量。",
+  "composition_variation": "Create one beautiful adult female anime athlete aged 29 doing an authentic pull-up on a simple horizontal fitness bar. Mint-green braided ponytail with deep teal inner strands, vivid jade eyes, refined mature facial features and an energized focused smile. Opaque violet short-sleeved athletic T-shirt long enough to remain tucked into high-waisted dark navy full-length training leggings; white-mint sneakers. Practical fully covered sportswear, nonsexual framing. Three-quarter frontal camera slightly to the side, facing her eyes and showing the bar as a real solid cylinder above her shoulders. Both hands hold an overhand grip shoulder-width apart with fingers and thumbs genuinely wrapping around the bar; elbows bent and drawn down beside the torso. Capture upward effort with chin just approaching the bar level, not with the bar intersecting the head. Shoulders engaged naturally, knees gently bent with both ankles together behind her, no extreme back arch. Frame her full figure including the two hands and bar contact points; the bar crosses at about one-third image height, leaving vivid clear violet above it for the clock. Abstract outdoor fitness park with acid-cyan uprights, violet backdrop, fuchsia ground and bright teal rim light. Crisp cel-shaded arm motion and beautiful luminous face; realistic gravity, balanced grip, no extra fingers or impossible joints.",
+  "created_at": "2026-10-12T14:43:08.668754+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "ae945efff0b37c2a645d84aa3dc240acd232762e4258db4e09af821fb49a342a",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 5,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "mint-green braided ponytail with dark teal underlayers",
+    "title": "荧青引体",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed preview inspected: mint-braided adult athlete at upper pull-up phase with two overhand grips, bent elbows and naturally folded knees. Bar passes in front of lower face at chin level, hands visibly wrap bar, no duplicate limbs, opaque shirt and leggings. Vibrant violet-cyan palette and clear upper clock space."
+  },
+  "visible_description": "薄荷绿发女性双手正握单杠向上拉起，肘部向下收、双膝微屈，亮紫与荧青轮廓光突出运动力量。"
+}

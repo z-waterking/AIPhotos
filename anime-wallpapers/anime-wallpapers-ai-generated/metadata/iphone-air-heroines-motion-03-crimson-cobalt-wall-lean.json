@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-motion-03-crimson-cobalt-wall-lean.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-motion-03-crimson-cobalt-wall-lean.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "绯红短发女性交臂倚墙，一脚轻抵墙面，奶白夏衬衫和黑色短裤在电蓝与朱红硬边色块中格外鲜明。",
+  "composition_variation": "One striking original 28-year-old adult anime woman with a sleek crimson angled bob, burgundy inner layers, luminous golden amber eyes, refined slightly angular face and a self-possessed amused smile with one brow gently raised. She leans shoulder and upper back against a vivid blue wall, arms loosely crossed at her upper waist. One knee bends with that sneaker lightly against the wall; the other leg supports her weight. Clean crossed forearms with plausible hands resting on opposite upper arms. A relaxed cool street-fashion pose with an angled torso. Outfit: opaque ivory short-sleeved camp-collar shirt with a normal secure neckline, charcoal tailored mid-thigh shorts, white sneakers with red trim. Frame from head to upper calves, slightly from the side at eye height so the bent knee and wall relationship read clearly. Minimalist cobalt concrete corner, vermilion pavement, one acid-yellow stripe low behind her. Split lighting uses electric blue shadows, coral sunlight and amber eye glints. Natural peach skin, no muddy shading. Upper quarter is brilliant cobalt with a thin vermilion far edge. Precise anime game-art polish, glossy hair and a crisp powerful silhouette.",
+  "created_at": "2026-10-12T14:27:40.363177+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7b8b2800fe180d6db94ae483589fd384e42e47f88ab6590e22f675a94d5fca7a",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-motion-six/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 3,
+    "category": "explosive-color-motion-study",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "short glossy crimson bob with burgundy inner layers",
+    "title": "绯红冷调",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cyan ponytail turning through a stride, silver hair gathered with raised arms, crimson bob leaning with crossed arms and one bent knee. Strong magenta-cyan, lime-violet and cobalt-vermilion palettes; distinct silhouettes and larger detailed adult anime faces. Visible hands coherent and outfits opaque. Elbows and trailing hair partly extend beyond crop as intentional composition; all key hands and faces remain visible."
+  },
+  "visible_description": "绯红短发女性交臂倚墙，一脚轻抵墙面，奶白夏衬衫和黑色短裤在电蓝与朱红硬边色块中格外鲜明。"
+}

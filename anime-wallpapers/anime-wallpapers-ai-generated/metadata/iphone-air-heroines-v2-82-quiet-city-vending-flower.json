@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-82-quiet-city-vending-flower.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-82-quiet-city-vending-flower.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "浅杏橙短发女性手持单枝白花经过未来街角，奶油色建筑和柔蓝界面相互映衬。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 25-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Her face has soft green eyes, a balanced adult profile, gently defined cheekbones, and a fresh, self-assured smile. Pale-apricot hair curves around the jaw. Dress her in an opaque pale-blue sleeveless high-neck blouse, cream wide-leg linen trousers, and understated white walking shoes. She has just selected a single white flower from a minimalist street-side flower kiosk and holds it upright close to her torso, while her other hand rests on a small bag strap. No transaction screen or readable writing appears. Rounded cream walls, a slender blue light strip, and one recessed planter create a quiet future-city setting. Favor apricot, porcelain white, powder blue, and sage, with soft midday light and restrained glossy accents. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:33:21.146282+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "b9d9797c94a3085319fed838255da7dafe189da282f1bb586a2ae61029a62742",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 82,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "pale apricot orange, softly curved jaw-length bob with wispy adult-styled fringe",
+    "title": "未来街角的一枝花",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cobalt bob checking wrist device, rose ponytail with coffee on skybridge, gray curls and tablet at solar garden, peach bob holding flower, indigo braid with museum brochure, plum waves adjusting ribbon under canopy. Mature adult anime designs, coherent visible hands and natural poses, opaque summer attire, clear upper space. No bystanders, lettering or anatomy defects apparent."
+  },
+  "visible_description": "浅杏橙短发女性手持白花经过未来街角，浅蓝无袖上衣与奶白长裤呼应柔和建筑色彩。"
+}

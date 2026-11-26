@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-012-naruto-sasuke-indigo-rooftop.png",
+  "refined_prompt": "../prompts/iphone-air-anime-012-naruto-sasuke-indigo-rooftop.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "佐助穿深蓝休闲衣，坐在黄昏屋顶边的安全矮墙上，远处山影沉静。",
+  "composition_variation": "Create a sophisticated cel-shaded portrait of Sasuke Uchiha quietly seated on a broad low rooftop parapet at twilight. Preserve his distinctive black spiked hair, dark eyes, pale complexion, and reserved expression. Dress him in a simple dark indigo high-collar casual shirt and charcoal trousers, with empty hands resting naturally on his knees. Keep the pose stable and nonconfrontational. Use layered violet village rooftops, muted apricot horizon light, subtle wind in his hair, and a spacious fading blue sky. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:02:57.615294+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "06cc3d9e4d373e5b598e79ec5f31ab80c01f2b42c3640935e68ce9d2ee99edbb",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 12,
+    "category": "naruto",
+    "franchise": "火影忍者",
+    "title": "佐助的蓝调屋顶",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "佐助穿深蓝休闲衣，坐在黄昏屋顶边的安全矮墙上，远处山影沉静。"
+}

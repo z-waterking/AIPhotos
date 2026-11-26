@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-42-fern-arboretum-sage-pixie.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-42-fern-arboretum-sage-pixie.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "鼠尾草棕短发女性推开蕨园小门，一手握着亚麻帽，散发轻快从容的气质。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 28 years old, with sage-brown hair in a softly textured pixie cut with a longer swept fringe. She has mature, self-assured elegance and realistic adult proportions. Design expressive amber-green eyes, a beautifully balanced face, a softly angular jaw, and a cheerful confident smile. Her opaque muted-coral sleeveless collared top is paired with cream ankle-length linen trousers and brown flat sandals. She gently opens a small wooden garden gate with one hand near her waist, while the other holds a folded straw hat close to her hip. Her body faces mostly forward with a slight natural turn. Layered ferns, mossy stones, and a curving arboretum path create quiet depth at the bottom. Fresh early-summer sunlight passes through foliage, painting subtle golden edges on her hair. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:22:01.238164+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "921767fae2e16e918fac823ca93e6559a577c9f187a013d9a0e337584156c682",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 42,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "sage-brown hair in a softly textured pixie cut with a longer swept fringe",
+    "title": "蕨林小门与鼠尾草短发",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: blonde with folded fan, blue-haired woman by hydrangeas after rain, burgundy updo with seed envelopes, pink bob using magnifier in botanical house, dark-haired woman pouring tea, short-haired woman at garden gate. Adult anime faces, natural nonsexual poses, opaque outfits, clear clock space, no unwanted people or lettering. 42 hair rendered warm olive-brown rather than saturated sage."
+  },
+  "visible_description": "暖橄榄棕短发女性推开蕨园木门，另一手提着草帽，砖红无袖衬衫与米白长裤映衬明亮绿意。"
+}

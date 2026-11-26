@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-083-original-heroines-coral-dance-studio.png",
+  "refined_prompt": "../prompts/iphone-air-anime-083-original-heroines-coral-dance-studio.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "26岁原创女主穿宽松运动衣，在几何舞房迈出轻快舞步。",
+  "composition_variation": "Illustrate an original 26-year-old anime woman with curly auburn hair tied loosely back, taking one playful dance step in a quiet geometric studio. Dress her in a fully covering coral sweatshirt, loose navy track pants, and sneakers. Use flat graphic shapes, peach and ultramarine contrasts, smooth motion arcs from clothing, and an open joyful smile. Keep the movement athletic and nonsexual with clear natural limbs. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:27:36.896292+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "4963d666eebf3d94935c7fb8778220fc012c3a55e542b7d0f6c70314b9ab5742",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 83,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "珊瑚舞房·轻快舞步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "26岁原创女主穿宽松运动衣，在几何舞房迈出轻快舞步。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-07-jump-rope-low-hop-loop.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-07-jump-rope-low-hop-loop.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "粉色马尾女性轻盈双脚跳绳，绳弧正从鞋底掠过，电光黄与蓝紫背景形成明亮节奏。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. A low basic bounce, both shoes only 3–5 cm above the ground, knees softly flexed and ankles together. Both handles and complete hands comfortably inside the figure width; the thin rope loop curves just outside her shins and under both shoes. Show one continuous rope attached to both handles, no missing segment.\n\nAn exceptionally pretty original adult anime sportswoman aged 25, bubblegum-pink high ponytail with lavender underlayers, bright sapphire eyes, distinct adult facial proportions and a delighted energetic smile. Opaque cobalt short-sleeved running top, loose white mid-thigh sports shorts, pink-white trainers and simple wristbands. Capture a proper low two-foot jump-rope skip: both feet only a few centimeters above the ground, knees softly bent, torso upright with a slight athletic forward lean, elbows near her sides, two relaxed wrists rotating two small handles. A single thin bright yellow rope connects the handles in one continuous loop, passing clearly under both shoes at this instant and curving outward beside the legs. No extra loops, duplicate ropes or line passing through a limb. Hair rises with the hop and both knees point naturally forward. Full-body frontal-three-quarter frame with camera at torso level, rope handles and lower rope arc inside the crop. Blazing electric-yellow court, deep blue-violet wall and magenta shadows, with a narrow cyan accent and graphic rhythm marks confined to the background. Top quarter quiet vivid blue-violet. Detailed beautiful anime face, precise fingers around handles, believable small jump and crisply drawn rope anatomy, no bystanders.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:52:22.389702+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "22e2f8e728e85ce054d74de49a24aaa6e5e1313587d8bcb6754d1d5eed608bee",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 7,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "bubblegum-pink high ponytail with lavender inner layers",
+    "title": "粉金跃绳",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed contact sheet inspected: sole-control football turn, low two-foot rope skip with two handles and full loop, compact table-tennis forehand with complete paddle and one visible white ball, and vertical bouldering with both hands and shoes contacting holds. Adult anime faces, natural sportswear, strong complementary color and different weight/limb patterns. Equipment and key contacts now inside final crop; no unwanted text or additional people."
+  },
+  "visible_description": "粉色马尾女性轻盈双脚跳绳，绳弧正从鞋底掠过，电光黄与蓝紫背景形成明亮节奏。"
+}

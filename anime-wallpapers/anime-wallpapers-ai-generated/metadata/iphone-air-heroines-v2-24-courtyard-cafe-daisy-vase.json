@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-24-courtyard-cafe-daisy-vase.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-24-courtyard-cafe-daisy-vase.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "烟玫瑰色盘发女性在庭院咖啡桌上摆放雏菊，米白短袖针织与草绿长裙显得温雅。",
+  "composition_variation": "Design a graceful original anime wallpaper of a clearly adult 30-year-old woman arranging a single daisy in a tiny vase at a courtyard cafe. Her attractive mature features include soft brown eyes with subtle gold flecks, gently angled brows, a refined nose, natural lips, and a calm discerning smile. Dusty rose hair is gathered in a loose low chignon, with softly curled strands beside her ears. She wears an opaque ivory short-sleeved knit top with a high round neckline, a grass-green linen midi skirt, and simple beige flats. Standing beside a small square table, she steadies the ceramic vase with one hand while the other adjusts the daisy stem. Both hands remain at waist height and close together. A folded pale-blue napkin and one empty porcelain cup sit nearby. Behind her, a low pale stucco wall, a curved window opening, and a few trailing leaves suggest a peaceful cafe courtyard. The upper area is open pale sky rather than dense decoration. Soft afternoon light creates smooth skin tones and a subtle rim along the chignon. Favor restrained cream, rose, green, and blue harmonies. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:18:13.060660+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "17710ee9cc89de410cef47b6857d322a4f66c0ee4e2be4c738e52506ad817ea4",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 24,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Dusty rose hair in a loose low chignon, with softly curled strands near the ears",
+    "title": "庭院咖啡桌上的雏菊",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet checked: strawberry tart at cafe, pouring jasmine tea on rooftop, placing bookmark in book, raised citrus drink on terrace, bouquet by bakery, and daisy arrangement in courtyard. Attractive adult anime faces, natural coherent hands, nonsexual opaque clothes, clear upper clock space and no unwanted people or lettering."
+  },
+  "visible_description": "烟玫瑰色盘发女性在庭院咖啡桌上摆放雏菊，米白短袖针织与草绿长裙显得温雅。"
+}

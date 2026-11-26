@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-03-terracotta-harbor-sketchbook.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-03-terracotta-harbor-sketchbook.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "栗棕卷发女性坐在港口石凳上写生，薄荷绿连衣裙与暖陶色建筑形成柔和对比。",
+  "composition_variation": "Paint an original high-end anime scene of a 29-year-old woman enjoying a sketchbook beside a small terracotta harbor. Her attractive mature face has deep amber eyes, a refined nose bridge, softly arched eyebrows, faint freckles, and a composed smile that conveys quiet creative confidence. Chestnut waves touch her shoulders, with one side tucked behind a small gold stud earring. Her clothing is an opaque mint-green linen midi dress with short loose sleeves, a modest square neckline, a natural waist, and flat cream espadrilles. She sits upright on a low stone bench with both feet resting comfortably on the paving, her knees together at a natural angle. A sketchbook rests on her lap; one hand steadies its corner while the other holds a pencil just above the page. Show only loose abstract marks, never readable lettering. Behind her, moored boats become soft geometric shapes beneath peach and faded rust buildings. Late-afternoon sunshine warms her skin and the bench while cool water reflections balance the lower scene. Emphasize graceful posture, crisp facial drawing, and believable relaxed hands. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:11:22.553181+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "656210e990c137f771bc2a31616248077c81af3cf3ff70a606b9bf5d33ea3280",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 3,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "Chestnut-brown shoulder-length waves tucked behind one ear",
+    "title": "陶色港湾速写",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet: 01 seaside turn in cobalt skirt, 02 silver bob studying shell, 03 seated brunette sketching harbor, 04 blonde adjusting scarf by ferry, 05 pink braid holding gelato, 06 violet hair and straw hat by lighthouse. Pleasant adult anime faces, distinct palettes, coherent hands, clothing and central crops; clear clock space and no unwanted text or people."
+  },
+  "visible_description": "栗棕卷发女性坐在港口石凳上写生，薄荷绿连衣裙与暖陶色建筑形成柔和对比。"
+}

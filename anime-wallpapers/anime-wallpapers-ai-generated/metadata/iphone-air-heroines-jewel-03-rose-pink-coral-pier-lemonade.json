@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-03-rose-pink-coral-pier-lemonade.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-03-rose-pink-coral-pier-lemonade.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "玫瑰粉色长卷发，柔软侧分，澄澈海蓝眼睛，柔和心形脸，成熟而明朗。她侧身轻倚码头栏杆，脸几乎正向镜头，一手在胸口下方举透明柠檬汽水，另一手自然搭栏杆；嘴角带着亲切的浅笑。头顶至腰部近景。穿不透明奶白短袖衬衫与珊瑚红半裙，领口完整。青金蓝海面、珊瑚橙小楼与柠檬黄遮阳伞位于边缘，玫瑰粉发丝映出淡金光，面容清透。",
+  "composition_variation": "玫瑰粉卷发女性倚着海岸栏杆举起柠檬汽水，奶白衬衫与珊瑚裙衬着青蓝海面，正脸浅笑。",
+  "created_at": "2026-10-13T17:05:37.457097+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "9790f05e7b8c9473a8dbe3a39ed09a86158d953f21b01e542993090f4fbf4925",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 3,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "玫瑰粉长卷发",
+    "title": "玫瑰汽水海岸",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet with full composition and face detail. Clear rose-pink hair, blue eyes and refined adult face; coherent fingers around lemonade glass and resting hand, opaque blouse and coral skirt, clean sea-blue upper space, no text or unwanted people."
+  },
+  "visible_description": "玫瑰粉卷发女性倚着海岸栏杆举起柠檬汽水，奶白衬衫与珊瑚裙衬着青蓝海面，正脸浅笑。"
+}

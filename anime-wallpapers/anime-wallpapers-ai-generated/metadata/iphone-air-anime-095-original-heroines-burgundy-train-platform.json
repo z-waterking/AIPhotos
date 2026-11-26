@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-095-original-heroines-burgundy-train-platform.png",
+  "refined_prompt": "../prompts/iphone-air-anime-095-original-heroines-burgundy-train-platform.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "30岁原创女主穿酒红长大衣，扶着小行李箱在站台等车。",
+  "composition_variation": "Paint an original 30-year-old anime woman with shoulder-length ash-brown waves, waiting calmly on an empty open-air train platform. She wears an opaque burgundy long coat, cream high-neck knit, straight black trousers, and ankle boots. One hand rests on a compact suitcase handle while the other adjusts her cuff. Use cinematic gouache, pale gold sky, faded sage architecture, and a poised optimistic expression. Keep railway markings absent. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:32:14.520188+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7031761d141c99af8d5a7579fe25d1ac55298eb3311544c00fc3cd7baa3500de",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 95,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "酒红站台·旅行出发",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "30岁原创女主穿酒红长大衣，扶着小行李箱在站台等车。"
+}

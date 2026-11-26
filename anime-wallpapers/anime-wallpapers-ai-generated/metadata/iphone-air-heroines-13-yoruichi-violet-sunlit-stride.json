@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-heroines-13-yoruichi-violet-sunlit-stride.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-13-yoruichi-violet-sunlit-stride.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "夜一穿淡紫无袖运动上衣和白色休闲短裤，大步走过夏日步道，紫色马尾高高扬起。",
+  "composition_variation": "Make an original crisp anime illustration of adult Yoruichi Shihouin with rich brown skin, golden eyes, dark-violet hair in a high ponytail, and a striking cheerful face. Give her an opaque pale-lavender sleeveless athletic summer top, relaxed white shorts of normal length, and lightweight sneakers. Capture an energetic walking stride on a sunlit botanical promenade, with one foot advancing and her compact bent arms naturally counterbalancing the motion. Show both hands clearly, fingers relaxed. Her ponytail sweeps behind her, suggesting a fresh summer breeze without combat imagery. Use lavender, clean white, lush palm green, and warm apricot sunlight. Keep the presentation sporty, confident, and nonsexual, with one subject only. Leave calm sky across the upper quarter, head around forty percent height, and hands and face within the central retained strip.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T14:01:30.356035+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0bcb3d45a6cce28b23bf23d8f6db5665234de0f6fcb1489ef016319e9ff08f55",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-11-19/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 13,
+    "category": "summer-heroines-second",
+    "franchise": "死神",
+    "title": "紫影逐夏",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects.",
+    "character": "Yoruichi Shihouin"
+  },
+  "visible_description": "夜一穿淡紫无袖运动上衣和白色休闲短裤，大步走过夏日步道，紫色马尾高高扬起。"
+}

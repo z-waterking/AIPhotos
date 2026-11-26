@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-02-tennis-contained-backhand.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-02-tennis-contained-backhand.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "银白短发女性屈膝转肩，双手握拍完成网球反手击球，酸柠黄球场与紫罗兰背景互相映衬。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. Show the complete tennis racket and ball entirely in front of her middle body, below chest height. Camera faces the stroke at a three-quarter angle that foreshortens the racket, keeping it compact rather than stretching sideways.\n\nA stunning original adult tennis athlete aged 28 with pearlescent silver bobbed hair, violet ends, a narrow lime headband, luminous violet eyes and a focused confident expression. Practical opaque white short-sleeved sports shirt with violet shoulder panels, tailored violet athletic shorts, white-lime court shoes. Freeze a compact two-handed backhand at the moment of contact: body turned three-quarter sideways, both knees bent, hips and shoulders rotating together, both hands adjacent on ONE racket handle. The racket head projects diagonally forward beside her torso, not across her face. One small neon-yellow tennis ball is just outside the strings at believable striking height. Her gaze follows that ball. Show head to sneakers with rear heel beginning to lift and front foot grounded; no stretched arms or broken wrists. Eye-level three-quarter camera from the receiving side compresses the stroke into the central vertical region. Acid-lime court, solid deep-violet backdrop and a bright mint fence create a crisp complementary palette. A sharp ultraviolet shadow and electric-yellow rim light trace her limbs. Upper quarter is a quiet saturated violet sky. Gorgeous precise anime-game face and crisp cel-shading; one racket frame, one pair of arms, readable sport geometry.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:50:49.969760+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "c4364b5de0134035f3dba85d0cb74ad0e514d7fa847b79eff08db65a8ca26143",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "pearlescent silver bob with violet ends held by a narrow lime headband",
+    "title": "银光反拍",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed contact sheet inspected: 01 compact basketball crossover with full basketball, both hands and shoes; 02 two-handed backhand with full racket frame, one ball and complete footwork. Distinct athletic weight shifts, detailed adult faces and saturated complementary colors. Revision successfully fits essential equipment within final crop."
+  },
+  "visible_description": "银白短发女性屈膝转肩，双手握拍完成网球反手击球，酸柠黄球场与紫罗兰背景互相映衬。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-56-waterfall-lookout-ice-blue-waves.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-56-waterfall-lookout-ice-blue-waves.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "冰蓝卷发女性在瀑布观景台扶正草帽，清爽衬衫与湖蓝长裙迎着柔风。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 29 years old, with icy blue hair in soft shoulder-length waves with a natural off-center part. She has mature, self-assured elegance and realistic adult proportions. Give her clear gray eyes, refined arched brows, a graceful jawline, and a bright relaxed smile. She wears an opaque ivory short-sleeved linen shirt with a neat collar, a lake-blue ankle-length skirt, and comfortable flat sandals. Standing steadily on a safe wooden lookout, she lightly holds the brim of her straw hat with one hand near her temple; the other rests against a small crossbody bag at her waist. A distant narrow waterfall and misty green hills remain behind her lower silhouette. Fresh daylight, pale aqua mist, and warm straw highlights create a clean, breezy summer atmosphere. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:25:59.700918+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "be955320143a068abb1209c182a443eb0235711f325017daf4042b51381072cc",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 56,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "icy blue hair in soft shoulder-length waves with a natural off-center part",
+    "title": "冰蓝发色与瀑布远眺",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: ice-blue waves and hat at waterfall lookout, coral braid holding sea lavender, strawberry bob tying sneaker on alpine path, black hair drinking tea beneath ginkgo, violet hair carrying herb basket by lake. Adult figures, natural varied postures, complete key hands, opaque clothes and usable clock space. 58 compact crouch includes shoe and hands; no extra people or text."
+  },
+  "visible_description": "冰蓝卷发女性在瀑布观景台扶正草帽，清爽衬衫与湖蓝长裙迎着柔风。"
+}

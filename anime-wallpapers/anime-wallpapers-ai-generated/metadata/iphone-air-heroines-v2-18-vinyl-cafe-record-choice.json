@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-18-vinyl-cafe-record-choice.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-18-vinyl-cafe-record-choice.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "石墨灰长发女性在唱片咖啡馆挑选唱片，奶油色针织短袖与钴蓝长裤沉静时髦。",
+  "composition_variation": "Illustrate an original anime woman of 27 choosing a record inside a bright courtyard cafe with a small vinyl corner. Her refined adult features include clear pale-blue eyes, clean brows, a straight nose, and a thoughtful confident smile. Graphite-gray long hair is swept loosely over one shoulder, with a few soft strands around the ear. Dress her in an opaque cream fine-knit short-sleeved top with a modest jewel neckline, cobalt-blue wide-leg trousers, and white low-profile shoes. She stands at a waist-high wooden record bin, holding one plain illustrated record sleeve upright against her lower torso while her other hand rests lightly on the bin edge. The sleeve shows only abstract orange and blue shapes, no words or logos. Turn her head slightly as if hearing a pleasant melody from a small distant speaker. Warm timber, a single potted rubber plant, and a low cafe table create a welcoming setting. A tall opening behind her reveals a calm pale-blue sky. Soft side daylight and amber wood reflections give her face dimension. Keep the drawing polished, uncluttered, and naturally expressive. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:15:08.581116+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "3babe54db068bae1c88c5d3b36fba474d39eb713491c0228c44c32bbc8003b43",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 18,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Graphite-gray long straight hair, softly swept over one shoulder",
+    "title": "唱片咖啡馆",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 13 lilac bob with map by hydrangea fountain, 14 brunette and orange basket, 15 teal waves watering rooftop herbs, 16 compact seated sandal adjustment, 17 short-haired woman with espresso, 18 gray-haired woman choosing a vinyl sleeve. Complete hands and secure opaque clothing, attractive adult faces, adequate clock area, no bystanders or text. 16 includes the sandal and both hands in the crop."
+  },
+  "visible_description": "石墨灰长发女性在唱片咖啡馆挑选唱片，奶油色针织短袖与钴蓝长裤沉静时髦。"
+}

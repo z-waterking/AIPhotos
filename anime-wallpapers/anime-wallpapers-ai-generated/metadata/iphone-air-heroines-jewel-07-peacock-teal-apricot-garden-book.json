@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-07-peacock-teal-apricot-garden-book.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-07-peacock-teal-apricot-garden-book.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "孔雀青齐肩直发，利落侧分，浅灰绿双眼，柔和方形脸与精巧唇形，成熟清丽。她站在花园石桌旁，一只手轻撑桌边，另一臂将合起的无字靛蓝书本放在腰侧；头轻轻偏向镜头，双眼完整可见，浅笑从容。头顶至大腿上部近景。穿不透明杏黄色短袖连衣裙，领口舒适完整。玫红花团、紫罗兰阴影、酸橙绿叶形成浓郁背景，顶部是蓝绿晴空；不要让枝叶投下斑驳黑影覆盖五官。",
+  "composition_variation": "孔雀青齐肩发女性穿杏黄夏裙站在花园石桌旁，腰侧抱着靛蓝书本，玫红花团与酸橙绿叶形成鲜明配色。",
+  "created_at": "2026-10-13T17:08:53.364230+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "17750358446f5d14e7012ae257d235ea05eb9507102bea2eeb4b3dece92978d2",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 7,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "孔雀青齐肩直发",
+    "title": "青羽杏黄书香",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet with full wallpaper and face detail. Teal bob and clear gray-green eyes, individual facial expression, opaque yellow dress. Book held against waist and other arm resting on table with natural visible hand structure. Magenta flowers and blue sea, clear top, no text or unwanted people."
+  },
+  "visible_description": "孔雀青齐肩发女性穿杏黄夏裙站在花园石桌旁，腰侧抱着靛蓝书本，玫红花团衬着明亮青蓝海天。"
+}

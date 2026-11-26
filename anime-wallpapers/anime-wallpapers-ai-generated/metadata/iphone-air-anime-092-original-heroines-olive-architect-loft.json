@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-092-original-heroines-olive-architect-loft.png",
+  "refined_prompt": "../prompts/iphone-air-anime-092-original-heroines-olive-architect-loft.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "34岁原创女主穿衬衫长裤，在明亮阁楼抱着素白图纸。",
+  "composition_variation": "Portray an original 34-year-old anime woman with a neat copper pixie cut, standing in a bright architecture loft with rolled blank drawing paper under one arm. She wears an opaque olive overshirt over a cream turtleneck, charcoal trousers, and simple sneakers. Use precise editorial linework, warm plywood textures, clean ivory geometry, and soft north-window light. Her free hand rests on her hip in a composed capable stance. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:31:01.008304+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "88eb5a531266262e2cac20258d96b0a32f9697092212db9d44593d0aa6ba6e6b",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 92,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "橄榄绿工作室·建筑灵感",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "34岁原创女主穿衬衫长裤，在明亮阁楼抱着素白图纸。"
+}

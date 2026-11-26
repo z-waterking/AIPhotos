@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-40-pearl-pink-luminous-botanical-house.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-40-pearl-pink-luminous-botanical-house.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "珠粉短发女性在植物馆轻持放大镜观察小盆栽，幽蓝与暖粉光线柔和交融。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 26 years old, with pearl-pink hair in an asymmetrical jaw-length bob with a longer curved front lock. She has mature, self-assured elegance and realistic adult proportions. Her face has warm brown eyes, delicately defined brows, subtle rosy cheeks, and a calm curious smile. Choose an opaque seafoam short-sleeved shirt with a neat collar and ivory loose trousers, plus small pearl earrings. She stands at a narrow botanical display table, holding a small magnifying glass close to a leaf while the other hand steadies the pot. A few fictional luminous seedpods glow softly among ordinary ferns, giving a tasteful fantasy touch. Keep the glass reflection simple and the hands anatomically clear. Indigo glasshouse shadows and warm pink accent light bring depth without cluttering the composition. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:20:26.480414+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "809448ac5de874e2da177262e2eebb842806fc88caf7444b765175aaa0517a5f",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 40,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "pearl-pink hair in an asymmetrical jaw-length bob with a longer curved front lock",
+    "title": "珠粉短发与微光植物馆",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: blonde with folded fan, blue-haired woman by hydrangeas after rain, burgundy updo with seed envelopes, pink bob using magnifier in botanical house, dark-haired woman pouring tea, short-haired woman at garden gate. Adult anime faces, natural nonsexual poses, opaque outfits, clear clock space, no unwanted people or lettering. 42 hair rendered warm olive-brown rather than saturated sage."
+  },
+  "visible_description": "珠粉短发女性在植物馆轻持放大镜观察小盆栽，幽蓝与暖粉光线柔和交融。"
+}

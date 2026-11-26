@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-64-canal-bridge-sketchbook-pause.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-64-canal-bridge-sketchbook-pause.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "乌黑齐肩发女性在运河桥畔翻阅速写本，砖红建筑和水面倒影烘托文艺旅行气息。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 29-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Create a poised adult woman with dark brown eyes, neatly shaped brows, a gentle jawline, and an observant half-smile. Her ink-black shoulder-length hair has a polished center part. Dress her in an opaque ivory sleeveless knit top, a deep-blue flowing midi skirt, and low-profile walking sandals. She pauses by a narrow canal bridge, holding an open sketchbook against her midriff and touching one page with her other hand; the drawing itself remains indistinct. A simple leather satchel hangs close to her body. Brick facades and a small arch bridge form soft background shapes, reflected in calm water. Balance brick red, denim blue, warm ivory, and a small touch of pale aqua under diffuse late-morning light. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:28:13.438438+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "7c6a54709abbf87b3a3174a8944e526f0d83751026660d3ba915fbf708f9914e",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 64,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "ink black, straight shoulder-length hair with a clean center part",
+    "title": "运河桥上的速写停顿",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: teal bob with map at tram, chestnut braid checking ticket at alpine station, lilac hair at lavender field, dark bob with sketchbook on canal bridge, copper ponytail at desert botanical walk, and indigo-haired seated traveler studying printed photograph. Adult design, coherent natural hands, secure opaque summer attire, scenic variety and clean upper areas. No extra people or unwanted text."
+  },
+  "visible_description": "乌黑齐肩发女性在运河桥畔翻阅速写本，砖红建筑和水面倒影烘托文艺旅行气息。"
+}

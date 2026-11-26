@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-33-golden-observatory-copper-pony.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-33-golden-observatory-copper-pony.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "铜色马尾女性在日落天文台旁轻触星形发夹，背景是低矮圆顶与柔和天空。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 30 years old, with burnished copper hair tied in a sleek low ponytail with a narrow cream ribbon. She has mature, self-assured elegance and realistic adult proportions. Her refined face has luminous hazel eyes, a few tiny freckles, balanced brows, and an easy confident smile. Choose an opaque cream boat-neck blouse, elbow-length sleeves, and a high-waisted terracotta ankle-length skirt with clean fabric folds. She pauses on an observatory terrace and lightly adjusts a small star-shaped hair clip with one hand close to her temple; the other rests on a compact guidebook at her waist. Place a low white observatory dome and miniature brass telescope behind her. Golden sunset catches her copper hair while pale apricot and violet gradients keep the scene airy. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:05:57.940848+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "856387a4c77d77b92513d7b97e60285c3157c312ef16e86bd84040b6014b28ea",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 33,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "burnished copper hair tied in a sleek low ponytail with a narrow cream ribbon",
+    "title": "金色天文台的铜发访客",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet visually inspected. 31 silver braid reading on moonflower veranda, 32 indigo braid and thermos beside meteor lake, 33 copper ponytail adjusting hair clip on sunset terrace. Adult anime faces, coherent visible anatomy, opaque summer outfits and useful clock space; no text or bystanders."
+  },
+  "visible_description": "铜色马尾女性在日落天文台旁轻触星形发夹，背景是低矮圆顶与柔和天空。"
+}

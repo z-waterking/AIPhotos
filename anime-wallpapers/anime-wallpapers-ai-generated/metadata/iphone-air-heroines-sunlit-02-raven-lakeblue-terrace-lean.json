@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-02-raven-lakeblue-terrace-lean.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-02-raven-lakeblue-terrace-lean.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "蓝黑高马尾、琥珀眼女性穿奶白短袖上衣与湖蓝半裙，轻倚花园露台，手扶脸侧，近景突出柔光中的五官。",
+  "composition_variation": "A distinct new 28-year-old woman with glossy blue-black high ponytail, loose S-curved strands around her face, luminous warm amber eyes, gracefully longer adult face, elegant brows and a knowing friendly closed-mouth smile. Opaque ivory short-sleeved cotton blouse with a simple folded collar, rich lake-blue pleated summer skirt, tiny gold earrings. Show a relaxed garden-terrace lean: one forearm rests horizontally on a low pale stone railing, the other elbow supported there while fingers lightly touch the side of her cheek. Shoulders turn at three-quarter angle and her head tilts gently toward the viewer. This is a close head-to-hip portrait, her refined face occupying substantial space; retain upper quiet sky but no distant full-body figure. Let the ponytail sweep behind one shoulder, with fine gold-lit strands. The supporting railing stays beneath the waist and does not obscure hands. Luminous turquoise sky, bright yellow climbing flowers, cobalt and emerald leaves, distant peach garden wall and warm sun flecks. The same fine colored linework, glowing skin, detailed eyes and lively natural scenery as the reference. Strong lake-blue versus warm gold relationship, inviting confident expression, accurate natural fingers and opaque secure summer fashion.",
+  "created_at": "2026-10-12T15:48:54.339567+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "26bbefbaaad58b74c7f9c423980063f8d53e0070d0261c447eaf9742a15b6fd5",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 2,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "blue-black high ponytail with loose curved strands framing her face",
+    "title": "湖蓝晴眸",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected against actual reference: 02 dark ponytail close terrace lean with cheek-touch gesture, 03 silver-lavender braid and emerald dress with raised petal palm, 04 rose-brown updo seated in blue blouse and white skirt. Detailed bright adult faces, gold-lit fine hair, clear jewel fabric folds and turquoise-gold garden match reference. Pose and clothing differ; portrait edges crop outer forearm/palm in 03 and supporting hand in 04, while faces and primary body gestures remain clear. No extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "蓝黑高马尾、琥珀眼女性穿奶白短袖上衣与湖蓝半裙，轻倚花园露台，手扶脸侧，近景突出柔光中的五官。"
+}

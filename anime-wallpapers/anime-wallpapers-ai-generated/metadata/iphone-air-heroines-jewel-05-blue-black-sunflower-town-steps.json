@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-05-blue-black-sunflower-town-steps.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-05-blue-black-sunflower-town-steps.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "蓝黑色高马尾，深靛蓝发丝光泽，浅琥珀眼睛，略带清晰颧骨的成熟鹅蛋脸，精神明朗。她抱着一小束向日葵走下海岸小镇的单级石阶，空着的手向身侧轻轻舒展，脸转正看向镜头，双眼完整，笑容自然。头顶至大腿上部近景，肩部和马尾有轻快动势。穿不透明浅黄棉质短袖上衣与靛蓝长裙。橘红墙面、孔雀蓝门窗、金黄花瓣与紫蓝海湾形成明丽撞色，脸周保持简洁。",
+  "composition_variation": "蓝黑高马尾女性抱向日葵走下海岸小镇石阶，浅黄上衣与靛蓝长裙搭配橘红墙和孔雀蓝门窗。",
+  "created_at": "2026-10-13T17:05:49.108437+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "1693702aaf02c7ebffd52d7f4bf65e6373c89fbd033c8471d1783f388339ac08",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 5,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "蓝黑色高马尾",
+    "title": "蓝墨向阳花阶",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet with full composition and face detail. Blue-black high ponytail, amber eyes and warm adult expression. Sunflower bouquet held naturally, opposite arm extends toward right frame; no obvious anatomy defects. Opaque yellow blouse and dark blue lower garment, vivid town and bay, no text or other people."
+  },
+  "visible_description": "蓝黑高马尾女性抱着向日葵走在海岸小镇石阶旁，浅黄上衣与靛蓝下装搭配橘红墙和孔雀蓝门窗。"
+}

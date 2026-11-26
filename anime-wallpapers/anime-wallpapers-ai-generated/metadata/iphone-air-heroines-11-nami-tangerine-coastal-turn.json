@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-heroines-11-nami-tangerine-coastal-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-11-nami-tangerine-coastal-turn.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "娜美穿白色无袖上衣与橘色短裤，转身扶住草帽；湛蓝海湾与橘花衬托明亮笑容。",
+  "composition_variation": "Create an original, distinctly anime illustration of adult Nami from One Piece, recognizable by long flowing orange hair, warm brown eyes, and her blue upper-arm tattoo. Give her a polished beautiful face, lively smile, opaque white sleeveless summer blouse, relaxed tangerine shorts, and comfortable sandals. Capture a spirited turning step on a sunlit coastal terrace, one hand securing a straw sunhat near her head and the other loosely gathering its ribbon at waist height. Her movement feels spontaneous and confident, with natural anatomy and securely fitted clothing. Use brilliant turquoise water, orange blossoms, pale limestone, and warm golden light. One character only, nonsexual everyday fashion. Leave the upper quarter as quiet pale-blue sky; place her head near forty percent height and keep her face and both hands within the central crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T14:01:24.169249+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "98f8b93029ca9b601b2b4972fb235d09bb600d8663f9f25a3afceede72d616cc",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-11-19/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 11,
+    "category": "summer-heroines-second",
+    "franchise": "海贼王",
+    "title": "橘光海风",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects.",
+    "character": "Nami"
+  },
+  "visible_description": "娜美穿白色无袖上衣与橘色短裤，转身扶住草帽；湛蓝海湾与橘花衬托明亮笑容。"
+}

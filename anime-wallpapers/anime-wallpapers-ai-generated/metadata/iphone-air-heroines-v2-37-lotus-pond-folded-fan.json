@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-37-lotus-pond-folded-fan.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-37-lotus-pond-folded-fan.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "蜜金色编发女性沿荷塘缓缓走过，胸前轻握折扇，水面映着粉白荷花。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 28 years old, with warm honey-blonde hair arranged in a loose braided crown with a low flowing tail. She has mature, self-assured elegance and realistic adult proportions. Give her gentle green eyes, softly sunlit skin, refined lips, and a peaceful open expression. Her opaque pale-rose sleeveless summer dress has a modest jewel neckline, a fitted but comfortable waist, and a flowing calf-length skirt. She walks slowly along a narrow stone path beside a lotus pond, holding a closed paper fan vertically with both hands near her midsection. Keep her stride small and skirt movement believable. White and blush lotus flowers remain below shoulder height, with large rounded leaves near the water. Warm morning light and delicate reflected green shadows create a graceful, fresh atmosphere. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:20:07.703395+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "6c378c54362bb99a08e400fb0d733b9664b0cf699c28ad10ae98d8ec34c16b61",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 37,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "warm honey-blonde hair arranged in a loose braided crown with a low flowing tail",
+    "title": "荷塘边的金发微风",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: blonde with folded fan, blue-haired woman by hydrangeas after rain, burgundy updo with seed envelopes, pink bob using magnifier in botanical house, dark-haired woman pouring tea, short-haired woman at garden gate. Adult anime faces, natural nonsexual poses, opaque outfits, clear clock space, no unwanted people or lettering. 42 hair rendered warm olive-brown rather than saturated sage."
+  },
+  "visible_description": "蜜金编发女性沿荷塘缓缓走过，双手在腰前轻握折扇，淡粉长裙与水面荷花相映。"
+}

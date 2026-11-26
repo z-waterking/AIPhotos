@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-80-glass-skybridge-coffee-pause.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-80-glass-skybridge-coffee-pause.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "珍珠粉长发女性在透明城市天桥双手捧咖啡，粉白服装与晨雾楼群形成精致都市感。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 26-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Give her warm gray eyes, subtly defined adult cheekbones, a small straight nose, and a relaxed confident smile. Pearl-pink hair flows from a low ponytail. She wears an opaque dove-gray short-sleeved tailored blouse, ivory relaxed trousers, and pink-accented flat sneakers. At a clean glass skybridge overlook, she holds a plain reusable coffee cup in both hands near her chest while enjoying the view. Her posture is upright and comfortable, with shoulders gently lowered. Tall rounded buildings fade into morning haze beyond a transparent railing, and a single slender indoor tree softens the architecture. Keep all surfaces free of logos. Use pearl pink, dove gray, white, and muted pale blue, with diffuse sunlight and carefully controlled glass highlights. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:33:05.273087+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "61931c65550bf22a6e2fc3ef04bb216755349f918070a18aa1006108f0cfc3cb",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 80,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 26,
+    "hair": "pearl pink, long straight hair in a low ponytail with a center part",
+    "title": "玻璃天桥咖啡小憩",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cobalt bob checking wrist device, rose ponytail with coffee on skybridge, gray curls and tablet at solar garden, peach bob holding flower, indigo braid with museum brochure, plum waves adjusting ribbon under canopy. Mature adult anime designs, coherent visible hands and natural poses, opaque summer attire, clear upper space. No bystanders, lettering or anatomy defects apparent."
+  },
+  "visible_description": "珍珠粉马尾女性在透明城市天桥双手捧咖啡，灰紫衬衫、奶白长裤与晨雾楼群形成精致都市感。"
+}

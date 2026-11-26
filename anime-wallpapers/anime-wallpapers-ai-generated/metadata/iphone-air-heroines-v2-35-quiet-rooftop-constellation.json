@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-35-quiet-rooftop-constellation.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-35-quiet-rooftop-constellation.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "黑色齐肩发女性在屋顶花台边轻靠，风吹衬衫衣角与耳侧发丝。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 29 years old, with glossy midnight-black shoulder-length hair with a clean side part and softly turned ends. She has mature, self-assured elegance and realistic adult proportions. Give her long dark lashes, cool gray eyes, a sculpted yet gentle face, and a small knowing smile that feels friendly. She wears an opaque pale-lilac short-sleeved linen shirt and charcoal-blue pleated culottes, with understated silver stud earrings. Her forearms rest naturally together on a narrow rooftop railing, hands loosely folded, while her torso remains upright and comfortably aligned. Keep the railing at a believable height. Low planters contain white asters; distant city lights dissolve into soft bokeh. A few subtle constellation points occupy the twilight sky, with moonlight and warm window reflections balancing the palette. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:07:43.667398+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "92af24d0ac06b0c0e776779c4950ab5b160f04a8084902993d4a46c25323bcbc",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 35,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "glossy midnight-black shoulder-length hair with a clean side part and softly turned ends",
+    "title": "星座屋顶的安静微笑",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected. 34 mint bob watering ferns, 35 black shoulder-length hair and relaxed folded hands at rooftop railing, 36 lavender waves holding a pear and fruit basket. Polished adult anime faces, opaque summer clothing, central framing and clear upper space. No visible extra limbs, bystanders or text."
+  },
+  "visible_description": "黑色齐肩发女性在屋顶花台边轻靠，风吹衬衫衣角与耳侧发丝。"
+}

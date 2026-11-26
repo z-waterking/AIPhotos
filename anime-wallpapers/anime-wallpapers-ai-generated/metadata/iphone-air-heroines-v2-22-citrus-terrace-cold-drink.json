@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-22-citrus-terrace-cold-drink.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-22-citrus-terrace-cold-drink.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "海盐绿短发女性在白色露台端起冷饮，珊瑚橙短袖裙与亮蓝天空形成清新对比。",
+  "composition_variation": "Create a fresh original anime illustration of a visibly adult 25-year-old woman enjoying a citrus drink on a white cafe terrace. Give her lively golden-brown eyes, clean brows, a softly sculpted oval face, a straight small nose, and a warm assured smile. Her seafoam-green short bob has natural volume and an off-center part. She wears an opaque coral-orange cotton midi dress with short sleeves, a modest boat neckline, a loose tie belt, and white flat sandals. Seated upright in a simple wicker chair, she raises a glass of sparkling orange water only to mid-chest height, looking toward the viewer as if acknowledging a pleasant greeting. Her other hand rests naturally on the armrest, and both feet remain planted. A low round table holds a lemon slice on a plain white plate; a single terracotta citrus pot sits behind the chair. Keep the citrus foliage confined to the lower side of the frame. Bright filtered daylight creates clean white highlights and gentle mint shadows. Aim for refined anime beauty, realistic transparent glass, soft woven textures, and an open inviting summer atmosphere. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:16:51.521462+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e489ea645318a11a1fdeb86d6797d349f3895202c04db1674c8cdbf98fe3d6f9",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 22,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "Seafoam-green short bob with natural volume and a soft off-center part",
+    "title": "柑橘露台冷饮",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet checked: strawberry tart at cafe, pouring jasmine tea on rooftop, placing bookmark in book, raised citrus drink on terrace, bouquet by bakery, and daisy arrangement in courtyard. Attractive adult anime faces, natural coherent hands, nonsexual opaque clothes, clear upper clock space and no unwanted people or lettering."
+  },
+  "visible_description": "海盐绿短发女性在白色露台端起冷饮，珊瑚橙短袖裙与亮蓝天空形成清新对比。"
+}

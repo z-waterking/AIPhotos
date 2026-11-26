@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-13-hydrangea-fountain-pause.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-13-hydrangea-fountain-pause.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "浅紫灰短发女性在绣球花与小喷泉间停步，烟蓝短袖裙和银色耳饰衬托清透五官。",
+  "composition_variation": "Develop an original anime summer wallpaper of a clearly adult 27-year-old woman taking a brief pause beside a small garden fountain. Her attractive features include translucent green-gray eyes, a neat straight nose, balanced brows, smooth light skin, and a confident but gentle closed-mouth smile. A lavender-gray jaw-length bob curves softly toward her cheeks, with airy side-swept bangs. Dress her in a fully opaque smoky-blue cotton midi dress with short sleeves, a modest round neckline, softly pleated waist, and light silver-gray sandals. She stands comfortably near the stone fountain rim, holding a folded paper garden map in both hands at waist level. The map should show abstract shapes only, without letters. Her head turns toward a cluster of blue hydrangeas as if deciding which path to take next. Keep the small fountain jet and flower clusters low behind her, with pale paving and a distant line of trees softened into color. Clean midday light is filtered by thin cloud, producing bright skin tones without harsh shadows. The overall palette is lavender, powder blue, cool stone, and leafy green. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:15:17.692604+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0b47e2fb1c36e336d675819295ae3f37fc0c4b08e6aeb07172c7b538d6be8e83",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 13,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Lavender-gray jaw-length bob with airy side-swept bangs",
+    "title": "绣球喷泉小憩",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 13 lilac bob with map by hydrangea fountain, 14 brunette and orange basket, 15 teal waves watering rooftop herbs, 16 compact seated sandal adjustment, 17 short-haired woman with espresso, 18 gray-haired woman choosing a vinyl sleeve. Complete hands and secure opaque clothing, attractive adult faces, adequate clock area, no bystanders or text. 16 includes the sandal and both hands in the crop."
+  },
+  "visible_description": "浅紫灰短发女性在绣球花与小喷泉间停步，烟蓝短袖裙和银色耳饰衬托清透五官。"
+}

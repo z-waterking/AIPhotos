@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-60-violet-dawn-lake-herb-basket.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-60-violet-dawn-lake-herb-basket.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "紫黑编发女性提着香草篮走过湖畔木栈道，黎明湖色与浅杏裙装清新安静。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 28 years old, with violet-black hair arranged in a braided crown with the remaining length falling softly down her back. She has mature, self-assured elegance and realistic adult proportions. Give her luminous blue-violet eyes, a softly sculpted face, straight delicate brows, and a gentle self-assured smile. She wears an opaque pale-apricot sleeveless collared linen dress with a comfortable waist and a calf-length hem, paired with simple woven flats. Walking slowly along a wide lakeside wooden deck, she carries a small wicker herb basket in both hands directly in front of her waist. Mint and rosemary leaves rise only slightly above its rim. A tiny distant boathouse and still reed reflections sit low behind her. Pale peach dawn, lavender water, and subtle green accents make a tranquil final image. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:26:37.933789+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "6536fe90a74ae5eff9eda456bca7b5f209da6d8e2310c180dde7381a2be4df00",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 60,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "violet-black hair arranged in a braided crown with the remaining length falling softly down her back",
+    "title": "紫黑长发与晨湖香草篮",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: ice-blue waves and hat at waterfall lookout, coral braid holding sea lavender, strawberry bob tying sneaker on alpine path, black hair drinking tea beneath ginkgo, violet hair carrying herb basket by lake. Adult figures, natural varied postures, complete key hands, opaque clothes and usable clock space. 58 compact crouch includes shoe and hands; no extra people or text."
+  },
+  "visible_description": "紫黑编发女性提着香草篮走过湖畔木栈道，黎明湖色与浅杏裙装清新安静。"
+}

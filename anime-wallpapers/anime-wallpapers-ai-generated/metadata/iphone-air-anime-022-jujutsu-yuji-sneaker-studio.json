@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-022-jujutsu-yuji-sneaker-studio.png",
+  "refined_prompt": "../prompts/iphone-air-anime-022-jujutsu-yuji-sneaker-studio.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "虎杖坐在彩色工作室的小凳上系鞋带，粉橘发色与天蓝色地面清爽呼应。",
+  "composition_variation": "Create a playful graphic anime wallpaper of Yuji Itadori seated on a low round stool in a bright sneaker studio. Preserve his short pink hair, warm brown eyes, and friendly youthful expression, without additional facial markings. Dress him in a loose red hoodie, black joggers, and comfortable white sneakers. He bends slightly forward to adjust one shoe tongue, keeping the hands simple and visible. Use sky-blue flooring, warm coral geometric panels, soft cream light, and broad uncluttered upper color fields. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:06:17.630505+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "aedae16e6e6dd7a4ff4289417f017702956b67d86d40bf1225237157e77145b1",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 22,
+    "category": "jujutsu",
+    "franchise": "咒术回战",
+    "title": "虎杖的球鞋午后",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "虎杖坐在彩色工作室的小凳上系鞋带，粉橘发色与天蓝色地面清爽呼应。"
+}

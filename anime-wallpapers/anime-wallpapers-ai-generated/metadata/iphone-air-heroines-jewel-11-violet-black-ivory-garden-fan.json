@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-11-violet-black-ivory-garden-fan.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-11-violet-black-ivory-garden-fan.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "乌黑泛紫的长发编成松软侧辫，发丝以紫晶色高光表现，浅紫灰双眼，成熟秀丽的长椭圆脸，优雅而亲切。她侧坐在庭院石阶上，躯干自然挺拔并转向镜头，一手将小巧的无字珊瑚色折扇展开在胸口下方，另一只手轻放膝上，双眼完整，唇边带浅笑。头顶至大腿上部近景。穿不透明奶油白短袖衬衫与紫色细格中长裙。兰花紫花墙、翡翠绿叶、热粉门窗位于边缘，顶部保留明亮蓝绿天空，柔光均匀照亮脸。",
+  "composition_variation": "乌紫侧辫女性穿奶白衬衫与紫格裙侧坐庭院石阶，手持珊瑚色小折扇，兰花紫花墙和翡翠绿叶衬托精致面容。",
+  "created_at": "2026-10-13T17:12:14.147060+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0556bf7e54eebbe48f48056473b3453fe91860d06e69718f338abec9ed8d8dc5",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 11,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "乌黑泛紫长发松散侧辫",
+    "title": "乌紫花影轻扇",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet and face detail. Dark violet side braid, readable pale violet eyes, elegant mature face. Coral fan naturally held at torso, other arm resting across lap; opaque white blouse and purple plaid skirt. Purple flowers and blue sea frame subject, no text, unwanted people or evident anatomical defects."
+  },
+  "visible_description": "乌紫长侧辫女性穿奶白衬衫与紫格裙侧坐花园石阶，手持珊瑚色小折扇，紫花与青蓝海天衬托精致面容。"
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-47-moonlit-piano-plum-updo.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-47-moonlit-piano-plum-updo.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "梅紫色盘发女性坐在月光窗边弹奏小钢琴，雾蓝空间中点缀柔和暖光。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 30 years old, with deep plum hair arranged in a loose low chignon with elegantly curved side pieces. She has mature, self-assured elegance and realistic adult proportions. Her face has calm violet-gray eyes, a refined nose, softly defined cheekbones, and a focused peaceful expression. She wears an opaque pale-silver short-sleeved blouse with a modest jewel neckline and a flowing blue-gray midi skirt. Seated with a straight comfortable back at a compact upright piano, she places both hands naturally on adjacent central keys, elbows close to her sides. Show a restrained three-quarter view so her face remains clear without changing the eye-level camera. A large window suggests moonlit clouds and a distant garden. Cool blue tones and one small amber lamp create an elegant, quiet nocturne. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:23:23.895508+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "005151977693988c6a4d025361b34e52f213bf6fd0142002f39a8b9af854385e",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 47,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "deep plum hair arranged in a loose low chignon with elegantly curved side pieces",
+    "title": "月光钢琴与梅紫盘发",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: silver braid reading beneath wisteria, peach bun with cactus pot, blue bob displaying waterlily painting, brunette with tambourine, plum updo playing piano and white braid with small harp. Attractive adult faces, coherent hands, varied art activities, secure opaque attire and quiet upper space. No extra people, unwanted text or evident anatomy defects."
+  },
+  "visible_description": "梅紫色盘发女性坐在月光窗边弹奏小钢琴，雾蓝空间中点缀柔和暖光。"
+}

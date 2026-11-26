@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-16-silver-wolfcut-cyan-wind.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-16-silver-wolfcut-cyan-wind.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "银辉晴风：回到银白短狼尾与紫晶眼睛方向，以柔和鹅蛋脸、圆顺下颌、轻盈肩线、宝蓝薄夹克及白T恤塑造漂亮而英气的成年女性，电青天空、玫红墙面、柠檬黄栏杆形成高饱和撞色。",
+  "composition_variation": "Eye-level near-frontal head-to-upper-thigh portrait, slight head tilt, one hand gently lifting jacket collar and the other in trouser pocket, airy hair and lighter shoulder silhouette.",
+  "created_at": "2026-10-13T17:58:03.692207+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "6ffd337aa2c2f9ae7ae3172f5b87987951fe3d211510005784deceabc6fe8e07",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-silver-cyan-revision/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 16,
+    "category": "jewel-color-confident-street-fashion",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Soft pearl-white short wolf cut with blue-violet shadows and fine neck wisps",
+    "title": "银辉晴风 · 电青玫红",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 JPEG. One adult original woman, soft silver-white layered wolf cut, clear violet eyes, gentler oval face and lively slight smile. Coherent hand at collar and other hand in trouser pocket; opaque cobalt jacket, full white shirt and dark trousers. Saturated cyan sky, pink wall, orange lining and yellow fasteners. No visible pseudo-text, watermark, additional people or evident anatomy defects."
+  },
+  "visible_description": "银白蓬松短狼尾女性微微偏头浅笑，紫晶眼睛与柔和鹅蛋脸清晰可见；一手轻提宝蓝夹克领边、一手插袋，电青天空和玫红墙面衬着橘黄细节。"
+}

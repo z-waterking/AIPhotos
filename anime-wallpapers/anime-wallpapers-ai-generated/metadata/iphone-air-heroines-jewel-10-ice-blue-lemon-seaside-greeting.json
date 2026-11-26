@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-10-ice-blue-lemon-seaside-greeting.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-10-ice-blue-lemon-seaside-greeting.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "冰蓝齐颈短发，轻薄侧分刘海，清透灰绿色杏眼，端正鹅蛋脸与秀丽眉形。她沿海边步道迎面走来，身体略微侧向，一只手在肩侧自然轻挥，手掌朝镜头但不靠近镜头而夸大，另一手放松靠在腰边；眼神明亮，微笑自然。头顶至大腿上部近景，双眼完整清晰。穿不透明柠檬黄短袖棉上衣与钴蓝高腰阔腿裤。背景电光蓝海水、翡翠绿栏杆、少量洋红花簇及干净宝蓝天空，冷发色与暖衣色对比明快。",
+  "composition_variation": "冰蓝齐颈短发女性穿柠檬黄上衣与钴蓝长裤，在海边步道朝镜头轻挥手，电蓝海水和洋红花簇映出清爽气质。",
+  "created_at": "2026-10-13T17:12:00.685036+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "1a941534b45a83b2e355c188c03811a58e122eb60ee3e4eb5d61fce9a769da67",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-nine-hair-colors/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 10,
+    "category": "jewel-color-hair-variation",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "冰蓝色齐颈短发",
+    "title": "冰蓝柠檬晴浪",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet and face detail. Ice-blue bob, clear gray-green eyes, lively adult smile, opaque yellow shirt and blue trousers. Raised waving hand is partly cropped at left border, with coherent visible fingers and forearm; other arm rests by waist. Clean blue upper sky, no text or extra people."
+  },
+  "visible_description": "冰蓝齐颈短发女性穿柠檬黄上衣与钴蓝长裤，在海边步道朝镜头轻挥手，青蓝海水映出清爽明朗的笑容。"
+}

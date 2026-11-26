@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-79-future-transit-garden-platform.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-79-future-transit-garden-platform.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "电光蓝短发女性在简洁空中车站查看腕间导航，白色建筑与浅绿植被构成柔和科幻感。",
+  "composition_variation": "Create an original high-quality 2D anime illustration of one beautiful 27-year-old adult woman with youthful adult vitality and a mature, self-assured presence. Her face features luminous blue-gray eyes, cleanly shaped brows, a refined jawline, and a composed, curious smile. Electric-cobalt hair forms an elegant asymmetrical bob. Dress her in an opaque white sleeveless structured cotton top with a modest neckline, loose pale-gray trousers, and streamlined blue walking shoes. She stands at an empty elevated transit-garden platform and checks a small wrist device, lightly touching it with her opposite hand at mid-torso. Its display is a subtle unreadable glow. Rounded white architecture, a narrow planted strip, and distant glass towers suggest a humane futuristic city. Avoid busy signage or cyberpunk clutter. Use white, cobalt, pale mint, and soft silver, with airy morning light and restrained reflections. Use an eye-level camera and a calm three-quarter-length portrait. Place her centrally in the middle and lower frame, entirely inside a narrow phone-safe composition; keep hands close to her torso. Reserve the upper 25% as uncluttered light atmosphere for the lock-screen clock. Natural anatomy, opaque clothing, no text, no logos, no additional people.",
+  "created_at": "2026-10-12T11:32:16.348053+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "4c50c0b9f62469f529410b930cbf5023a3255922d4b090e56b7752fc27acfa20",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 79,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "electric cobalt blue, clean asymmetrical bob with a soft undercurve",
+    "title": "未来车站的空中花园",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: cobalt bob checking wrist device, rose ponytail with coffee on skybridge, gray curls and tablet at solar garden, peach bob holding flower, indigo braid with museum brochure, plum waves adjusting ribbon under canopy. Mature adult anime designs, coherent visible hands and natural poses, opaque summer attire, clear upper space. No bystanders, lettering or anatomy defects apparent."
+  },
+  "visible_description": "电光蓝短发女性在简洁空中车站查看腕间导航，白色建筑与浅绿植被构成柔和科幻感。"
+}

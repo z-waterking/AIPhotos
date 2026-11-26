@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-51-rose-braid-textile-atelier.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-51-rose-braid-textile-atelier.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "玫瑰粉发女性在明亮工坊整理植物印花布，蓝色长裙与轻盈亚麻衬衫自然舒展。",
+  "composition_variation": "Create an original premium 2D anime wallpaper of exactly one woman, visibly 29 years old, with muted rose-pink hair braided into a low circular bun with wispy side bangs. She has mature, self-assured elegance and realistic adult proportions. Her beautiful face has soft brown eyes, defined brows, subtle cheekbone shadows, and an intelligent gentle smile. She wears an opaque cream short-sleeved linen blouse with a modest round neckline and a flowing slate-blue ankle-length skirt. Standing behind a narrow worktable, she carefully aligns the two corners of a small botanical-print cloth, keeping both hands close together in front of her. No needles or scissors are visible. A few neatly folded textiles and one vase of grasses add restrained detail. A tall window provides soft cool daylight, with warm peach reflected light lifting her features and the natural fabric textures. Frame at eye level for a very tall phone crop. Keep her face, body, and hands inside the central narrow column, in the middle and lower image; leave the upper 25% calm and mostly empty for the clock. Natural nonsexual posture, opaque summer clothing, graceful anatomy, small readable hands close to her body. Refined linework, layered cel shading, painterly light, no text, logos, other people, or copied characters.",
+  "created_at": "2026-10-12T11:24:49.957059+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "cd6433b7dd7ebfc14c57a5a7730c78fb7c320b821d9747287cba8fda8e5f28d0",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 51,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "muted rose-pink hair braided into a low circular bun with wispy side bangs",
+    "title": "玫瑰粉编发的布艺工坊",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: auburn-haired listener with headphones, turquoise pixie shaping pottery, rose updo with embroidery hoop, raven bob sketching sculpture, forest-green hair with wooden flute, lavender ponytail holding violin at sunset. Adult anime faces, distinct activities and palettes, coherent visible hands and secure opaque clothing; no extra people, text or obvious anatomy defects."
+  },
+  "visible_description": "玫瑰粉盘发女性在明亮工坊手持绣绷与植物图案布，白色短袖上衣和蓝色长裙温雅清爽。"
+}

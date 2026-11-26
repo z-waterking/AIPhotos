@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-04-lemon-ferry-scarf.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-04-lemon-ferry-scarf.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "蜜金长发女性在渡口轻整颈巾，海军蓝套装与柠檬黄细节显得明快利落。",
+  "composition_variation": "Illustrate a stylish original anime woman, clearly 28 years old, waiting at a sunlit coastal ferry landing. Her beauty is polished and approachable: almond-shaped brown eyes, well-defined brows, a neat nose, smooth warm skin, and an assured closed-mouth smile. Honey-blonde hair is gathered in a loose low ponytail, with two fine strands framing her cheeks. She wears an opaque navy sleeveless boat-neck top, cream wide-leg summer trousers, low white shoes, and a small lemon-yellow silk neck scarf. Capture a small practical gesture as she adjusts the scarf knot with one hand near her collarbone while the other carries a compact structured handbag at thigh level. Her shoulders are relaxed and her weight settles naturally onto one leg. A simple yellow ferry appears far behind a clean low railing, with turquoise water and distant cream buildings. Use warm yellow accents sparingly against navy, ivory, and aqua. Early summer light illuminates her face evenly, with soft reflected brightness beneath her chin and subtle airy movement in the ponytail. Keep the mood adventurous, elegant, and pleasantly calm. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:11:16.783443+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "3eefe576059f40f15b03bfe5e562597633c9aea07846ce88ef60154347ae8ae9",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 4,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Honey-blonde long hair gathered into a low ponytail with soft face-framing strands",
+    "title": "柠檬色渡口",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed contact sheet: 01 seaside turn in cobalt skirt, 02 silver bob studying shell, 03 seated brunette sketching harbor, 04 blonde adjusting scarf by ferry, 05 pink braid holding gelato, 06 violet hair and straw hat by lighthouse. Pleasant adult anime faces, distinct palettes, coherent hands, clothing and central crops; clear clock space and no unwanted text or people."
+  },
+  "visible_description": "蜜金马尾女性在渡口轻整柠檬黄颈巾，海军蓝无袖上衣与奶白阔腿裤显得明快利落。"
+}

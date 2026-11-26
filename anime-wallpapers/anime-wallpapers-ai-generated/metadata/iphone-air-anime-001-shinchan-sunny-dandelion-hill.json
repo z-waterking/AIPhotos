@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-001-shinchan-sunny-dandelion-hill.png",
+  "refined_prompt": "../prompts/iphone-air-anime-001-shinchan-sunny-dandelion-hill.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "小新穿经典红上衣与黄色短裤，坐在春日小山坡上看蒲公英，蓝天留白。",
+  "composition_variation": "Create a bright hand-painted cel illustration of Shinnosuke Nohara from Crayon Shin-chan sitting sideways on a small grassy hill. He wears his familiar red shirt, yellow shorts, socks, and shoes, entirely age-appropriate. His distinctive thick eyebrows and rounded cheek face a single drifting dandelion seed. Keep his small silhouette in the lower half, with scattered buttercups, rounded clouds near the horizon, pale cyan sky, and warm sunlight. His hands rest naturally on the grass. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T18:59:46.556962+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "9773511d46ae6e01e46f385f6a3773005e49ef7de3d4ae11ec64bd458edd3b5f",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 1,
+    "category": "shinchan",
+    "franchise": "蜡笔小新",
+    "title": "蒲公英小山坡",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "小新穿经典红上衣与黄色短裤，坐在春日小山坡上看蒲公英，蓝天留白。"
+}

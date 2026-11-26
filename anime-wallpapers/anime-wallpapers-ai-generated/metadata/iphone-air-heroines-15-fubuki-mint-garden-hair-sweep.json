@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-heroines-15-fubuki-mint-garden-hair-sweep.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-15-fubuki-mint-garden-hair-sweep.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "吹雪穿薄荷绿无袖夏裙，在明亮庭院中一手拢发、一手扶栏，姿态利落自信。",
+  "composition_variation": "Create an original anime depiction of adult Fubuki, with her recognizable dark emerald bob, vivid green eyes, and refined beautiful face. Dress her for summer in an opaque mint-green sleeveless sundress with a secure neckline and a softly structured above-knee skirt, paired with comfortable white sandals. She pauses mid-step in a bright courtyard, weight resting naturally on one leg, one hand brushing windblown hair beside her temple, and the other resting lightly on a nearby curved railing. Her expression is poised and subtly playful, and her elbows remain close enough for a narrow wallpaper crop. Use mint, deep forest green, white hydrangeas, and cool turquoise reflections. Nonsexual everyday scene, one character, no combat. Leave spacious pale atmosphere above; head near forty percent height, face and both hands entirely centered.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T14:03:05.794832+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e8506c8b268deecc4820b67b9f61fe2e352a639598bdfbc7c1d733eb9229f382",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-11-19/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 15,
+    "category": "summer-heroines-second",
+    "franchise": "一拳超人",
+    "title": "薄荷晴庭",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects.",
+    "character": "Fubuki"
+  },
+  "visible_description": "吹雪穿薄荷绿无袖夏裙，在明亮庭院中一手拢发、一手扶栏，姿态利落自信。"
+}

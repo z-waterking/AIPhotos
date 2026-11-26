@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-07-teal-cherry-garden-blossom.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-07-teal-cherry-garden-blossom.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "深青短卷发、灰蓝眼女性穿樱桃红短袖裙，双手在身前轻捧一朵小白花，微微俯身朝镜头笑，金色花丛温暖明亮。",
+  "composition_variation": "Design a beautiful new adult woman aged 28 with dark-teal chin-length wavy bob, softly curled ends, gray-blue eyes, a fuller refined adult oval face, graceful nose and a bright affectionate smile. Rich cherry-red opaque short-sleeved summer dress, secure boat neckline, fitted cloth waist and gently flared skirt; tiny golden leaf earrings. She leans forward only slightly from the hips in a friendly conversational gesture, both hands close together at lower chest height gently cupping a small white garden blossom. Elbows relaxed and shoulders asymmetrical, head tilted a little so her eyes meet the viewer. This is a close head-to-upper-thigh portrait, with especially large face presence, readable fingers and fine detail around eyes and hair. No extreme bending or body-part focus. Light turquoise sky above, cream-gold flower clusters and emerald-blue foliage at lower edges, a warmly lit orange garden path behind. Preserve the uploaded reference’s exquisite fine anime linework, warm clear skin, saturated yet natural outdoor palette, gold-lit hair edges and sharp layered dress folds. The single blossom is a small accent; face and charm dominate. No busy prop collection or artificial neon graphic shapes.",
+  "created_at": "2026-10-12T15:50:48.905352+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "164c69f3ce1292a08ea0361c982501102ba65528d95df98b25262d82f269fe48",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 7,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "dark teal chin-length wavy bob with softly curled ends",
+    "title": "青发绯花",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: violet waves adjusting hair in warm orange-apricot dress, copper braid looking back with hands linked behind in yellow dress, teal bob leaning slightly forward holding white blossom in cherry dress. Close refined adult anime faces, radiant eyes, gold-lit strands and natural turquoise garden style match uploaded reference. Coherent visible hands, distinct poses and no unwanted people or text; outer lowered hand of 05 partially framed off at edge."
+  },
+  "visible_description": "深青短卷发、灰蓝眼女性穿樱桃红短袖裙，双手在身前轻捧一朵小白花，微微俯身朝镜头笑，金色花丛温暖明亮。"
+}

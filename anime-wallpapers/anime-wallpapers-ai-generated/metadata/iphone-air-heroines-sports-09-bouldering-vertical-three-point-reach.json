@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-sports-09-bouldering-vertical-three-point-reach.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sports-09-bouldering-vertical-three-point-reach.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "酒红编发女性在低位抱石墙横向移重，一手伸向荧黄岩点、另三点稳定支撑，洋红与青蓝墙面充满力量。",
+  "composition_variation": "STRICT NARROW PORTRAIT STAGING. On the native 1024-pixel-wide canvas, the ENTIRE athlete, every fingertip, every shoe and complete sports equipment occupy ONLY the central x270..754 strip, maximum 484 pixels wide. The two outer 25-percent vertical strips contain background color only. Pull the camera BACK and make the figure smaller if necessary. Do not crop hands, shoes, ball, racket or climbing holds. Reserve top 22 percent clear, and keep subject bottom above 94 percent. The subject is a full-body figure with breathing room, not a close-up. This spatial requirement takes priority over filling the frame. Use a narrow vertical low bouldering problem: feet on holds directly below the hips, one knee bent outward only slightly. Left hand on a hold beside shoulder; right hand reaches to a hold directly above her own head. Entire hands, every contact hold and both feet must be visible, no wide horizontal split or stretching across the canvas.\n\nA gorgeous original adult anime climber aged 29 with burgundy hair braided around the crown into a practical short ponytail, luminous turquoise eyes, beautiful refined adult features and a focused satisfied smile. She wears an opaque turquoise short-sleeved athletic T-shirt, flexible charcoal full-length climbing trousers and snug yellow climbing shoes. Show a real low bouldering traverse just above a visible padded mat. Three-quarter side view with face turned enough to read clearly: one hand grips a cobalt hold near shoulder level, both feet stand on two distinct low holds, hips stay close to the wall, one knee bends outward for balance. The remaining hand reaches toward a single neon-yellow hold slightly above and across from her shoulder. Three stable contact points while reaching, not four limbs airborne. Hands contact actual holds with believable fingers, shoe toes planted precisely, no limb crossing through the wall. Compose a strong ascending zigzag while retaining both hands and feet centrally. Saturated magenta climbing wall with cyan facets, lemon-yellow and cobalt holds, deep violet cast shadow and small coral rim accents. Leave the upper fifth as quiet magenta wall without holds for the clock. Full athletic figure large enough for face detail, exquisite clean anime rendering, believable functional posture and practical nonsexual sportswear.\n\nFINAL COMPOSITION CHECK: large empty side margins on the native image, all athletic action and equipment in the central 48-percent width, entirely inside x270..754. No element of the human figure extends to an image edge. Beautiful precise face and bright explosive colors remain, but do not enlarge the figure beyond that safe central column.",
+  "created_at": "2026-10-12T14:53:34.862132+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "4607c501c856608b074255dd32d1c222a23a2456e2176ab235c3aadbb4032ce6",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sports-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 9,
+    "category": "explosive-color-sports-nine",
+    "character": "Original adult character",
+    "age": 29,
+    "hair": "burgundy braided crown feeding into a short ponytail",
+    "title": "绯紫攀跃",
+    "visual_review": "passed",
+    "visual_review_notes": "Revised compressed contact sheet inspected: sole-control football turn, low two-foot rope skip with two handles and full loop, compact table-tennis forehand with complete paddle and one visible white ball, and vertical bouldering with both hands and shoes contacting holds. Adult anime faces, natural sportswear, strong complementary color and different weight/limb patterns. Equipment and key contacts now inside final crop; no unwanted text or additional people."
+  },
+  "visible_description": "酒红编发女性在亮粉抱石墙向上抓握荧黄岩点，另一手与双脚稳稳接触岩点，青蓝衣装与墙面形成强烈撞色。"
+}

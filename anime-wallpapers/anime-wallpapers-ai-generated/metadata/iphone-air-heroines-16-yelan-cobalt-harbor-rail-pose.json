@@ -1,0 +1,42 @@
+{
+  "output": "../iphone-air-heroines-16-yelan-cobalt-harbor-rail-pose.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-16-yelan-cobalt-harbor-rail-pose.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "夜兰穿钴蓝无袖上衣和白色休闲短裤，轻倚海港栏杆，一膝自然弯起，眼神洒脱。",
+  "composition_variation": "Draw a vibrant original anime wallpaper starring adult Yelan, keeping her asymmetric dark-blue bob with bright blue ends, green eyes, and elegant silver-blue accessories. Her beautiful face carries an easy confident smile. Reimagine her in an opaque cobalt sleeveless summer top with a secure neckline, relaxed white shorts, and flat sandals. She lightly leans beside a harbor railing, one knee comfortably bent, torso upright and shoulders relaxed. One visible hand rests on the rail close to her hip; the other casually holds sunglasses near her collarbone. Keep the viewpoint level and fashion-focused. Use cobalt, turquoise, white boats, and glowing late-afternoon water for a refreshing palette. One adult character, no weapons or suggestive emphasis. Preserve the upper quarter as quiet sky, head near forty percent height, with both hands inside the central crop.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-10T14:03:12.015748+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "8772d4f20df15145b1c582e1db401af189a98ac9ec0f0276c8c54e4799cf7c72",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory heroine-summer-11-19/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 16,
+    "category": "summer-heroines-second",
+    "franchise": "原神",
+    "title": "蓝调港风",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects.",
+    "character": "Yelan"
+  },
+  "visible_description": "夜兰穿钴蓝无袖上衣和白色休闲短裤，轻倚海港栏杆，一膝自然弯起，眼神洒脱。"
+}

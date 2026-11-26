@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-12-rose-steps-paperback.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-12-rose-steps-paperback.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "酒红波浪发女性坐在玫瑰园石阶上翻书，米白上衣搭森林绿长裙，气质沉静成熟。",
+  "composition_variation": "Create a polished original anime illustration of a 28-year-old woman reading on broad stone steps at the edge of a rose garden. Her face is mature and striking, with clear amber eyes, softly lifted brows, a refined nose, subtle cheekbone structure, and a small absorbed smile. Burgundy shoulder-length waves fall from an elegant side part. She wears an opaque ivory short-sleeved blouse with a high soft collar, a forest-green ankle-length skirt, and comfortable dark tan ballet flats. She sits upright on the wide step, legs resting naturally together to one side and both feet supported on the next step. A plain paperback lies open in her hands at waist height; she is caught gently turning one page. The pages contain only faint abstract lines without legible text. Low blush roses and rounded clipped hedges frame the stairs while the upper background remains simple pale sky. Warm late-afternoon light touches her hair and the stone, balanced by cool green shade. Emphasize delicate hands, believable seated anatomy, and a calm independent presence rather than a staged glamour pose. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:13:04.007577+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "885900b659c63beeef39d2db86d0d89cf5d62eed3eff4a7abbf50644084adf07",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 12,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Burgundy shoulder-length waves with an elegant side part",
+    "title": "玫瑰石阶读书",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 07 teal bob and lemonade at wooden pier, 08 copper bob reviewing camera, 09 blonde walking through irises, 10 brunette tending potted fern, 11 blue-gray braid painting by lotus pond, 12 burgundy bob reading on garden steps. Adult faces, varied natural gestures, secure opaque outfits and clean clock space; no unwanted people, text or evident anatomy errors."
+  },
+  "visible_description": "酒红波浪发女性坐在玫瑰园石阶上翻书，米白上衣搭森林绿长裙，气质沉静成熟。"
+}

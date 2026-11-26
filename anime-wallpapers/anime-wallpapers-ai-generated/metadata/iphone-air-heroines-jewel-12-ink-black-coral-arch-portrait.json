@@ -1,0 +1,49 @@
+{
+  "output": "../iphone-air-heroines-jewel-12-ink-black-coral-arch-portrait.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-12-ink-black-coral-arch-portrait.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "墨发绯墙：长鹅蛋脸略带柔和方形骨架、舒展长眼、适度高颧骨、圆润宽下巴和自然成年比例；墨蓝黑锁骨发与宝蓝上衣，绯橘拱墙、青绿海水和洋红花卉形成浓烈撞色。",
+  "textual_face_inspiration": {
+    "public_figure": "Ni Ni / 倪妮",
+    "role": "Text-only inspiration for elongated eyes, cheekbone-to-jaw structure and relaxed adult expression; original illustrated character.",
+    "photograph_used": false,
+    "identity_preserved": false
+  },
+  "composition_variation": "Head-to-waist editorial anime portrait, gentle shoulder angle and near-frontal gaze, larger natural-proportion face, no hand prop.",
+  "created_at": "2026-10-13T17:23:07.531411+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "87f9f1fe89f2e55c744322af67a09ef203abb59a92333639a091075a5963b546",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-face-redesign/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 12,
+    "category": "jewel-color-distinct-face-study",
+    "character": "Original adult character",
+    "age": 28,
+    "hair": "Ink-black collarbone-length side-parted hair with deep blue highlights",
+    "title": "墨发绯墙 · 舒展东方骨相",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 JPEG of canonical wallpaper. Distinct adult face with elongated almond eyes, moderate iris size, fuller natural lips, visible nose planes and rounded jaw-to-chin contour. Ink-black collarbone bob, gold hoop earring and opaque blue top. The rendering is semi-realistic hand-painted anime/editorial portraiture, with a large legible face, coherent shoulder and neck anatomy, cyan sea/sky, coral wall and magenta flowers. No visible hands, text, watermark or additional people."
+  },
+  "visible_description": "墨黑锁骨短发女性穿宝蓝上衣侧身望向镜头，舒展长眼、清晰颧骨与圆润下颌呈现成熟骨相；青蓝海天、绯橘墙与洋红花枝构成近景肖像背景。"
+}

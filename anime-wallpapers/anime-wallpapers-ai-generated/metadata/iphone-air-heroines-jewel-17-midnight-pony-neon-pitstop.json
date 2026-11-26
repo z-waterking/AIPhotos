@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-jewel-17-midnight-pony-neon-pitstop.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-jewel-17-midnight-pony-neon-pitstop.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "午夜电光：27岁成年原创女性，黑高马尾与电蓝挑染，黑白骑行夹克和深色长裤，双手放在膝前侧坐停稳机车休息；电青洋红霓虹与雨后倒影构成夜景。",
+  "composition_variation": "Head-to-knee close portrait of one adult woman sitting on a parked motorcycle, both forearms resting together on one knee, head turned toward the viewer, strong cyan and magenta nocturnal light.",
+  "created_at": "2026-10-13T19:09:17.352493+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "fa11589673db17aae78921c8a09958ebadc6200c21bd436517b18f77fb8b4cb6",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory jewel-midnight-rider/native. Canonical wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 17,
+    "category": "jewel-color-neon-night-rider",
+    "character": "Original adult character",
+    "age": 27,
+    "hair": "Black high ponytail with an electric-blue accent strand",
+    "title": "午夜电光 · 霓虹骑手",
+    "visual_review": "passed",
+    "visual_review_notes": "Inspected compressed 589x1280 canonical preview. One adult woman with refined anime face, black ponytail and cyan highlights. Two coherent sleeved arms rest over the same knee; near hand is visible and the farther hand extends partly beyond the right crop. Opaque black-white jacket and dark trousers, seated on stationary motorcycle. Vivid cyan and magenta wet-street light, clear upper night sky. No extra limbs, text, watermark or other people."
+  },
+  "visible_description": "黑色高马尾带电蓝挑染的成年女性穿黑白骑行夹克，侧坐停稳机车，双前臂松搭膝上并回头浅笑；电青与洋红霓虹照亮雨后街景。"
+}

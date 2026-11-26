@@ -1,0 +1,61 @@
+{
+  "output": "../iphone-air-heroines-sunlit-09-peach-ivory-ribbon-turn.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-sunlit-09-peach-ivory-ribbon-turn.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "binary_reference_count": 1,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "generated_anchor": {
+    "canonical_output": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png",
+    "role": "style-only: anime rendering, natural sunlit palette, facial detail and character presence; new identity, outfit and pose",
+    "identity_preserved": false,
+    "binary_input": true
+  },
+  "reference_preprocessing": {
+    "method": "Complete canonical image converted to RGB and proportionally resized with Lanczos to longest edge 1536; no crop",
+    "upload_size": "707x1536",
+    "canonical_sha256": "08fa2acd63642d9942f4f2a1d58449a74f0f9f94483c8ab7ae48e91da33b952e",
+    "temporary_upload": true
+  },
+  "source_attachment": {
+    "filename": "codex-clipboard-c5436705-e7fc-49f3-aa8d-f1bf9a2e20ef.png",
+    "exact_match_to_canonical": true,
+    "persisted_canonical": "../iphone-air-heroines-motion-05-tangerine-turquoise-dance-turn.png"
+  },
+  "art_direction": "桃粉卷发、翠绿眼女性穿奶白短袖上衣与陶红伞裙，转身时抬手轻挥，发带和裙褶随风形成柔和弧线。",
+  "composition_variation": "A radiant new adult woman aged 25 with peach-pink shoulder-length soft curls, pale golden hair highlights, vivid jade eyes, slightly wider smiling adult face and a warm exuberant open smile. Outfit: opaque ivory short-sleeved blouse with a secure modest rounded neckline, rust-red or terracotta high-waisted flared skirt ending near the knees, a narrow teal fabric belt and small emerald drop earrings. She performs a gentle pivot on a garden path: one foot remains planted and the other steps around, one forearm lifted in a loose greeting at shoulder height, the other hand lowered beside her skirt. Her torso and gaze turn toward the camera, curls and a thin hair ribbon sweep in one direction, skirt folds arc in the opposite direction with secure coverage. Unlike the uploaded reference, both feet stay near the ground and the blouse-skirt silhouette is clearly different. Head-to-knees framing, precise beautiful face with lively eye contact. Turquoise sky, honey-yellow garden blossom masses, cobalt foliage shade and coral petal flecks over warm stone. Match the reference’s fine colored outlines, glowing sunlit hair, luminous adult facial design and sculpted rich fabric folds. Harmonious saturated natural scene with joy and movement, no graphic blocks or copied reference face.",
+  "created_at": "2026-10-12T15:53:02.136874+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "155f1ec8fa11eed198d004048b2fa30effedbfbdd62436a01b17ed4ea340d126",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-sunlit-nine/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 9,
+    "category": "sunlit-garden-style-reference",
+    "character": "Original adult character",
+    "age": 25,
+    "hair": "peach-pink shoulder-length soft curls with pale golden highlights",
+    "title": "桃金风旋",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 08 chocolate waves and blue ribbon, cobalt sleeveless blouse and cream shorts in a relaxed seated pose; 09 peach-pink curls in ivory blouse and terracotta skirt turning with greeting. Distinct poses and clothing, large attractive adult faces, fine luminous hair and fabric, natural turquoise-gold garden rendering closely match reference. No unwanted text, people or obvious anatomy defects; supporting hand in 08 naturally outside close portrait frame."
+  },
+  "visible_description": "桃粉卷发、翠绿眼女性穿奶白短袖上衣与陶红伞裙，转身时抬手轻挥，发带和裙褶随风形成柔和弧线。"
+}

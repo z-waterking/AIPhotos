@@ -1,0 +1,43 @@
+{
+  "output": "../iphone-air-heroines-v2-10-glasshouse-fern-care.png",
+  "refined_prompt": "../prompts/iphone-air-heroines-v2-10-glasshouse-fern-care.txt",
+  "size": "1260x2736",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "黑茶色低丸子头女性在通透温室里整理盆栽，白色衬衫与浅杏背带长裙清新知性。",
+  "composition_variation": "Paint an original anime woman, unmistakably 30 years old, caring for a small fern in a bright urban conservatory. Her beautiful adult face has warm dark eyes, softly angled brows, defined but gentle cheekbones, and a small focused smile. Espresso-brown hair is arranged in a low loose bun with a few wisps near her ears. She wears an opaque white short-sleeved cotton blouse under a pale apricot ankle-length pinafore dress, with broad straps, a modest neckline, and practical tan flats. Place a small pot on a waist-high worktable in front of her. One hand turns the pot slightly while the other gently lifts a single fern frond to inspect it; show anatomically clear fingers and a practical attentive posture. Keep the hands low and close together. Slim conservatory frames, soft fern silhouettes, and a small terracotta watering can form a quiet background without enclosing the upper sky area. Dappled green reflections fall across her skirt, while diffused daylight illuminates her face evenly. The illustration should feel cultivated, fresh, and serene, with refined linework and botanical detail concentrated in the lower half. Use an eye-level portrait composition, with one person centered in the middle-to-lower frame and hands held within the central crop. Leave the upper quarter as clean pale sky or light for the lock-screen clock.",
+  "created_at": "2026-10-12T11:13:09.098432+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "ef4832d204900776ff64f9c38e390b576a359b5c6551958b258a71c42c379432",
+    "note": "Unmodified native PNG preserved outside the repository in Codex task artifact directory heroine-v2-ninety/native. Final wallpaper is cropped and resized."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 10,
+    "category": "original-adult-heroines-v2",
+    "character": "Original adult character",
+    "age": 30,
+    "hair": "Espresso-brown hair in a low loose bun with a few natural wisps",
+    "title": "温室蕨影",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: 07 teal bob and lemonade at wooden pier, 08 copper bob reviewing camera, 09 blonde walking through irises, 10 brunette tending potted fern, 11 blue-gray braid painting by lotus pond, 12 burgundy bob reading on garden steps. Adult faces, varied natural gestures, secure opaque outfits and clean clock space; no unwanted people, text or evident anatomy errors."
+  },
+  "visible_description": "黑茶色低丸子头女性在通透温室里整理盆栽，白色衬衫与浅杏背带长裙清新知性。"
+}

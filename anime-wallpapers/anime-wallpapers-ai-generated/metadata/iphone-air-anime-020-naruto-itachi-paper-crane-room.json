@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-020-naruto-itachi-paper-crane-room.png",
+  "refined_prompt": "../prompts/iphone-air-anime-020-naruto-itachi-paper-crane-room.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "鼬穿宽松深色针织上衣坐在日式窗边，掌心托着一只白色纸鹤。",
+  "composition_variation": "Create a contemplative ink-wash anime portrait of Itachi Uchiha sitting beside a traditional wooden lattice window. Preserve his long straight black hair, dark eyes, subtle facial lines, and composed expression. Dress him in a plain charcoal knit sweater and loose black trousers, without decorative uniform patterns. He gently supports a single finished white paper crane on an open palm near his lap. Use ivory paper screens, smoky indigo shadows, warm brown wood, and soft rectangular afternoon light. Design for native 1024x1536 portrait format: important forms inside x158..866, faces inside x240..784. Leave the upper 28 percent quiet for the lock-screen clock. Use an original composition, no copied frames or promotional layout, text, logos, UI, weapons, fighting, extra characters, or distorted anatomy.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:05:38.906769+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "6a2606300f3ff2595ea5b206ac89df510d2c20dc84c98c0c4f276fa5a36755b4",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 20,
+    "category": "naruto",
+    "franchise": "火影忍者",
+    "title": "鼬的折纸时光",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "鼬穿宽松深色针织上衣坐在日式窗边，掌心托着一只白色纸鹤。"
+}

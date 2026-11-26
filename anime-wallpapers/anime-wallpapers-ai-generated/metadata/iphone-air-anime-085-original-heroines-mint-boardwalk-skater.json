@@ -1,0 +1,41 @@
+{
+  "output": "../iphone-air-anime-085-original-heroines-mint-boardwalk-skater.png",
+  "refined_prompt": "../prompts/iphone-air-anime-085-original-heroines-mint-boardwalk-skater.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "25岁原创女主穿完整运动服和护具，在木栈道滑行停步。",
+  "composition_variation": "Feature an original 25-year-old anime woman with a dark braided ponytail, pausing gracefully on roller skates along an empty seaside boardwalk. She wears a mint helmet, opaque long-sleeved athletic jacket, loose full-length pants, wrist guards, and knee protection. Use fresh cel shading, turquoise sea, coral skate accents, and bright morning light. Her balanced stance is confident and playful, with one open hand raised in greeting. Build an original peaceful portrait wallpaper, never a replica of existing artwork. Keep the upper 28% empty and quiet for the clock. Design at 1024x1536 for the central x158-866 crop, with the face inside x240-784. No text, logos, UI, weapons, violence, or extra characters.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T19:28:53.183119+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "0b39d95aead28f65bcc3c0df1dc9a84dcb1c83fa2bfd63e647fcc454db919ffb",
+    "note": "Unmodified native PNG preserved in Codex local artifact directory anime-wallpapers-100/native. Final wallpaper is cropped and resized, not generated natively at final dimensions."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "index": 85,
+    "category": "original-heroines",
+    "franchise": "原创成年女主",
+    "title": "薄荷木栈道·滑行停步",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet inspected: recognizable character and requested style, crop fit, clear clock area, no unwanted people, text, UI or obvious anatomy and wardrobe defects."
+  },
+  "visible_description": "25岁原创女主穿完整运动服和护具，在木栈道滑行停步。"
+}
