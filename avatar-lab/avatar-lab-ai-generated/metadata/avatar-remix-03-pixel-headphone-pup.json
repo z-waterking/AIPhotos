@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-03-pixel-headphone-pup.png",
+  "refined_prompt": "../prompts/avatar-remix-03-pixel-headphone-pup.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "耳机小狗 · 复古像素: 紫蓝背景，戴橙色大耳机的黑色小狗，清晰像素阶梯与小块高光。",
+  "composition_variation": "MEDIUM: beautiful authentic hand-placed retro pixel art, composed on a coarse approximately 96x96 pixel grid and displayed with crisp nearest-neighbor-style square pixel edges across the 1024 square. An original dark charcoal puppy with floppy ears wearing oversized tangerine-orange headphones, head tilted with a mellow contented expression, framed from chest upward. Small bright cream pixel eye glints, one pale muzzle patch and tiny rounded nose. Deep lavender-blue background with only two broad stepped tonal regions; puppy uses readable dark indigo highlights so it never disappears. Limited harmonious 12-color palette, carefully shaped pixel clusters, sparse ordered dithering on shadows, no smooth edges or gradients. Confident compact silhouette centered at large scale, warm headphone arcs form the focal accent. No UI panels, music notes, text or game logos. Nostalgic premium sprite portrait rather than vector art rendered at low resolution.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:22:49.022427+08:00",
+  "sha256": "1f1f9bbd89136dcb23ffbb987428596ebcc82ee93f627c776e31043c40b97396",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "retro pixel art",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-07-woodcut-vermilion-koi.png",
+  "refined_prompt": "../prompts/avatar-remix-07-woodcut-vermilion-koi.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "朱红锦鲤 · 套色木刻: 米白纸底，朱红锦鲤沿圆弧游动，靛蓝刀刻线与轻微套印纹理。",
+  "composition_variation": "MEDIUM: an exquisite contemporary two-ink woodblock print on warm off-white fibrous printmaking paper. A single graceful vermilion-and-ivory koi fish bends in a beautiful compact C-shaped swimming pose viewed from above. Large expressive but natural tiny eye, flowing fan tail and delicate fins curve inward, creating a strong circular avatar silhouette without an actual circle border. Bold vermilion areas paired with deep indigo carved contour strokes, visibly hand-gouged hatching and irregular ink edges, small authentic registration offsets, subtle paper impression. A few broad indigo curved water strokes provide motion but never clutter the background. The koi occupies around 75 percent of canvas width; every fin visible within safe margins. Restrained, elegant, lively composition, artisanal print character, not glossy fish photography, watercolor or mechanical vector curves. No Japanese writing, seals, signature or frame.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:27:54.081259+08:00",
+  "sha256": "ddd4727197ee2cd4ec0af30990e7c69c7a0d5fdc56635039e29109e8c48a3c63",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "two-ink woodblock print",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

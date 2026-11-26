@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-02-watercolor-berry-fox.png",
+  "refined_prompt": "../prompts/avatar-remix-02-watercolor-berry-fox.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "浆果白狐 · 透明水彩: 暖白水彩纸上回望的白狐，耳边一颗红浆果，透明灰蓝晕染与清楚的琥珀眼神。",
+  "composition_variation": "MEDIUM: exquisite traditional transparent watercolor portrait on subtly textured off-white cotton paper. A graceful white fox in three-quarter head-and-shoulders portrait, looking back toward the viewer. Long elegant upright ears, slender beautiful muzzle, expressive amber-brown eyes, a tiny single red berry tucked beside one ear with one sage leaf. White fur painted largely as reserved untouched paper; cool pearl-gray and mist-blue washes softly bloom around cheeks and throat. Controlled dry-brush fur at select edges, wet-on-wet bleeding into the background, delicate warm accents near nose, no black cartoon outline. Face and eye remain crisp, periphery dissolves gently into paper. Refined and quietly affectionate rather than grinning. Head is large and centered; a few watery pale blue and pale rose washes behind, mostly breathing room. Show unmistakable transparent pigment pooling and paper tooth, not digital airbrush or 3D.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:20:45.721833+08:00",
+  "sha256": "3fdf51747c0e05912957d488aefc8af5d9ecc58d9ecdf666c6b71252f99e9048",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "transparent watercolor",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

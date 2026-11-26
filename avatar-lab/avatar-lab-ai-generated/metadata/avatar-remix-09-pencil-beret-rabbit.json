@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-09-pencil-beret-rabbit.png",
+  "refined_prompt": "../prompts/avatar-remix-09-pencil-beret-rabbit.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "贝雷帽垂耳兔 · 彩铅手绘: 淡杏纸上戴靛蓝贝雷帽的白色垂耳兔，温柔眼睛与疏密有致的彩铅排线。",
+  "composition_variation": "MEDIUM: delicate traditional colored-pencil portrait with clearly visible layered pencil strokes, fine cross-hatching and the tooth of pale peach drawing paper. One soft white lop-eared rabbit wearing a slightly oversized indigo beret, head tilted as if listening carefully. Long floppy ears frame the face, warm dark eyes with a single paper-white glint, tiny dusty-pink nose, restrained affectionate expression. Head-and-shoulders composition, rabbit large and eye level; beret and both ears safely inside circular-avatar margins. White and cool-gray pencil strokes render velvety fur with selected warm cream shadows, rich indigo hat developed with individual blue pencil lines rather than solid digital fill. Face detailed, shoulder edges loose and sketchy, plenty of untouched pale peach paper around. No heavy black outlines, watercolor washes, 3D, airbrush or photographic fur. Charming independent picture-book craftsmanship, no text or artist signature.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:30:32.398570+08:00",
+  "sha256": "2ee3dda314d824cf7d4c2d1149c42b2011e721093358e1ef563e3f0c988ec36d",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "colored pencil",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

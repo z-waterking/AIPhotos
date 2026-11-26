@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-01-clay-sprout-robot.png",
+  "refined_prompt": "../prompts/avatar-remix-01-clay-sprout-robot.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "花芽机器人 · 黏土棚拍: 鼠尾草绿背景，奶油白黏土机器人顶着橘色花芽，柔和棚拍光与细腻手捏痕迹。",
+  "composition_variation": "MEDIUM: photographed handmade polymer-clay collectible, unmistakably tactile three-dimensional clay, matte surfaces, soft realistic studio illumination and gentle contact shadows. An original cream-white little robot with a rounded-square head, inset black bead eyes and a tiny delighted mouth. A short green sprout grows from the top of its head, ending in one plump orange flower bud. Two very small round side ear pieces; short simple torso visible only to the chest. Charming slightly tilted head and calm curiosity. Subtle finger-smoothed tool impressions, soft sculpted seams, restrained handmade imperfections, no glossy plastic. Muted sage-green seamless studio background, warm key light from upper left, soft fill and fine depth of field, face fully sharp. Centered close-up, robot and sprout fill about 70 percent height. Rich cream, sage and orange color harmony. No printed labels, mechanical clutter or extra objects.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:19:49.204891+08:00",
+  "sha256": "8c3970d579b9761a9dda1cadceee7f066a82826c8e84dda98455e4a2fdb17803",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "clay studio photograph",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

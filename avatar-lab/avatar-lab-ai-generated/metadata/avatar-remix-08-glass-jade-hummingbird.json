@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-08-glass-jade-hummingbird.png",
+  "refined_prompt": "../prompts/avatar-remix-08-glass-jade-hummingbird.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "翡翠蜂鸟 · 透光彩玻璃: 深蓝背景，翠绿蜂鸟停在杏黄弧枝上，深色铅条分隔大块透光玻璃。",
+  "composition_variation": "MEDIUM: luminous handmade stained-glass art photographed with soft transmitted light. One jewel-like emerald-and-turquoise hummingbird in proud side profile perches on a single elegant curved amber-yellow twig, its short wing folded into a simple faceted shape. Original stylized bird with a clear tiny black eye and slender dark beak, graceful compact silhouette. Large carefully chosen colored glass pieces separated by dark slender lead came; visible gentle glass waviness, subtle bubbles and translucent color variation, bright yet controlled illumination. Deep midnight-blue quiet glass background, a few broad panels only, no detailed scenery and no border frame. Rich emerald, teal, amber and a tiny rose throat accent; bird fills 65 percent width and is immediately legible when small. Real sense of light passing through glass, NOT painted flat color, smooth 3D plastic, neon or sticker. All bird parts stay inside central circular crop. No letters, religious imagery or decorative lettering.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:29:12.217895+08:00",
+  "sha256": "625d843abfdd8f0b2ae0bd50f07fcdc423c3247e1efc1f0096969a2d18f784a1",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "stained glass",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

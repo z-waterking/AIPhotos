@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-10-porcelain-cloud-dragon.png",
+  "refined_prompt": "../prompts/avatar-remix-10-porcelain-cloud-dragon.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "青花小龙 · 瓷器质感: 青灰背景，温润白瓷小龙盘坐成圆，钴蓝云纹与真实柔亮釉面。",
+  "composition_variation": "MEDIUM: high-end studio product photograph of an original charming blue-and-white porcelain dragon figurine. A compact friendly little Chinese-inspired dragon curls its slender tail around its feet into a rounded composition, head lifted toward viewer, gentle expressive dark cobalt eyes, two small smooth rounded horns and very short curved whiskers. Warm glossy white porcelain with hand-painted cobalt-blue cloud motifs and a few graceful brushstroke scales, restrained decoration that leaves the face pure and readable. Real fine ceramic glaze reflections and subtle specular highlights, visibly solid sculpted form, no metallic sheen or plastic appearance. Pale muted blue-gray seamless background, broad softbox light and delicate contact shadow, front three-quarter view, full tiny figurine framed large with clean margins. Whimsical elegant original collectible; friendly, no bared teeth, weapons or aggressive pose. No decorative lettering, stamps, pedestal labels or ornate background. The whole sculpture and curved tail must be clear and physically coherent.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:31:58.361830+08:00",
+  "sha256": "04dadf863267aa00c318d9b5722b6f83045a3b6ea0caba37ef1d412337b4e1a1",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "porcelain studio photograph",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-05-cel-jade-aviator.png",
+  "refined_prompt": "../prompts/avatar-remix-05-cel-jade-aviator.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "翡翠飞行员 · 复古赛璐璐: 青绿短发成年女飞行员的明亮近景，护目镜推至头顶，复古墨线与硬边光影。",
+  "composition_variation": "MEDIUM: finely drawn original 1990s-style hand-inked cel animation character portrait. A beautiful adult female civilian aviator aged 28, short slightly windblown jade-green hair, expressive brown eyes, harmonious dignified face with softly defined jaw and natural eyebrows, relaxed confident smile. Brass-and-tan aviator goggles rest on top of her head, an opaque ivory shirt and coral flight-jacket collar visible at the bottom. Head-and-shoulders crop, face turned a little three-quarter toward the viewer, looking directly with warm intelligent spirit. Precise varied-weight dark ink outlines, clean flat painted color areas, two hard-edged cel-shadow tones, small restrained white glints, very slight authentic film grain. Behind her, an airy cobalt sky and one broad pale peach cloud painted in loose traditional gouache, simple enough for an avatar. Hair and goggles fully within frame. No weapons, logos, text, badges, cockpit clutter or glamour makeup; wholly original design, no existing franchise likeness. Strong beautiful facial drawing, not generic chibi, photorealism or 3D.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:25:20.191090+08:00",
+  "sha256": "9f2fe84d959440d84842c6c6e8b518d18acefc9e6a57d5211409224f65e799ec",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "hand-inked cel animation",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}

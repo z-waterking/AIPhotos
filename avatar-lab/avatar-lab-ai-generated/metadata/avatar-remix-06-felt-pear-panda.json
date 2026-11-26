@@ -1,0 +1,23 @@
+{
+  "output": "../avatar-remix-06-felt-pear-panda.png",
+  "refined_prompt": "../prompts/avatar-remix-06-felt-pear-panda.txt",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "contains_text": false,
+  "art_direction": "抱梨小熊猫 · 针毡玩偶: 暖灰背景，围燕麦围巾的红熊猫抱着小绿梨，柔软羊毛纤维与精细针毡面容。",
+  "composition_variation": "MEDIUM: intimate macro photograph of a handmade needle-felted red panda wool sculpture, convincingly tactile felt with tiny individual wool fibers and fuzzy soft silhouette. One adorable rust-red red panda, cream cheeks, small dark expressive bead-like wool eyes, black tiny nose, small triangular ears. It wears a short oatmeal wool scarf and holds a single little sage-green felt pear close to its chest with two tiny dark paws. Head-and-chest framing, friendly gentle gaze and slight lean, balanced proportions rather than oversized bulging eyes. Neutral warm-gray studio background, broad soft window light from the left, light shallow depth of field but entire face sharp. Dense needle-felt texture and soft color-blended wool, clearly no knitted loops, no fur realism, plastic, CGI smoothness or flat painting. Warm rust, oatmeal, sage and charcoal palette; pear is a small secondary shape attached to the main character.",
+  "style_inspiration": "The user requested more varied avatar styles. Each image uses an original subject and independently specified visual medium. Pure text-to-image generation; no source photo, attachment or generated image was supplied as binary input.",
+  "created_at": "2026-10-20T11:26:15.282648+08:00",
+  "sha256": "bf35320c5fdee8e580279a1cedbaf9e552ecb29e3bf7f8289a5985681f111223",
+  "visual_review": "passed: compressed preview inspected for distinct medium, character clarity, attractive composition, anatomy or construction, and absence of visible text or watermark",
+  "requested_medium": "needle-felt sculpture photograph",
+  "medium_note": "AI-generated representation of the named medium; not a physical handmade object or scanned traditional artwork."
+}
