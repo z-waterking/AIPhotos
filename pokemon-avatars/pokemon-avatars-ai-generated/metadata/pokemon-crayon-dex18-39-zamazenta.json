@@ -1,0 +1,113 @@
+{
+  "output": "../pokemon-crayon-dex18-39-zamazenta.png",
+  "refined_prompt": "../prompts/pokemon-crayon-dex18-39-zamazenta.txt",
+  "source_prompt": "../prompts/pokemon-crayon-dex18-39-zamazenta-source.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2.5-sunburst",
+  "deployment": "gpt-image-2.5-sunburst",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "request_url": "https://carina-aih-eastus2.openai.azure.com/openai/deployments/gpt-image-2.5-sunburst/images/generations?api-version=2024-02-01",
+  "api_version": "2024-02-01",
+  "quality": "high",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "pokemon-crayon-dex18",
+  "series_number": 39,
+  "group_number": 18,
+  "anthology_index": 889,
+  "species_key": "national-0889",
+  "dex_number": 889,
+  "national_dex_number": 889,
+  "name_en": "Zamazenta",
+  "name_zh": "藏玛然特",
+  "character": "Zamazenta / 藏玛然特",
+  "species_status": "national-dex",
+  "type": [
+    "fighting"
+  ],
+  "default_form_only": false,
+  "description": "藏玛然特盾之王形态的蜡笔涂鸦头像；原生方形、无字。",
+  "art_direction": {
+    "medium": "wax-crayon doodle illustration",
+    "composition": "One recognizable Zamazenta with the large shield-like armor of Crowned Shield form",
+    "input_provenance": "The exact text-only prompt is archived unchanged; no binary reference input."
+  },
+  "source_text": {
+    "kind": "source-audited-species-roster",
+    "key": "national-0889",
+    "source_url": "https://raw.githubusercontent.com/PokeAPI/pokeapi/de6760be38b60a3024f1d9054330ff265f0dc619/data/v2/csv/pokemon_species.csv",
+    "source_zh_url": "",
+    "snapshot_commit": "de6760be38b60a3024f1d9054330ff265f0dc619",
+    "source_ids": [
+      "pokeapi:pokemon_species.csv",
+      "pokeapi:pokemon_species_names.csv",
+      "pokeapi:pokemon.csv",
+      "pokeapi:pokemon_types.csv",
+      "pokeapi:types.csv",
+      "pokeapi:type_names.csv",
+      "pokeapi:pokemon_colors.csv",
+      "pokeapi:pokemon_shapes.csv"
+    ]
+  },
+  "sha256": "e5fd9221238e7641d8cfbe39282e43c170da28217d6540485718b4d377a44845",
+  "native_sha256": "e5fd9221238e7641d8cfbe39282e43c170da28217d6540485718b4d377a44845",
+  "prompt_sha256": "c430ff8837eb461c8ad5b0ae21e4fd93268eb5ac20980047ab55e9a4aa10ac9d",
+  "source_prompt_sha256": "572907bf3f54f72c2bfef629421adb3b9a869b2a072138bd4518d3bad5cf7d21",
+  "file_size_bytes": 2410988,
+  "generation_receipt_sha256": "b805a42c4710791c36f0540ca3ecff7d81124f0c7f90699dd99e58a6263757cb",
+  "request_id": "9a0f0b05-ad9f-4c84-95f1-3ffacadada35",
+  "request_id_status": "recorded",
+  "generation_attempt": 1,
+  "generation_attempt_status": "recorded",
+  "prompt_provenance": {
+    "actual_request_prompt_sha256": "c430ff8837eb461c8ad5b0ae21e4fd93268eb5ac20980047ab55e9a4aa10ac9d",
+    "prepared_prompt_sha256": "c430ff8837eb461c8ad5b0ae21e4fd93268eb5ac20980047ab55e9a4aa10ac9d",
+    "prepared_is_byte_identical_copy": false
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1024x1024",
+    "output_size": "1024x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-26T02:58:49.305646+00:00",
+    "reviewer": "primary-agent",
+    "review_sha256": "17f46f38540438b0f23c1c247641fc5722a39018ac8e24de17507c2359551085",
+    "review_size": "1280x1120",
+    "preview_sha256": "d77330d44ad116bc96db34ac4ef9f245ed64ca9a35a609bedd01d010ec07737c",
+    "preview_size": "1024x1024",
+    "notes": "The reviewed image depicts Crowned Shield rather than the requested Hero of Many Battles form.",
+    "method": "Explicit primary-agent approval of the named species; compressed JPEG inspection; native bytes preserved",
+    "review_manifest_sha256": "abe9f2df0bf6f6afc05ce50d588d17b48a030acc7fcb7e0b2d2bcca40af26cf2"
+  },
+  "created_at": "2026-11-26T02:38:40.735763+00:00",
+  "generation_time_status": "recorded-in-generation-receipt",
+  "requested_default_form": true,
+  "observed_form": "Crowned Shield",
+  "observed_form_type": [
+    "fighting",
+    "steel"
+  ],
+  "observed_form_source": "https://www.pokemon.com/us/pokedex/zamazenta",
+  "publication_redactions": [
+    "generation_receipt_file",
+    "native_file",
+    "prompt_provenance.actual_request_prompt_file",
+    "prompt_provenance.prepared_prompt_file",
+    "visual_qa.preview_file",
+    "visual_qa.review_file",
+    "visual_qa.review_manifest_file"
+  ]
+}

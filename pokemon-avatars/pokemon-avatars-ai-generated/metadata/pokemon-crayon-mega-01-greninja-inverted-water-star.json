@@ -1,0 +1,73 @@
+{
+  "output": "../pokemon-crayon-mega-01-greninja-inverted-water-star.png",
+  "refined_prompt": "../prompts/pokemon-crayon-mega-01-greninja-inverted-water-star.txt",
+  "source_prompt": "../prompts/pokemon-crayon-mega-01-greninja-inverted-water-star-source.txt",
+  "created_at": "2026-11-24T09:24:24.773389+00:00",
+  "execution": "local-crayon-redraw",
+  "model": "none-local-pillow-numpy",
+  "quality": "lossless",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "single-source",
+  "references": [
+    "../../pokemon-avatars-originals/pokemon-user-mega-reference-01.png"
+  ],
+  "reference_count": 1,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "pokemon-crayon-mega",
+  "series_number": 1,
+  "character": "Mega Greninja / 超级甲贺忍蛙",
+  "description": "蓝色蜡笔纸纹中，黑蓝色 Mega 形态倒挂于青蓝水形，保留白眼、黄胸与粉色长舌。",
+  "art_direction": {
+    "medium": "source-derived wax-crayon texture drawn locally with Pillow and NumPy",
+    "composition": "inverted Mega figure beneath giant cyan water shape; original reference arrangement preserved",
+    "palette": "navy, cyan, cream, soft pink, pale sky blue and butter yellow"
+  },
+  "source_attachment": {
+    "kind": "chat-image",
+    "original_name": "codex-clipboard-6a554543-c793-45ef-8813-82a45dfe6c36.png",
+    "persisted": true,
+    "archived_path": "../../pokemon-avatars-originals/pokemon-user-mega-reference-01.png",
+    "sha256": "3cddd840c36732c2e6f32cf4a3bce3439256b2b5e5fa8bc8f9a182e7b57afd1d",
+    "source_dimensions": "484x470",
+    "used_as_binary_model_input": false,
+    "used_as_local_raster_input": true
+  },
+  "source_sha256": "3cddd840c36732c2e6f32cf4a3bce3439256b2b5e5fa8bc8f9a182e7b57afd1d",
+  "sha256": "1d492aad3150350ed8449fa6de40548437d03f1f0d9aff89a621576cc79799eb",
+  "native_sha256": "1d492aad3150350ed8449fa6de40548437d03f1f0d9aff89a621576cc79799eb",
+  "prompt_sha256": "5bfe89e8ab0b531afa4a69d5fb5834e9d584ea1894f77e29977731a3b9c7844d",
+  "source_prompt_sha256": "96897f8894c281c16223d216fd24db3c35447b2034f74c1a5aee5de83d69d130",
+  "file_size_bytes": 1017438,
+  "local_transform": {
+    "method": "source-derived-contours-with-handdrawn-crayon-color-and-paper",
+    "source_size": "484x470",
+    "output_size": "1024x1024",
+    "source_subject_scaled": true,
+    "background_redrawn": true,
+    "paper_texture_added": true
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1024x1024",
+    "output_size": "1024x1024",
+    "resampling": "none-after-local-render",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-24T09:24:24.773389+00:00",
+    "preview_size": "1024x1024",
+    "preview_sha256": "14f514f5a17ad6d2c6418662cef994a6137d92a342412148d87ca5a639309f1f",
+    "method": "single compressed JPEG inspection of chosen first draft"
+  },
+  "publication_redactions": [
+    "native_file",
+    "visual_qa.preview_file"
+  ]
+}

@@ -1,0 +1,11 @@
+博姆耿 / Pombon
+稳定物种键：announced-pombon
+全国图鉴编号：官方已公布，尚未在本清单分配编号
+形态范围：默认形态；额外地区形态、Mega 与超极巨化不在此条目中。
+默认形态属性：火
+文字资料来源：https://windswaves.pokemon.com/en-us/
+资料版本：https://github.com/PokeAPI/pokeapi/commit/de6760be38b60a3024f1d9054330ff265f0dc619
+官方简中名来源：https://www.pokemon.co.jp/ex/winds_waves/sc/pokemon/202602_02/
+
+图像生成输入为同名 refined prompt 的文字内容；未上传源照片、官方图片、附件或生成锚图。
+本文件归档物种资料来源，不是额外的二进制参考，也不声称它是 API 收到的提示词。

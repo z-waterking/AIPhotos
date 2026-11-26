@@ -1,0 +1,112 @@
+{
+  "output": "../pokemon-crayon-dex14-08-greninja.png",
+  "refined_prompt": "../prompts/pokemon-crayon-dex14-08-greninja.txt",
+  "source_prompt": "../prompts/pokemon-crayon-dex14-08-greninja-source.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2.5-sunburst",
+  "deployment": "gpt-image-2.5-sunburst",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "request_url": "https://carina-aih-eastus2.openai.azure.com/openai/deployments/gpt-image-2.5-sunburst/images/generations?api-version=2024-02-01",
+  "api_version": "2024-02-01",
+  "quality": "high",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "pokemon-crayon-dex14",
+  "series_number": 8,
+  "group_number": 14,
+  "anthology_index": 658,
+  "species_key": "national-0658",
+  "dex_number": 658,
+  "national_dex_number": 658,
+  "name_en": "Greninja",
+  "name_zh": "甲贺忍蛙",
+  "character": "Greninja / 甲贺忍蛙",
+  "species_status": "national-dex",
+  "type": [
+    "water",
+    "dark"
+  ],
+  "default_form_only": true,
+  "description": "甲贺忍蛙默认形态的蜡笔涂鸦头像；原生方形、无字。",
+  "art_direction": {
+    "medium": "wax-crayon doodle illustration",
+    "composition": "one recognizable species in its default appearance",
+    "input_provenance": "The exact text-only prompt is archived unchanged; no binary reference input."
+  },
+  "source_text": {
+    "kind": "source-audited-species-roster",
+    "key": "national-0658",
+    "source_url": "https://raw.githubusercontent.com/PokeAPI/pokeapi/de6760be38b60a3024f1d9054330ff265f0dc619/data/v2/csv/pokemon_species.csv",
+    "source_zh_url": "",
+    "snapshot_commit": "de6760be38b60a3024f1d9054330ff265f0dc619",
+    "source_ids": [
+      "pokeapi:pokemon_species.csv",
+      "pokeapi:pokemon_species_names.csv",
+      "pokeapi:pokemon.csv",
+      "pokeapi:pokemon_types.csv",
+      "pokeapi:types.csv",
+      "pokeapi:type_names.csv",
+      "pokeapi:pokemon_colors.csv",
+      "pokeapi:pokemon_shapes.csv"
+    ]
+  },
+  "sha256": "3cbf166d2ddcba47a7777c6b05a7503a0d08aefddb136bf06bcbbd438afc1e87",
+  "native_sha256": "3cbf166d2ddcba47a7777c6b05a7503a0d08aefddb136bf06bcbbd438afc1e87",
+  "prompt_sha256": "c7b713023d1bb4760b0310a9f637c2d3417f513be64f16b666967acaf92dd09d",
+  "source_prompt_sha256": "0d67be4773e0cdbd9906dd89a2631e3054ba5478cc64c8e24154706fe63b811e",
+  "file_size_bytes": 2525097,
+  "generation_receipt_sha256": "9ee0177a718d46acaeab0e14a3bf1fbe5cb46e8067bc6c322e1cdb49a888972e",
+  "request_id": null,
+  "request_id_status": "unknown-not-recorded",
+  "generation_attempt": null,
+  "generation_attempt_status": "unknown-not-recorded",
+  "prompt_provenance": {
+    "actual_request_prompt_sha256": "c7b713023d1bb4760b0310a9f637c2d3417f513be64f16b666967acaf92dd09d",
+    "prepared_prompt_sha256": "c7b713023d1bb4760b0310a9f637c2d3417f513be64f16b666967acaf92dd09d",
+    "prepared_is_byte_identical_copy": true,
+    "receipt_provenance": {
+      "kind": "offline-reconstruction-from-primary-agent-session-evidence-and-verified-files",
+      "evidence": "Primary agent confirmed the successful text-only Sunburst generation command used the exact actual prompt, size 1024x1024 and quality high; native/prompt bytes match the supplied SHA-256 values.",
+      "generation_time_not_inferred_from_receipt_creation": true
+    }
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1024x1024",
+    "output_size": "1024x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-25T03:31:50.067235+00:00",
+    "reviewer": "primary-agent",
+    "review_sha256": "dce44ca0351292b332346fee7595594baef4d28f0aa6500ecc706a38ba759525",
+    "review_size": "256x280",
+    "preview_sha256": "04649514d4afb52de1c2c3b7862d97435df87c0ee30fc53abf18ebfd2488b279",
+    "preview_size": "1024x1024",
+    "notes": "",
+    "method": "Explicit primary-agent approval of the named species; compressed JPEG inspection; native bytes preserved",
+    "review_manifest_sha256": "b1f8682d775e1dfdc67309f8dfb440e3e207f6459dc304019e81ecddf39c674c"
+  },
+  "generation_time_status": "unknown-not-recorded",
+  "receipt_recorded_at": "2026-11-25T03:24:58.319586+00:00",
+  "publication_redactions": [
+    "generation_receipt_file",
+    "native_file",
+    "prompt_provenance.actual_request_prompt_file",
+    "prompt_provenance.prepared_prompt_file",
+    "visual_qa.preview_file",
+    "visual_qa.review_file",
+    "visual_qa.review_manifest_file"
+  ]
+}

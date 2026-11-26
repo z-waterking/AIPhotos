@@ -1,0 +1,100 @@
+{
+  "output": "../pokemon-crayon-dex21-27-pombon.png",
+  "refined_prompt": "../prompts/pokemon-crayon-dex21-27-pombon.txt",
+  "source_prompt": "../prompts/pokemon-crayon-dex21-27-pombon-source.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2.5-sunburst",
+  "deployment": "gpt-image-2.5-sunburst",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "request_url": "https://carina-aih-eastus2.openai.azure.com/openai/deployments/gpt-image-2.5-sunburst/images/generations?api-version=2024-02-01",
+  "api_version": "2024-02-01",
+  "quality": "high",
+  "size": "1024x1024",
+  "generation_size": "1024x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "pokemon-crayon-dex21",
+  "series_number": 27,
+  "group_number": 21,
+  "anthology_index": 1027,
+  "species_key": "announced-pombon",
+  "dex_number": null,
+  "national_dex_number": null,
+  "name_en": "Pombon",
+  "name_zh": "博姆耿",
+  "character": "Pombon / 博姆耿",
+  "species_status": "announced",
+  "type": [
+    "fire"
+  ],
+  "default_form_only": true,
+  "description": "博姆耿默认形态的蜡笔涂鸦头像；原生方形、无字。",
+  "art_direction": {
+    "medium": "wax-crayon doodle illustration",
+    "composition": "one recognizable species in its default appearance",
+    "input_provenance": "The exact text-only prompt is archived unchanged; no binary reference input."
+  },
+  "source_text": {
+    "kind": "source-audited-species-roster",
+    "key": "announced-pombon",
+    "source_url": "https://windswaves.pokemon.com/en-us/",
+    "source_zh_url": "https://www.pokemon.co.jp/ex/winds_waves/sc/pokemon/202602_02/",
+    "snapshot_commit": "de6760be38b60a3024f1d9054330ff265f0dc619",
+    "source_ids": [
+      "official:windswaves:en",
+      "official:windswaves:zh:pombon"
+    ]
+  },
+  "sha256": "ecd92da419167733c9ddbb761db02d88e3c697192fa7222be53bf7ca7771f1dc",
+  "native_sha256": "ecd92da419167733c9ddbb761db02d88e3c697192fa7222be53bf7ca7771f1dc",
+  "prompt_sha256": "654480176cc80c7529a8e234f05522cc634ddb0e50c62e3f0d81da6331f5e42e",
+  "source_prompt_sha256": "852087841695d9078fe7e403f35a9a2c9069445ff4df04798f22da7a1ea7481e",
+  "file_size_bytes": 2307582,
+  "generation_receipt_sha256": "8c10dfd7ca7bdce6ffaadcb11ba2cc13810c3860f2cf8c72d8c4431bd48acb92",
+  "request_id": "e8e67468-6160-44c9-ae85-2df4c6c04597",
+  "request_id_status": "recorded",
+  "generation_attempt": 1,
+  "generation_attempt_status": "recorded",
+  "prompt_provenance": {
+    "actual_request_prompt_sha256": "654480176cc80c7529a8e234f05522cc634ddb0e50c62e3f0d81da6331f5e42e",
+    "prepared_prompt_sha256": "654480176cc80c7529a8e234f05522cc634ddb0e50c62e3f0d81da6331f5e42e",
+    "prepared_is_byte_identical_copy": false
+  },
+  "postprocessing": {
+    "method": "none-native-byte-preserved",
+    "native_size": "1024x1024",
+    "output_size": "1024x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "approved-compressed-contact-sheet-review",
+    "reviewed_at": "2026-11-26T06:11:56.633237+00:00",
+    "reviewer": "primary-agent",
+    "review_sha256": "6a6d5aaabc9e5ebd5b65dcafd8ea6dd3e195e27ffc6b9d320344bcf1e71a8174",
+    "review_size": "1280x560",
+    "preview_sha256": "495aaed1fab2e26ac6e7e8006a4c9786968a40d314c92df5900b469988a871da",
+    "preview_size": "1024x1024",
+    "notes": "",
+    "method": "Explicit primary-agent approval of the named species; compressed JPEG inspection; native bytes preserved",
+    "review_manifest_sha256": "bf15ef90bdc964319a2a6af89d26b6cbf3beef8850365af1b854dc4299630150"
+  },
+  "created_at": "2026-11-26T06:05:35.109562+00:00",
+  "generation_time_status": "recorded-in-generation-receipt",
+  "publication_redactions": [
+    "generation_receipt_file",
+    "native_file",
+    "prompt_provenance.actual_request_prompt_file",
+    "prompt_provenance.prepared_prompt_file",
+    "visual_qa.preview_file",
+    "visual_qa.review_file",
+    "visual_qa.review_manifest_file"
+  ]
+}
