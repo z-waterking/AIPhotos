@@ -1,0 +1,335 @@
+{
+  "output": "../daily-vignette-keepsake-05-worn-stool-new-footprint.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-05-worn-stool-new-footprint.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-05-worn-stool-new-footprint-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 5,
+  "anthology_index": 5,
+  "panel_count": 6,
+  "display_title": "凳上的小脚印",
+  "visible_description": "一张磨旧的矮凳修稳之后，添上了家里最小的一枚脚印。",
+  "synopsis": "爷爷想把厨房的小木凳重新刷好，孙子却发现，凳面两块浅浅的磨痕正好能放下爷爷的脚。爷爷说，那是以前站上去拿柜顶东西留下的。两人把摇晃的凳腿修稳，只补了边缘脱落的油漆。孙子在中间印下一个小小的金黄脚印。第二天，他站在旧磨痕之间，第一次自己够到了洗手台。",
+  "story_text": "爷爷拿出绿漆和刷子，要把小木凳重新收拾一遍。孙子却按住凳面，指着两块浅浅的磨痕，问这里为什么没有别处那么深。\n\n爷爷把鞋摆在旁边比了比，大小竟差不多。他从前总踩着这两个地方，拿厨房高柜上的碗。孙子又把自己的脚凑过去，一只只占了很小一点。\n\n他们先把松动的凳腿修稳。爷爷只补好边沿，孙子扶着他的手，把蘸过可洗颜料的小脚印在中间。金黄的一枚，挤在两块老磨痕之间，像刚刚找到位置。\n\n第二天印子干了。孙子穿好袜子，踩上凳子，第一次自己够到水龙头。爷爷在旁边拿着毛巾等。水流哗哗的，他把手翻来覆去，洗得比平时久一点。",
+  "art_direction": "Earthy gouache with visible dry-brush wood grain and colored-pencil outlines",
+  "character_design": "The grandfather is a Chinese man in his late sixties with cropped silver hair, thick eyebrows, and a calm square face. He wears a faded blue checked shirt, olive trousers, and brown cloth shoes. His six-year-old grandson has tousled short black hair and wears a cream long-sleeved top, mustard overalls, and pale blue socks. The squat wooden stool has four sturdy legs, a dark green painted edge, two pale oval wear patches on its top, and one visibly loose leg joint.",
+  "panels": [
+    {
+      "caption": "爷爷刚拿出漆刷，他先按住了小凳。",
+      "scene": "In a bright kitchen doorway, the grandfather sits beside the old squat wooden stool with a closed tin of dark green paint and a clean broad brush. The grandson rests both palms on the stool's top and peers closely at its two pale oval wear patches. One leg is lifted slightly by the grandfather to examine its loose joint. Keep the stool low and substantial, with the worn wood grain clearly visible. A sink and tall cupboard appear softly behind them, establishing the stool's practical place in the household."
+    },
+    {
+      "caption": "两块旧磨痕，是爷爷站过的位置。",
+      "scene": "Use an overhead three-quarter view of the stool. The grandfather places his two brown cloth shoes on the floor immediately beside its pale oval wear patches, aligning their shapes for the boy to compare. He remains seated safely on a nearby chair. The grandson crouches between them, one small socked foot lifted next to the much larger outline, with delighted curiosity. The green paint tin stays closed at the edge of the composition. Focus on the contrast between worn ovals, adult shoes, and the child's tiny foot."
+    },
+    {
+      "caption": "先把凳腿修稳，再决定留住哪些旧颜色。",
+      "scene": "The grandfather kneels beside the stool on a protective cloth, tightening its repaired leg joint with a small hand tool while the boy steadies the opposite side with both palms. The tool is ordinary and kept low against the furniture. The two pale oval wear patches remain visible on top, and the closed green paint tin waits nearby. Focus on the stable wooden structure and their attentive cooperative posture."
+    },
+    {
+      "caption": "修稳凳腿，中间多了一枚金黄小脚印。",
+      "scene": "The repaired stool stands firmly on all four legs over a protective cloth. Its dark green border is freshly touched up, while the two pale worn ovals remain untouched. The grandfather steadies the boy by both hands as the child lifts one bare foot away from a single small ochre footprint newly stamped between the old marks. A shallow tray of washable ochre paint sits safely nearby. Show only this supervised playful moment, emphasizing the preserved wood texture and the tiny bright addition at the center."
+    },
+    {
+      "caption": "小脚印等着晾干，他绕着凳子看了又看。",
+      "scene": "The stool stands unattended on the protective cloth as its single ochre footprint dries between the older pale wear marks. The grandson crouches a short distance away, hands tucked behind his back to avoid touching the fresh paint. Grandfather sits nearby cleaning the broad brush over a small tray. The touched-up green border gleams slightly, and the child studies his new contribution with quiet pride rather than stepping onto it too soon."
+    },
+    {
+      "caption": "新脚印干了，他也够得着水龙头了。",
+      "scene": "At the kitchen sink the next morning, the grandson stands securely on the restored stool in his pale blue socks, washing his hands under a modest stream of water. The grandfather stands close beside him with a folded towel, offering quiet support without lifting him. The stool's small dried ochre footprint is visible between the child's feet, framed by the older pale wear marks and fresh green edge. Gentle morning light falls across the faucet and their matching focused profiles, making the practical success feel personal and small."
+    }
+  ],
+  "palette": [
+    "#E9DDC6",
+    "#8E6B4F",
+    "#D7B553",
+    "#70969B",
+    "#5C6961"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        13,
+        13,
+        506,
+        561
+      ],
+      [
+        518,
+        13,
+        1011,
+        561
+      ],
+      [
+        13,
+        573,
+        506,
+        1015
+      ],
+      [
+        518,
+        573,
+        1011,
+        1015
+      ],
+      [
+        13,
+        1027,
+        506,
+        1523
+      ],
+      [
+        518,
+        1027,
+        1011,
+        1523
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        57,
+        200,
+        478,
+        668
+      ],
+      [
+        545,
+        200,
+        966,
+        668
+      ],
+      [
+        34,
+        834,
+        502,
+        1254
+      ],
+      [
+        522,
+        834,
+        990,
+        1254
+      ],
+      [
+        35,
+        1420,
+        500,
+        1888
+      ],
+      [
+        523,
+        1420,
+        988,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "爷爷刚拿出漆刷，他先按住了小凳。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "两块旧磨痕，是爷爷站过的位置。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "先把凳腿修稳，再决定留住哪些旧",
+          "颜色。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "修稳凳腿，中间多了一枚金黄小脚",
+          "印。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "小脚印等着晾干，他绕着凳子看了",
+          "又看。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "新脚印干了，他也够得着水龙头了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Native row gutters were measured at y=561-571 and y=1016-1025, rather than the nominal 512/1024 boundaries. Confirmed inner-panel crops exclude the neighboring scene; proportional contain with ivory padding preserves each full panel without enlargement. Final recomposition still requires visual QA.",
+      "native_sha256": "3f9350e705ed28e3e4d5e55d67fde5ac227fb77d6991cf38259abd633be47b4f",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          23,
+          0,
+          24,
+          0
+        ],
+        [
+          23,
+          0,
+          24,
+          0
+        ],
+        [
+          0,
+          24,
+          0,
+          24
+        ],
+        [
+          0,
+          24,
+          0,
+          24
+        ],
+        [
+          1,
+          0,
+          2,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "native_sha256": "3f9350e705ed28e3e4d5e55d67fde5ac227fb77d6991cf38259abd633be47b4f",
+  "sha256": "b2a864fcad21df5ee7e2df929f2a4f43d89aeb490e80fdb76ab647a9eae7c819",
+  "prompt_sha256": "4ba95a821604c64564f23d27bb9d030896f71d3d4f25f7e008c5b13299c94227",
+  "story_sha256": "6584c9d1515b2f8b92f1d52eb189607a6c1f9995744332d76a111f5f2f1587ce",
+  "created_at": "2026-10-26T10:17:26.472033+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

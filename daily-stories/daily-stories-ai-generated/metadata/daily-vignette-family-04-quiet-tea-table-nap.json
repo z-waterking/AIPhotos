@@ -1,0 +1,164 @@
+{
+  "output": "../daily-vignette-family-04-quiet-tea-table-nap.png",
+  "refined_prompt": "../prompts/daily-vignette-family-04-quiet-tea-table-nap.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-04-quiet-tea-table-nap-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 4,
+  "anthology_index": 14,
+  "panel_count": 4,
+  "display_title": "轻轻摆一桌",
+  "visible_description": "一家人轻手轻脚准备下午茶，午睡的外公却被熟悉的橘子香叫醒了。",
+  "synopsis": "外公在窗边睡着了，母女准备下午茶，杯底刚碰到桌面就发出一声脆响。女儿赶紧铺上厚厚的餐垫，妈妈端盘时也放慢了动作，两个人连笑都收得轻轻的。茶点终于摆好，女儿坐下剥橘子。外公眼睛还没完全睁开，手已经习惯地伸到桌边。母女看着他，悄悄把剥好的第一瓣放进了那只手里。",
+  "story_text": "外公在窗边睡着了，鼻梁上的眼镜被女儿轻轻取下来，放在桌角。母女开始准备下午茶，杯底刚一落桌，小姑娘就紧张地回头。\n\n外公没醒。她赶紧找来厚餐垫，把杯子一个个安置好。妈妈端盘子的动作也慢下来，两个人互相看看，连笑都像藏在嘴角里。\n\n茶点终于摆齐，她坐下剥橘子。橘皮一点点弯开，亮亮的果肉露出来。屋里没有添什么响声，只多了一股熟悉的清甜气味。\n\n外公眼睛还没完全睁开，手已经往桌边伸了。母女又对看一眼，小姑娘把第一瓣橘子放进那只手。外公慢慢坐直，另一只手摸到眼镜，仿佛本来就知道下午茶已经准备好了。",
+  "art_direction": "Hushed gouache washes with rounded pencil contours on soft cream paper",
+  "character_design": "The grandfather is a Chinese man in his early seventies with short white hair, a narrow mustache, and deep smile lines. He wears a soft oatmeal cardigan, pale blue shirt, and loose charcoal trousers. His adult daughter has dark hair in a low bun and wears a muted sage blouse with brown trousers. His teenage granddaughter has a straight black bob and wears a dusty blue sweatshirt and cream trousers. The setting includes a wooden armchair, a small low tea table, round woven mats, and a bowl of mandarins.",
+  "panels": [
+    {
+      "caption": "外公睡着了，杯底却先碰响了桌面。",
+      "scene": "The grandfather naps peacefully in a wooden armchair by the window, hands folded over his cardigan and head resting against a small cushion. In the foreground, his granddaughter pauses just after setting a ceramic cup onto the bare tea table, her fingers still around its handle. Her mother stands nearby with a tray of simple cakes and glances toward the sleeping man. Show no sound lettering; the girl's surprised eyes and halted movement suggest the unexpected clink. Soft afternoon light makes the room tranquil and comfortably lived in."
+    },
+    {
+      "caption": "她铺好餐垫，妈妈也把盘子放得轻轻的。",
+      "scene": "The granddaughter spreads a thick round woven mat beneath the cup while her mother lowers the cake plate with exaggerated care onto another mat. Both bend slightly over the low table, sharing a quiet amused glance. The grandfather remains asleep in the armchair behind them, posture unchanged. A bowl of bright mandarins waits at the table edge. Keep the action focused on careful hands, soft surfaces, and muted colors, with enough visible space around the table to convey their gentle attempt to keep the afternoon undisturbed."
+    },
+    {
+      "caption": "桌子终于安静了，只剩橘子一点点打开。",
+      "scene": "Mother and daughter now sit beside the neatly arranged tea table, every cup and plate cushioned by a woven mat. The granddaughter slowly peels one mandarin over a small dish, revealing bright segments beneath the curled orange rind. Her mother smiles with a finger resting lightly against her own lips, maintaining their playful quiet. The grandfather is still reclined in the background, eyes closed. Let the fresh orange color become the main accent among hushed creams and greens, without using floating scent lines or any written sound effects."
+    },
+    {
+      "caption": "他眼睛还没睁开，手已来接第一瓣。",
+      "scene": "The grandfather sits slightly more upright, eyes only half open and one hand naturally extended toward the tea table, palm up. His granddaughter places a peeled mandarin segment into that waiting hand while her mother watches with a broad but quiet smile. The opened orange and curled peel remain in the small dish, and all the cups still sit on their soft mats. Frame the offered segment between their hands, making his familiar response the small humorous payoff. Keep the warm window light and relaxed family spacing consistent."
+    }
+  ],
+  "palette": [
+    "#EEE0C7",
+    "#A8B2A0",
+    "#D49B52",
+    "#8A9EAD",
+    "#9B7969"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "外公睡着了，杯底却先碰响了桌面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她铺好餐垫，妈妈也把盘子放得轻",
+          "轻的。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "桌子终于安静了，只剩橘子一点点",
+          "打开。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "他眼睛还没睁开，手已来接第一瓣。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "79b7db66f203c1289c900884aa32a2b196826ecc7206b964dfc438b6e8964f9a",
+  "sha256": "43a7644057a217cff2bae760922b88b6cdbf080579535c4a8ddc40ee2b1288d5",
+  "prompt_sha256": "93fe5ec641501d77641cc00c7db0bfde31802cae1b6517e374e3b43e71e18763",
+  "story_sha256": "2937b7a28a5984c7d64c2dc4caaf62580e8bfde9902d6504ab08ff7e52c945ae",
+  "created_at": "2026-10-26T09:50:14.112072+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

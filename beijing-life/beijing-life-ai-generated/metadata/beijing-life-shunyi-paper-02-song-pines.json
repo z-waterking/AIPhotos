@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-shunyi-paper-02-song-pines.png",
+  "refined_prompt": "../prompts/beijing-life-shunyi-paper-02-song-pines.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:16.162352+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shunyi-paper",
+  "group_number": 8,
+  "series_number": 2,
+  "anthology_index": 37,
+  "title": "白墙与松影",
+  "sha256": "2dbc7b4de9dea3035eb89c00602565045bd62faa063f67ce0075110e93483a1b",
+  "native_sha256": "8d9501021353cba78ab0c6a20eecb3dadd7730815503d53f658175e70459ff97",
+  "prompt_sha256": "4e6242f0e36e3d7a83939831a3dd2f8e79a54600e4a3c83d25cafd1f05672517",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1835160,
+  "art_direction": {
+    "style_name": "手工纸雕浮雕",
+    "style_prompt_english": "Layered cut-paper relief built from thick tactile colored cardstock, shallow physical shadows, sculptural architecture with clear stepped paper contours; bright daylight and a real three-dimensional paper diorama, not a flat photo filter.",
+    "palette": [
+      "#00A8A8",
+      "#F6C84A",
+      "#F07346",
+      "#F8EED6"
+    ],
+    "layout_variant": 2,
+    "activity": "艺术与自然",
+    "area": "顺义区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "song-pines",
+    "title": "白墙与松影",
+    "subtitle": "在美术馆里慢慢看一棵树",
+    "area_label": "北京·顺义区",
+    "duration": "约2–3小时",
+    "transport": "地铁15号线后需公交或出租车接驳；不承诺地铁直达",
+    "stops": [
+      {
+        "name": "松美术馆展厅",
+        "detail": "净白几何馆舍；展览内容以当期为准",
+        "lat": 40.0246023,
+        "lon": 116.5793868,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120975",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1547480785"
+      },
+      {
+        "name": "松美术馆庭院",
+        "detail": "古松、草地和白墙形成简洁层次",
+        "lat": 40.0246023,
+        "lon": 116.5793868,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120975",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1547480785"
+      }
+    ],
+    "practical_note": "先查当期展览和入馆安排；不默认庭院可以免费进入。",
+    "copy_title": "顺义区｜白墙与松影",
+    "copy_body": "在美术馆里慢慢看一棵树。这次只安排一个片区：松美术馆展厅 → 松美术馆庭院。建议留约2–3小时，把拍照、休息和短时参观一起算进去。先查当期展览和入馆安排；不默认庭院可以免费进入。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "顺义区",
+      "北京小众玩法",
+      "艺术与自然"
+    ],
+    "hero_prompt_english": "Song Art Museum beside the Wenyu River in Shunyi, its low pure-white geometric gallery walls framing mature characterful pine trees on an open lawn. An adult holding a sketchbook studies the pine shadow. Make the contrast of ancient twisted pine silhouettes and clean contemporary white walls instantly legible; no existing artworks. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "393b59e9358f526e9f6660a09e6cf86da1877b608d11e3fcb84e0587a9c6f355",
+      "bounds_wgs84": [
+        116.57103246785766,
+        40.0182045167807,
+        116.58774113214233,
+        40.03099948330682
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "松美术馆展厅",
+          "lon": 116.5793868,
+          "lat": 40.0246023,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "松美术馆庭院",
+          "lon": 116.5793868,
+          "lat": 40.0246023,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:17:44.616241+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "松美术馆展厅",
+          "source_url": "https://www.openstreetmap.org/way/1547480785",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "松美术馆庭院",
+          "source_url": "https://www.openstreetmap.org/way/1547480785",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "松美术馆展厅 → 松美术馆庭院",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·顺义区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "白墙与松影",
+        "box": [
+          49,
+          188,
+          394,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "顺义｜把周末折成风景  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "在美术馆里慢慢看一棵树",
+        "box": [
+          55,
+          1013,
+          297,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  松美术馆展厅",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "净白几何馆舍；展览内容以当期为准",
+        "box": [
+          56,
+          1153,
+          376,
+          1175
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  松美术馆庭院",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "古松、草地和白墙形成简洁层次",
+        "box": [
+          56,
+          1230,
+          336,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "先查当期展览和入馆安排；不默认庭院可以免费进入。",
+        "box": [
+          53,
+          1281,
+          485,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁15号线后需公交或出租车接驳；不承诺地铁直达",
+        "box": [
+          53,
+          1362,
+          517,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "08 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "037",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

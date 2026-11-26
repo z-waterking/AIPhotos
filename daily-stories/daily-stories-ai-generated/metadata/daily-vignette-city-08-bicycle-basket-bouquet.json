@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-08-bicycle-basket-bouquet.png",
+  "refined_prompt": "../prompts/daily-vignette-city-08-bicycle-basket-bouquet.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-08-bicycle-basket-bouquet-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 8,
+  "anthology_index": 78,
+  "panel_count": 4,
+  "display_title": "车篮里的位置",
+  "visible_description": "一束花给一颗卷心菜让了位，最后却像找到了自己的舞台。",
+  "synopsis": "下班路上，阿芙买了一小束花，又顺手买了晚饭要用的卷心菜。到了自行车旁，她发现车篮只能让一样东西稳稳躺下。她把卷心菜放在篮底，再把花束斜斜靠在它的圆叶上。推车经过玻璃橱窗时，她瞥见倒影，篮子像一只认真打扮过的绿色花瓶。",
+  "story_text": "下班路上，阿芙先买了一小束波斯菊，后来经过菜摊，又想起晚饭还需要一颗卷心菜。等走到自行车旁，两只手都已经满满的。\n\n她看看车篮，试着让花和菜并排躺下，花茎却抵住篮边。放菜时拿不住花，放花时又担心菜压到它，只好让自行车继续安静地等着。\n\n后来，阿芙把卷心菜稳稳放在最底下，再让花束斜靠在宽大的外叶上。粉色花朵高出篮沿，纸包的茎落在空隙里，刚才拥挤的东西忽然各有位置。\n\n她推着车经过橱窗，玻璃里映出一只绿色的大花瓶。阿芙又看一眼篮子，笑起来。今晚的菜还没有下锅，就已经替她把回家的路装点好了。",
+  "art_direction": "Fresh gouache still life colors with soft pencil vegetable folds",
+  "character_design": "Afu is an adult woman with a dark braided ponytail, pale ochre shirt, sage trousers and cream canvas shoes. Her ONE muted-blue bicycle faces LEFT in side view throughout: front wheel/fork/handlebars at LEFT, saddle and rear wheel at RIGHT. ONE brown wicker basket is permanently attached immediately below those handlebars, directly ABOVE THE FRONT WHEEL. No rear basket or rear rack exists. One green cabbage and one pink cosmos bouquet in plain beige paper are the only purchases. Keep the front-basket attachment visible in every panel.",
+  "panels": [
+    {
+      "caption": "花和晚饭，一起来到车篮旁。",
+      "scene": "Show the parked blue bicycle in clear LEFT-FACING side profile: front wheel and fork at image left, handlebars rising above them, and the ONE empty wicker basket fixed directly below the handlebars over that same front wheel. The saddle and bare rear wheel are at image right, with no rack or basket. Afu stands on the near side at the frame center, holding the ONE wrapped bouquet in her right hand and ONE cabbage in her left. Both complete wheels and the basket attachment remain visible. Broad pedestrian pavement, quiet window behind, no lettering or speech balloons.",
+      "position": "TL"
+    },
+    {
+      "caption": "并排躺下，似乎有点挤。",
+      "scene": "The SAME bicycle remains left-facing and stationary on its stand, front wheel at left and rear wheel at right. Afu stands beside the front half, holding her ONE cabbage and ONE bouquet side by side just above the ONLY wicker basket to test their fit. Keep the basket attached under the visible handlebar stem directly over the left FRONT wheel; show the front fork connecting that wheel to the frame. The right rear wheel remains completely bare and no basket exists there. Both purchases stay securely in her hands. Wordless warm-paper gouache and pencil.",
+      "position": "TR"
+    },
+    {
+      "caption": "卷心菜先坐稳，花再靠过来。",
+      "scene": "In the unchanged left-facing side view, the ONE cabbage rests at the bottom of the front wicker basket. Afu stands beside the front frame and guides the ONE paper-wrapped bouquet diagonally onto its broad leaves, with blossoms above the rim. The basket is visibly connected to the handlebar stem directly above the LEFT front wheel, with its supporting attachment and front fork clear. The saddle and bare rear wheel remain to the RIGHT. Her hands touch only the bouquet; no second cabbage or basket appears. Keep the parked bicycle stable and the illustration wordless.",
+      "position": "BL"
+    },
+    {
+      "caption": "橱窗里，路过一只绿色花瓶。",
+      "scene": "Afu pauses while walking the SAME left-facing bicycle past a shop window. She stands on the near side at the FRAME CENTER, feet on the pavement, left hand holding the visible handlebars. The LEFT front wheel, fork, handlebar stem and ONLY wicker basket form one clearly connected assembly. The basket stays directly above that front wheel and contains the same cabbage and bouquet. The saddle and bare rear wheel remain at RIGHT, with no rack or basket. She smiles at a faint window reflection of the leafy bouquet arrangement only. No second physical bicycle or basket, no lettering.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DFDCC6",
+    "#7D9B6A",
+    "#CD9D77",
+    "#AE717A",
+    "#6B858A"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "花和晚饭，一起来到车篮旁。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "并排躺下，似乎有点挤。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "卷心菜先坐稳，花再靠过来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "橱窗里，路过一只绿色花瓶。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "e4086cc40bfb77a3afff135ee6df60eaf4fc3fb15f7cfa4994353abe01e5d7d4",
+  "sha256": "9846f24d7558bb99410f79b27c1d1e365e18d56c663603a84a245321cf175f7e",
+  "prompt_sha256": "a5f73fe957fc022f6031c6e6985a7ec84460b7aa78afddc8eb5a93e8905add82",
+  "story_sha256": "9fbb9b8d42647d47433ac9c40a7aade8d6c40d1c7505b57a62e85c6d33e3f326",
+  "created_at": "2026-10-26T10:55:42.564040+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

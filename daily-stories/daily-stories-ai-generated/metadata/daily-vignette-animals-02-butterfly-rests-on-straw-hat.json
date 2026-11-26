@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-02-butterfly-rests-on-straw-hat.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-02-butterfly-rests-on-straw-hat.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-02-butterfly-rests-on-straw-hat-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 2,
+  "anthology_index": 52,
+  "panel_count": 4,
+  "display_title": "蝴蝶的座位",
+  "visible_description": "一只白蝴蝶借草帽歇脚，园丁便让自己的休息也晚一点结束。",
+  "synopsis": "园丁照料花盆时，一只白蝴蝶落在淡黄草帽沿上。她停下手，把帽子慢慢取下，托着帽冠轻放到荫处的小桌，自己坐在一旁观察。蝴蝶展开翅膀，飞向桌边盛开的粉花。等它落稳，她才拿回空帽子戴好。原本短短的休息里，帽子替客人坐了一会儿，园丁也多看了一朵花。",
+  "story_text": "园丁给花浇完水，刚要扶一扶草帽，就看见帽沿停着一只白蝴蝶。它合着翅膀，细脚稳稳搭在草编的边上。她的手便停在半空，慢慢收了回来。\n\n旁边的小桌在树荫里。她托住帽冠，把帽子轻轻取下，放到桌面，再坐进椅子。平常休息时她会整理叶子，这一次只把双手放在膝上。\n\n过了一会儿，白翅膀张开，离开帽沿，掠过一小段空处，落到桌边盛开的粉花上。她跟着看过去，才发现那朵花比早晨又开大了一点。\n\n帽子空出来了。她拿起它，重新戴好，手指压了压原来那处帽沿。准备回去收水壶时，她又朝粉花看了一眼，小客人已经换了座位。",
+  "art_direction": "Soft garden gouache with delicate colored-pencil straw and petal textures on warm paper",
+  "character_design": "An adult woman gardener in her forties has a dark low braid, warm brown skin, a sage shirt, cream trousers and brown garden shoes. She wears one pale yellow woven straw hat with a plain cream band. One small healthy white butterfly has two paired wings and dark antennae. A low wooden table and one chair stand in dappled shade beside terracotta pots of pink cosmos flowers. A small blue watering can remains on the ground. Keep one hat and one butterfly throughout.",
+  "panels": [
+    {
+      "caption": "照料花盆时，帽沿来了一位小客人。",
+      "scene": "Beside terracotta pots of blooming pink cosmos, the adult gardener stands wearing her single pale yellow straw hat. One small white butterfly has settled on the outer front brim, its wings gently closed. She notices it with a calm upward glance and pauses, both hands relaxed near her waist. The blue watering can rests upright on the ground beside the pots. A low table and chair wait nearby in dappled shade. Keep the butterfly physically resting on the hat brim, with no duplicates. Wordless illustration; no letters, signs, logos or speech balloons."
+    },
+    {
+      "caption": "她轻放草帽，自己也坐下来。",
+      "scene": "The gardener is now seated at the low shaded table, bareheaded so her dark braid is visible. Her two hands support the crown and inner rim of the same straw hat as its lower rim comes to rest gently on the tabletop. The single white butterfly remains on the far outer brim, away from both hands. Her posture is patient and still. The flowering cosmos pot stands immediately beside the table, and the blue watering can stays on the ground. Wordless illustration; no letters, signs, logos or speech balloons."
+    },
+    {
+      "caption": "白翅膀离开帽沿，飞向一朵花。",
+      "scene": "The gardener sits quietly with both hands resting in her lap, watching the single white butterfly fly a short distance from the straw hat toward a nearby open pink cosmos blossom. Show exactly one butterfly midway between the empty hat brim and the flower, with its wings open naturally. The pale yellow hat remains completely still on the shaded table, crown upright. The gardener does not reach toward the insect. Keep the same table, chair, pots and grounded blue watering can. Wordless illustration; no letters, signs, logos or speech balloons."
+    },
+    {
+      "caption": "客人找到新座位，帽子回到头上。",
+      "scene": "The single white butterfly now rests on the same pink cosmos blossom beside the table, clearly separate from the gardener. She stands calmly beside the chair and uses both hands at the sides to settle her empty pale yellow straw hat back onto her head. The tabletop is empty where the hat previously rested. Her gaze turns softly toward the flower, while the blue watering can remains on the ground beside the unchanged terracotta pots. One hat, one butterfly, one gentle completed exchange of resting places. Wordless illustration; no letters, signs, logos or speech balloons."
+    }
+  ],
+  "palette": [
+    "#E7DCC3",
+    "#D8BE75",
+    "#8DA188",
+    "#B99B9E",
+    "#899EAC"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "照料花盆时，帽沿来了一位小客人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她轻放草帽，自己也坐下来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "白翅膀离开帽沿，飞向一朵花。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "客人找到新座位，帽子回到头上。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "f57537ec77f6be04efde217a34965f62e5b28be8aca532ca820d1f68f75eecbf",
+  "sha256": "d2516deaaec222a394fbfa55c8b9b16e648a6a5ae21d3967946c9ad301895b42",
+  "prompt_sha256": "918193756ccb281d4b93fbe9ba7ee333cfeea153d20714c5ab9d22ed4a44109c",
+  "story_sha256": "7b61ec3437074231b346c0590a1751156f312761fe713571b336be00e195f0c5",
+  "created_at": "2026-10-26T10:54:50.000345+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

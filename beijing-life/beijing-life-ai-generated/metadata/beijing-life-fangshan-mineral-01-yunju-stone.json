@@ -1,0 +1,334 @@
+{
+  "output": "../beijing-life-fangshan-mineral-01-yunju-stone.png",
+  "refined_prompt": "../prompts/beijing-life-fangshan-mineral-01-yunju-stone.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:46.384824+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fangshan-mineral",
+  "group_number": 12,
+  "series_number": 1,
+  "anthology_index": 56,
+  "title": "石经与古塔之间",
+  "sha256": "a37de0300f8c24978e5f8e014040183598cf93bfd0d99803b9dcb643628e3fb2",
+  "native_sha256": "b8a691b5650f254d465741d44ded8c54d048c26ff58e97a8d428563d598f3e89",
+  "prompt_sha256": "eec9c824592fff29904b92f7dc12bc0faebaa5ca708e43ff5a4ab4481f4d5e09",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2196986,
+  "art_direction": {
+    "style_name": "矿物色壁画",
+    "style_prompt_english": "Original mineral-pigment architectural mural illustration on finely textured plaster, flat lapis blue and malachite green planes, warm ochre stone, elegant crisp fine contours and decorative layered hills. Make recognizable modern and historic places, no copying religious murals or named artists.",
+    "palette": [
+      "#275CA1",
+      "#379078",
+      "#C98B42",
+      "#F0D9B1"
+    ],
+    "layout_variant": 1,
+    "activity": "园林与文化",
+    "area": "房山区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "yunju-stone",
+    "title": "石经与古塔之间",
+    "subtitle": "把时间交给一座山脚古寺",
+    "area_label": "北京·房山区",
+    "duration": "约3小时",
+    "transport": "房山城区公交或出租车接驳；往返时间较长需另计",
+    "stops": [
+      {
+        "name": "云居寺",
+        "detail": "看院落、石经文化与传统建筑",
+        "lat": 39.608231,
+        "lon": 115.7679175,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101425",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/313092717"
+      },
+      {
+        "name": "云居寺唐辽塔群",
+        "detail": "在开放区域观察砖石细节",
+        "lat": 39.608231,
+        "lon": 115.7679175,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101425",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/313092717"
+      }
+    ],
+    "practical_note": "只安排寺院游线，不把石经山登山算入；票务和展区开放提前查。",
+    "copy_title": "房山区｜石经与古塔之间",
+    "copy_body": "把时间交给一座山脚古寺。这次只安排一个片区：云居寺 → 云居寺唐辽塔群。建议留约3小时，把拍照、休息和短时参观一起算进去。只安排寺院游线，不把石经山登山算入；票务和展区开放提前查。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "房山区",
+      "北京小众玩法",
+      "园林与文化"
+    ],
+    "hero_prompt_english": "Yunju Temple in Fangshan at the foot of low western hills: warm red timber temple roofs layered behind an ancient pale brick pagoda, stone-paved courtyard, protected stone-sutra display suggested only as blank inscribed-like texture without readable characters. An adult studies architecture beneath autumn branches; no copying actual sutra pages or murals. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "7aebb31b876740ea411ff3ccbd9c86961e54d5cf117d54b26d5be895ae8575ad",
+      "bounds_wgs84": [
+        115.75956316785766,
+        39.60179434237605,
+        115.77627183214233,
+        39.61466705930451
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "云居寺",
+          "lon": 115.7679175,
+          "lat": 39.608231,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "云居寺唐辽塔群",
+          "lon": 115.7679175,
+          "lat": 39.608231,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:29.088729+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "云居寺",
+          "source_url": "https://www.openstreetmap.org/way/313092717",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "云居寺唐辽塔群",
+          "source_url": "https://www.openstreetmap.org/way/313092717",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "云居寺 → 云居寺唐辽塔群",
+        "box": [
+          52,
+          43,
+          350,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·房山区",
+        "box": [
+          52,
+          105,
+          244,
+          137
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "石经与古塔之间",
+        "box": [
+          49,
+          153,
+          434,
+          207
+        ],
+        "font_size": 55
+      },
+      {
+        "text": "房山｜石色与水光  ·  约3小时",
+        "box": [
+          52,
+          232,
+          374,
+          256
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "把时间交给一座山脚古寺",
+        "box": [
+          55,
+          1013,
+          297,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  云居寺",
+        "box": [
+          413,
+          1117,
+          538,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看院落、石经文化与传统建筑",
+        "box": [
+          416,
+          1153,
+          676,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  云居寺唐辽塔群",
+        "box": [
+          413,
+          1194,
+          646,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "在开放区域观察砖石细节",
+        "box": [
+          416,
+          1230,
+          636,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "只安排寺院游线，不把石经山登山算入；票务和展区开放提前查。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "房山城区公交或出租车接驳；往返时间较长需另计",
+        "box": [
+          413,
+          1362,
+          853,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "12 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "056",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ],
+    "compact_header": {
+      "bottom": 270,
+      "reason": "preserve tall landmark finial visibility"
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "The central tower is a generic many-story pavilion pagoda. Yunju north pagoda has a distinctive lower octagonal drum/storey composition topped by a rounded conical stack of densely spaced brick eaves, not a tall stack of repeated storeys. Verified official imagery confirms silhouette.",
+    "superseded_native_sha256": "624f41352da6307066d3f711b213c2c449191fd7f7a2d7977265df86e84c4b2e",
+    "repaired_at": "2026-10-29T04:53:13.950336+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

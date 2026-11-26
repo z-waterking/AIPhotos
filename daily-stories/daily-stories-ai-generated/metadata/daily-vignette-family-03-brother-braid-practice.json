@@ -1,0 +1,214 @@
+{
+  "output": "../daily-vignette-family-03-brother-braid-practice.png",
+  "refined_prompt": "../prompts/daily-vignette-family-03-brother-braid-practice.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-03-brother-braid-practice-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 3,
+  "anthology_index": 13,
+  "panel_count": 6,
+  "display_title": "辫子练习生",
+  "visible_description": "哥哥学会了给妹妹编辫子，自己的刘海也收到了一个小小的毕业礼物。",
+  "synopsis": "妈妈出门前把梳子交给哥哥，妹妹坐在小凳上等着扎辫子。哥哥把三股头发分来分去，总是多出一股，只好先拿三条毛线在椅背上练习。妹妹举着小镜子给他看，毛线终于编成整齐的一段。哥哥认真给她扎好两条辫子。等他收拾发圈时，妹妹踮起脚，把剩下的一只夹在了他额前翘起的头发上。",
+  "story_text": "妈妈出门前，把梳子和发圈放到哥哥手里。妹妹已经坐上小凳，等着两条辫子。哥哥看着那一大把头发，答应得响亮，动手却很慢。\n\n三股头发分来分去，总有一股跑错位置。他先让妹妹休息，把三条粗毛线系在椅背上，一下下交叉。妹妹举着小镜子在旁边看，时不时指一指刚才压错的那根。\n\n彩色毛线终于编出整齐的一段。哥哥重新拿起梳子，这回两只手有了顺序，妹妹肩上慢慢垂下两条辫子，末端各有一只浅紫发圈。\n\n他刚蹲下收拾东西，妹妹伸手拢住他额前翘起的头发，把剩下的一只发圈套了上去。哥哥抬眼看不到自己的小辫，妹妹却已经举好了镜子，等他验收。",
+  "art_direction": "Playful pastel gouache with fine pencil hair and yarn textures on warm paper",
+  "character_design": "The older brother is a Chinese university student around twenty-two with short tousled black hair, a prominent lifted forelock, and an earnest long face. He wears a faded denim-blue sweatshirt, beige trousers, and plain socks. His seven-year-old sister has long straight black hair, round cheeks, and a small fringe. She wears a mustard cardigan over a cream blouse, a knee-length plum skirt over opaque leggings, and slippers. Use three thick practice yarn strands in coral, pale blue, and cream, plus small lavender hair bands.",
+  "panels": [
+    {
+      "caption": "梳子交到哥哥手里，三股头发却不听话。",
+      "scene": "The little sister sits patiently on a low stool in front of a simple hallway mirror while her brother stands behind her, carefully separating sections of her long hair. His hands hold uneven strands and his concentrated face shows mild confusion. A plain comb and several lavender hair bands lie on a nearby table. The sister looks at his reflection with tolerant amusement, holding a small hand mirror in her lap. Keep every gesture gentle, with the hair loose and untangled, and the domestic space bright and relaxed."
+    },
+    {
+      "caption": "妹妹歇一会儿，他先找来三种颜色。",
+      "scene": "The brother places three thick yarn strands in coral, pale blue, and cream across the wooden chair seat, comparing them with his fingers before tying them to the top rail. His sister has moved from the stool to sit beside the chair with her hair still loose, holding the small hand mirror in her lap. The lavender hair bands and comb remain on the nearby table. This is the practical preparation for his slower practice attempt."
+    },
+    {
+      "caption": "他先请三条毛线，坐在椅背上帮忙。",
+      "scene": "The brother kneels beside a wooden chair, practicing a braid with three thick yarn strands tied loosely around its top rail. Coral, pale blue, and cream strands remain easy to distinguish as he crosses one over another. The sister sits beside him holding her small mirror at an angle, watching the sequence with interest. Her hair is still loose over her cardigan. The comb and lavender bands wait on the table. Frame their hands and the three colored strands prominently, turning the ordinary chair into a cheerful practice partner."
+    },
+    {
+      "caption": "彩线终于交齐，妹妹替他举起小镜子。",
+      "scene": "A short tidy braid now hangs from the chair rail, its three colors crossing in a clear repeating pattern. The brother holds the loose ends lightly while his sister raises the hand mirror to show him the shape from another angle. Both study the successful practice with small pleased smiles. Keep her real hair entirely loose and his own lifted forelock unchanged, so the yarn achievement remains separate from the next stage of braiding her hair."
+    },
+    {
+      "caption": "毛线顺了，两条真辫子也慢慢齐了。",
+      "scene": "Back at the low stool, the brother finishes fastening a lavender band around the end of the sister's second neat braid. Her first braid rests over the opposite shoulder, and she holds the hand mirror up to inspect the result with a proud smile. In the background, the completed three-color yarn braid still hangs from the chair rail. The brother's own lifted forelock remains unchanged. Use a close waist-up composition with careful fingers, tidy hair sections, and warm mutual attention, showing the successful skill rather than a perfect salon finish."
+    },
+    {
+      "caption": "剩下一只小发圈，给哥哥也算毕业。",
+      "scene": "The brother crouches to collect the comb while his sister stands beside him and gently gathers his lifted forelock with the last lavender hair band. A tiny playful tuft now rises from the front of his head, matching the bands on her two braids. He tilts his eyes upward with a surprised grin without resisting. She looks solemnly pleased with her handiwork. The yarn practice braid hangs in the background and the little mirror reflects only soft color, keeping the final joke visible through matching hair accessories and affectionate body language."
+    }
+  ],
+  "palette": [
+    "#F0DEC5",
+    "#7B99AE",
+    "#D3A16D",
+    "#AA7C8F",
+    "#6C7B69"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "梳子交到哥哥手里，三股头发却不",
+          "听话。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "妹妹歇一会儿，他先找来三种颜色。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "他先请三条毛线，坐在椅背上帮忙。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "彩线终于交齐，妹妹替他举起小镜",
+          "子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "毛线顺了，两条真辫子也慢慢齐了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "剩下一只小发圈，给哥哥也算毕业。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "50d0748e3bff98fc041b2a12a2c2f1d0f3d9ef61b5814d12715ca556c2461010",
+  "sha256": "eea4666cfec14c42f31e1339345ba2364089c42675b86ecd49178c1f957d371b",
+  "prompt_sha256": "161fe366f6a400808861e523a9769257c20ad1137f0ff47341354aec2c02c79b",
+  "story_sha256": "168f9cad4b3d6795b5d15b8173f5087c6ad8aa0a5a6559b7f8375657928bbe91",
+  "created_at": "2026-10-26T09:48:45.403766+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

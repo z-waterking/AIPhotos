@@ -1,0 +1,322 @@
+{
+  "output": "../beijing-life-yanqing-postcards-03-yongning-town.png",
+  "refined_prompt": "../prompts/beijing-life-yanqing-postcards-03-yongning-town.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:58:25.602547+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-yanqing-postcards",
+  "group_number": 15,
+  "series_number": 3,
+  "anthology_index": 73,
+  "title": "永宁寻味半日",
+  "sha256": "716214107bb2347962c12032b85ca421d87f696ce23ae0717dd6efd91bd0dfa6",
+  "native_sha256": "41f8a8957ed003b43a0699462196794d06c5709e51e23b95c944fb84e738ece4",
+  "prompt_sha256": "f889df3da18d507c04ce41d6a0fd0afe2905167ac6fec3c3140ae5ff3fa543f8",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2470392,
+  "art_direction": {
+    "style_name": "复古旅行邮票",
+    "style_prompt_english": "Original vintage engraved travel-postage illustration, intricate cross-hatching, saturated spot inks, large monumental framing, tiny scenic vignettes, fine perforation-inspired edge rhythm integrated into a full-bleed design, no lettering or numerals. Architectural features remain realistic. Not a recreation of any actual stamp.",
+    "palette": [
+      "#173B50",
+      "#E46338",
+      "#E9B951",
+      "#C9DDD2"
+    ],
+    "layout_variant": 4,
+    "activity": "湖岸散步／古城／园艺",
+    "area": "延庆区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "yongning-town",
+    "title": "永宁寻味半日",
+    "subtitle": "古城街巷里找一顿热饭",
+    "area_label": "延庆·永宁镇",
+    "duration": "约3小时",
+    "transport": "延庆城区乘公交或出租车到永宁；镇内步行",
+    "stops": [
+      {
+        "name": "永宁古城",
+        "detail": "十字街与灰瓦街屋",
+        "lat": 40.5235753,
+        "lon": 116.1599725,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118835",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1372941717"
+      },
+      {
+        "name": "玉皇阁",
+        "detail": "高台楼阁外观",
+        "lat": 40.5236464,
+        "lon": 116.1598997,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118835",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1372941716"
+      }
+    ],
+    "practical_note": "古城按公共街巷外观安排；用餐自选营业店铺，车程另计。",
+    "copy_title": "永宁寻味半日｜北京周末灵感",
+    "copy_body": "古城街巷里找一顿热饭。永宁古城 → 玉皇阁，安排约3小时。从十字街与灰瓦街屋到高台楼阁外观，留点时间给自己。古城按公共街巷外观安排；用餐自选营业店铺，车程另计。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "延庆"
+    ],
+    "hero_prompt_english": "Yongning ancient town in Yanqing: the tall Yuhuang Pavilion rising on a solid square masonry platform at a crossroads, traditional tiled double-eave tower, gray brick low shopfronts, an adult holding a small warm bowl at an ordinary unbranded food stall, comfortable early-autumn midday. Do not portray a palace gate or copy signage. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "4aa8a624ab5a256761538eb1ec3b716373456257dfc7ebc671a075d3219d7803",
+      "bounds_wgs84": [
+        116.15158176785765,
+        40.517260101588064,
+        116.16829043214231,
+        40.52996099677611
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "永宁古城",
+          "lon": 116.1599725,
+          "lat": 40.5235753,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "玉皇阁",
+          "lon": 116.1598997,
+          "lat": 40.5236464,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:04.778368+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "永宁古城",
+          "source_url": "https://www.openstreetmap.org/way/1372941717",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "玉皇阁",
+          "source_url": "https://www.openstreetmap.org/way/1372941716",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "永宁古城 → 玉皇阁",
+        "box": [
+          52,
+          43,
+          272,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "延庆·永宁镇",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "永宁寻味半日",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "延庆·山水慢假日  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "古城街巷里找一顿热饭",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  永宁古城",
+        "box": [
+          53,
+          1117,
+          205,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "十字街与灰瓦街屋",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  玉皇阁",
+        "box": [
+          53,
+          1194,
+          178,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "高台楼阁外观",
+        "box": [
+          56,
+          1230,
+          176,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "古城按公共街巷外观安排；用餐自选营业店铺，车程另计。",
+        "box": [
+          53,
+          1281,
+          521,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "延庆城区乘公交或出租车到永宁；镇内步行",
+        "box": [
+          53,
+          1362,
+          433,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "15 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "073",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

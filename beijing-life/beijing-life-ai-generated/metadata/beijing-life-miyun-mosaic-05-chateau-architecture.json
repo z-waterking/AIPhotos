@@ -1,0 +1,321 @@
+{
+  "output": "../beijing-life-miyun-mosaic-05-chateau-architecture.png",
+  "refined_prompt": "../prompts/beijing-life-miyun-mosaic-05-chateau-architecture.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:02:33.692257+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-miyun-mosaic",
+  "group_number": 14,
+  "series_number": 5,
+  "anthology_index": 70,
+  "title": "城堡外观与葡萄藤",
+  "sha256": "0fce5745cad09437de0b6f3fc0b9a8095eedf9ea20a357f19b9d175d927cd5fe",
+  "native_sha256": "0871b8513396067f6f08d2bdce9bca04794a3fabcbda6fb62584100b474be4e5",
+  "prompt_sha256": "d0762629986a0d02085dbd7c0cdbb8786d3240cc2877b1de112a1587ca40da55",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2363832,
+  "art_direction": {
+    "style_name": "陶片马赛克",
+    "style_prompt_english": "Hand-set ceramic tessera mosaic illustration: irregular matte tile pieces, thin grout channels, directional tile flow shaping real architecture, water and trees. Rich cobalt, coral, pale jade and butter-yellow tiles; readable large silhouettes with tactile tessera detail rather than pixel art.",
+    "palette": [
+      "#285FAA",
+      "#ED7355",
+      "#99C5AE",
+      "#F5D579"
+    ],
+    "layout_variant": 3,
+    "activity": "公园与小度假",
+    "area": "密云区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "chateau-architecture",
+    "title": "城堡外观与葡萄藤",
+    "subtitle": "不喝酒也能看建筑与花园",
+    "area_label": "北京·密云区",
+    "duration": "约3–4小时",
+    "transport": "密云城区公交或出租车至巨各庄；首末交通另计",
+    "stops": [
+      {
+        "name": "张裕爱斐堡国际酒庄",
+        "detail": "看城堡外观与园区景观",
+        "lat": 40.381317,
+        "lon": 116.909605,
+        "coordinate_status": "Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117990"
+      },
+      {
+        "name": "爱斐堡欧洲小镇",
+        "detail": "在开放商业街区吃饭、休息",
+        "lat": 40.381317,
+        "lon": 116.909605,
+        "coordinate_status": "Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117990"
+      }
+    ],
+    "practical_note": "按园区票务与开放安排；不默认能进酒窖或采摘，餐饮单独选择。",
+    "copy_title": "密云区｜城堡外观与葡萄藤",
+    "copy_body": "不喝酒也能看建筑与花园。这次只安排一个片区：张裕爱斐堡国际酒庄 → 爱斐堡欧洲小镇。建议留约3–4小时，把拍照、休息和短时参观一起算进去。按园区票务与开放安排；不默认能进酒窖或采摘，餐饮单独选择。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "密云区",
+      "北京小众玩法",
+      "公园与小度假"
+    ],
+    "hero_prompt_english": "Chateau Changyu AFIP in Miyun: a recognizable European-inspired stone winery chateau with steep dark roof, slender corner turrets and a courtyard, orderly autumn grapevines and a small pedestrian leisure village. Adult friends share a casual lunch with tea, not wine. Focus on architecture and garden design, no brand labels, no alcohol-centered scene. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "367fe38f73ebccc9146739abf144c77e26ff91eccc0f6b0049358dd7df85a370",
+      "bounds_wgs84": [
+        116.90125066785767,
+        40.37495279019845,
+        116.91795933214233,
+        40.38768060862506
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "张裕爱斐堡国际酒庄",
+          "lon": 116.909605,
+          "lat": 40.381317,
+          "coordinate_status": "Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point"
+        },
+        {
+          "name": "爱斐堡欧洲小镇",
+          "lon": 116.909605,
+          "lat": 40.381317,
+          "coordinate_status": "Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:14:41.250366+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "张裕爱斐堡国际酒庄",
+          "source_url": "https://s.visitbeijing.com.cn/attraction/117990",
+          "status": "Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point"
+        },
+        {
+          "name": "爱斐堡欧洲小镇",
+          "source_url": "https://s.visitbeijing.com.cn/attraction/117990",
+          "status": "Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "张裕爱斐堡国际酒庄 → 爱斐堡欧洲小镇",
+        "box": [
+          52,
+          43,
+          506,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·密云区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "城堡外观与葡萄藤",
+        "box": [
+          49,
+          188,
+          601,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "密云｜城边的彩色慢游  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "不喝酒也能看建筑与花园",
+        "box": [
+          55,
+          1013,
+          297,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  张裕爱斐堡国际酒庄",
+        "box": [
+          413,
+          1117,
+          700,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看城堡外观与园区景观",
+        "box": [
+          416,
+          1153,
+          616,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  爱斐堡欧洲小镇",
+        "box": [
+          413,
+          1194,
+          646,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "在开放商业街区吃饭、休息",
+        "box": [
+          416,
+          1230,
+          656,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "按园区票务与开放安排；不默认能进酒窖或采摘，餐饮单独选择。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "密云城区公交或出租车至巨各庄；首末交通另计",
+        "box": [
+          413,
+          1362,
+          833,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "14 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "070",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-shijingshan-structure-04-fahai-forest.png",
+  "refined_prompt": "../prompts/beijing-life-shijingshan-structure-04-fahai-forest.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:44.927714+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shijingshan-structure",
+  "group_number": 6,
+  "series_number": 4,
+  "anthology_index": 29,
+  "title": "古寺旁听山风",
+  "sha256": "abcd68d22e88141a4ae0bbb2792c7b8b4bde5e0c4e78ef10111c3233f3f59ecd",
+  "native_sha256": "8f61a32829ad03be599f9fff24d509ae60e7d30a8c73e131042073b552ee69db",
+  "prompt_sha256": "80b66742f1041138ed7c83a37ec5e978742ec66b676d3b01c188a1842c2bed6b",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2295147,
+  "art_direction": {
+    "style_name": "蓝晒工程线稿",
+    "style_prompt_english": "Original cyanotype-inspired architectural field notebook artwork: deep Prussian blue, pale cyan blueprint lines and selective burnt-orange accents; dense precise linework describes steel joints, masonry and tree branches, photogram-like leaf silhouettes at the edges. No writing, dimensions or fake technical labels. Full-bleed scene, not an empty blueprint sheet.",
+    "palette": [
+      "#113D69",
+      "#64C8D2",
+      "#F4E6B5",
+      "#D66B34"
+    ],
+    "layout_variant": 0,
+    "activity": "工业遗产、古街与山麓散步",
+    "area": "石景山区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "fahai-forest",
+    "title": "古寺旁听山风",
+    "subtitle": "院落建筑与山麓树林",
+    "area_label": "石景山·翠微山南麓",
+    "duration": "约3小时",
+    "transport": "地铁6号线金安桥站后接驳至模式口片区",
+    "stops": [
+      {
+        "name": "北京法海寺博物馆",
+        "detail": "古寺院落与建筑",
+        "lat": 39.9400258,
+        "lon": 116.1533954,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117905",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/271822412"
+      },
+      {
+        "name": "法海寺森林公园",
+        "detail": "开放山麓园路散步",
+        "lat": 39.9406,
+        "lon": 116.153,
+        "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119683",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1351695740"
+      }
+    ],
+    "practical_note": "壁画参观另查预约票种；山路量力，关闭路段不进入。",
+    "copy_title": "石景山·翠微山南麓｜古寺旁听山风",
+    "copy_body": "不把壁画预约和爬山硬绑在一起。先按自己的预约看寺院，再在开放山麓走一小段。 路线：北京法海寺博物馆 → 法海寺森林公园。约3小时，到首站和返程另计。壁画参观另查预约票种；山路量力，关闭路段不进入。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "石景山",
+      "古寺旁听山风"
+    ],
+    "hero_prompt_english": "Fahai Temple at the foot of Cuiwei Mountain, compact traditional hall with dark tiled roof and red structural timbers among mature cypress trees, stone steps and gold deciduous foliage. Blue cyanotype linework and pale leaf silhouettes, one adult walking gently uphill, no depiction or reproduction of murals. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "3bfae1cfa81a03eb631b9032d8b4a3398f264ae6490f0d5d0d2a1afbb5799880",
+      "bounds_wgs84": [
+        116.14484336785766,
+        39.933907220377925,
+        116.16155203214232,
+        39.94671798122644
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京法海寺博物馆",
+          "lon": 116.1533954,
+          "lat": 39.9400258,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "法海寺森林公园",
+          "lon": 116.153,
+          "lat": 39.9406,
+          "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:33.757716+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京法海寺博物馆",
+          "source_url": "https://www.openstreetmap.org/node/271822412",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "法海寺森林公园",
+          "source_url": "https://www.openstreetmap.org/way/1351695740",
+          "status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京法海寺博物馆 → 法海寺森林公园",
+        "box": [
+          52,
+          43,
+          480,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "石景山·翠微山南麓",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "古寺旁听山风",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "石景山结构观察课  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "院落建筑与山麓树林",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京法海寺博物馆",
+        "box": [
+          53,
+          1117,
+          313,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "古寺院落与建筑",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  法海寺森林公园",
+        "box": [
+          53,
+          1194,
+          286,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "开放山麓园路散步",
+        "box": [
+          56,
+          1230,
+          216,
+          1250
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "壁画参观另查预约票种；山路量力，关闭路段不进入。",
+        "box": [
+          53,
+          1281,
+          485,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁6号线金安桥站后接驳至模式口片区",
+        "box": [
+          53,
+          1362,
+          405,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "06 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "029",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

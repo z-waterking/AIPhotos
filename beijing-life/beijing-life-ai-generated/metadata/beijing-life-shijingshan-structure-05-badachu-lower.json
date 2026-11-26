@@ -1,0 +1,381 @@
+{
+  "output": "../beijing-life-shijingshan-structure-05-badachu-lower.png",
+  "refined_prompt": "../prompts/beijing-life-shijingshan-structure-05-badachu-lower.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:45.253290+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shijingshan-structure",
+  "group_number": 6,
+  "series_number": 5,
+  "anthology_index": 30,
+  "title": "八大处轻量登高",
+  "sha256": "9284b90db8c85e97fed9e062c268bd62422ad8df5447c82bcb6ef43b035585d1",
+  "native_sha256": "f794d721488e0a2009eb9df068a37da19f2b949840716f3ebb2de5a3be44d1c6",
+  "prompt_sha256": "886a85e76103f3db53ab84687b779177c9a6fc5850305183e57ba9caceefaf5b",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1145740,
+  "art_direction": {
+    "style_name": "蓝晒工程线稿",
+    "style_prompt_english": "Original cyanotype-inspired architectural field notebook artwork: deep Prussian blue, pale cyan blueprint lines and selective burnt-orange accents; dense precise linework describes steel joints, masonry and tree branches, photogram-like leaf silhouettes at the edges. No writing, dimensions or fake technical labels. Full-bleed scene, not an empty blueprint sheet.",
+    "palette": [
+      "#113D69",
+      "#64C8D2",
+      "#F4E6B5",
+      "#D66B34"
+    ],
+    "layout_variant": 0,
+    "activity": "工业遗产、古街与山麓散步",
+    "area": "石景山区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "badachu-lower",
+    "title": "八大处轻量登高",
+    "subtitle": "灵光寺与三山庵方向",
+    "area_label": "石景山·西山南麓",
+    "duration": "约3–4小时",
+    "transport": "地铁1号线八角游乐园站后公交接驳至八大处",
+    "stops": [
+      {
+        "name": "八大处公园南门",
+        "detail": "选择低海拔开放园路",
+        "lat": 39.9535721,
+        "lon": 116.1801142,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101427",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/5953513327"
+      },
+      {
+        "name": "灵光寺",
+        "detail": "寺院外观与层叠台阶",
+        "lat": 39.9556952,
+        "lon": 116.1767175,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101427",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/630501588"
+      },
+      {
+        "name": "三山庵",
+        "detail": "山麓古建和树影",
+        "lat": 39.9570556,
+        "lon": 116.17668,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101427",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/630501590"
+      }
+    ],
+    "practical_note": "包含台阶与坡路，按体力折返；不承诺索道、寺院内部或登塔开放。",
+    "copy_title": "石景山·西山南麓｜八大处轻量登高",
+    "copy_body": "想登高又不想赶完整条山线，就走低处这一段。看台阶、古树和寺院屋顶，走到舒服的位置再回。 路线：八大处公园南门 → 灵光寺 → 三山庵。约3–4小时，到首站和返程另计。包含台阶与坡路，按体力折返；不承诺索道、寺院内部或登塔开放。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "石景山",
+      "八大处轻量登高"
+    ],
+    "hero_prompt_english": "Lower Badachu Park mountain path with Lingguang Temple octagonal pagoda rising between old pines and autumn trees, layered stone steps and a calm adult hiker in practical clothing. Precise blue-white architectural lines, copper-orange leaf accents, approachable wooded lower slope rather than a dramatic summit. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "3b250eddb6b06a8453458e8c0030cfa454f9bbd1d3def5c96889fd0c2034ede5",
+      "bounds_wgs84": [
+        116.17004276785768,
+        39.94890959636985,
+        116.18675143214234,
+        39.96171754833226
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "八大处公园南门",
+          "lon": 116.1801142,
+          "lat": 39.9535721,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "灵光寺",
+          "lon": 116.1767175,
+          "lat": 39.9556952,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "三山庵",
+          "lon": 116.17668,
+          "lat": 39.9570556,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:35.695032+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "八大处公园南门",
+          "source_url": "https://www.openstreetmap.org/node/5953513327",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "灵光寺",
+          "source_url": "https://www.openstreetmap.org/way/630501588",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "三山庵",
+          "source_url": "https://www.openstreetmap.org/way/630501590",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "八大处公园南门 → 灵光寺 → 三山庵",
+        "box": [
+          52,
+          43,
+          466,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "石景山·西山南麓",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "八大处轻量登高",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "石景山结构观察课  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "灵光寺与三山庵方向",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  八大处公园南门",
+        "box": [
+          53,
+          1117,
+          286,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "选择低海拔开放园路",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  灵光寺",
+        "box": [
+          53,
+          1194,
+          178,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "寺院外观与层叠台阶",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  三山庵",
+        "box": [
+          53,
+          1271,
+          178,
+          1297
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "山麓古建和树影",
+        "box": [
+          56,
+          1307,
+          196,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁1号线八角游乐园站后公交接驳至八大处",
+        "box": [
+          53,
+          1362,
+          445,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "06 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "030",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ],
+    "artwork_fit": {
+      "method": "full-native-contain-with-source-derived-blurred-surround",
+      "native_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "target_box": [
+        265,
+        346,
+        758,
+        1086
+      ],
+      "aspect_ratio_preserved": true,
+      "cropped": false,
+      "upscaled": false,
+      "resampling": "Lanczos"
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "NativeQAshowslarge2-tierwoodenpavilioninsteadactualLingguangTempletoothrelicstupa;thelandmarkhasatalloctagonalgraybrickshaftand13closelyspacedeaves.",
+    "superseded_native_sha256": "3e2dc65d64ea77820d2429937ae8c95fe50a6c52260d70b776a743dd74cb2ab4",
+    "repaired_at": "2026-10-29T04:49:55.451981+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

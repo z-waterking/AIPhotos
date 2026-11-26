@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-07-sparrows-after-watering.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-07-sparrows-after-watering.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-07-sparrows-after-watering-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 7,
+  "anthology_index": 57,
+  "panel_count": 4,
+  "display_title": "花盆外的浴室",
+  "visible_description": "浇花留下的一点水，被麻雀发现成了一间临时浴室。",
+  "synopsis": "阳台浇完花，接水的宽浅盘里留着清水。主人正要收走，一只麻雀落在栏杆上，歪头看了半天。她把水盘移到远离栏边的稳固角落，自己退进门内。麻雀跳下来，先踩一脚，接着扑棱起翅膀，另一只也在旁边等。主人站在门后举着空水壶，忽然不急着完成最后这点家务了。",
+  "story_text": "阳台的花都浇好了，宽浅的接水盘里还留着一点清水。主人提着空水壶，正要把盘子收走，栏杆上落来一只麻雀，歪着头看下面。\n\n她停住手，把盘子挪到靠墙的稳当角落，离栏边远一些，再退进敞开的门内。麻雀等了一会儿，跳到地上，先探出一只脚。\n\n接着，两只脚都踩进水里，翅膀扑棱几下，小水珠亮亮地飞起来。另一只麻雀落在旁边的干地上，边看边抖了抖羽毛。\n\n主人站在门后，空水壶还抱在手里。第一只洗完，换第二只进去，她又看了一轮。等想起要放下水壶时，手里的轻重早就不重要了，盘里刚好又亮起一串细小的水珠。",
+  "art_direction": "Luminous gouache with quick pencil feather marks on warm cream paper",
+  "character_design": "An adult balcony gardener with dark hair in a loose bun wears an ochre linen shirt, cream trousers and gray house shoes. Two small healthy house sparrows have brown backs, pale gray breasts, dark cheek patches and short dark bills; one is slightly lighter. The gardener uses a plain sage watering can and a wide shallow terracotta saucer containing clean water only a little above its base. Potted leafy herbs stand securely along the sheltered inner wall of the balcony.",
+  "panels": [
+    {
+      "caption": "浇完花，还剩一浅盘清水。",
+      "scene": "The gardener stands on a sheltered balcony holding an empty sage watering can and reaches toward a wide terracotta saucer on the floor. A thin layer of clean water reflects the pale sky inside it. One brown sparrow has landed on the upper railing and tilts its head toward the saucer, catching the gardener attention. Secure herb pots line the inner wall, and the scene emphasizes a quiet ordinary pause after watering. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她把盘子挪稳，自己退了一步。",
+      "scene": "The terracotta water saucer now rests securely in an open corner near the inner balcony wall, far from the railing edge and between stable herb pots. The gardener steps through the open doorway into the room, keeping the empty watering can low by her side. The sparrow remains on the railing, watching the newly accessible shallow water. Show the clear open route from railing to floor without obstacles, and keep the human at a respectful distance. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "第一只洗澡，第二只在旁边等。",
+      "scene": "The first sparrow stands in the shallow saucer and flutters its wings through the clean water, sending tiny bright droplets just above the rim. The slightly lighter second sparrow waits on the dry balcony floor a short distance away, head angled toward the bathing bird. Through the open doorway, the gardener watches quietly from indoors with the empty sage can. The saucer stays stable and the water visibly shallow around the bird feet. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "空水壶拿着，也可以再站一会儿。",
+      "scene": "View the gardener from inside the room, standing comfortably behind the open doorway with the empty sage watering can held in both hands at waist height. Beyond her, both sparrows occupy the balcony bathing area, one drying on the saucer rim and the other stepping into the shallow water. The secure herb pots frame this small scene. Her expression is absorbed and peaceful, with the unfinished chore transformed into an ordinary moment of observation. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E7DCC5",
+    "#8E9E78",
+    "#A88C6C",
+    "#87A3B0",
+    "#C5AB71"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "浇完花，还剩一浅盘清水。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她把盘子挪稳，自己退了一步。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "第一只洗澡，第二只在旁边等。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "空水壶拿着，也可以再站一会儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "f4d93977c7c9d3d12948438e448456871a4ad111d35753653515b1111dd57b37",
+  "sha256": "7c9ba151fdba72565aa490cf1be7aa9bb1fdea320b20ca4b431b235e59bedb59",
+  "prompt_sha256": "592c6c866556c4aa3cfea253baf116168d624651a65189a0e30941fdfef1fe43",
+  "story_sha256": "7ac0ae102a23176624bc2bc0e834a193b44817f23505e6aa88186be3ba9fe664",
+  "created_at": "2026-10-26T10:19:23.124469+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

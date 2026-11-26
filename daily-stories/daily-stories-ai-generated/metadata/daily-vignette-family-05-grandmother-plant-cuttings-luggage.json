@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-family-05-grandmother-plant-cuttings-luggage.png",
+  "refined_prompt": "../prompts/daily-vignette-family-05-grandmother-plant-cuttings-luggage.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-05-grandmother-plant-cuttings-luggage-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 5,
+  "anthology_index": 15,
+  "panel_count": 4,
+  "display_title": "奶奶的绿行李",
+  "visible_description": "孙女以为奶奶准备了满袋食物，打开却发现一窗台的小植物正在等她搬家。",
+  "synopsis": "孙女搬进新住处，奶奶说给她收拾了一袋东西。她以为又是吃的，打开布袋，却看到几只裹得稳稳的小花盆。奶奶把窗台上早已养出根的枝条一棵棵交给她，又从围裙口袋里拿出一只更小的盆。新家的空窗台终于排满绿色，孙女拍照给奶奶看，镜头边缘还挤进了那只差点被忘记的小盆。",
+  "story_text": "孙女搬新家，奶奶说给她收拾了一袋东西。她拎了拎，猜里面是几盒点心。打开一看，却先碰见一片绿叶，接着是裹着纸的小花盆。\n\n奶奶把她带到窗边，举起玻璃杯里的枝条。细根已经在水里绕成一小团，原来这些小植物等她搬家，等了不止一天。孙女拿着空盆，跟着一棵棵安顿好。\n\n临走，奶奶又摸了摸围裙口袋，取出一只更小的圆盆。那棵多肉矮矮胖胖，刚好坐在掌心。孙女腾出一只手，把最后这件行李也接住。\n\n新家的纸箱还没全拆，窗台却先排满了绿色。她举起手机拍照，发现最小的盆差点落在画面外，赶紧把镜头移了一点，再发给奶奶：都到家了。",
+  "art_direction": "Fresh botanical gouache and softly hatched pencil on pale aged paper",
+  "character_design": "The grandmother is a Chinese woman around seventy with fluffy short silver hair, a rounded face, and a quick smile. She wears a pale lavender blouse, a moss-green apron with a large front pocket, and dark trousers. Her adult granddaughter has straight black hair tied loosely back and wears a cream sweater, rust-colored wide-leg trousers, and plain sneakers. The moving gifts are small terracotta and cream pots containing rooted green cuttings, with one tiny round succulent pot no wider than the grandmother's palm.",
+  "panels": [
+    {
+      "caption": "奶奶说装了一袋，她以为又是好吃的。",
+      "scene": "At the grandmother's kitchen doorway, the granddaughter opens the top of a large sturdy cloth bag with an expectant smile. Instead of food containers, several carefully wrapped small plant pots peek out between folded paper padding. The grandmother stands beside her, one hand still on the bag handle, watching the discovery with obvious delight. A sunny windowsill full of mature houseplants appears behind them. Keep the contents readable through green leaves and terracotta rims, with no labels or packaging text, and make the bag visibly light enough to carry comfortably."
+    },
+    {
+      "caption": "窗台上的小枝条，原来早就替她养了根。",
+      "scene": "The grandmother lifts a small clear glass containing a rooted green cutting from the windowsill and shows its pale tangled roots to her granddaughter. Several tiny pots already packed in the open bag wait on a chair below. The granddaughter bends close, holding an empty cream pot with both hands, her expression changing from surprise to attentive warmth. Mature plants frame the background without filling it densely. Emphasize the visible roots, familiar hands, and careful preparation, making the gift feel like something tended over time rather than hastily bought."
+    },
+    {
+      "caption": "临走前，围裙口袋里还冒出最后一盆。",
+      "scene": "The granddaughter stands ready to leave with the cloth bag of small plants resting securely against her hip. The grandmother draws a tiny round succulent pot from her large apron pocket and holds it out between thumb and fingers, smiling as if remembering one last detail. The granddaughter cups her free hand underneath to receive it. Keep the tiny pot palm-sized and distinct from the larger cuttings. The front doorway remains open to soft daylight, and the gesture is the sole focal action in this affectionate departure moment."
+    },
+    {
+      "caption": "新窗台排满了绿，最小的一盆也入了镜。",
+      "scene": "In the granddaughter's simple new apartment, the gifted pots line a previously bare bright windowsill, with the tiny round succulent at the near corner. She sits beside the sill, holding a phone horizontally to photograph the entire little row. The phone screen need not show readable details. A few closed moving boxes and one unpacked chair remain in the background, keeping the home newly settled. Frame the plants from slightly behind her shoulder so the tiniest pot sits just inside the imagined photograph, completing the grandmother's carefully prepared green company."
+    }
+  ],
+  "palette": [
+    "#ECE1C9",
+    "#7E9A71",
+    "#B78068",
+    "#8DA4A2",
+    "#CDB47C"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "奶奶说装了一袋，她以为又是好吃",
+          "的。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "窗台上的小枝条，原来早就替她养",
+          "了根。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "临走前，围裙口袋里还冒出最后一",
+          "盆。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "新窗台排满了绿，最小的一盆也入",
+          "了镜。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "b8be77a83a418f7ea3770ab2540aa9c70af8437d84d62f3bf9848407b56d166f",
+  "sha256": "75be3e6ee7a1487a41052ad8256ce94ed8a697fcf6b9dc8c1b97cc6744a7a919",
+  "prompt_sha256": "61bc7075dd350702d0f12d0dd7cbc4036b2b8015de82329fd8ea6bc97e983b1b",
+  "story_sha256": "01765fd76017e4c3de25d23b86ccd3614ceec942c7d454fbe354356574b694fa",
+  "created_at": "2026-10-26T09:50:14.298871+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

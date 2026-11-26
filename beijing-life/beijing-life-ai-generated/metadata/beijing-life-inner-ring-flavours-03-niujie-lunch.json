@@ -1,0 +1,321 @@
+{
+  "output": "../beijing-life-inner-ring-flavours-03-niujie-lunch.png",
+  "refined_prompt": "../prompts/beijing-life-inner-ring-flavours-03-niujie-lunch.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:03.482175+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-inner-ring-flavours",
+  "group_number": 16,
+  "series_number": 3,
+  "anthology_index": 78,
+  "title": "牛街的一顿热饭",
+  "sha256": "dc51af8e750c9db5949fe18defc8faca65c457e9323ad40b1bf4059f6d91a98d",
+  "native_sha256": "41cda63d1e17eeb21003b23b80700232c100e68b70be26d089a2b3444ac2a2bb",
+  "prompt_sha256": "4e407f1dd63b6b2b4c115c212e7a7b1d2576fa095344d674a6eafec47c2e11da",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2344968,
+  "art_direction": {
+    "style_name": "套色孔版印刷",
+    "style_prompt_english": "Original tactile risograph food-and-street illustration, deliberately offset layers of vivid coral, dark teal and turmeric spot inks, visible soy-ink grain, bold rounded shapes, close-up food foreground fused with an accurately recognizable street scene. Lively dense composition, no text or brand marks.",
+    "palette": [
+      "#F45C40",
+      "#153E49",
+      "#EDB83B",
+      "#F5E7C6"
+    ],
+    "layout_variant": 0,
+    "activity": "老城街巷／轻食／晚饭",
+    "area": "北京二环内"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "niujie-lunch",
+    "title": "牛街的一顿热饭",
+    "subtitle": "午饭后慢慢走一条胡同",
+    "area_label": "二环内·牛街",
+    "duration": "约2–3小时",
+    "transport": "地铁广安门内站或牛街片区公交；步行",
+    "stops": [
+      {
+        "name": "牛街",
+        "detail": "餐饮店铺与生活街区",
+        "lat": 39.8863931,
+        "lon": 116.3572419,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/search?key=牛街",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/9672055668"
+      },
+      {
+        "name": "输入胡同",
+        "detail": "街巷散步",
+        "lat": 39.885087,
+        "lon": 116.3594283,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/search?key=牛街",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/161802287"
+      }
+    ],
+    "practical_note": "尊重清真饮食习惯；本路线不包含宗教场所内部参观。",
+    "copy_title": "牛街的一顿热饭｜北京周末灵感",
+    "copy_body": "午饭后慢慢走一条胡同。牛街 → 输入胡同，安排约2–3小时。从餐饮店铺与生活街区到街巷散步，留点时间给自己。尊重清真饮食习惯；本路线不包含宗教场所内部参观。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环内"
+    ],
+    "hero_prompt_english": "A lively peaceful lunch on Niujie in Beijing, sliced sesame flatbread, tofu and vegetable side dishes on a generous table, gray courtyard streetwalls and ordinary neighborhood storefront silhouettes, an adult carrying a paper takeaway bag while strolling. Respectful everyday neighborhood, no religious stereotypes, no pork, no text. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "b79833ca2871713ae78522158713b1873a0c7c6dfe05836b1c0cd303e79a60b8",
+      "bounds_wgs84": [
+        116.34998076785766,
+        39.87932926739379,
+        116.36668943214232,
+        39.89215023943141
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "牛街",
+          "lon": 116.3572419,
+          "lat": 39.8863931,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "输入胡同",
+          "lon": 116.3594283,
+          "lat": 39.885087,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:18.113728+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "牛街",
+          "source_url": "https://www.openstreetmap.org/node/9672055668",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "输入胡同",
+          "source_url": "https://www.openstreetmap.org/way/161802287",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "牛街 → 输入胡同",
+        "box": [
+          52,
+          43,
+          246,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环内·牛街",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "牛街的一顿热饭",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环内·边走边吃  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "午饭后慢慢走一条胡同",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  牛街",
+        "box": [
+          53,
+          1117,
+          151,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "餐饮店铺与生活街区",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  输入胡同",
+        "box": [
+          53,
+          1194,
+          205,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "街巷散步",
+        "box": [
+          56,
+          1230,
+          136,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "尊重清真饮食习惯；本路线不包含宗教场所内部参观。",
+        "box": [
+          53,
+          1281,
+          485,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁广安门内站或牛街片区公交；步行",
+        "box": [
+          53,
+          1362,
+          393,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "16 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "078",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "checked": [
+      "Recognizable peaceful location illustration",
+      "Distinct group medium and visual treatment",
+      "Readable Chinese headings and activity details",
+      "True OSM inset with stop-order arrows",
+      "No clipping or unfilled background"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

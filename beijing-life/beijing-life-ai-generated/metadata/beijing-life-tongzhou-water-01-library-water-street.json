@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-tongzhou-water-01-library-water-street.png",
+  "refined_prompt": "../prompts/beijing-life-tongzhou-water-01-library-water-street.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:00.154520+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-tongzhou-water",
+  "group_number": 7,
+  "series_number": 1,
+  "anthology_index": 31,
+  "title": "银杏屋顶下读书",
+  "sha256": "54575db4e507987f549fb9c3341fa72144fb08622b0b21826a4f7635be9aa4cb",
+  "native_sha256": "65f5667a41b1699cf633510d4164bd6cbc91c2249155ca3f3158debf7f785e2b",
+  "prompt_sha256": "0bfcc79fced2a1f17fa428a2c640c2f25cc212135067157c90d613a84061aba6",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1963703,
+  "art_direction": {
+    "style_name": "胶片剪影杂志拼贴",
+    "style_prompt_english": "Original editorial photomontage-like illustration made from newly generated photographic-looking fragments: crisp cut silhouette edges, overlapping architecture, translucent color-paper light fields and subtle 35mm film grain. One coherent scene with one large real landmark and a close concrete activity. No actual external photos, no text, no copied campaign design; richly filled full-bleed vertical composition.",
+    "palette": [
+      "#BCE7D9",
+      "#4068BD",
+      "#EC9876",
+      "#EEDCB8"
+    ],
+    "layout_variant": 1,
+    "activity": "运河散步、文化建筑与阅读",
+    "area": "通州区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "library-water-street",
+    "title": "银杏屋顶下读书",
+    "subtitle": "未来书苑与博物馆水街",
+    "area_label": "通州·城市副中心",
+    "duration": "约3–4小时",
+    "transport": "地铁6号线北运河西站后公交接驳",
+    "stops": [
+      {
+        "name": "北京城市图书馆",
+        "detail": "银杏叶形屋顶与阶梯书苑",
+        "lat": 39.8829261,
+        "lon": 116.7085389,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://www.snohetta.com/projects/beijing-city-library",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1151193750"
+      },
+      {
+        "name": "北京大运河博物馆",
+        "detail": "外部水街和建筑观察",
+        "lat": 39.879925,
+        "lon": 116.710629,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://www.canalmuseum.org.cn/aboutUs.html",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1130934228"
+      }
+    ],
+    "practical_note": "图书馆与博物馆查预约及闭馆日；本路线以阅读和外部建筑为主。",
+    "copy_title": "通州·城市副中心｜银杏屋顶下读书",
+    "copy_body": "先在银杏屋顶下读一会儿，再走到水街看船与帆的建筑意象。只选一个重点，给停留留足时间。 路线：北京城市图书馆 → 北京大运河博物馆。约3–4小时，到首站和返程另计。图书馆与博物馆查预约及闭馆日；本路线以阅读和外部建筑为主。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "通州",
+      "银杏屋顶下读书"
+    ],
+    "hero_prompt_english": "Beijing City Library recognizable sweeping glass facade, tall white tree-like columns with ginkgo-leaf canopy and stepped reading landscape; foreground adult holds an unlettered book, layered secondary water reflection hints at the nearby Grand Canal Museum sail-roof volumes. Original photographic-looking collage fragments with mint and cobalt fields. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "a254c1f264f89b720dd9f08bdd461c1928f1e5d67dee957974e54fe187b83b14",
+      "bounds_wgs84": [
+        116.70122961785766,
+        39.87501437731398,
+        116.71793828214233,
+        39.887836156144225
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京城市图书馆",
+          "lon": 116.7085389,
+          "lat": 39.8829261,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "北京大运河博物馆",
+          "lon": 116.710629,
+          "lat": 39.879925,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:38.199839+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京城市图书馆",
+          "source_url": "https://www.openstreetmap.org/way/1151193750",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "北京大运河博物馆",
+          "source_url": "https://www.openstreetmap.org/way/1130934228",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京城市图书馆 → 北京大运河博物馆",
+        "box": [
+          52,
+          43,
+          480,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "通州·城市副中心",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "银杏屋顶下读书",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "通州水边的新旧北京  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "未来书苑与博物馆水街",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京城市图书馆",
+        "box": [
+          413,
+          1117,
+          646,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "银杏叶形屋顶与阶梯书苑",
+        "box": [
+          416,
+          1153,
+          636,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  北京大运河博物馆",
+        "box": [
+          413,
+          1194,
+          673,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "外部水街和建筑观察",
+        "box": [
+          416,
+          1230,
+          596,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "图书馆与博物馆查预约及闭馆日；本路线以阅读和外部建筑为主。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁6号线北运河西站后公交接驳",
+        "box": [
+          413,
+          1362,
+          705,
+          1382
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "07 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "031",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

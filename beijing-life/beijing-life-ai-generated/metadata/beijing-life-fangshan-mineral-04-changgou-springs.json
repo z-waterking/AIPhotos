@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-fangshan-mineral-04-changgou-springs.png",
+  "refined_prompt": "../prompts/beijing-life-fangshan-mineral-04-changgou-springs.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:47.287493+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fangshan-mineral",
+  "group_number": 12,
+  "series_number": 4,
+  "anthology_index": 59,
+  "title": "长沟的水乡半日",
+  "sha256": "db9faa2f13a01e7e7a4a31dd85fc082b091b88db75a5f3ee875ede9d562ced5f",
+  "native_sha256": "38506840ccd3da5d85834d1c8292a18ed7ba0aaadde39225c8eaed521ad6bf4b",
+  "prompt_sha256": "ff90e8d840586e29004fdbec8baadeb94881c0bec31bf8ce84260b3a90fc3436",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2018437,
+  "art_direction": {
+    "style_name": "矿物色壁画",
+    "style_prompt_english": "Original mineral-pigment architectural mural illustration on finely textured plaster, flat lapis blue and malachite green planes, warm ochre stone, elegant crisp fine contours and decorative layered hills. Make recognizable modern and historic places, no copying religious murals or named artists.",
+    "palette": [
+      "#275CA1",
+      "#379078",
+      "#C98B42",
+      "#F0D9B1"
+    ],
+    "layout_variant": 1,
+    "activity": "园林与文化",
+    "area": "房山区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "changgou-springs",
+    "title": "长沟的水乡半日",
+    "subtitle": "沿泉水湿地慢慢走",
+    "area_label": "北京·房山区",
+    "duration": "约3小时",
+    "transport": "房山城区公交或出租车至长沟；首末交通另计",
+    "stops": [
+      {
+        "name": "长沟湿地公园游览区",
+        "detail": "只走开放的滨水游线",
+        "lat": 39.5901351,
+        "lon": 115.8847258,
+        "coordinate_status": "OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118546",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/836317117"
+      },
+      {
+        "name": "长沟龙泉湖",
+        "detail": "看湖岸与湿地植物",
+        "lat": 39.5901351,
+        "lon": 115.8847258,
+        "coordinate_status": "OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118546",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/836317117"
+      }
+    ],
+    "practical_note": "湿地保育区不对游客开放；不涉水、不进泉眼保护地。",
+    "copy_title": "房山区｜长沟的水乡半日",
+    "copy_body": "沿泉水湿地慢慢走。这次只安排一个片区：长沟湿地公园游览区 → 长沟龙泉湖。建议留约3小时，把拍照、休息和短时参观一起算进去。湿地保育区不对游客开放；不涉水、不进泉眼保护地。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "房山区",
+      "北京小众玩法",
+      "园林与文化"
+    ],
+    "hero_prompt_english": "Changgou Wetland Park in Fangshan: clear spring-fed flat water, a broad quiet lake bordered by reeds, low stone embankments and simple visitor paths, distant village roofs and low hills. Two adult walkers observe reflections from the permitted bank. Emphasize a northern spring-water landscape, not a southern canal town with invented bridges. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "6dddb7baf9ad2b852496935a0f7e346616ea2906a21d50b4b3409ea4cda8e925",
+      "bounds_wgs84": [
+        115.87637146785767,
+        39.58369676055069,
+        115.89308013214233,
+        39.59657284120197
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "长沟湿地公园游览区",
+          "lon": 115.8847258,
+          "lat": 39.5901351,
+          "coordinate_status": "OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance"
+        },
+        {
+          "name": "长沟龙泉湖",
+          "lon": 115.8847258,
+          "lat": 39.5901351,
+          "coordinate_status": "OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:19:50.321193+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "长沟湿地公园游览区",
+          "source_url": "https://www.openstreetmap.org/way/836317117",
+          "status": "OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance"
+        },
+        {
+          "name": "长沟龙泉湖",
+          "source_url": "https://www.openstreetmap.org/way/836317117",
+          "status": "OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "长沟湿地公园游览区 → 长沟龙泉湖",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·房山区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "长沟的水乡半日",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "房山｜石色与水光  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "沿泉水湿地慢慢走",
+        "box": [
+          55,
+          1013,
+          231,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  长沟湿地公园游览区",
+        "box": [
+          413,
+          1117,
+          700,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "只走开放的滨水游线",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  长沟龙泉湖",
+        "box": [
+          413,
+          1194,
+          592,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看湖岸与湿地植物",
+        "box": [
+          416,
+          1230,
+          576,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "湿地保育区不对游客开放；不涉水、不进泉眼保护地。",
+        "box": [
+          413,
+          1281,
+          845,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "房山城区公交或出租车至长沟；首末交通另计",
+        "box": [
+          413,
+          1362,
+          813,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "12 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "059",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

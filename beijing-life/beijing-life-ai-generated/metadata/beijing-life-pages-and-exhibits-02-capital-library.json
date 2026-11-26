@@ -1,0 +1,332 @@
+{
+  "output": "../beijing-life-pages-and-exhibits-02-capital-library.png",
+  "refined_prompt": "../prompts/beijing-life-pages-and-exhibits-02-capital-library.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:03:30.305606+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-pages-and-exhibits",
+  "group_number": 17,
+  "series_number": 2,
+  "anthology_index": 82,
+  "title": "首图安静半日",
+  "sha256": "bdaacf60cc7e1099652fa447f011660361548d334925d22c3f253c1c10f6646c",
+  "native_sha256": "ad1c56e2fcaf57534fc806fc7c35d3f9b6812eaae78837b989b3ceb35c377236",
+  "prompt_sha256": "a80f02f04100e52aa5a1f6fac059a31fda9ed594a03458790e3a4523bedd16a1",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1731844,
+  "art_direction": {
+    "style_name": "折页立体书",
+    "style_prompt_english": "Photographed physical pop-up artist book with elaborate folded pages transforming into miniature real Beijing architecture and reading interiors; sculptural paper engineering, visible paper folds, warm directional light, restrained color on layered cream paper. View close enough that paper architecture fills the entire frame, no blank page border, no letters or printed text. Architecture comes out of an open book but remains recognizable.",
+    "palette": [
+      "#273E57",
+      "#D78247",
+      "#E6C979",
+      "#F1E5CA"
+    ],
+    "layout_variant": 1,
+    "activity": "看书／读展／安静散步",
+    "area": "二环外公共阅读空间"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "capital-library",
+    "title": "首图安静半日",
+    "subtitle": "在书架与树影之间切换",
+    "area_label": "二环外·朝阳华威桥",
+    "duration": "约3–4小时",
+    "transport": "地铁十里河站或潘家园站后步行",
+    "stops": [
+      {
+        "name": "首都图书馆",
+        "detail": "公共阅读与借阅",
+        "lat": 39.8690361,
+        "lon": 116.456476,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://www.clcn.net.cn",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/58648876"
+      },
+      {
+        "name": "首都图书馆馆前广场",
+        "detail": "馆舍外观与短时散步",
+        "lat": 39.8687,
+        "lon": 116.4569,
+        "coordinate_status": "Approximate library forecourt associated with named library footprint; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://www.clcn.net.cn",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/58648876"
+      }
+    ],
+    "practical_note": "服务区域与开放时间按官方公告；到馆查阅览规则，饮食留在允许区域。",
+    "copy_title": "首图安静半日｜北京周末灵感",
+    "copy_body": "在书架与树影之间切换。首都图书馆 → 首都图书馆馆前广场，安排约3–4小时。从公共阅读与借阅到馆舍外观与短时散步，留点时间给自己。服务区域与开放时间按官方公告；到馆查阅览规则，饮食留在允许区域。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环外"
+    ],
+    "hero_prompt_english": "Capital Library of China near Huawei Bridge, broad modern public library reading interior with rows of shelves, tall glazing, strong red-brown and warm cream architectural planes, an adult selecting a book while another reads by a window, an autumn tree visible outside; represent as an elaborate folded-book interior, not a fictional cathedral. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "695d1185be37fbed54171e30b1aef04f8cf536d61ec338c906d0da9d49629ff7",
+      "bounds_wgs84": [
+        116.44833366785767,
+        39.86245568722797,
+        116.46504233214233,
+        39.87527981385226
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "首都图书馆",
+          "lon": 116.456476,
+          "lat": 39.8690361,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "首都图书馆馆前广场",
+          "lon": 116.4569,
+          "lat": 39.8687,
+          "coordinate_status": "Approximate library forecourt associated with named library footprint; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:28.451214+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "首都图书馆",
+          "source_url": "https://www.openstreetmap.org/way/58648876",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "首都图书馆馆前广场",
+          "source_url": "https://www.openstreetmap.org/way/58648876",
+          "status": "Approximate library forecourt associated with named library footprint; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "首都图书馆 → 首都图书馆馆前广场",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环外·朝阳华威桥",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "首图安静半日",
+        "box": [
+          49,
+          188,
+          463,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环外·书页与展柜  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "在书架与树影之间切换",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  首都图书馆",
+        "box": [
+          413,
+          1117,
+          592,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "公共阅读与借阅",
+        "box": [
+          416,
+          1153,
+          556,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  首都图书馆馆前广场",
+        "box": [
+          413,
+          1194,
+          700,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "馆舍外观与短时散步",
+        "box": [
+          416,
+          1230,
+          596,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "服务区域与开放时间按官方公告；到馆查阅览规则，饮食留在允许区",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "域。",
+        "box": [
+          413,
+          1306,
+          449,
+          1322
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁十里河站或潘家园站后步行",
+        "box": [
+          413,
+          1362,
+          693,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "17 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "082",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

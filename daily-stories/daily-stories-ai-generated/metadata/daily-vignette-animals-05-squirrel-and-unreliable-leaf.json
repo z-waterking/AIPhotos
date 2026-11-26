@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-05-squirrel-and-unreliable-leaf.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-05-squirrel-and-unreliable-leaf.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-05-squirrel-and-unreliable-leaf-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 5,
+  "anthology_index": 55,
+  "panel_count": 4,
+  "display_title": "不听话的叶子",
+  "visible_description": "松鼠给核桃盖了一片叶子，风却把这处藏身地介绍了出来。",
+  "synopsis": "松鼠抱着一颗核桃蹲在树根旁，先用一片大叶子把它盖住。它刚转身，叶子就被风吹开，核桃又露出来了。长椅上的人一直没动，只悄悄合上了书。松鼠回头看了看，把核桃搬到树根后，认真刨开一点松土。这次它走远时，叶子还在原地翻来翻去，已经没有什么需要替它保密。",
+  "story_text": "长椅上的老人正看书，一只松鼠抱着核桃跑到树根旁。它找来一片大黄叶，盖在核桃上，又用前爪按了按，才准备离开。\n\n风从草地吹过，叶子翻起一角，圆核桃又露了出来。松鼠走出两步便回头，老人也把书放低，两双眼睛都看见了这件事。\n\n松鼠没有再按叶子。它叼起核桃，绕到树根后面，在松土里刨出一个浅窝，把东西放进去，又仔仔细细拨土盖好。\n\n等它走远，风仍在翻那片黄叶，一会儿正面，一会儿背面，下面却什么也没有了。老人合上书看了一会儿，才重新翻到刚才那页。树根后的那一点新土，被他留在了视线之外。",
+  "art_direction": "Earthy gouache with delicate pencil fur and leaf textures",
+  "character_design": "A healthy small red squirrel has warm russet fur, a cream belly, tuftless rounded ears and a full curved tail. It carries one whole brown walnut with a ridged shell. An older adult observer with short gray hair and round spectacles wears a muted blue jacket, cream scarf, brown trousers and black shoes, sitting on a plain wooden bench with an unlettered olive book. The scene centers on a broad tree root, loose soil and one large golden fallen leaf.",
+  "panels": [
+    {
+      "caption": "松鼠给核桃盖了一床叶子。",
+      "scene": "Beside a broad tree root in a quiet park, the red squirrel crouches with its front paws on the edge of a large golden leaf, drawing it over the single ridged walnut on the soil. The nut remains partly visible beneath the leaf. In the background the older observer sits on the wooden bench holding an open olive book, noticing the small activity without leaning closer. Keep the animal behavior natural and the distance respectful. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "它刚转身，叶子就掀开了。",
+      "scene": "The squirrel has taken one small step away from the tree root when a mild breeze lifts the golden leaf at one edge, fully revealing the brown walnut. The squirrel turns its head back toward the exposed nut, tail curved above its body. On the distant bench, the observer has lowered the open book slightly. A few small leaves shift on the ground, explaining the breeze through ordinary physical details rather than motion symbols. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "这次，它把秘密放进了土里。",
+      "scene": "Behind the same tree root, the squirrel uses both front paws to make a shallow hollow in loose soft soil, with the walnut resting directly beside the opening. The large golden leaf remains a short distance away, no longer being used as a cover. The observer sits still on the bench with the olive book now closed in both hands. Focus on the practical change of hiding place, showing the squirrel engaged in normal caching behavior. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "风还在翻叶子，核桃已经不在了。",
+      "scene": "The squirrel moves away across the leaf-strewn ground, its russet tail curving behind it, while the freshly smoothed small patch of soil is visible behind the tree root. The golden leaf lifts again in the breeze at its original spot, exposing only empty earth. The observer looks over the closed olive book with a faint amused smile. The hidden walnut is not shown through the soil, preserving a realistic scene without cutaways or symbolic devices. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#DFD4BB",
+    "#A87954",
+    "#8D9A6D",
+    "#C3A263",
+    "#73868B"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "松鼠给核桃盖了一床叶子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "它刚转身，叶子就掀开了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "这次，它把秘密放进了土里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "风还在翻叶子，核桃已经不在了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "319b8f9b7d8116ae8c20d2a60980f066050cfaeed6ba30abfe964ee5e3769a48",
+  "sha256": "8494574ae348db1b36357de95f99b0e8e206d407b0a8685ecfe6ed1585c685b6",
+  "prompt_sha256": "1c2e271ad09363ee5d67956aa85a8fcddf767a63ee934f8e01bafe60b8dfd66c",
+  "story_sha256": "00b52809666f6d62e1dab21d95bcbf6fd16f920cd7c8dee9c8707aa2078dc802",
+  "created_at": "2026-10-26T10:18:53.981313+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

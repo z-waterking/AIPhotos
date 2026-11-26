@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-wonder-07-pebble-choir-pause.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-07-pebble-choir-pause.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-07-pebble-choir-pause-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 7,
+  "anthology_index": 97,
+  "panel_count": 4,
+  "display_title": "石头的空拍",
+  "visible_description": "一排会哼歌的石头，给路过的蜗牛留出了一个安静的拍子。",
+  "synopsis": "在这个原创童话里，花园里几颗圆石子每到傍晚就哼歌。今天它们排得太密，声音全挤在一起，一只路过的蜗牛也找不到通过的空隙。最小的石子往旁边挪了挪，留出一条窄窄的路。蜗牛慢慢经过时，石头们恰好停了一拍；等歌声再响起来，大家都觉得这次的停顿尤其好听。",
+  "story_text": "花园里有五颗会哼歌的石子，每到傍晚便排成一列。今天大家站得有点近，五个小嘴巴一起张开，歌声像挤在一只太小的杯子里。\n\n一只蜗牛沿小路过来，想从石头中间穿过去，却找不到空隙。它停在那儿，抬起细触角，五颗石子这才看见队伍前方多了一位听众。\n\n最小的黄石子先向旁边滚了一点，绿石子也收了收身子，中间露出一条窄路。蜗牛慢慢通过时，大家都把嘴巴合上，安静看着它的壳。\n\n等蜗牛走远，石子们又接着唱。黄石子没有回到原来的位置，旁边留出的空处让晚风也能经过。那一小会儿没有声音的地方，后来便成了这首歌里大家最喜欢的一拍。",
+  "art_direction": "Pebbly gouache textures with lyrical colored pencil garden curves",
+  "character_design": "Exactly FIVE original friendly singing garden pebbles appear in every panel, always all five fully inside the frame. Their five permanent identities are: a cream upright egg-shaped stone; a dusty-blue low rounded stone; ONE ochre-yellow tiny flat oval stone, clearly the smallest; a sage-green pear-shaped stone with one pale side patch; and a warm-gray broad rounded wedge. Each has two dot eyes and one tiny mouth. There is no second yellow or ochre stone and no tall yellow stone. Use one fixed wide elevated three-quarter camera angle for all four panels so all stones remain individually countable. The initial left-to-right row order is cream, blue, tiny yellow, sage, gray. The cream and blue stones stay in their left positions and sage and gray stay in their right positions throughout. Only the tiny yellow center stone changes position, rolling a short step diagonally forward-left in panels 3-4; it remains fully visible beside and in front of the blue stone without overlapping or hiding any neighbor. This leaves its former center position empty as a passage between the stationary blue and sage stones. One snail has a visibly brown spiral shell, soft cream extended body, head and two feelers; it is clearly a snail, not another pebble. The plain smooth path has no gravel, other rocks, flowers with stone-like centers, loose shell, or pebble decorations. Low grass and warm evening light form the uncluttered background. These are gentle fictional characters with no lettering.",
+  "panels": [
+    {
+      "caption": "傍晚，五颗石子排好唱歌。",
+      "scene": "From the fixed elevated three-quarter view, show exactly five friendly pebbles closely aligned across the smooth garden path. Read them from left to right: cream upright egg, dusty-blue low round stone, the unique tiny flat yellow oval, sage pear with pale patch, and gray broad wedge. The tiny yellow stone is fully visible in the center, touching neither neighbor but leaving gaps too narrow for the snail. All five little mouths are open in humming shapes. The single brown spiral-shelled snail approaches from the lower-right foreground, its full cream body and feelers visible below the row without concealing any stone. Keep all FIVE distinctive stones fully visible and separated enough to count; exactly one of each color and silhouette. No stone is added, removed, duplicated, hidden behind the snail, or cropped by a panel edge. Use old paper gouache and colored pencil with consistent original fictional characters, a plain smooth path and low grass. Show one clear instant, without lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "排得太紧，连慢客也过不去。",
+      "scene": "Repeat the same fixed view and the same FIVE-stone arrangement: cream far left, blue inner left, tiny yellow in the center, sage inner right, gray far right. The unique smallest yellow stone stays fully visible in exactly its previous central place. The snail pauses in the foreground directly before the narrow space beside that yellow stone and the sage neighbor, its head raised slightly but its shell lower in the frame than the stone row. All five stones remain present and still humming. The insufficient gap, the waiting snail and the clearly visible tiny yellow stone are the whole action. Keep all FIVE distinctive stones fully visible and separated enough to count; exactly one of each color and silhouette. No stone is added, removed, duplicated, hidden behind the snail, or cropped by a panel edge. Use old paper gouache and colored pencil with consistent original fictional characters, a plain smooth path and low grass. Show one clear instant, without lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "最小的一颗，向旁边让了一点。",
+      "scene": "Keep cream, blue, sage and gray in exactly the same four positions and sizes as before. The SAME unique tiny yellow center stone has rolled one short step diagonally forward-left into the open foreground beside the blue stone. Its small flat oval body is completely visible, separated from the blue silhouette. Its former center position is now EMPTY, leaving a snail-wide passage between blue and sage. The sage stone may angle its face inward but does not relocate. The snail extends its head into that new central passage while its brown shell remains below the row. Count five stones: cream, blue, yellow in its new foreground place, sage and gray; there is no duplicate at the vacated spot. Keep all FIVE distinctive stones fully visible and separated enough to count; exactly one of each color and silhouette. No stone is added, removed, duplicated, hidden behind the snail, or cropped by a panel edge. Use old paper gouache and colored pencil with consistent original fictional characters, a plain smooth path and low grass. Show one clear instant, without lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "这一拍空下来，歌也透了气。",
+      "scene": "Use the same fixed wide view, with cream and blue unchanged on the left, sage and gray unchanged on the right, and the one tiny yellow oval still in its new forward-left place, fully visible beside the blue stone. All five mouths are now softly closed in a shared quiet beat. The single snail is passing through the empty center, its brown spiral shell and cream body occupying the passage without obscuring any stone. No stone stands in that central opening. The tiny yellow stone looks pleased and does not return to its former place; the plain path continues beyond them into evening grass. Keep all FIVE distinctive stones fully visible and separated enough to count; exactly one of each color and silhouette. No stone is added, removed, duplicated, hidden behind the snail, or cropped by a panel edge. Use old paper gouache and colored pencil with consistent original fictional characters, a plain smooth path and low grass. Show one clear instant, without lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DAD4BE",
+    "#8EA08E",
+    "#A38A75",
+    "#6F8E99",
+    "#C3A260"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "傍晚，五颗石子排好唱歌。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "排得太紧，连慢客也过不去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "最小的一颗，向旁边让了一点。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "这一拍空下来，歌也透了气。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "c96b6a40a032da7e8adfeba8f90a1886d0bbcab83007d0f3325f5a3a20b1d144",
+  "sha256": "3635a4db63729d96563a5bae6f7c8ff8ce5ae31dde32931af78c72b5a0a27c6e",
+  "prompt_sha256": "3f4aad1d2f4ca92d52c25ae31e382538e4b738b250dcb1d2cff0e25d6ef55fe0",
+  "story_sha256": "415f567d6f43261e9c8fece82ca967451c5f0ce6872a9247169c32d7420a3e1e",
+  "created_at": "2026-10-26T10:57:44.639908+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

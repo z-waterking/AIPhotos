@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-fengtai-gardens-02-garden-expo.png",
+  "refined_prompt": "../prompts/beijing-life-fengtai-gardens-02-garden-expo.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:46.599332+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fengtai-gardens",
+  "group_number": 5,
+  "series_number": 2,
+  "anthology_index": 22,
+  "title": "在园博园找秋色",
+  "sha256": "ebcb57a61340bdc6332fc59a016a3c53429f81380fdb4517dae6a1e4df15b20a",
+  "native_sha256": "586b12842af3e31ade2411d5674d5c7a65e778df23aa0d4c32cb429e81ecdb55",
+  "prompt_sha256": "80b7869ddc089f06e06bb7d50ccb5cf261265a3d46faff0657a813eb6b5f063d",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2253279,
+  "art_direction": {
+    "style_name": "彩线刺绣风景",
+    "style_prompt_english": "A richly tactile embroidered travel artwork made of colored threads: satin-stitch architectural planes, chain-stitch paths, densely stitched foliage and softly padded fabric water. Distinct stitch directions construct the actual forms, not a texture filter on a photograph. Full-bleed fabric landscape with detailed recognizable buildings and small embroidered adult visitors.",
+    "palette": [
+      "#E87935",
+      "#447D69",
+      "#E5C862",
+      "#5467A0"
+    ],
+    "layout_variant": 4,
+    "activity": "园林、湖岸与老城休闲",
+    "area": "丰台区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "garden-expo",
+    "title": "在园博园找秋色",
+    "subtitle": "花谷与高塔两种视角",
+    "area_label": "丰台·永定河西岸",
+    "duration": "约4小时",
+    "transport": "地铁14号线园博园站后接驳至开放入口",
+    "stops": [
+      {
+        "name": "北京园博园",
+        "detail": "选择开放园路慢走",
+        "lat": 39.8744679,
+        "lon": 116.1906716,
+        "coordinate_status": "OSM named park representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118459",
+        "coordinate_source_url": "https://www.openstreetmap.org/relation/8769598"
+      },
+      {
+        "name": "锦绣谷",
+        "detail": "下沉式花谷地形",
+        "lat": 39.8744283,
+        "lon": 116.1896503,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118459",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/6071968380"
+      },
+      {
+        "name": "永定塔",
+        "detail": "园内高塔外观",
+        "lat": 39.8784928,
+        "lon": 116.1666507,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118459",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/633444676"
+      }
+    ],
+    "practical_note": "园区较大，按体力取舍；高塔以外观为基础，不承诺登塔或当期花海。 地图为园区代表点，起步入口另查。",
+    "copy_title": "丰台·永定河西岸｜在园博园找秋色",
+    "copy_body": "从低处的锦绣谷走向高塔的方向，在同一座公园换两种看秋天的角度。园子很大，走累就停。 路线：北京园博园 → 锦绣谷 → 永定塔。约4小时，到首站和返程另计。园区较大，按体力取舍；高塔以外观为基础，不承诺登塔或当期花海。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "丰台",
+      "在园博园找秋色"
+    ],
+    "hero_prompt_english": "Beijing Garden Expo Park with sunken Jinxiu Valley terraces planted in autumn gold and rust, winding paths and the tall Liao-Jin-style Yongding Pagoda on a distant wooded rise. Dense colored embroidery creates terrain contours, an adult pauses with a thermos on the path, no mass spring flowers. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "2bb16ab49794ebef3bfe6f5df51079047ede6b4af15f547daf92bbacea7cba33",
+      "bounds_wgs84": [
+        116.16004495250002,
+        39.862172489342896,
+        116.1972773475,
+        39.89074569478518
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京园博园",
+          "lon": 116.1906716,
+          "lat": 39.8744679,
+          "coordinate_status": "OSM named park representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "锦绣谷",
+          "lon": 116.1896503,
+          "lat": 39.8744283,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "永定塔",
+          "lon": 116.1666507,
+          "lat": 39.8784928,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:16.656436+00:00",
+      "scale_bar_meters": 500,
+      "coordinate_sources": [
+        {
+          "name": "北京园博园",
+          "source_url": "https://www.openstreetmap.org/relation/8769598",
+          "status": "OSM named park representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "锦绣谷",
+          "source_url": "https://www.openstreetmap.org/node/6071968380",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "永定塔",
+          "source_url": "https://www.openstreetmap.org/way/633444676",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京园博园 → 锦绣谷 → 永定塔",
+        "box": [
+          52,
+          43,
+          414,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "丰台·永定河西岸",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "在园博园找秋色",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "丰台园林游乐簿  ·  约4小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "花谷与高塔两种视角",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京园博园",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "选择开放园路慢走",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  锦绣谷",
+        "box": [
+          53,
+          1194,
+          178,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "下沉式花谷地形",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  永定塔",
+        "box": [
+          53,
+          1271,
+          178,
+          1298
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "园内高塔外观",
+        "box": [
+          56,
+          1307,
+          176,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁14号线园博园站后接驳至开放入口",
+        "box": [
+          53,
+          1362,
+          397,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "05 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "022",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

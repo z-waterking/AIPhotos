@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-fengtai-gardens-03-lotus-lake.png",
+  "refined_prompt": "../prompts/beijing-life-fengtai-gardens-03-lotus-lake.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:46.906943+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fengtai-gardens",
+  "group_number": 5,
+  "series_number": 3,
+  "anthology_index": 23,
+  "title": "莲花池慢半圈",
+  "sha256": "b0529e0e64208bbb7f4e200d798ee4b1ebf62b3b598b7e30650fe7d787c9165e",
+  "native_sha256": "c6b4e452c32f9dd9caa3ac63be7d6a7c560a189160fbd6e9a17a79dc91d64589",
+  "prompt_sha256": "6c906162cb4d38510a2d1094983a8eb3a35187c63033599016e93c7f26d1c0cd",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2258507,
+  "art_direction": {
+    "style_name": "彩线刺绣风景",
+    "style_prompt_english": "A richly tactile embroidered travel artwork made of colored threads: satin-stitch architectural planes, chain-stitch paths, densely stitched foliage and softly padded fabric water. Distinct stitch directions construct the actual forms, not a texture filter on a photograph. Full-bleed fabric landscape with detailed recognizable buildings and small embroidered adult visitors.",
+    "palette": [
+      "#E87935",
+      "#447D69",
+      "#E5C862",
+      "#5467A0"
+    ],
+    "layout_variant": 4,
+    "activity": "园林、湖岸与老城休闲",
+    "area": "丰台区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "lotus-lake",
+    "title": "莲花池慢半圈",
+    "subtitle": "城市大站旁的安静水面",
+    "area_label": "丰台·北京西站南侧",
+    "duration": "约2小时",
+    "transport": "地铁7/9号线北京西站；步行接驳",
+    "stops": [
+      {
+        "name": "莲花池公园",
+        "detail": "沿开放湖岸慢行",
+        "lat": 39.8906434,
+        "lon": 116.3091779,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101326",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/33658131"
+      },
+      {
+        "name": "莲花池公园湖岸步道",
+        "detail": "秋叶与水面休息点",
+        "lat": 39.8906434,
+        "lon": 116.3091779,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101326",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/33658131"
+      }
+    ],
+    "practical_note": "两点同属一园，地图用园区代表点；秋季以水面、芦叶和树影为看点。",
+    "copy_title": "丰台·北京西站南侧｜莲花池慢半圈",
+    "copy_body": "北京西站旁也能有一段不赶车的时间。沿莲花池慢走半圈，看芦叶、水面和城市远景。 路线：莲花池公园 → 莲花池公园湖岸步道。约2小时，到首站和返程另计。两点同属一园，地图用园区代表点；秋季以水面、芦叶和树影为看点。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "丰台",
+      "莲花池慢半圈"
+    ],
+    "hero_prompt_english": "Lianhuachi Park lake in autumn with low lakeside pavilion, gold reeds and dry lotus stems rather than summer flowers, distant recognizable grand Beijing West Railway Station roofline beyond the trees. An adult sits on a park bench, water rendered in horizontal satin stitches and trees in knotted thread. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "f9c630a60404f680f2affbe63045ab119f21b21aadf5356f5d0ca3ce121937d2",
+      "bounds_wgs84": [
+        116.30082356785766,
+        39.88423307277207,
+        116.31753223214233,
+        39.89705312781417
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "莲花池公园",
+          "lon": 116.3091779,
+          "lat": 39.8906434,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "莲花池公园湖岸步道",
+          "lon": 116.3091779,
+          "lat": 39.8906434,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:19.388456+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "莲花池公园",
+          "source_url": "https://www.openstreetmap.org/way/33658131",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "莲花池公园湖岸步道",
+          "source_url": "https://www.openstreetmap.org/way/33658131",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "莲花池公园 → 莲花池公园湖岸步道",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "丰台·北京西站南侧",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "莲花池慢半圈",
+        "box": [
+          49,
+          188,
+          463,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "丰台园林游乐簿  ·  约2小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "城市大站旁的安静水面",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  莲花池公园",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿开放湖岸慢行",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  莲花池公园湖岸步道",
+        "box": [
+          53,
+          1194,
+          340,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "秋叶与水面休息点",
+        "box": [
+          56,
+          1230,
+          216,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "两点同属一园，地图用园区代表点；秋季以水面、芦叶和树影为看点。",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁7/9号线北京西站；步行接驳",
+        "box": [
+          53,
+          1362,
+          345,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "05 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "023",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

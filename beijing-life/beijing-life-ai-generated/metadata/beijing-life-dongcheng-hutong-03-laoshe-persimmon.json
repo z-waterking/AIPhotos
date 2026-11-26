@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-dongcheng-hutong-03-laoshe-persimmon.png",
+  "refined_prompt": "../prompts/beijing-life-dongcheng-hutong-03-laoshe-persimmon.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:40.958644+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-dongcheng-hutong",
+  "group_number": 1,
+  "series_number": 3,
+  "anthology_index": 3,
+  "title": "丹柿小院慢下来",
+  "sha256": "75684dce2945ebab8486ccb2ada408bd28c3f83e81bdf8e900ca92755aa06b65",
+  "native_sha256": "83f336fe22c65a6e0d351f99ab416b2e164b13a5c35656eaff3da7c2b516dd90",
+  "prompt_sha256": "129c16616ce5d35ad202f998fb8900a7ac57338d5a202be8267007aced1f2e85",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2103821,
+  "art_direction": {
+    "style_name": "不透明水粉街景",
+    "style_prompt_english": "Opaque gouache travel painting with visible broad brush marks, flat light shapes, irregular architectural contours and luminous dark doorways. Slightly elevated street-level view; layered street foreground, brick courtyard middle distance and autumn tree canopy. A complete lived-in scene rather than isolated stickers.",
+    "palette": [
+      "#FFC857",
+      "#DC5938",
+      "#295F6B",
+      "#F7EACD"
+    ],
+    "layout_variant": 0,
+    "activity": "胡同散步与院落观察",
+    "area": "东城区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "laoshe-persimmon",
+    "title": "丹柿小院慢下来",
+    "subtitle": "文学故居与胡同秋光",
+    "area_label": "东城·景山以东",
+    "duration": "约2小时",
+    "transport": "地铁5号线灯市口站；步行接驳",
+    "stops": [
+      {
+        "name": "老舍纪念馆",
+        "detail": "柿树与文学故居",
+        "lat": 39.9172454,
+        "lon": 116.4021102,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://www.visitbeijing.com.cn/article/4TfuP8GKHtO",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/384065070"
+      },
+      {
+        "name": "丰富胡同",
+        "detail": "故居所在的生活街巷",
+        "lat": 39.916843183333334,
+        "lon": 116.40226531666667,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://www.visitbeijing.com.cn/article/4TfuP8GKHtO",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/34104232"
+      },
+      {
+        "name": "灯市口西街",
+        "detail": "沿街看老城日常",
+        "lat": 39.91705111818182,
+        "lon": 116.40249191818181,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://www.visitbeijing.com.cn/article/4TfuP8GKHtO",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/9779240"
+      }
+    ],
+    "practical_note": "老舍纪念馆需提前查实名预约；柿子景观随物候变化。",
+    "copy_title": "东城·景山以东｜丹柿小院慢下来",
+    "copy_body": "一棵柿树就能撑起一个下午。看完故居，把手机收一会儿，在附近街巷读几页自己的书。 路线：老舍纪念馆 → 丰富胡同 → 灯市口西街。约2小时，到首站和返程另计。老舍纪念馆需提前查实名预约；柿子景观随物候变化。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "东城",
+      "丹柿小院慢下来"
+    ],
+    "hero_prompt_english": "Lao She Memorial Hall courtyard in Beijing with ripe orange persimmons high over gray tiled roofs, a small round outdoor table, a closed notebook and an adult quietly looking up. Intimate red window frames, stone paving and patterned leaf shadows, no writing on notebook and no portrait of the author. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "b2a157e3565c773a437da96786226ccfff0050192a3c1c55cd405210fc34707a",
+      "bounds_wgs84": [
+        116.39394672694856,
+        39.91063643416201,
+        116.41065539123322,
+        39.9234515502488
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "老舍纪念馆",
+          "lon": 116.4021102,
+          "lat": 39.9172454,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "丰富胡同",
+          "lon": 116.40226531666667,
+          "lat": 39.916843183333334,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "灯市口西街",
+          "lon": 116.40249191818181,
+          "lat": 39.91705111818182,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:34.159983+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "老舍纪念馆",
+          "source_url": "https://www.openstreetmap.org/node/384065070",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "丰富胡同",
+          "source_url": "https://www.openstreetmap.org/way/34104232",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "灯市口西街",
+          "source_url": "https://www.openstreetmap.org/way/9779240",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "老舍纪念馆 → 丰富胡同 → 灯市口西街",
+        "box": [
+          52,
+          43,
+          492,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东城·景山以东",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "丹柿小院慢下来",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "东城胡同慢镜头  ·  约2小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "文学故居与胡同秋光",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  老舍纪念馆",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "柿树与文学故居",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  丰富胡同",
+        "box": [
+          53,
+          1194,
+          205,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "故居所在的生活街巷",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  灯市口西街",
+        "box": [
+          53,
+          1271,
+          232,
+          1298
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿街看老城日常",
+        "box": [
+          56,
+          1307,
+          196,
+          1327
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁5号线灯市口站；步行接驳",
+        "box": [
+          53,
+          1362,
+          325,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "01 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "003",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

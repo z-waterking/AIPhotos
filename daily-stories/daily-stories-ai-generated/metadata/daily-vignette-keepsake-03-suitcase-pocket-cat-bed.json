@@ -1,0 +1,213 @@
+{
+  "output": "../daily-vignette-keepsake-03-suitcase-pocket-cat-bed.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-03-suitcase-pocket-cat-bed.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-03-suitcase-pocket-cat-bed-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 3,
+  "anthology_index": 3,
+  "panel_count": 6,
+  "display_title": "不出门的箱子",
+  "visible_description": "旧旅行箱变成猫窝，里面还保留了一件旅客坚持带上的小行李。",
+  "synopsis": "阿岚准备收起多年不用的藤色旅行箱，橘猫却把一只卷袜推了进去。她铺好软毯，放入猫垫，想给新猫窝留出宽敞位置，顺手把袜子拿走。刚转身，橘猫就又叼着袜子回来。阿岚终于把袜子放进箱盖的小网袋，猫满意地窝在毯子上，一只前爪仍轻轻搭着那件小行李。",
+  "story_text": "阿岚把旧旅行箱从柜顶拿下来，打算擦净收好。她刚掀开箱盖，橘猫就跑过来，把一只卷成团的袜子推进箱子，自己也踩了进去。\n\n箱子大小合适，阿岚索性铺上软垫和绿毯。那只袜子占着正中间，她顺手拿出去，放在旁边的小凳上。橘猫站起来，盯了她一会儿。\n\n她才转身叠好抹布，猫已经叼着袜子回来了。袜团比它的白下巴还大，它一路走得认真，最后把袜子放回绿毯中间。\n\n阿岚终于明白了。她把袜团塞进箱盖的小网袋，露出一点软边。猫慢慢转了两圈，卧下来，伸一只白爪搭住网袋。箱子今天没有出门，里面的旅客倒很满意。",
+  "art_direction": "Soft matte gouache and lightly smudged pencil on oatmeal paper",
+  "character_design": "Lan is a Chinese woman in her late twenties with short straight dark hair tucked behind one ear, a broad easy smile, and a small mole near her left eyebrow. She wears a teal long-sleeved cotton top, oatmeal wide-leg trousers, and brown slippers. Her plump orange tabby has three dark forehead stripes, a white muzzle, white front paws, and a curled tail tip. The old suitcase is tan with brown edging, two brass-colored clasps, and a small mesh pocket inside the lid.",
+  "panels": [
+    {
+      "caption": "箱子还没合上，旅客先塞进一只袜子。",
+      "scene": "In a quiet living room, Lan kneels beside an open tan suitcase on the floor, preparing to close its empty interior. The orange tabby stands with its front paws just inside the case, pushing a loosely rolled cream sock forward with its nose. Lan pauses with one hand on the lid and looks down in amused surprise. Show the suitcase's brown edging, brass clasps, and empty mesh lid pocket clearly. A stack of folded blankets rests on the sofa, and soft afternoon light crosses the floorboards."
+    },
+    {
+      "caption": "她铺好了软毯，把小行李暂时拿开。",
+      "scene": "Lan smooths a muted green blanket over a fitted cushion inside the open suitcase, making an inviting shallow nest. The cat watches from beside her knee with an upright curled tail. The rolled cream sock has been placed on a low stool just outside the case, easily visible. The suitcase lid is propped safely against the sofa, and its mesh pocket remains empty. Frame the action at floor level so the new soft interior appears generous and the displaced little sock reads as a deliberate practical choice."
+    },
+    {
+      "caption": "袜子被拿开，它盯着那张小凳子。",
+      "scene": "The orange tabby stands beside the newly lined suitcase with its body facing the green blanket but its head turned firmly toward the low stool. The rolled cream sock rests alone on the stool top. Lan has turned away to fold her cleaning cloth on the sofa, leaving the cat and sock in a clear visual relationship. Keep the open suitcase safely propped against the sofa and the cat alert rather than distressed."
+    },
+    {
+      "caption": "猫又把袜子叼回了门口。",
+      "scene": "View across the living-room floor as the orange tabby walks directly toward the prepared suitcase, carrying the same loosely rolled cream sock in its mouth. Its white paws and distinctive curled tail tip are clear. Lan, still kneeling at the case, turns back with a small surprised smile and one hand hovering above the green blanket. The low stool behind the cat is now empty. Keep this as one visible return journey, with an uncluttered gap between the cat and its new bed emphasizing the tiny determined passenger."
+    },
+    {
+      "caption": "阿岚把小行李，塞进箱盖的网袋。",
+      "scene": "Lan kneels beside the suitcase and tucks the cream sock gently into the mesh pocket inside the lid, leaving a soft rounded edge visible. The orange cat sits upright on the green blanket and follows her hand with focused eyes. Her other hand supports the lid against the sofa. Frame the sock, pocket, and cat together so this new storage place is unmistakably the solution to the repeated return."
+    },
+    {
+      "caption": "这趟旅行，连行李都有了专座。",
+      "scene": "The orange tabby lies contentedly curled in the green-lined suitcase, eyes half closed and one white front paw reaching gently upward toward the lid's mesh pocket. The cream sock is tucked securely into that pocket, with its soft rolled edge peeking out. Lan sits beside the case on the floor, chin resting on her bent knee as she watches. The suitcase remains safely open against the sofa, its brass clasps catching a warm evening highlight. Use a cozy balanced composition centered on the cat and its cherished sock."
+    }
+  ],
+  "palette": [
+    "#E9DBBF",
+    "#B78250",
+    "#D7A065",
+    "#7C9A94",
+    "#655C55"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "箱子还没合上，旅客先塞进一只袜",
+          "子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "她铺好了软毯，把小行李暂时拿开。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "袜子被拿开，它盯着那张小凳子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "猫又把袜子叼回了门口。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "阿岚把小行李，塞进箱盖的网袋。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "这趟旅行，连行李都有了专座。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "ff774795e056ffa2a9162aa6cac2a3b64be0361bf7310f8d63f60093b590ae46",
+  "sha256": "7368b63a24fd82dd44407491cfc11e60d8b74cae4fc26a763b09a28753034888",
+  "prompt_sha256": "bf05149b1f8a259550181c34408d482b72e4fdc1ec46818e26334a87264f8475",
+  "story_sha256": "27cd6495a42b226d11c273e2db9481190e964bb70d0f8e74ee00f735b43bb213",
+  "created_at": "2026-10-26T09:43:32.291581+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-family-08-sisters-puzzle-shared-sky.png",
+  "refined_prompt": "../prompts/daily-vignette-family-08-sisters-puzzle-shared-sky.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-08-sisters-puzzle-shared-sky-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 8,
+  "anthology_index": 18,
+  "panel_count": 4,
+  "display_title": "天空那一块",
+  "visible_description": "姐姐不再只管拼得快，妹妹也在一大片相似的天空里找到了自己的位置。",
+  "synopsis": "姐妹俩拼一盒小镇风景，姐姐很快拼出了屋顶和树，妹妹面前却全是差不多的蓝色。她试了几次都不合，便把一块浅蓝放到窗边，发现边缘藏着一点白云。姐姐停下手，把所有带白边的块都推过来。妹妹一点点拼出弯弯的云，最后一块刚好接上姐姐的屋顶，两人把完成的画一起挪到了阳光里。",
+  "story_text": "姐姐把红屋顶接好了，又找到树下的一小块。妹妹面前却全是蓝色，拿起哪一块都像对，试进空处又都不合。她把手缩回来，盯了半天。\n\n窗边亮一些。妹妹举起一块浅蓝，转了转，忽然看见边缘有一点白，像从背面偷偷露出来的云。她赶紧把它放在桌上，朝上摆正。\n\n姐姐停下自己的活，把带白边的几块都找出来推过去。妹妹沿着弯弯的白线试，云一段段接长，最后竟刚好落到那片红屋顶上方。\n\n画拼好了，姐妹一起捏住底板，把它挪进阳光。姐姐没有先看自己的房子，而是看妹妹的云。妹妹伸手压了压最后一块，确认它稳稳地待在里面，才放心把手松开。",
+  "art_direction": "Clear pastel gouache with small colored-pencil puzzle details on warm paper",
+  "character_design": "The older sister is a Chinese woman around twenty-five with straight dark hair in a low ponytail and a focused oval face. She wears a muted green knit top and brown trousers. Her ten-year-old sister has a rounded bob with a small side clip and wears a pale blue cardigan over a cream shirt with rust trousers. Their puzzle depicts an original peaceful village with red roofs, green trees, a broad blue sky, and one curved white cloud. All pieces are large and simple enough to see clearly. PUZZLE PROGRESSION IS ESSENTIAL: in panels 1, 2 and 3, ONLY the lower red-roof village portion is assembled. The entire top half is EMPTY tan backing board with visible jigsaw sockets, not blue sky and not a printed complete picture underneath. Loose sky pieces lie outside the incomplete puzzle. Only panel 4 has a completed blue sky with white cloud and no remaining loose pieces.",
+  "panels": [
+    {
+      "caption": "姐姐拼好了屋顶，妹妹面前还是一片蓝。",
+      "scene": "CRITICAL VISIBLE STATE: the puzzle upper half is bare tan cardboard, with large empty interlocking sockets. No continuous blue sky, white cloud or complete picture is present on the board yet. Blue-and-white loose pieces exist only on the table beside it or in the her hand. At a low wooden table beside a window, the older sister fits a red-roof puzzle piece into a nearly completed village section. Across from her, the younger sister studies a scattered cluster of mostly blue sky pieces, holding one uncertainly above the empty upper area. The puzzle box is closed and plain, with no readable print. Show the difference in progress through the built roofs and loose blue pieces, while keeping both sisters relaxed. Afternoon light creates a bright patch on the table near the younger girl's elbow."
+    },
+    {
+      "caption": "她把一块举到窗边，蓝里藏着一点白。",
+      "scene": "CRITICAL VISIBLE STATE: the puzzle upper half is bare tan cardboard, with large empty interlocking sockets. No continuous blue sky, white cloud or complete picture is present on the board yet. Blue-and-white loose pieces exist only on the table beside it or in the her hand. The younger sister holds one pale blue puzzle piece near the window, turning its edge toward the daylight. A small white cloud curve becomes visible on that edge. Her expression shifts to interested recognition, and the older sister pauses with her own piece halfway above the table, watching. The incomplete blue sky area and finished red roofs remain visible below. Frame the raised piece large enough to read its color boundary without needing precise puzzle geometry, using the window glow as a natural aid rather than a magical effect."
+    },
+    {
+      "caption": "姐姐停下来，把带白边的都推给了她。",
+      "scene": "CRITICAL VISIBLE STATE: the puzzle upper half is bare tan cardboard, with large empty interlocking sockets. No continuous blue sky, white cloud or complete picture is present on the board yet. Blue-and-white loose pieces exist only on the table beside it or in the her hand. The older sister uses one open palm to gently slide several blue pieces with white curved edges across the table toward her younger sister. The younger girl starts arranging them into a loose arc beside the puzzle, her shoulders now more confident. The village portion remains unchanged, and no new pieces are being fitted there. Keep the shared action clear: one sister offers a sorted set while the other builds the cloud outline. The warm tabletop and quiet daylight support a cooperative moment without exaggerated triumphant expressions."
+    },
+    {
+      "caption": "她的云接上屋顶，两个人一起把画挪进阳光。",
+      "scene": "Both sisters hold opposite edges of a flat backing board and slide their completed puzzle into the sunny part of the table. The finished picture shows a gently curving white cloud above red village roofs and green trees, with the join between sky and buildings clearly complete. The younger sister smiles down at the cloud while the older sister looks toward her. A few empty sorting bowls sit behind them. Use a slightly elevated view so their hands, the intact completed picture, and the warm patch of sunlight form the final satisfying composition."
+    }
+  ],
+  "palette": [
+    "#EFE2CA",
+    "#8FAECA",
+    "#BF8067",
+    "#8F9D73",
+    "#D9BE82"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "姐姐拼好了屋顶，妹妹面前还是一",
+          "片蓝。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她把一块举到窗边，蓝里藏着一点",
+          "白。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "姐姐停下来，把带白边的都推给了",
+          "她。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "她的云接上屋顶，两个人一起把画",
+          "挪进阳光。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "2dc2e39903ad16df9417ec49457744b8e7797f5f8e14f699b4af6b8480ed6531",
+  "sha256": "9d8dce8477167a21a95e72b18995f38e3e9d47ee0b104b826462a8203fd45b80",
+  "prompt_sha256": "99872604afe02391927d2270191d4550749e3ce7ff3b425f2f50babbfa0990b3",
+  "story_sha256": "fb4044121f72ba73252064e72c84b97cf493b4cbe30f991738f0b2b1815ebefe",
+  "created_at": "2026-10-26T10:53:39.384355+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

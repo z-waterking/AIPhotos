@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-seasons-02-raincoat-puddle-boat.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-02-raincoat-puddle-boat.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-02-raincoat-puddle-boat-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 2,
+  "anthology_index": 62,
+  "panel_count": 6,
+  "display_title": "小船靠岸",
+  "visible_description": "一只折纸船在雨后水洼里，找到了树叶做的码头。",
+  "synopsis": "雨停后，小禾把纸船放进一条浅窄的水洼，微风却把它送到靠近对岸的地方。爸爸递来一片带长叶柄的宽叶子，小禾握住叶柄，把叶尖伸到纸船旁。船轻轻贴到叶面，她便慢慢把叶子拖回岸边，双手托起。坐回干燥的台阶时，船和叶子一起躺在掌心里，像刚完成了一次很短的航行。",
+  "story_text": "雨刚停，小禾就穿着黄雨衣来到院里。爸爸在干燥的台阶旁等她，她则蹲在一条浅窄的水洼边，把早上折好的小纸船放了进去。\n\n船被风推到靠近对岸的地方，离她的指尖还差一点。\n\n她没踩进水里，只蹲着看那条很短的航线。爸爸捡来一片带长叶柄的宽叶子，交到她手里。\n\n小禾握住叶柄，让宽宽的叶面浮在水上，叶尖恰好能碰到船。\n\n船贴上叶面以后，她轻轻把叶柄往回拖，两样东西便一起靠近了干燥的岸边。\n\n她双手托起叶子，带着船回到台阶。爸爸挪出半个位置，小禾坐下时，叶边还滴着水，掌心里的小船却已经准备好下一次出发了。",
+  "art_direction": "Soft gouache washes with playful colored pencil rain details",
+  "character_design": "Xiaohe is a seven year old child with two short black braids, a mustard raincoat, teal trousers, and yellow rubber boots. Her father is an adult with round cheeks, a muted blue rain jacket, and brown boots. Their props are one plain cream paper boat and one broad green fallen leaf. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "雨停了，小船刚出门。",
+      "scene": "Xiaohe crouches safely beside a very shallow narrow courtyard puddle and releases a cream paper boat with two fingertips. Her father stands beside the dry stone step, watching closely. Yellow boots remain on the paving, away from the water. Ripples from the boat spread toward several small reflected patches of pale sky. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "风把它送去了对岸。",
+      "scene": "The paper boat rests near the opposite side of the narrow puddle, just beyond Xiaohe’s fingertips. She leans slightly forward from a stable crouch, one arm extended without stepping into the water. Her father watches from her side. A broad fallen leaf lies near his boot on the clean wet paving. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "爸爸递来一片宽宽的叶子。",
+      "scene": "The father kneels on the dry paving beside Xiaohe and offers her one broad green fallen leaf with a long flexible stem in his open palm. Xiaohe looks from the leaf to the paper boat just beyond fingertip reach in the narrow puddle, beginning to understand the idea. Her yellow boots remain planted securely beside him. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "她握住叶柄，让叶尖去接小船。",
+      "scene": "Xiaohe grips the long stem of the broad green leaf while floating its wide blade across the very narrow shallow puddle. The leaf tip touches the cream paper boat just beyond her fingertips. Her father kneels nearby and watches, while both of her yellow boots remain firmly on the dry paving beside the water. Use old paper gouache and colored pencil, matching all established character designs and recurring objects. Show one clear visible moment, with no lettering, signage, speech balloons, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "慢慢拉回叶柄，小船也一起靠岸。",
+      "scene": "Xiaohe draws the long leaf stem gently toward her body, bringing the broad floating blade and the cream paper boat resting against it back to the near edge of the narrow puddle. Her free hand waits just above the paving to support the leaf once it arrives. Her father stays beside her, watching the simple controlled movement. Use old paper gouache and colored pencil, matching all established character designs and recurring objects. Show one clear visible moment, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "连船带码头，一起回家。",
+      "scene": "Seated on the dry stone step, Xiaohe cradles the leaf in both hands with the little paper boat resting on top. Her father sits beside her, his elbows relaxed on his knees. The shallow puddle glows in the background. A few drops fall from the leaf, leaving tiny dark dots below her boots. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#D9DFD7",
+    "#D8B54E",
+    "#73969C",
+    "#866D58",
+    "#F3E7CE"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        11,
+        11,
+        507,
+        547
+      ],
+      [
+        518,
+        11,
+        1014,
+        547
+      ],
+      [
+        11,
+        557,
+        507,
+        1025
+      ],
+      [
+        518,
+        557,
+        1014,
+        1025
+      ],
+      [
+        11,
+        1035,
+        507,
+        1526
+      ],
+      [
+        518,
+        1035,
+        1014,
+        1526
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        51,
+        200,
+        484,
+        668
+      ],
+      [
+        539,
+        200,
+        972,
+        668
+      ],
+      [
+        34,
+        823,
+        502,
+        1265
+      ],
+      [
+        522,
+        823,
+        990,
+        1265
+      ],
+      [
+        34,
+        1422,
+        502,
+        1885
+      ],
+      [
+        522,
+        1422,
+        990,
+        1885
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "雨停了，小船刚出门。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "风把它送去了对岸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "爸爸递来一片宽宽的叶子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "她握住叶柄，让叶尖去接小船。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "慢慢拉回叶柄，小船也一起靠岸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "连船带码头，一起回家。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Native row gutters were measured at y=547-555 and y=1025-1033, rather than nominal 512/1024 boundaries. Fixed middle-row extraction included a strip from the upper scene and fixed first-row extraction cut near the paper boat. Confirmed panel interiors preserve these scenes with proportional contain and ivory padding. Final recomposition still requires visual QA.",
+      "native_sha256": "59dee4e570194ead245d10e57164013ccd010acb00b4505e50dcfb20aab65cbe",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          17,
+          0,
+          18,
+          0
+        ],
+        [
+          17,
+          0,
+          18,
+          0
+        ],
+        [
+          0,
+          13,
+          0,
+          13
+        ],
+        [
+          0,
+          13,
+          0,
+          13
+        ],
+        [
+          0,
+          2,
+          0,
+          3
+        ],
+        [
+          0,
+          2,
+          0,
+          3
+        ]
+      ]
+    }
+  },
+  "native_sha256": "59dee4e570194ead245d10e57164013ccd010acb00b4505e50dcfb20aab65cbe",
+  "sha256": "495e74ccc2a239b4d69869c52c19155aafa7707699bf61c6edf244982b7f26de",
+  "prompt_sha256": "bc24b6ece2685595d37f6ba4e0951959fee2408df0f399fdab98c05c1d3205d1",
+  "story_sha256": "f10debd13f21e3cb022d0618d92bd571a469d723456afe9a3781f805a7b14751",
+  "created_at": "2026-10-26T10:59:09.055035+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-miyun-mosaic-02-baihe-pavilions.png",
+  "refined_prompt": "../prompts/beijing-life-miyun-mosaic-02-baihe-pavilions.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:02:32.854306+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-miyun-mosaic",
+  "group_number": 14,
+  "series_number": 2,
+  "anthology_index": 67,
+  "title": "到白河公园读书",
+  "sha256": "4ad258ddf82721c00a7c8c2d4c10d2ad36b19a66f59453f49cf71c3fc677a692",
+  "native_sha256": "a4f674d1d5deda5b96edd0a9e65165f62c29e637df15f98cc2ff7fc9deac74fc",
+  "prompt_sha256": "dad72131c3de3cf19edf33274e41a3073fefb55c995fbad0106a2fe6142386e4",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2375263,
+  "art_direction": {
+    "style_name": "陶片马赛克",
+    "style_prompt_english": "Hand-set ceramic tessera mosaic illustration: irregular matte tile pieces, thin grout channels, directional tile flow shaping real architecture, water and trees. Rich cobalt, coral, pale jade and butter-yellow tiles; readable large silhouettes with tactile tessera detail rather than pixel art.",
+    "palette": [
+      "#285FAA",
+      "#ED7355",
+      "#99C5AE",
+      "#F5D579"
+    ],
+    "layout_variant": 3,
+    "activity": "公园与小度假",
+    "area": "密云区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "baihe-pavilions",
+    "title": "到白河公园读书",
+    "subtitle": "找一座亭子坐一坐",
+    "area_label": "北京·密云区",
+    "duration": "约1–2小时",
+    "transport": "密云城区公交或出租车；远程来访可与城区午餐组合",
+    "stops": [
+      {
+        "name": "白河公园",
+        "detail": "小而安静的河畔公园",
+        "lat": 40.4077064,
+        "lon": 116.8415013,
+        "coordinate_status": "OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118436",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/9926301814"
+      },
+      {
+        "name": "望潮亭",
+        "detail": "从开放园路看亭台与水面",
+        "lat": 40.4077064,
+        "lon": 116.8415013,
+        "coordinate_status": "OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118436",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/9926301814"
+      }
+    ],
+    "practical_note": "这条是密云城区白河公园，不是水库沿岸；不作长距离徒步路线。",
+    "copy_title": "密云区｜到白河公园读书",
+    "copy_body": "找一座亭子坐一坐。这次只安排一个片区：白河公园 → 望潮亭。建议留约1–2小时，把拍照、休息和短时参观一起算进去。这条是密云城区白河公园，不是水库沿岸；不作长距离徒步路线。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "密云区",
+      "北京小众玩法",
+      "公园与小度假"
+    ],
+    "hero_prompt_english": "Baihe Park in Miyun: an intimate riverside garden with one traditional small tiled pavilion, thick mature trees and calm river reflections, a public bench occupied by an adult reading a paperback. Emphasize the modest urban park scale, sheltered seating and quiet water; no reservoir, no large monumental palace. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "4507f6725f7901caedac92c0bb054bc3faa9fa56cac8d57e30820dca5e39b149",
+      "bounds_wgs84": [
+        116.83314696785767,
+        40.401344683743766,
+        116.84985563214234,
+        40.41406751498995
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "白河公园",
+          "lon": 116.8415013,
+          "lat": 40.4077064,
+          "coordinate_status": "OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route"
+        },
+        {
+          "name": "望潮亭",
+          "lon": 116.8415013,
+          "lat": 40.4077064,
+          "coordinate_status": "OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:19:57.597194+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "白河公园",
+          "source_url": "https://www.openstreetmap.org/node/9926301814",
+          "status": "OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route"
+        },
+        {
+          "name": "望潮亭",
+          "source_url": "https://www.openstreetmap.org/node/9926301814",
+          "status": "OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "白河公园 → 望潮亭",
+        "box": [
+          52,
+          43,
+          272,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·密云区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "到白河公园读书",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "密云｜城边的彩色慢游  ·  约1–2小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "找一座亭子坐一坐",
+        "box": [
+          55,
+          1013,
+          231,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  白河公园",
+        "box": [
+          413,
+          1117,
+          565,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "小而安静的河畔公园",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  望潮亭",
+        "box": [
+          413,
+          1194,
+          538,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "从开放园路看亭台与水面",
+        "box": [
+          416,
+          1230,
+          636,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "这条是密云城区白河公园，不是水库沿岸；不作长距离徒步路线。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "密云城区公交或出租车；远程来访可与城区午餐组合",
+        "box": [
+          413,
+          1362,
+          873,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "14 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "067",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

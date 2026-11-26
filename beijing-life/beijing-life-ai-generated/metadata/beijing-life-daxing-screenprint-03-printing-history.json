@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-daxing-screenprint-03-printing-history.png",
+  "refined_prompt": "../prompts/beijing-life-daxing-screenprint-03-printing-history.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:54.384619+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-daxing-screenprint",
+  "group_number": 10,
+  "series_number": 3,
+  "anthology_index": 48,
+  "title": "从一枚活字开始",
+  "sha256": "4a7335366543655fc1dfdf22bca9773a991c5c7f1187377d7b9ff303b9a1ea95",
+  "native_sha256": "a0ea2e739cc7d18235c89b174e3deff108299b665ec8525905da9d7243992f6e",
+  "prompt_sha256": "c279170780c40b15e2f37fc65e97013a7f212b6a1f2980d1f3dbbfb7ca3aad80",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1971251,
+  "art_direction": {
+    "style_name": "等距几何丝网印",
+    "style_prompt_english": "Architectural isometric screen print with crisp offset layers, visible ink grain, simple extruded geometric volumes and bold diagonals. Build a lively continuous scene, with saturated turquoise, orange and ultramarine, not a cut-paper relief.",
+    "palette": [
+      "#1665A7",
+      "#F36935",
+      "#28B8A9",
+      "#F4E5BB"
+    ],
+    "layout_variant": 4,
+    "activity": "公园与知识",
+    "area": "大兴区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "printing-history",
+    "title": "从一枚活字开始",
+    "subtitle": "把书本的诞生看明白",
+    "area_label": "北京·大兴区",
+    "duration": "约2–3小时",
+    "transport": "地铁大兴线清源路站后步行",
+    "stops": [
+      {
+        "name": "中国印刷博物馆古代馆",
+        "detail": "看雕版、活字与装帧的演变",
+        "lat": 39.7419714,
+        "lon": 116.3252954,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117938",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/363347726"
+      },
+      {
+        "name": "中国印刷博物馆近现代馆",
+        "detail": "看机械、印刷流程与技术变化",
+        "lat": 39.7419714,
+        "lon": 116.3252954,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117938",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/363347726"
+      }
+    ],
+    "practical_note": "入馆和展厅开放提前确认；互动体验仅在馆方允许时参加。",
+    "copy_title": "大兴区｜从一枚活字开始",
+    "copy_body": "把书本的诞生看明白。这次只安排一个片区：中国印刷博物馆古代馆 → 中国印刷博物馆近现代馆。建议留约2–3小时，把拍照、休息和短时参观一起算进去。入馆和展厅开放提前确认；互动体验仅在馆方允许时参加。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "大兴区",
+      "北京小众玩法",
+      "公园与知识"
+    ],
+    "hero_prompt_english": "China Printing Museum in Daxing: a coherent museum interior with a large historical cast-iron printing press, trays of abstract blank movable-type blocks and a roller mechanism, warm paper sheets and an adult visitor examining the machine from behind a museum boundary. Architectural perspective and machinery form an isometric educational scene, no reproduction of copyrighted prints or legible typesetting. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "1f2d6ce99abfba591fb2f6fdf32d988f0a8a2af37516bc32ca1701b41c5fd5dc",
+      "bounds_wgs84": [
+        116.31694106785767,
+        39.735547192052216,
+        116.33364973214233,
+        39.74839500910281
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "中国印刷博物馆古代馆",
+          "lon": 116.3252954,
+          "lat": 39.7419714,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "中国印刷博物馆近现代馆",
+          "lon": 116.3252954,
+          "lat": 39.7419714,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:09.968461+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "中国印刷博物馆古代馆",
+          "source_url": "https://www.openstreetmap.org/way/363347726",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "中国印刷博物馆近现代馆",
+          "source_url": "https://www.openstreetmap.org/way/363347726",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "中国印刷博物馆古代馆 → 中国印刷博物馆近现代馆",
+        "box": [
+          52,
+          43,
+          636,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·大兴区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "从一枚活字开始",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "大兴｜向南找点新鲜  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "把书本的诞生看明白",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  中国印刷博物馆古代馆",
+        "box": [
+          53,
+          1117,
+          367,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看雕版、活字与装帧的演变",
+        "box": [
+          56,
+          1153,
+          296,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  中国印刷博物馆近现代馆",
+        "box": [
+          53,
+          1194,
+          394,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看机械、印刷流程与技术变化",
+        "box": [
+          56,
+          1230,
+          316,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "入馆和展厅开放提前确认；互动体验仅在馆方允许时参加。",
+        "box": [
+          53,
+          1281,
+          521,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁大兴线清源路站后步行",
+        "box": [
+          53,
+          1362,
+          293,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "10 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "048",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

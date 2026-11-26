@@ -1,0 +1,163 @@
+{
+  "output": "../daily-vignette-keepsake-07-short-scarf-door-draft-snake.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-07-short-scarf-door-draft-snake.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-07-short-scarf-door-draft-snake-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 7,
+  "anthology_index": 7,
+  "panel_count": 4,
+  "display_title": "围巾守门员",
+  "visible_description": "一条织短了的旧围巾，变成了把冷风拦在门外的软软守门员。",
+  "synopsis": "兄妹整理小时候的箱子，翻出妹妹第一次织的围巾，短得连哥哥的脖子都绕不住。窗外起风，门缝把地上的纸角吹得直翘。哥哥把围巾围成细长布套，妹妹塞进几卷旧毛巾，缀上两粒圆纽扣。软软的长条刚好堵住门缝。两人坐下喝热可可时，小狗已经把下巴搁在这位新守门员身上。",
+  "story_text": "兄妹翻小时候的箱子，找出妹妹第一次织的围巾。哥哥把它搭在脖子上，两头离得老远，怎么拉都不够。妹妹摸摸那些歪针脚，自己先笑了。\n\n门缝吹进一阵风，地上的纸角翘起来，又落下。哥哥拿着围巾在门下比了一下，长度倒刚刚好。两人把旧毛巾卷细，塞进缝成筒的围巾里。\n\n妹妹缀上两粒圆纽扣，原本短短的围巾变成一条胖长条。它横在门底，纸终于安静了。哥哥还给它摆正了两只纽扣眼睛，让它朝着客厅。\n\n热可可端来时，小狗已经先试好了位置，下巴稳稳搁在长条上。兄妹挨着坐到沙发里，妹妹想伸脚过去，又缩了回来：新上班的守门员，好像已经有伙伴了。",
+  "art_direction": "Cozy winter gouache with colored-pencil knitted textures on buff paper",
+  "character_design": "The sister is a Chinese woman in her late twenties with shoulder-length wavy black hair and a slightly freckled nose. She wears a terracotta sweatshirt, cream trousers, and knitted gray socks. Her older brother has short black hair, a rounded face, and a blue cardigan over a plain shirt with olive trousers. Their small tan dog has floppy ears and a white chin. The childhood scarf is moss green with uneven broad rust stripes and visibly irregular hand-knitted stitches.",
+  "panels": [
+    {
+      "caption": "这条围巾，长大以后谁也围不上了。",
+      "scene": "In a cozy sitting room, the brother loosely holds the short moss-green and rust-striped scarf behind his neck, its ends stopping comically far apart over his chest. His sister sits beside an open storage box and smiles at the uneven hand-knitted stitches. The tan dog watches from a folded rug. A few clean old towels and childhood craft materials lie inside the box. Keep the humor affectionate and understated, with the brother's easy expression showing that the scarf is treasured rather than mocked."
+    },
+    {
+      "caption": "门缝一吹，桌边的纸角就抬起了头。",
+      "scene": "Show the lower part of the front door and nearby floor, where the corner of a plain loose sheet gently lifts in a draft. The sister crouches and holds her palm near the narrow gap under the door, noticing the moving air. The brother stands just behind her with the short striped scarf extended horizontally between his hands, comparing its length to the door. Their tan dog sniffs at the opposite edge. Avoid exaggerated wind symbols; the lifted paper and their attentive gestures make the problem visible."
+    },
+    {
+      "caption": "旧毛巾住进去，围巾变成一条软长条。",
+      "scene": "At a low coffee table, the sister stuffs neatly rolled old towels into the scarf, which has been joined into a long soft tube. The brother holds the open end steady and offers two large brown buttons resting in his palm. One rounded end already has simple button eyes attached, making a gentle snake-like draft stopper without a detailed face. The remaining towels are clean and folded beside them. Focus on the pleasing uneven stripes and cooperative hands, with the dog seated expectantly just beyond the table."
+    },
+    {
+      "caption": "冷风停了，小狗还替它试了试软硬。",
+      "scene": "The finished striped draft stopper lies snugly along the bottom of the closed door, its two button eyes at one end. The tan dog rests nearby with its white chin draped over the soft tube, looking peacefully content. In the background, brother and sister sit on the sofa holding plain mugs of hot cocoa, their socked feet tucked on a rug. The formerly lifted paper now lies flat beside the table. Use a low viewpoint that makes the little household solution and the dog's accidental pillow the clear payoff."
+    }
+  ],
+  "palette": [
+    "#EADCC4",
+    "#C78A67",
+    "#8B9F88",
+    "#677E98",
+    "#69554A"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "这条围巾，长大以后谁也围不上了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "门缝一吹，桌边的纸角就抬起了头。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "旧毛巾住进去，围巾变成一条软长",
+          "条。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "冷风停了，小狗还替它试了试软硬。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "82ed752eea0be5ad80b801f47a4094ffac8c9a88a33d4f8ebea6496b599642e8",
+  "sha256": "4640471083d8a801afeb420eee4cfb6edbbb96d0f4064a75ae00d56014b9910e",
+  "prompt_sha256": "cda26743200bfdc3b5462759786555c63e5640b6ebda684d5ecd19bc55e8536e",
+  "story_sha256": "74384f1c0d1cfbc5b411c5aea409e825d28cc78f79dafa15c65a78060ccfa60d",
+  "created_at": "2026-10-26T09:45:25.962352+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

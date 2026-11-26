@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-neighbors-01-elevator-scallion-passage.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-01-elevator-scallion-passage.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-01-elevator-scallion-passage-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 1,
+  "anthology_index": 21,
+  "panel_count": 4,
+  "display_title": "给大葱让条路",
+  "visible_description": "窄电梯里的一捆长葱，让两位邻居第一次认真商量起怎么一起回家。",
+  "synopsis": "新搬来的青年抱着空书架等电梯，隔壁阿姨提着一捆比购物袋高许多的大葱走来。两个人都把门让给对方，电梯却迟迟没能出发。青年忽然把书架竖起来，请阿姨把葱叶穿过空格。他们并肩站好，正好都能进去。到家后阿姨抽出大葱，几根长叶还在格子里晃，青年第一次觉得这只空书架也有了热闹的住户。",
+  "story_text": "新搬来的青年抱着一只空书架等电梯，书架不重，就是横过来有点宽。隔壁阿姨也来了，菜袋里一捆大葱伸得老高，叶尖几乎碰到他的袖口。\n\n门开了，青年往左让，阿姨往右让。两人都伸手请对方先进，结果谁也没动成。阿姨看看葱叶，青年看看书架，忍不住一起笑了。\n\n青年把书架转着竖起，空格正好朝向阿姨。她把柔软的葱叶拢一拢，从空格里穿过去，菜袋仍放在脚边。两个人并排站好，空间竟够用了。\n\n到了楼层，阿姨慢慢抽出大葱，有几片叶子还在木格里晃了一下。她指着旁边的门，让青年有事就来敲。青年抱着书架进屋时，那两个空格看着已经没那么冷清。",
+  "art_direction": "Friendly urban gouache with loose colored-pencil gestures on warm cream paper",
+  "character_design": "The young Chinese neighbor has short black curls and oval glasses, wearing an ochre overshirt, cream T-shirt, dark green trousers and plain sneakers. The older Chinese woman has a silver-streaked bob, muted blue jacket and brown trousers. ONE lightweight rectangular pale-wood shelf has EXACTLY ONE fixed central divider and TWO equal empty compartments in EVERY panel; rotating it never adds or removes boards. ONE cream grocery bag and ONE tied scallion bundle exist. Every green leaf remains attached to this single bundle of white stalks and roots. Never duplicate or detach vegetables.",
+  "panels": [
+    {
+      "caption": "书架和大葱，一起等在电梯门口。",
+      "scene": "In a clean apartment elevator lobby, the young man supports the ONE rectangular pale-wood shelf horizontally across his waist with both hands. Its ONE fixed central divider is vertical in this orientation, forming TWO clearly visible side-by-side empty compartments; show the divider completely. The older woman stands beside him holding ONE cream grocery bag containing the only tied scallion bundle, with all green leaves connected to the same white stalks and roots. The fully open elevator behind them is empty and stationary. No extra shelf, missing divider, loose leaves, second bundle, text, signs, logos or speech balloons."
+    },
+    {
+      "caption": "你先请，我也让，谁都没能进去。",
+      "scene": "At the same open stationary elevator, both neighbors angle their bodies away from the doorway and nod politely for the other to enter. The man still supports the SAME horizontal rectangular shelf with both hands; its single fixed middle divider and TWO side-by-side empty compartments remain fully visible, identical to panel one. The woman holds the SAME cream bag by its handle, containing the ONE tied scallion bundle; all leaves remain attached to its stalks. Their courteous mirrored posture makes them smile. No additional vegetables, detached foliage, altered shelf boards, lettering, signs or speech balloons."
+    },
+    {
+      "caption": "书架转个身，葱叶就有了通道。",
+      "scene": "Inside the stationary elevator with doors fully open, the man holds the SAME shelf vertically using both hands at its outer sides. The same single divider is now horizontal solely because the entire rectangle rotated ninety degrees; TWO equal compartments are stacked, with no new boards. The cream bag rests securely beside the woman feet and supports the ONE tied scallion bundle at its rooted white base. She gently guides that same bundle green leafy end through the lower open compartment. Show the continuous attached stalks connecting leaves to the bag, not a second bunch. Wordless; no signs, lettering or speech balloons."
+    },
+    {
+      "caption": "到了家，空书架还摇着几片绿尾巴。",
+      "scene": "On the apartment landing, show the moment AFTER the woman has fully withdrawn the very last scallion leaf from the shelf. She holds the ONE complete tied bundle with both hands at waist height; every green leaf is attached to its white stalks and roots and stays entirely on her side, clear of the wooden frame. The SAME cream grocery bag is empty on the floor beside her shoes. The man supports the SAME vertical shelf with both hands: ONE fixed horizontal central divider, TWO fully EMPTY stacked compartments. Absolutely no green leaf, stalk, root, or additional bundle remains inside, behind or dangling from the shelf. Wordless scene."
+    }
+  ],
+  "palette": [
+    "#EDE1C9",
+    "#7B9B68",
+    "#9DAEB2",
+    "#BA8A64",
+    "#776A5D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "书架和大葱，一起等在电梯门口。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "你先请，我也让，谁都没能进去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "书架转个身，葱叶就有了通道。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "到了家，空书架还摇着几片绿尾巴。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "eb972b81fe13c59b2be05ba7794c86b9ee3437aec147dc010e8eff9fc25e6bd8",
+  "sha256": "d10c502c028ae65e8e05b04ae093255c641b975cf8a6c295f29a64902526e458",
+  "prompt_sha256": "295a37adba77202d386f80ba2a9f383b868ae547982e4d7493e8355212b6a75f",
+  "story_sha256": "7aea66d5be91a3cc43e411088ec7faf841670825e5830e07887705ea7fe61368",
+  "created_at": "2026-10-26T10:53:58.078484+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

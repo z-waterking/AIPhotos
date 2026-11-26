@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-10-tram-window-collar.png",
+  "refined_prompt": "../prompts/daily-vignette-city-10-tram-window-collar.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-10-tram-window-collar-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 10,
+  "anthology_index": 80,
+  "panel_count": 4,
+  "display_title": "玻璃里的领子",
+  "visible_description": "车窗倒影里一个翘起的领角，隔着两排座位提醒了另一个人。",
+  "synopsis": "傍晚电车里，米娜看着玻璃中的自己，才发现衬衫领角翻了起来。她抬手整理时，对面一位年轻人也下意识摸了摸领子，结果发现他的领角同样翘着。两人从倒影里看见彼此的动作，忍不住笑了。到站前，他们各自又看了一眼玻璃，这次只确认笑容还在。",
+  "story_text": "傍晚的电车把窗子变成一面软软的镜子。米娜坐在窗边，看见自己的头发、开衫，还有衬衫上不知何时翘起来的一个领角。\n\n她伸出两根手指把它按平，手还没放下，倒影里另一只手也抬了起来。对面的年轻人摸了摸领口，才发现自己的蓝衬衫也藏着同样的小麻烦。\n\n两个人隔着车窗倒影看见彼此的动作，先愣了一下，随后都笑了。年轻人把自己的领角抚平，米娜也把另一边检查了一遍。\n\n快到站时，窗外的房子已经模糊成一片暮色。他们又各自看了一眼玻璃，这次领子都好好待着，只有笑意还留在倒影里，像刚刚整理出的一个小小褶皱。",
+  "art_direction": "Twilight gouache reflections with gentle colored pencil outlines",
+  "character_design": "Mina is an adult woman with a neat black bob, a cream collared shirt beneath a rust cardigan, and navy trousers. The other adult has short brown curls, a pale blue collared shirt, and a charcoal jacket. They sit across a quiet tram aisle; a broad dark window reflects their faces and raised collars. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "车窗里，有个翘起来的领角。",
+      "scene": "Mina sits beside a broad tram window at dusk, looking at her reflection against the softly blurred city outside. One cream shirt collar point sticks up above her rust cardigan. Across the aisle, a young adult in a charcoal jacket sits quietly with hands on knees. The tram interior is calm and uncluttered without readable signs. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "她抬手，把小麻烦按平。",
+      "scene": "Mina lifts two fingertips to flatten her raised collar while watching the motion in the window. Her expression is thoughtful and slightly amused. Across the aisle, the other passenger glances at her reflection and raises one hand toward his own pale blue collar. Both remain seated comfortably, their gestures small and ordinary. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "对面的领子，也悄悄抬着头。",
+      "scene": "The other passenger discovers a raised corner of his own pale blue collar and holds it between two fingers. Mina notices his matching gesture in the dark window reflection and smiles. Their reflected faces share the same area of glass while their real bodies remain across the aisle, making the accidental imitation easy to understand. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "整理好了，笑容还留在玻璃里。",
+      "scene": "Both passengers sit with neatly flattened collars, looking toward their smiling reflections in the tram window. Mina rests her hands on a plain cloth bag in her lap; the other passenger lowers his hand beside him. Warm interior light frames their faces, while the dusk city outside dissolves into quiet, unlettered blocks of color. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#BDC9C8",
+    "#78969E",
+    "#C5947E",
+    "#DDD2B8",
+    "#696D78"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "车窗里，有个翘起来的领角。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她抬手，把小麻烦按平。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "对面的领子，也悄悄抬着头。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "整理好了，笑容还留在玻璃里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "ffd7af1ad37c66529f5459d084aa4476f92adc87024f54adec53ae7372f7d157",
+  "sha256": "f0dc0182e16a9474c7fdeadfdec9e52365b10f70e8a99fdb26e1136bb542a07d",
+  "prompt_sha256": "153d566b6b99bbb79db126a837a57fb1c9c03ebb324e52b57b44cfa38f99b514",
+  "story_sha256": "dd540aff7742c28799c928f7c40fcfe3f18e9d30d32d2aa487cadf513b90f45f",
+  "created_at": "2026-10-26T10:33:19.896817+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

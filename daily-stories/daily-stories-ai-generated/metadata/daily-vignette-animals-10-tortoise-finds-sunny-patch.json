@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-10-tortoise-finds-sunny-patch.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-10-tortoise-finds-sunny-patch.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-10-tortoise-finds-sunny-patch-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 10,
+  "anthology_index": 60,
+  "panel_count": 4,
+  "display_title": "阳光会搬家",
+  "visible_description": "主人替陆龟准备了晒太阳的位置，阳光却先悄悄挪去了别处。",
+  "synopsis": "早晨，主人把浅木板放在安全围栏里的一小片阳光中，陆龟慢慢爬上去。等她回来收水杯，阳光已经移到旁边的草地，木板上只剩阴影。她正想搬动木板，陆龟却自己下来了，沿着明暗交界一步步走。最后它停在新的暖光里，主人把木板留在原处，坐下来和它一起看那条缓缓移动的边线。",
+  "story_text": "早晨，主人把一块低低的平木板放进陆龟的围栏，正好接住一小片柔和的阳光。陆龟慢慢爬上去，壳上的浅色纹路被照得很清楚。\n\n她进去拿杯水，再回来时，木板已落进阴影，阳光移到了旁边的草地上。陆龟伸长脖子，看着亮处。她弯腰，准备把木板挪过去。\n\n手还没碰到板边，陆龟就自己下来了。前脚先跨过明暗交界，后脚跟上，圆圆的壳也一点点变暖。\n\n她收回手，在围栏外的矮凳上坐下。陆龟停在阳光里，木板留在阴影中，水盘和小窝都在原处。杯中的水慢慢喝完，她们看着的那条亮边，还在不声不响地向前走。",
+  "art_direction": "Warm natural gouache with patient colored-pencil shell details",
+  "character_design": "A healthy small adult tortoise has a domed olive-brown shell with warm tan geometric plates, sturdy beige legs and a calm dark-eyed face. Its adult caretaker has short gray hair, a pale blue shirt, cream trousers and soft brown garden shoes. The tortoise lives in a spacious secure garden enclosure with low smooth wooden walls, fresh grass, a shallow clean water dish, a sheltered shaded hide and a low flat untreated wooden basking board. Soft morning sunlight moves across the enclosure.",
+  "panels": [
+    {
+      "caption": "小木板，刚好铺在一块阳光里。",
+      "scene": "Inside the spacious secure garden enclosure, the caretaker kneels outside the low smooth boundary and watches the tortoise climb onto the low flat wooden board in a soft morning sun patch. Fresh grass surrounds the board, with a shallow water dish and shaded hide visible at a comfortable distance. The caretaker holds a plain ceramic cup at waist height. Show the board as nearly level with the soil, allowing the animal to move on and off easily. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "人回来时，阳光已经换了座位。",
+      "scene": "The caretaker returns to the enclosure and notices that the low wooden board now lies in soft shade while a fresh sun patch falls on the grass beside it. The tortoise remains on the board, head extended toward the bright area. The caretaker bends slightly and places one hand near the board edge without moving it. Keep the water dish, shaded hide and enclosure walls unchanged, making the shift of light the only environmental change. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她还没动手，陆龟先迈了一步。",
+      "scene": "The caretaker withdraws the reaching hand and watches as the tortoise steps calmly down from the very low board onto the grass. Its front legs cross the clear boundary between shade and morning light, while the shell remains partly shaded. The movement is small and natural, with all feet close to the ground. The board stays in place, and the caretaker posture becomes still and observant rather than actively repositioning the animal. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "它找到了暖处，她留下了阴凉。",
+      "scene": "The tortoise rests on fresh grass within the new sun patch, its shell warmly lit and head relaxed. The empty low wooden board remains nearby in shade, with the sheltered hide and shallow water dish still accessible. Outside the low enclosure wall, the caretaker sits on a garden stool holding the plain cup with both hands and looks at the slowly shifting edge of light. The final scene preserves both sunny and shaded choices without moving or handling the animal. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E2D6B9",
+    "#A58D61",
+    "#849A6C",
+    "#C6AF72",
+    "#8C9D9E"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "小木板，刚好铺在一块阳光里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "人回来时，阳光已经换了座位。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "她还没动手，陆龟先迈了一步。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "它找到了暖处，她留下了阴凉。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "e2cd64aeeb7ab934ae83e1e56b45a63ffe501d03543d6705b2353dccb21c1276",
+  "sha256": "38792669b42fac7ef0bb14a79d3a09a2184bf6eff47c68dbe511697844d34ed2",
+  "prompt_sha256": "3b9eb4cdc7f336bb5722f9d29c5b8b96d433bc28f00ac4219cfb0e5013c87d13",
+  "story_sha256": "140a863fcfd3de652a3efcb7e40598e73eb8b2a350c49d4ccb9195a785ce01de",
+  "created_at": "2026-10-26T10:20:37.001535+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

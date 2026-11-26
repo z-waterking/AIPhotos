@@ -1,0 +1,212 @@
+{
+  "output": "../daily-vignette-craft-04-kite-tail-rehearsal.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-04-kite-tail-rehearsal.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-04-kite-tail-rehearsal-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 4,
+  "anthology_index": 44,
+  "panel_count": 6,
+  "display_title": "风筝彩排",
+  "visible_description": "纸风筝在屋里练了几次站姿，才带着长尾巴去见真正的风。",
+  "synopsis": "孩子和父亲做了一只蓝色菱形风筝，先举到小风扇前试。风筝左摇右摆，短尾巴跟着乱转。两人把三条浅黄色纸带接在尾端，再一起试一遍，这回它站得稳稳的。傍晚他们去空旷草地放飞，父亲举着线轴，孩子跑完几步便停下来。蓝风筝升到高处，长尾巴像把屋里的练习写到了天空上。",
+  "story_text": "蓝风筝做好后，孩子不愿等到傍晚，先举到小风扇前试。它一会儿歪向左，一会儿歪向右，短短的尾巴跟着打转，像拿不定主意该朝哪里飞。\n\n父亲关掉风扇，把风筝放回桌上。两人找出三条浅黄色纸带，接在下面，让尾巴长出一大截。孩子按住接缝，等它贴得牢牢的。\n\n再试时，蓝色菱形安稳了，三条尾巴顺着风并排飘起来。孩子放低手臂，父亲把线绕回小木轴。\n\n傍晚，他们来到空旷草地。跑过几步，风筝真的升上去了。孩子停在父亲身边，看黄色长尾巴越升越高，忽然把双手也背到身后，像给自己添了一条很短的尾巴。",
+  "art_direction": "Light gouache with colored-pencil paper folds and airy grain",
+  "character_design": "A child about ten with short dark hair wears a pale green T-shirt, cream shorts and blue sneakers. The father has cropped brown hair, a light beard, an ochre overshirt, navy trousers and tan shoes. Their handmade kite is a plain muted blue diamond with a thin wooden cross frame and three pale yellow paper tail ribbons. The string winds around a simple wooden spool. Their indoor fan is small, cream, fully guarded and placed on a stable table.",
+  "panels": [
+    {
+      "caption": "蓝风筝先在屋里学站稳。",
+      "scene": "Inside a bright craft room, the child holds the blue diamond kite by its bridle string in front of a small guarded cream fan on a stable table. The father stands beside the child, watching the kite tilt markedly to one side with its single short paper tail twisted below. The kite remains far from the fan guard. A few colored paper strips and the wooden string spool lie on a separate clear work surface. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他们给尾巴接上三条纸带。",
+      "scene": "The father steadies the kite flat on the worktable while the child carefully presses three long pale yellow paper ribbons into place at its lower tip using small pieces of plain tape. The cream fan is visibly switched off in the background. The blue diamond, thin wooden cross and simple bridle remain unchanged. Their focused faces lean toward the attachment point, and the loose ribbons spill gently across the table without tangling. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "再试一次，它不急着转圈了。",
+      "scene": "The child again holds the kite by its bridle before the guarded fan at a safe distance. This time the blue diamond sits nearly vertical and centered, while its three long yellow tails stream evenly away from the airflow. The father crouches beside the child and points toward the balanced lower tip with an approving but practical expression. The wooden spool rests on the table, linking the test directly to the coming outdoor flight. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "风扇关好，线轴也绕整齐。",
+      "scene": "The cream guarded fan is off on the indoor table. The child holds the completed blue diamond kite upright against the torso with both hands, its three long pale yellow tails hanging freely to one side. The father winds the loose kite string neatly around the wooden spool at the worktable. Their materials are gathered into a small plain tray, signaling the end of the indoor rehearsal before they leave for the field. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "到了空地，先把风筝迎向风。",
+      "scene": "In the broad open grassy field, the child stands a short distance from the father and holds the blue kite upright by its lower frame, with the face angled gently into the breeze. The father holds the wooden spool and a lightly extended line, ready for the release. Three yellow tails stream backward at waist level. No trees, roads, buildings or wires are nearby. Show the calm prepared moment just before the kite is let go. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "到了草地，彩排终于开场。",
+      "scene": "On a broad open grassy field beneath a pale evening sky, the blue diamond kite flies high with three long pale yellow tails flowing in a graceful parallel curve. The father holds the wooden spool and string while the child stands beside him after a short run, looking upward with both feet planted. No buildings, trees, roads or power lines are nearby. Their figures remain small in the lower part of the composition, giving the familiar kite room to breathe. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E8DBC1",
+    "#739AB1",
+    "#DCC46D",
+    "#8EAB83",
+    "#AD816C"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "蓝风筝先在屋里学站稳。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "他们给尾巴接上三条纸带。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "再试一次，它不急着转圈了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "风扇关好，线轴也绕整齐。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "到了空地，先把风筝迎向风。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "到了草地，彩排终于开场。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "b662a0075945d1f9e1ba5ae9d30cb6a1dbe601194fed2cd45bf9014d817c37de",
+  "sha256": "b2bbfed8d5150cd00961add3eaf80d5674c44a128a3a825fa92b52227ccfb82b",
+  "prompt_sha256": "d0b311fb526f1ee5d035e8140fd10f63099bf17c85750e50f056d1a710dc472f",
+  "story_sha256": "522ecd36bcb38e081a99f42cedba6489ed37ffaeee58229eaf7082506c693c9b",
+  "created_at": "2026-10-26T10:10:56.823616+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

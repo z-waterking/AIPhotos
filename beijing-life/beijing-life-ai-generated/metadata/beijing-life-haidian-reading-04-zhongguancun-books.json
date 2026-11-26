@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-haidian-reading-04-zhongguancun-books.png",
+  "refined_prompt": "../prompts/beijing-life-haidian-reading-04-zhongguancun-books.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:44.262434+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-haidian-reading",
+  "group_number": 3,
+  "series_number": 4,
+  "anthology_index": 14,
+  "title": "在书架里迷路",
+  "sha256": "0881fdd8f027563b32b3a64c405b6e063862ce3758f75ff6f37d1a067f4ce4d6",
+  "native_sha256": "b41016f676fdf437d1712a54358654a51771c4f6974b5f34d9c32f11af8c2e4f",
+  "prompt_sha256": "51e815b890c3a6d332c0732b9c6b8df31a06434219d86e0ffdfbf31f739313bc",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1769887,
+  "art_direction": {
+    "style_name": "粉彩阅读插画",
+    "style_prompt_english": "Soft pastel editorial illustration with powdery broken edges, thick velvety color fields, tactile paper grain and large still-life foreground. An open unlettered book and hands provide a human anchor while the real library or park scene fills the full background. Cinematic light and quiet but richly layered composition.",
+    "palette": [
+      "#F2BD9B",
+      "#536780",
+      "#D8D67B",
+      "#DDD5EC"
+    ],
+    "layout_variant": 2,
+    "activity": "图书馆、书店与自带书户外阅读",
+    "area": "海淀区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "zhongguancun-books",
+    "title": "在书架里迷路",
+    "subtitle": "选书之后再吃一顿",
+    "area_label": "海淀·海淀图书城",
+    "duration": "约2–3小时",
+    "transport": "地铁4号线中关村站；步行接驳",
+    "stops": [
+      {
+        "name": "中关村图书大厦",
+        "detail": "文学与艺术书架慢慢逛",
+        "lat": 39.9830166,
+        "lon": 116.298829,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119144",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/2180702595"
+      },
+      {
+        "name": "海淀西大街",
+        "detail": "周边散步和简餐",
+        "lat": 39.9838,
+        "lon": 116.2998,
+        "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119144",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/2180702595"
+      }
+    ],
+    "practical_note": "店内以当天营业安排为准；书封只拍摄允许的范围，不影响选书。",
+    "copy_title": "海淀·海淀图书城｜在书架里迷路",
+    "copy_body": "给自己一个小任务：挑一本原本不会买的书。选完去海淀西大街走走，把阅读和一顿饭放在同一段路上。 路线：中关村图书大厦 → 海淀西大街。约2–3小时，到首站和返程另计。店内以当天营业安排为准；书封只拍摄允许的范围，不影响选书。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "海淀",
+      "在书架里迷路"
+    ],
+    "hero_prompt_english": "Tall everyday bookstore shelves in Zhongguancun Book Building, an adult comparing two plain unlettered books, stepped stacks on a table and afternoon city street reflected in glazing. Soft powdery pastel, warm cream pages against slate blue shelving; book spines have no legible writing. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "1e9a08d7f7e55166ccab24158aa1b9c1ed2c1358c8e7f13575538d4599a6eaa1",
+      "bounds_wgs84": [
+        116.29096016785766,
+        39.977006656740194,
+        116.30766883214233,
+        39.98980934574496
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "中关村图书大厦",
+          "lon": 116.298829,
+          "lat": 39.9830166,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "海淀西大街",
+          "lon": 116.2998,
+          "lat": 39.9838,
+          "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:59.316255+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "中关村图书大厦",
+          "source_url": "https://www.openstreetmap.org/node/2180702595",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "海淀西大街",
+          "source_url": "https://www.openstreetmap.org/node/2180702595",
+          "status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "中关村图书大厦 → 海淀西大街",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "海淀·海淀图书城",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "在书架里迷路",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "海淀读书的五种下午  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "选书之后再吃一顿",
+        "box": [
+          55,
+          1013,
+          231,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  中关村图书大厦",
+        "box": [
+          53,
+          1117,
+          286,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "文学与艺术书架慢慢逛",
+        "box": [
+          56,
+          1153,
+          256,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  海淀西大街",
+        "box": [
+          53,
+          1194,
+          232,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "周边散步和简餐",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "店内以当天营业安排为准；书封只拍摄允许的范围，不影响选书。",
+        "box": [
+          53,
+          1281,
+          575,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁4号线中关村站；步行接驳",
+        "box": [
+          53,
+          1362,
+          325,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "03 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "014",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-seasons-04-towel-shade-library.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-04-towel-shade-library.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-04-towel-shade-library-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 4,
+  "anthology_index": 64,
+  "panel_count": 4,
+  "display_title": "毛巾阴凉处",
+  "visible_description": "晒衣绳上的大毛巾，临时成了两个人的夏日阅览室。",
+  "synopsis": "小满在院里看画册，太阳慢慢爬到了她的脚边。妈妈正在晒刚洗好的大毛巾，发现孩子跟着阴影一寸寸挪凳子。她把毛巾挂得低一些，小满立刻把小凳搬进新的阴凉。过了一会儿，妈妈也端来一张凳子，两个人的膝盖在毛巾下面轻轻碰到了一起。",
+  "story_text": "小满挑了一本画册，坐到院里的小凳上。起初，墙根的阴凉能遮住整个人；看过几页，阳光就摸到了她的橙色凉鞋。\n\n她把画册放在长凳上，抱起小凳往后挪一点。没多久又挪一点。妈妈从洗衣篮里抖开大毛巾时，正好看见她第三次起身。\n\n妈妈把蓝条纹毛巾挂到低一些的绳子上，夹好两个角。地上立即出现一块宽宽的蓝色阴影，小满搬着凳子住了进去。\n\n晾完衣服，妈妈也端来一张小凳。两个人的膝盖轻轻碰在一起，画册摊在中间。风吹得毛巾边缘慢慢摆动，书上的小动物仿佛也坐在这一小片凉快里。",
+  "art_direction": "Matte gouache with colored pencil fabric grain and airy paper space",
+  "character_design": "Xiaoman is an eight year old child with a straight black bob, a cream short sleeve shirt, teal knee length shorts, and soft orange sandals. Her mother has a dark ponytail, a sage blouse, and loose tan trousers. A large blue striped towel, two short wooden stools, and a wordless picture book recur. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "她的阴凉，只剩半只脚。",
+      "scene": "Xiaoman sits on a short wooden stool in a quiet enclosed courtyard, holding a wordless picture book open on her knees. A strong patch of summer sun reaches halfway across her orange sandals. Behind her, her mother lifts a freshly washed blue striped towel from a wicker basket beside a low clothesline. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "凳子又往后挪了一点。",
+      "scene": "Xiaoman has risen slightly and grips both sides of her stool, moving it a little toward the shrinking shade of the courtyard wall. The open picture book rests safely on a nearby low bench. Her mother pauses with the blue towel held wide, noticing the child’s careful adjustment and the advancing sunlight. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "大毛巾借出一片阴凉。",
+      "scene": "The mother clips the blue striped towel across a low section of clothesline, making a broad patch of soft shade on the paving. Xiaoman slides her stool into that patch with visible satisfaction. The towel stays well above her seated head, moving only slightly in the warm breeze; the picture book waits on the bench. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "这间阅览室，刚好坐两人。",
+      "scene": "Mother and child sit side by side on two short stools beneath the towel’s shade, sharing the open wordless picture book. Their knees lightly touch, and Xiaoman points to a simple animal illustration. A basket of folded laundry rests beside the mother. Sunlit paving surrounds their small comfortable island of blue filtered light. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#F0E4C8",
+    "#74A8A6",
+    "#D7AA6F",
+    "#8B9363",
+    "#6B6257"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "她的阴凉，只剩半只脚。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "凳子又往后挪了一点。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "大毛巾借出一片阴凉。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "这间阅览室，刚好坐两人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "d40e3db1e5eedb4a4ee54d826e49d0ac8557dbbe69a4716c8f4bf9da29c92dac",
+  "sha256": "6d445b052b850e067013160088b7a21a4ec1a6c869b2802da0df548e7fc357bb",
+  "prompt_sha256": "ee62c8c1610614ff434db787f0aa2fd56e056c35f9a529aec8c388c05ba92919",
+  "story_sha256": "bf35bb36deeb5cd5c54701b790ca94d33e078d4aca91ac8a15917ed2481937de",
+  "created_at": "2026-10-26T10:22:39.904278+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

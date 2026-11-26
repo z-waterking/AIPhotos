@@ -1,0 +1,330 @@
+{
+  "output": "../beijing-life-fangshan-mineral-03-haotian-tower.png",
+  "refined_prompt": "../prompts/beijing-life-fangshan-mineral-03-haotian-tower.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:46.987619+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fangshan-mineral",
+  "group_number": 12,
+  "series_number": 3,
+  "anthology_index": 58,
+  "title": "良乡塔下看秋色",
+  "sha256": "4ac79084e39e41e1611ca6621d1951ed308169136994a1e9ba5c6d57f50ad90a",
+  "native_sha256": "699f1702a13d6d2a8daa7a6d366e83870ea9edde160a66caec11ca12b06516f3",
+  "prompt_sha256": "53801eebe152162079f976fa0ed2a5de9273515e7e698735fdb2d9a71fb02625",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2218830,
+  "art_direction": {
+    "style_name": "矿物色壁画",
+    "style_prompt_english": "Original mineral-pigment architectural mural illustration on finely textured plaster, flat lapis blue and malachite green planes, warm ochre stone, elegant crisp fine contours and decorative layered hills. Make recognizable modern and historic places, no copying religious murals or named artists.",
+    "palette": [
+      "#275CA1",
+      "#379078",
+      "#C98B42",
+      "#F0D9B1"
+    ],
+    "layout_variant": 1,
+    "activity": "园林与文化",
+    "area": "房山区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "haotian-tower",
+    "title": "良乡塔下看秋色",
+    "subtitle": "老城里的砖塔与树影",
+    "area_label": "北京·房山区",
+    "duration": "约2小时",
+    "transport": "房山线后接公交或出租车至昊天公园",
+    "stops": [
+      {
+        "name": "昊天公园",
+        "detail": "在开放公园路线上散步",
+        "lat": 39.7323897,
+        "lon": 116.1485805,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118256",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/911097299"
+      },
+      {
+        "name": "良乡多宝佛塔",
+        "detail": "地面看五层八角砖塔外观",
+        "lat": 39.7323897,
+        "lon": 116.1485805,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118256",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/911097299"
+      }
+    ],
+    "practical_note": "有缓坡与台阶，量力安排；本条不承诺入塔或登塔。",
+    "copy_title": "房山区｜良乡塔下看秋色",
+    "copy_body": "老城里的砖塔与树影。这次只安排一个片区：昊天公园 → 良乡多宝佛塔。建议留约2小时，把拍照、休息和短时参观一起算进去。有缓坡与台阶，量力安排；本条不承诺入塔或登塔。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "房山区",
+      "北京小众玩法",
+      "园林与文化"
+    ],
+    "hero_prompt_english": "Haotian Park in Liangxiang Fangshan: the recognizable five-story octagonal brick Liangxiang pagoda with restrained close-spaced eaves on a modest low mound, framed by gold and green trees and a formal park path. An adult photographs it from ground level. Accurate five-level brick silhouette, no invented giant tower or inaccessible climbing. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "de5a0f224dd95daec2c3facc78920cfce1dd3dbe6cf223d91334656853a3cd6f",
+      "bounds_wgs84": [
+        116.14022616785766,
+        39.72596459894238,
+        116.15693483214233,
+        39.738814202249905
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "昊天公园",
+          "lon": 116.1485805,
+          "lat": 39.7323897,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "良乡多宝佛塔",
+          "lon": 116.1485805,
+          "lat": 39.7323897,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:34.023923+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "昊天公园",
+          "source_url": "https://www.openstreetmap.org/way/911097299",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "良乡多宝佛塔",
+          "source_url": "https://www.openstreetmap.org/way/911097299",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "昊天公园 → 良乡多宝佛塔",
+        "box": [
+          52,
+          43,
+          350,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·房山区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "良乡塔下看秋色",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "房山｜石色与水光  ·  约2小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "老城里的砖塔与树影",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  昊天公园",
+        "box": [
+          413,
+          1117,
+          565,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "在开放公园路线上散步",
+        "box": [
+          416,
+          1153,
+          616,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  良乡多宝佛塔",
+        "box": [
+          413,
+          1194,
+          619,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "地面看五层八角砖塔外观",
+        "box": [
+          416,
+          1230,
+          636,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "有缓坡与台阶，量力安排；本条不承诺入塔或登塔。",
+        "box": [
+          413,
+          1281,
+          827,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "房山线后接公交或出租车至昊天公园",
+        "box": [
+          413,
+          1362,
+          733,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "12 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "058",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "Illustration has roughly seven storeys while adjacent text says five and actual Liangxiang Duobao Pagoda has five. Repeated tower silhouette must match five levels.",
+    "superseded_native_sha256": "2aee09d73ada42f05700d53d05f30105818eebda936b7d94f3daa48d8938c119",
+    "repaired_at": "2026-10-29T04:54:46.199240+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-haidian-reading-02-classics-bamboo.png",
+  "refined_prompt": "../prompts/beijing-life-haidian-reading-02-classics-bamboo.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:43.680336+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-haidian-reading",
+  "group_number": 3,
+  "series_number": 2,
+  "anthology_index": 12,
+  "title": "古籍与竹影之间",
+  "sha256": "1636fcd8e6a454b4730bd57baf31a363b3b47aa0809016f03274475f295d83b5",
+  "native_sha256": "39f325445e7554f42acdf2f8b3fb949130715b9cf25a053924acd6b60b67f9d8",
+  "prompt_sha256": "131b000e108fa63be8100a77a64b93632c9d6a3c35ab43d4560ad484341b9835",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2046996,
+  "art_direction": {
+    "style_name": "粉彩阅读插画",
+    "style_prompt_english": "Soft pastel editorial illustration with powdery broken edges, thick velvety color fields, tactile paper grain and large still-life foreground. An open unlettered book and hands provide a human anchor while the real library or park scene fills the full background. Cinematic light and quiet but richly layered composition.",
+    "palette": [
+      "#F2BD9B",
+      "#536780",
+      "#D8D67B",
+      "#DDD5EC"
+    ],
+    "layout_variant": 2,
+    "activity": "图书馆、书店与自带书户外阅读",
+    "area": "海淀区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "classics-bamboo",
+    "title": "古籍与竹影之间",
+    "subtitle": "从典籍展览到湖边阅读",
+    "area_label": "海淀·紫竹院片区",
+    "duration": "约3小时",
+    "transport": "地铁4/9/16号线国家图书馆站",
+    "stops": [
+      {
+        "name": "国家典籍博物馆",
+        "detail": "看典籍主题展览",
+        "lat": 39.9419,
+        "lon": 116.3182,
+        "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118314",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/973220920"
+      },
+      {
+        "name": "紫竹院公园",
+        "detail": "自带一本书在允许休息处阅读",
+        "lat": 39.9407,
+        "lon": 116.312,
+        "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101455",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30725406"
+      }
+    ],
+    "practical_note": "以当期展览和开放通知为准；古籍展柜不使用闪光灯。",
+    "copy_title": "海淀·紫竹院片区｜古籍与竹影之间",
+    "copy_body": "先看看古书怎样保存，再读一本自己的书。午后沿湖找一处不挡路的长椅，不必把公园走满。 路线：国家典籍博物馆 → 紫竹院公园。约3小时，到首站和返程另计。以当期展览和开放通知为准；古籍展柜不使用闪光灯。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "海淀",
+      "古籍与竹影之间"
+    ],
+    "hero_prompt_english": "A closed old book case and protective glass exhibition display seen from a respectful distance transition into an adult reading a modern unlettered paperback on a Zizhuyuan lakeside bench; bamboo, gentle water, stone edging and autumn branches. Focus on the act of slow reading without reproducing manuscript pages. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "35fbc1a3a04b0af6f343f1ed20e4ddcc56411310d208bcfbb951c1d6a6d00478",
+      "bounds_wgs84": [
+        116.30674566785767,
+        39.93489441480685,
+        116.32345433214233,
+        39.947704990850504
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "国家典籍博物馆",
+          "lon": 116.3182,
+          "lat": 39.9419,
+          "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "紫竹院公园",
+          "lon": 116.312,
+          "lat": 39.9407,
+          "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:54.344272+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "国家典籍博物馆",
+          "source_url": "https://www.openstreetmap.org/way/973220920",
+          "status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "紫竹院公园",
+          "source_url": "https://www.openstreetmap.org/way/30725406",
+          "status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "国家典籍博物馆 → 紫竹院公园",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "海淀·紫竹院片区",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "古籍与竹影之间",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "海淀读书的五种下午  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "从典籍展览到湖边阅读",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  国家典籍博物馆",
+        "box": [
+          53,
+          1117,
+          286,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看典籍主题展览",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  紫竹院公园",
+        "box": [
+          53,
+          1194,
+          232,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "自带一本书在允许休息处阅读",
+        "box": [
+          56,
+          1230,
+          316,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "以当期展览和开放通知为准；古籍展柜不使用闪光灯。",
+        "box": [
+          53,
+          1281,
+          485,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁4/9/16号线国家图书馆站",
+        "box": [
+          53,
+          1362,
+          317,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "03 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "012",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

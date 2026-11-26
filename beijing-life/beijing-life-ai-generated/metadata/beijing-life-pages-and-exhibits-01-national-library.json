@@ -1,0 +1,322 @@
+{
+  "output": "../beijing-life-pages-and-exhibits-01-national-library.png",
+  "refined_prompt": "../prompts/beijing-life-pages-and-exhibits-01-national-library.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:03:30.015092+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-pages-and-exhibits",
+  "group_number": 17,
+  "series_number": 1,
+  "anthology_index": 81,
+  "title": "国图的一页下午",
+  "sha256": "5f099b43ea4baca1a78817466b256516652e034b29c3b92890ba48437a9b7846",
+  "native_sha256": "f0e43f2302c05a7e1852f3c217759e8a5ae901589af61448a7c7555279d73191",
+  "prompt_sha256": "034e590bc2723458d0c70a4e478bdf912886a43568a21f4eee8a468f91b8c64a",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1870003,
+  "art_direction": {
+    "style_name": "折页立体书",
+    "style_prompt_english": "Photographed physical pop-up artist book with elaborate folded pages transforming into miniature real Beijing architecture and reading interiors; sculptural paper engineering, visible paper folds, warm directional light, restrained color on layered cream paper. View close enough that paper architecture fills the entire frame, no blank page border, no letters or printed text. Architecture comes out of an open book but remains recognizable.",
+    "palette": [
+      "#273E57",
+      "#D78247",
+      "#E6C979",
+      "#F1E5CA"
+    ],
+    "layout_variant": 1,
+    "activity": "看书／读展／安静散步",
+    "area": "二环外公共阅读空间"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "national-library",
+    "title": "国图的一页下午",
+    "subtitle": "先读书，再到竹影里走走",
+    "area_label": "二环外·海淀白石桥",
+    "duration": "约4小时",
+    "transport": "地铁国家图书馆站；馆园之间步行",
+    "stops": [
+      {
+        "name": "国家图书馆总馆",
+        "detail": "阅读空间与典籍展陈",
+        "lat": 39.9427373,
+        "lon": 116.3171644,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101344",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/625701993"
+      },
+      {
+        "name": "紫竹院公园东门",
+        "detail": "竹林与水边步道",
+        "lat": 39.9393,
+        "lon": 116.3169,
+        "coordinate_status": "Approximate eastern park approach within named OSM park area; WGS84; entrance not surveyed",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101455",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30725406"
+      }
+    ],
+    "practical_note": "阅览证件、年龄限制与具体阅览室规则提前查；不保证座位。",
+    "copy_title": "国图的一页下午｜北京周末灵感",
+    "copy_body": "先读书，再到竹影里走走。国家图书馆总馆 → 紫竹院公园东门，安排约4小时。从阅读空间与典籍展陈到竹林与水边步道，留点时间给自己。阅览证件、年龄限制与具体阅览室规则提前查；不保证座位。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环外"
+    ],
+    "hero_prompt_english": "National Library of China north building reading hall as sculptural folded paper: a vast square terraced central reading atrium, concentric book-lined tiers, daylight roof, an adult quietly reading at a desk; a subtle fold leads into bamboo and a calm park canal. Preserve the rectangular grand library geometry, no imaginary spiral library. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "3057b481a2975e8165f8ccd9b231552d8c16b22f4751fed7ac1464b40f601792",
+      "bounds_wgs84": [
+        116.30867786785767,
+        39.934613057425,
+        116.32538653214233,
+        39.947423686139736
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "国家图书馆总馆",
+          "lon": 116.3171644,
+          "lat": 39.9427373,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "紫竹院公园东门",
+          "lon": 116.3169,
+          "lat": 39.9393,
+          "coordinate_status": "Approximate eastern park approach within named OSM park area; WGS84; entrance not surveyed"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:25.636174+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "国家图书馆总馆",
+          "source_url": "https://www.openstreetmap.org/way/625701993",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "紫竹院公园东门",
+          "source_url": "https://www.openstreetmap.org/way/30725406",
+          "status": "Approximate eastern park approach within named OSM park area; WGS84; entrance not surveyed"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "国家图书馆总馆 → 紫竹院公园东门",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环外·海淀白石桥",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "国图的一页下午",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环外·书页与展柜  ·  约4小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "先读书，再到竹影里走走",
+        "box": [
+          55,
+          1013,
+          297,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  国家图书馆总馆",
+        "box": [
+          413,
+          1117,
+          646,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "阅读空间与典籍展陈",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  紫竹院公园东门",
+        "box": [
+          413,
+          1194,
+          646,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "竹林与水边步道",
+        "box": [
+          416,
+          1230,
+          556,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "阅览证件、年龄限制与具体阅览室规则提前查；不保证座位。",
+        "box": [
+          413,
+          1281,
+          899,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁国家图书馆站；馆园之间步行",
+        "box": [
+          413,
+          1362,
+          713,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "17 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "081",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

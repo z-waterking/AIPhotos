@@ -1,0 +1,322 @@
+{
+  "output": "../beijing-life-yanqing-postcards-02-guishui-gardens.png",
+  "refined_prompt": "../prompts/beijing-life-yanqing-postcards-02-guishui-gardens.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:58:25.281598+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-yanqing-postcards",
+  "group_number": 15,
+  "series_number": 2,
+  "anthology_index": 72,
+  "title": "妫水的慢镜头",
+  "sha256": "7b1ec2d3c562e34fed0fe5c6d1f93cb3f7fbf19491bf0f2e7e2de947c7170d21",
+  "native_sha256": "c57a597c4d62f3018492c4e6655e2e8a9adc5bb78045e462089982f5a4411353",
+  "prompt_sha256": "f9867f40fbbf716fea618b4b331058423f1ce0824776db6e9c36555ba5b5d71c",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2495868,
+  "art_direction": {
+    "style_name": "复古旅行邮票",
+    "style_prompt_english": "Original vintage engraved travel-postage illustration, intricate cross-hatching, saturated spot inks, large monumental framing, tiny scenic vignettes, fine perforation-inspired edge rhythm integrated into a full-bleed design, no lettering or numerals. Architectural features remain realistic. Not a recreation of any actual stamp.",
+    "palette": [
+      "#173B50",
+      "#E46338",
+      "#E9B951",
+      "#C9DDD2"
+    ],
+    "layout_variant": 4,
+    "activity": "湖岸散步／古城／园艺",
+    "area": "延庆区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "guishui-gardens",
+    "title": "妫水的慢镜头",
+    "subtitle": "从木桥到林下曲径",
+    "area_label": "延庆·妫水河",
+    "duration": "约2–3小时",
+    "transport": "延庆城区公交或出租车接驳",
+    "stops": [
+      {
+        "name": "妫水公园",
+        "detail": "水岸园林与木桥",
+        "lat": 40.454546,
+        "lon": 115.958006,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118205",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/11152297335"
+      },
+      {
+        "name": "妫水河沿岸",
+        "detail": "开放岸线与林下步道",
+        "lat": 40.4518,
+        "lon": 115.9486,
+        "coordinate_status": "Approximate accessible riverside representative within Guishui Park; river source confirms feature only; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118205",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/226254733"
+      }
+    ],
+    "practical_note": "位置为公园与河岸代表点；按现场开放园路自选短环线，不含游船。",
+    "copy_title": "妫水的慢镜头｜北京周末灵感",
+    "copy_body": "从木桥到林下曲径。妫水公园 → 妫水河沿岸，安排约2–3小时。从水岸园林与木桥到开放岸线与林下步道，留点时间给自己。位置为公园与河岸代表点；按现场开放园路自选短环线，不含游船。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "延庆"
+    ],
+    "hero_prompt_english": "A curved timber footbridge over still water in Guishui Park, Yanqing, layered willow and autumn acacia groves, a modest waterside wooden viewing deck, reeds, brilliant clear northern sky. An adult pauses on the bridge holding a compact camera. No invented monument. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "ad3a63ce6c8534f65e388134e29155be4a9c276bd1c8b84dc599a8de34a9d249",
+      "bounds_wgs84": [
+        115.94494866785766,
+        40.446815597095764,
+        115.96165733214232,
+        40.45952982953863
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "妫水公园",
+          "lon": 115.958006,
+          "lat": 40.454546,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "妫水河沿岸",
+          "lon": 115.9486,
+          "lat": 40.4518,
+          "coordinate_status": "Approximate accessible riverside representative within Guishui Park; river source confirms feature only; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:02.422911+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "妫水公园",
+          "source_url": "https://www.openstreetmap.org/node/11152297335",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "妫水河沿岸",
+          "source_url": "https://www.openstreetmap.org/way/226254733",
+          "status": "Approximate accessible riverside representative within Guishui Park; river source confirms feature only; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "妫水公园 → 妫水河沿岸",
+        "box": [
+          52,
+          43,
+          324,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "延庆·妫水河",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "妫水的慢镜头",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "延庆·山水慢假日  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "从木桥到林下曲径",
+        "box": [
+          55,
+          1013,
+          231,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  妫水公园",
+        "box": [
+          53,
+          1117,
+          205,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "水岸园林与木桥",
+        "box": [
+          56,
+          1153,
+          197,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  妫水河沿岸",
+        "box": [
+          53,
+          1194,
+          232,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "开放岸线与林下步道",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "位置为公园与河岸代表点；按现场开放园路自选短环线，不含游船。",
+        "box": [
+          53,
+          1281,
+          593,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "延庆城区公交或出租车接驳",
+        "box": [
+          53,
+          1362,
+          293,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "15 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "072",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

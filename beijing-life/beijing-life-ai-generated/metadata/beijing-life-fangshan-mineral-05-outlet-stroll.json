@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-fangshan-mineral-05-outlet-stroll.png",
+  "refined_prompt": "../prompts/beijing-life-fangshan-mineral-05-outlet-stroll.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:47.577218+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fangshan-mineral",
+  "group_number": 12,
+  "series_number": 5,
+  "anthology_index": 60,
+  "title": "逛一条轻松的街",
+  "sha256": "4cb9e3a53a13464693681181ae905505ea05988cd8bed3afeb47a0deba5bfef6",
+  "native_sha256": "5587b53bea6d0d1135f3b2897a73808ffabead4c8cbde5f7fca90919a0c88336",
+  "prompt_sha256": "a93f1fec72f27bf45f375f5d9bc1691a91e6d2dabe3257733ccfae7475571cec",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1952041,
+  "art_direction": {
+    "style_name": "矿物色壁画",
+    "style_prompt_english": "Original mineral-pigment architectural mural illustration on finely textured plaster, flat lapis blue and malachite green planes, warm ochre stone, elegant crisp fine contours and decorative layered hills. Make recognizable modern and historic places, no copying religious murals or named artists.",
+    "palette": [
+      "#275CA1",
+      "#379078",
+      "#C98B42",
+      "#F0D9B1"
+    ],
+    "layout_variant": 1,
+    "activity": "园林与文化",
+    "area": "房山区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "outlet-stroll",
+    "title": "逛一条轻松的街",
+    "subtitle": "买不买东西，都留点休息时间",
+    "area_label": "北京·房山区",
+    "duration": "约3–4小时",
+    "transport": "地铁房山线篱笆房站后步行",
+    "stops": [
+      {
+        "name": "北京首创奥特莱斯",
+        "detail": "户外商业街按兴趣逛店",
+        "lat": 39.7624498,
+        "lon": 116.1808701,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120564",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/655131696"
+      },
+      {
+        "name": "首创奥莱休闲走廊",
+        "detail": "找座位吃饭、聊天和休息",
+        "lat": 39.7624498,
+        "lon": 116.1808701,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120564",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/655131696"
+      }
+    ],
+    "practical_note": "购物与餐饮按需消费；店铺、装置与活动以现场为准。",
+    "copy_title": "房山区｜逛一条轻松的街",
+    "copy_body": "买不买东西，都留点休息时间。这次只安排一个片区：北京首创奥特莱斯 → 首创奥莱休闲走廊。建议留约3–4小时，把拍照、休息和短时参观一起算进去。购物与餐饮按需消费；店铺、装置与活动以现场为准。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "房山区",
+      "北京小众玩法",
+      "园林与文化"
+    ],
+    "hero_prompt_english": "Beijing Capital Outlets in Changyang Fangshan: an open-air pedestrian retail village with cream and ochre facades, arched colonnades and planted public walkways. Adult friends eat a casual snack on a bench, plain shopping bags by their feet. Give it a warm urban afternoon rhythm, no store logos and no copied commercial statues. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "c36af0b3998a077f97d7868693381569554f1fab0d868c2acadb8d1ada4d9a8c",
+      "bounds_wgs84": [
+        116.17251576785767,
+        39.756027501445395,
+        116.18922443214234,
+        39.768871499630315
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京首创奥特莱斯",
+          "lon": 116.1808701,
+          "lat": 39.7624498,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "首创奥莱休闲走廊",
+          "lon": 116.1808701,
+          "lat": 39.7624498,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:19:52.756075+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京首创奥特莱斯",
+          "source_url": "https://www.openstreetmap.org/way/655131696",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "首创奥莱休闲走廊",
+          "source_url": "https://www.openstreetmap.org/way/655131696",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京首创奥特莱斯 → 首创奥莱休闲走廊",
+        "box": [
+          52,
+          43,
+          506,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·房山区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "逛一条轻松的街",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "房山｜石色与水光  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "买不买东西，都留点休息时间",
+        "box": [
+          55,
+          1013,
+          341,
+          1037
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京首创奥特莱斯",
+        "box": [
+          413,
+          1117,
+          673,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "户外商业街按兴趣逛店",
+        "box": [
+          416,
+          1153,
+          616,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  首创奥莱休闲走廊",
+        "box": [
+          413,
+          1194,
+          673,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "找座位吃饭、聊天和休息",
+        "box": [
+          416,
+          1230,
+          636,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "购物与餐饮按需消费；店铺、装置与活动以现场为准。",
+        "box": [
+          413,
+          1281,
+          845,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁房山线篱笆房站后步行",
+        "box": [
+          413,
+          1362,
+          653,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "12 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "060",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

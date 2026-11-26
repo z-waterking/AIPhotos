@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-mentougou-woodcut-02-sanjia-reeds.png",
+  "refined_prompt": "../prompts/beijing-life-mentougou-woodcut-02-sanjia-reeds.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:55:39.970284+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-mentougou-woodcut",
+  "group_number": 11,
+  "series_number": 2,
+  "anthology_index": 52,
+  "title": "三家店的水与芦苇",
+  "sha256": "142a08631a27cffd0acb71771837a04aa34c6df8e535612c2891d475621a25d4",
+  "native_sha256": "3ef69a4614876fd6efd0213cd19cd11988ae096bf0ed4d29dd40b1da8814d536",
+  "prompt_sha256": "e210c0a75cf10ac1ae2dd21ba5f0a291a6d9aa777755fe8063eb6298fc6ecd83",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2349795,
+  "art_direction": {
+    "style_name": "套色木刻版画",
+    "style_prompt_english": "Original multicolor woodcut print: broad hand-carved contour marks, irregular carved grain, rich dark indigo key blocks, ochre and jade spot colors, strong architectural silhouette with warm positive-negative shapes. Fill the scene with meaningful terrain and building detail, no artist imitation.",
+    "palette": [
+      "#213955",
+      "#E8B044",
+      "#D86643",
+      "#85A48B"
+    ],
+    "layout_variant": 0,
+    "activity": "古建与山城",
+    "area": "门头沟区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "sanjia-reeds",
+    "title": "三家店的水与芦苇",
+    "subtitle": "把风景留在开放岸线",
+    "area_label": "北京·门头沟区",
+    "duration": "约2–3小时",
+    "transport": "地铁6号线后公交或出租车；两园间用开放道路连接",
+    "stops": [
+      {
+        "name": "三家店蒲草湿地公园",
+        "detail": "看芦苇与湿地开阔水面",
+        "lat": 39.9696871,
+        "lon": 116.0895116,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119726",
+        "coordinate_source_url": "https://www.openstreetmap.org/relation/9348599"
+      },
+      {
+        "name": "京浪岛公园",
+        "detail": "沿开放园路短走、休息",
+        "lat": 39.9702587,
+        "lon": 116.0886639,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119726",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1195991951"
+      }
+    ],
+    "practical_note": "水边只走正式园路；如两园连接段封闭，选一园游览，不涉水。",
+    "copy_title": "门头沟区｜三家店的水与芦苇",
+    "copy_body": "把风景留在开放岸线。这次只安排一个片区：三家店蒲草湿地公园 → 京浪岛公园。建议留约2–3小时，把拍照、休息和短时参观一起算进去。水边只走正式园路；如两园连接段封闭，选一园游览，不涉水。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "门头沟区",
+      "北京小众玩法",
+      "古建与山城"
+    ],
+    "hero_prompt_english": "Sanjia Dian riverside wetlands in Mentougou: ochre reedbeds, calm broad water and low green western hills; formal public park paths and autumn poplars define the safe bank. An adult with a small backpack pauses behind a railing at the reed edge. Ground-level quiet scenery, no riverside camping, rocks crossing or invented tall pagodas. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "23e5e4fa1a8866555fb9bb2e2eb1cd77b154baadb9bbba0afdf60ae04aca39eb",
+      "bounds_wgs84": [
+        116.08073341785766,
+        39.96356999761413,
+        116.09744208214232,
+        39.97637520387014
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "三家店蒲草湿地公园",
+          "lon": 116.0895116,
+          "lat": 39.9696871,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "京浪岛公园",
+          "lon": 116.0886639,
+          "lat": 39.9702587,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:18.994595+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "三家店蒲草湿地公园",
+          "source_url": "https://www.openstreetmap.org/relation/9348599",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "京浪岛公园",
+          "source_url": "https://www.openstreetmap.org/way/1195991951",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "三家店蒲草湿地公园 → 京浪岛公园",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·门头沟区",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "三家店的水与芦苇",
+        "box": [
+          49,
+          188,
+          601,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "门头沟｜京西不赶路  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "把风景留在开放岸线",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  三家店蒲草湿地公园",
+        "box": [
+          53,
+          1117,
+          340,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看芦苇与湿地开阔水面",
+        "box": [
+          56,
+          1153,
+          256,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  京浪岛公园",
+        "box": [
+          53,
+          1194,
+          232,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿开放园路短走、休息",
+        "box": [
+          56,
+          1230,
+          256,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "水边只走正式园路；如两园连接段封闭，选一园游览，不涉水。",
+        "box": [
+          53,
+          1281,
+          557,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁6号线后公交或出租车；两园间用开放道路连接",
+        "box": [
+          53,
+          1362,
+          505,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "11 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "052",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-wonder-05-shadow-flower-visit.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-05-shadow-flower-visit.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-05-shadow-flower-visit-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 5,
+  "anthology_index": 95,
+  "panel_count": 6,
+  "display_title": "影子想看花",
+  "visible_description": "她的影子晚了半步，原来是在看墙角刚开的花。",
+  "synopsis": "在这个原创童话里，阿晴准备离开院子，却发现自己的影子还留在墙边。她走回去看，影子正把脑袋探向一盆新开的花，可花盆的位置太高，总差一点。阿晴便把花盆搬到低矮的石凳上，让花影与人影轻轻相遇。过了一会儿，影子终于跟上她，两人一起把头微微偏向花开的方向。",
+  "story_text": "阿晴准备离开院子，走到门口却觉得少了什么。回头一看，自己的影子还留在墙边，蓝灰色的脑袋歪着，并没有跟来。\n\n她走回去，影子也不动，只把身子往上伸。高处的花盆刚开了一簇珊瑚色小花，花影落得很远，它踮着脚，还是凑不到花旁边。\n\n阿晴把花盆端下来，放到矮石凳上。日光一照，花的影子也降下来，恰好停在那颗蓝灰脑袋前。\n\n她站在旁边等，让自己的影子慢慢看个够。\n\n过了一会儿，影子重新贴回她脚边。阿晴再往门口走，两颗脑袋却一起向后偏了偏。\n\n她笑了一下，决定以后让这盆花留在矮凳上，那里看花，谁都不用踮脚。",
+  "art_direction": "Sunlit gouache silhouettes with tender colored pencil petal accents",
+  "character_design": "Aqing is an original adult woman with a dark bob, a cream blouse, moss green trousers, and tan sandals. Her magical shadow is a soft muted blue silhouette with the exact same hair and clothing outline, able to pause independently without becoming frightening. A terracotta pot of coral blossoms stands beside a low square stone stool. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "她已经走了，影子还停在墙边。",
+      "scene": "Aqing steps toward the courtyard doorway while her soft blue shadow remains visibly paused on the sunlit wall behind her, gently turning its head away from her direction. She glances back in puzzled surprise. A terracotta flowerpot sits on a high wall shelf nearby. The magical separation feels playful and clear in the bright afternoon. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "它踮着脚，想看看刚开的花。",
+      "scene": "Aqing stands beside the wall and watches her shadow stretch its head toward the coral blossoms on the high shelf. The shadow’s feet appear to rise onto tiptoe, but its outline remains rounded and friendly. Aqing’s own posture stays relaxed. A low square stone stool waits beneath the shelf, suggesting an easy practical solution. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "阿晴也抬头，发现花真的开了。",
+      "scene": "Aqing stands still beside the wall and looks up at the high terracotta pot, noticing several newly opened coral blossoms among green leaves. Her independent blue shadow keeps its head tilted toward the same flowers. The low stone stool beneath the shelf is fully visible, suggesting that moving the pot could bring both viewers closer together. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "她把花盆，搬到低一点的地方。",
+      "scene": "Aqing sets the terracotta pot securely on the low stone stool in direct sunlight. The flowers now cast a distinct small shadow onto the wall at the height of her independent shadow’s face. Her hands still support the pot’s sides. The blue silhouette leans close with an unmistakable gesture of delighted attention. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "她站着等，让影子慢慢看个够。",
+      "scene": "Aqing stands quietly beside the low stone stool with hands resting loosely at her sides. Her friendly blue shadow leans its head toward the small flower shadow now cast at a comfortable height on the wall. The terracotta pot is stable in sunlight, and the woman’s patient smile makes this shared pause feel ordinary and affectionate. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "走的时候，两个脑袋一起回望。",
+      "scene": "Aqing walks slowly toward the courtyard doorway with her shadow once again aligned beside her on the wall and ground. Both heads tilt gently back toward the flowers on the low stool. The flower shadow remains visible behind them. The bright, ordinary courtyard feels newly shared, with the small magical pause peacefully resolved. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E4D8BD",
+    "#8E9991",
+    "#B97E70",
+    "#7E94A1",
+    "#C7AA70"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        9,
+        9,
+        507,
+        537
+      ],
+      [
+        518,
+        9,
+        1015,
+        537
+      ],
+      [
+        9,
+        550,
+        507,
+        1025
+      ],
+      [
+        518,
+        550,
+        1015,
+        1025
+      ],
+      [
+        9,
+        1037,
+        507,
+        1527
+      ],
+      [
+        518,
+        1037,
+        1015,
+        1527
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        47,
+        200,
+        488,
+        668
+      ],
+      [
+        535,
+        200,
+        976,
+        668
+      ],
+      [
+        34,
+        821,
+        502,
+        1267
+      ],
+      [
+        522,
+        820,
+        990,
+        1267
+      ],
+      [
+        34,
+        1424,
+        502,
+        1884
+      ],
+      [
+        522,
+        1423,
+        990,
+        1884
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "她已经走了，影子还停在墙边。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "它踮着脚，想看看刚开的花。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "阿晴也抬头，发现花真的开了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "她把花盆，搬到低一点的地方。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "她站着等，让影子慢慢看个够。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "走的时候，两个脑袋一起回望。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Visual QA confirmed a taller first native row. The clear horizontal gutter cores are y=538-546 and y=1026-1033, with transition edges extending slightly beyond them. Exact inner-panel crops exclude neighboring scene strips and are proportionally contained in the original fixed slots, without enlargement. Caption positions stay fixed and final composition requires visual QA.",
+      "native_sha256": "5d4bd3e3f55893f5b0d5458c7a2b91dbb01d3f5859ca640ed4f111e65f72b6b4",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          13,
+          0,
+          14,
+          0
+        ],
+        [
+          13,
+          0,
+          14,
+          0
+        ],
+        [
+          0,
+          11,
+          0,
+          11
+        ],
+        [
+          0,
+          10,
+          0,
+          11
+        ],
+        [
+          0,
+          4,
+          0,
+          4
+        ],
+        [
+          0,
+          3,
+          0,
+          4
+        ]
+      ]
+    }
+  },
+  "native_sha256": "5d4bd3e3f55893f5b0d5458c7a2b91dbb01d3f5859ca640ed4f111e65f72b6b4",
+  "sha256": "6b110c2cc91c4a54fea9ca3f418979564480c6a9e51f7333a059cdf4c41d1066",
+  "prompt_sha256": "df59a84ca8774189546df05d20f511d5b9a031ddd434cf4f9d9575331d97c00e",
+  "story_sha256": "8b0533f06bcacd6f64f2e29bfa16f09c2e68fd08b99cebfd6c5818d547e34c7f",
+  "created_at": "2026-10-26T10:48:37.973892+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

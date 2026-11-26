@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-wonder-01-rain-boot-cloud-garden.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-01-rain-boot-cloud-garden.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-01-rain-boot-cloud-garden-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 1,
+  "anthology_index": 91,
+  "panel_count": 6,
+  "display_title": "雨靴种云",
+  "visible_description": "一双会打瞌睡的雨靴，在晴天里种出了一朵只给花浇水的小云。",
+  "synopsis": "在这个原创童话里，一双红雨靴连着许多晴天都没出门。左靴在鞋底发现一颗软软的云籽，便请右靴帮忙把它放进空花盆。它们每天用一滴水照顾云籽，终于等到一朵小云冒出来。云把雨点落进旁边的花盆，雨靴站在干燥的地板上，反倒觉得这样的晴天也很忙。",
+  "story_text": "红雨靴已经在长凳下住了许多晴天。左靴打一个哈欠，右靴也跟着打一个，直到左靴歪过身，发现鞋底粘着一颗软软的白籽。\n\n白籽离开鞋底便轻轻飘起来。两只靴子把它请进空花盆，一天只浇一滴水，浇完就并排站着看。\n\n起初什么也没发生，后来白籽慢慢鼓成一团小云。\n\n那朵云飘到旁边的黄花上方，落下几滴细细的雨。花叶抬起来，土壤变成深色，花盆外的地板却仍然干干爽爽。两只靴子瞪圆了眼睛。\n\n又是晴天。它们忙着把空盆摆正，再看看黄花有没有喝够水，忙完才到凳子底下休息。\n\n原来不出门的日子也可以有雨，而且这回，雨靴连鞋底都不用弄湿。",
+  "art_direction": "Dreamy gouache cloud blooms with colored pencil rubber textures",
+  "character_design": "Two original living red rain boots have tiny friendly dot eyes near their cuffs and flexible rounded rubber bodies, with no arms or human faces. The left boot has one ochre sole patch; the right boot has a cream pull loop. They tend a small clay pot, a pearl sized cloud seed, and a neighboring yellow flower. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "晴天太多，雨靴开始打瞌睡。",
+      "scene": "Two small red rain boots rest beneath a low bench in a cozy sunlit entryway, their tiny eyes half closed. The left boot has tipped gently sideways, revealing a pearl colored cloud seed stuck near its ochre sole patch. A small empty clay pot and a neighboring yellow flower sit on the windowsill above them. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "鞋底那颗软籽，好像会飘。",
+      "scene": "The left boot bends its flexible cuff toward the pearl cloud seed, which now hovers just above the floor like a tuft of wool. The right boot leans close with curious eyes. Both stand beside the empty clay pot on a low floor shelf, while the yellow flower’s leaves tilt toward the bright window. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "空花盆里，先安放一颗小小的白。",
+      "scene": "The two red rain boots gently nudge the floating pearl cloud seed over the center of the clay pot. The left boot balances its patched sole on the pot’s outer rim while the right boot curls its flexible cuff into a guiding shape. The seed rests above the dark soil, soft and luminous like a tiny cotton tuft. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "它们把云籽，种进了空花盆。",
+      "scene": "The red boots stand on either side of the clay pot, gently tipping a tiny plain watering cup so a single clear drop falls onto the hovering cloud seed above the soil. The left boot’s patched sole braces the cup, while the right boot steadies it with its flexible cuff. The seed has begun to puff outward. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "白籽鼓起来，长成一小团云。",
+      "scene": "A fluffy miniature cloud has risen a few inches above the clay pot, much larger than the original seed but still comfortably small. The two red boots stand side by side, wide eyed with delight. The yellow flower in the neighboring pot leans toward it, and a tiny watering cup rests empty on the dry floor. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "今天不用出门，也有雨可以忙。",
+      "scene": "A small fluffy cloud floats directly above the neighboring yellow flower, releasing a few gentle drops into its pot. The two red boots stand proudly on the dry floor beside their cloud nursery pot, watching the leaves brighten. Sunlight still fills the room, and the miniature rain stays neatly contained above the flower’s soil. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DFD9C3",
+    "#B96858",
+    "#9BBAC0",
+    "#8D9C73",
+    "#C8A66F"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        9,
+        12,
+        507,
+        515
+      ],
+      [
+        517,
+        12,
+        1015,
+        515
+      ],
+      [
+        9,
+        526,
+        507,
+        994
+      ],
+      [
+        517,
+        526,
+        1015,
+        994
+      ],
+      [
+        9,
+        1005,
+        507,
+        1524
+      ],
+      [
+        517,
+        1005,
+        1015,
+        1524
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        36,
+        200,
+        499,
+        668
+      ],
+      [
+        524,
+        200,
+        987,
+        668
+      ],
+      [
+        34,
+        824,
+        502,
+        1264
+      ],
+      [
+        522,
+        824,
+        990,
+        1264
+      ],
+      [
+        43,
+        1420,
+        492,
+        1888
+      ],
+      [
+        531,
+        1420,
+        980,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "晴天太多，雨靴开始打瞌睡。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "鞋底那颗软籽，好像会飘。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "空花盆里，先安放一颗小小的白。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "它们把云籽，种进了空花盆。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "白籽鼓起来，长成一小团云。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "今天不用出门，也有雨可以忙。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Visual QA confirmed unequal native rows. Measured horizontal gutters are y=516-524 and y=995-1003; fixed middle-row extraction extends into the next scene. Confirmed native interiors are proportionally contained in fixed slots with centered ivory padding and unchanged caption positions. Final composition requires visual QA.",
+      "native_sha256": "92ec2a398f3ba258434433084c7a1dd766523ad5c5d44299390f96156f7700be",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          2,
+          0,
+          3,
+          0
+        ],
+        [
+          2,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          14,
+          0,
+          14
+        ],
+        [
+          0,
+          14,
+          0,
+          14
+        ],
+        [
+          9,
+          0,
+          10,
+          0
+        ],
+        [
+          9,
+          0,
+          10,
+          0
+        ]
+      ]
+    }
+  },
+  "native_sha256": "92ec2a398f3ba258434433084c7a1dd766523ad5c5d44299390f96156f7700be",
+  "sha256": "3d63c8478a18412a0a615d2e4d1b4eaf6dcde833f0e16393ddc7779ad40d90eb",
+  "prompt_sha256": "a5f023097eb3c557a4e15a206d1408749b148aded6562be704380a28c5357df7",
+  "story_sha256": "7f1ab0c579d2f08446a56c830baf98a703f263278c0e91f3dbc9a87e69d5f079",
+  "created_at": "2026-10-26T10:45:28.063190+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

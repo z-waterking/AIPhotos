@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-xicheng-architecture-03-luxun-courtyard.png",
+  "refined_prompt": "../prompts/beijing-life-xicheng-architecture-03-luxun-courtyard.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:49.211551+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-xicheng-architecture",
+  "group_number": 2,
+  "series_number": 3,
+  "anthology_index": 8,
+  "title": "在小院读一页",
+  "sha256": "cf9800851e4b8cdd7ccb8d1d1ac493988b879298349b9f4db463dc6da96ccd35",
+  "native_sha256": "97deee742efa9cf0e56cea3d4fa84f6d7f8bf73d86887878f3f93ee601a24566",
+  "prompt_sha256": "0c41af3aff67c9f4403ae8e1c8eabc1907e26d9cc45c9c60e6051895367be9d6",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2451333,
+  "art_direction": {
+    "style_name": "铜版蚀刻建筑图",
+    "style_prompt_english": "Original copperplate-etching architectural illustration: fine incised crosshatching, dense tactile line fields, confident perspective and dramatic large architectural silhouettes. Copper orange and deep indigo ink on warm ivory; small solid colored accents, no copied historical print, no lettering. A full-bleed architectural scene with inset-feeling foreground details integrated into the setting.",
+    "palette": [
+      "#B85728",
+      "#152E50",
+      "#E7D8BA",
+      "#81A9A8"
+    ],
+    "layout_variant": 1,
+    "activity": "建筑观察与老城散步",
+    "area": "西城区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "luxun-courtyard",
+    "title": "在小院读一页",
+    "subtitle": "故居尺度与阜内街景",
+    "area_label": "西城·阜成门内",
+    "duration": "约2小时",
+    "transport": "地铁2号线阜成门站；步行接驳",
+    "stops": [
+      {
+        "name": "北京鲁迅博物馆",
+        "detail": "故居庭院与文学展览",
+        "lat": 39.924314333333335,
+        "lon": 116.35237372222224,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120369",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/447939893"
+      },
+      {
+        "name": "宫门口二条",
+        "detail": "低矮院墙与胡同散步",
+        "lat": 39.92390228888889,
+        "lon": 116.35320501111111,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120369",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30838800"
+      }
+    ],
+    "practical_note": "查博物馆预约和闭馆日；不承诺故居室内随时可进入。",
+    "copy_title": "西城·阜成门内｜在小院读一页",
+    "copy_body": "看展后留一点时间给小院。坐下来读自己带的一页书，再去胡同里看房屋和街道的距离。 路线：北京鲁迅博物馆 → 宫门口二条。约2小时，到首站和返程另计。查博物馆预约和闭馆日；不承诺故居室内随时可进入。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "西城",
+      "在小院读一页"
+    ],
+    "hero_prompt_english": "Intimate Lu Xun former-residence courtyard setting in Beijing, single-storey gray tiled rooms, simple dark timber frames, sparse old trees and stone paving. An adult sits with an open unlettered book, while copperplate linework emphasizes humble domestic scale and textured masonry, no depicted archival manuscripts. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "4dd94d7a8f16ebf53f4ba974407fcb90c04994c774f3dda818b5a354bb988cb4",
+      "bounds_wgs84": [
+        116.34443503452434,
+        39.91770111459048,
+        116.361143698809,
+        39.93051490871211
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京鲁迅博物馆",
+          "lon": 116.35237372222224,
+          "lat": 39.924314333333335,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "宫门口二条",
+          "lon": 116.35320501111111,
+          "lat": 39.92390228888889,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:44.995328+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京鲁迅博物馆",
+          "source_url": "https://www.openstreetmap.org/way/447939893",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "宫门口二条",
+          "source_url": "https://www.openstreetmap.org/way/30838800",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京鲁迅博物馆 → 宫门口二条",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "西城·阜成门内",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "在小院读一页",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "西城建筑放大镜  ·  约2小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "故居尺度与阜内街景",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京鲁迅博物馆",
+        "box": [
+          413,
+          1117,
+          646,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "故居庭院与文学展览",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  宫门口二条",
+        "box": [
+          413,
+          1194,
+          592,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "低矮院墙与胡同散步",
+        "box": [
+          416,
+          1230,
+          596,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "查博物馆预约和闭馆日；不承诺故居室内随时可进入。",
+        "box": [
+          413,
+          1281,
+          845,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁2号线阜成门站；步行接驳",
+        "box": [
+          413,
+          1362,
+          685,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "02 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "008",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

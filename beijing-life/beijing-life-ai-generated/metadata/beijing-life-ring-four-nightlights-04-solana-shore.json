@@ -1,0 +1,322 @@
+{
+  "output": "../beijing-life-ring-four-nightlights-04-solana-shore.png",
+  "refined_prompt": "../prompts/beijing-life-ring-four-nightlights-04-solana-shore.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:08.135595+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-ring-four-nightlights",
+  "group_number": 19,
+  "series_number": 4,
+  "anthology_index": 94,
+  "title": "蓝色港湾暮色散步",
+  "sha256": "373d729bf3fe67ce2ebd796572be350802566400338a76db21ae9284bfd30bf4",
+  "native_sha256": "5ec33d2cb19ffdfb73a0b492ea01bc88b739f867d2d924aa807feb1c63a3843c",
+  "prompt_sha256": "195a41e67d7a7ca5ba18c04a2c1d85d22601488fd804e6d80c599e1e87fd998f",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1656739,
+  "art_direction": {
+    "style_name": "电影长曝光夜景",
+    "style_prompt_english": "Original cinematic travel photograph aesthetic at blue hour, realistic recognizable contemporary Beijing architecture, luminous warm windows, tasteful saturated cyan-magenta reflections, subtle long-exposure light trails only on roads, sharply detailed buildings and peaceful adults, rich deep navy shadows, sophisticated optical lens depth. No CGI neon lettering or advertisements.",
+    "palette": [
+      "#102239",
+      "#25BDCD",
+      "#EC669B",
+      "#FFBC54"
+    ],
+    "layout_variant": 3,
+    "activity": "夜景摄影／街区晚饭",
+    "area": "北京四环周边，非严格环间"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "solana-shore",
+    "title": "蓝色港湾暮色散步",
+    "subtitle": "湖风配一顿不用赶的晚饭",
+    "area_label": "东四环内侧·朝阳公园西侧",
+    "duration": "约2–3小时",
+    "transport": "地铁枣营站后步行",
+    "stops": [
+      {
+        "name": "蓝色港湾",
+        "detail": "临水商业街",
+        "lat": 39.9479334,
+        "lon": 116.4697374,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117832",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/359741619"
+      },
+      {
+        "name": "亮马河蓝色港湾段",
+        "detail": "岸边灯影与步道",
+        "lat": 39.9497064,
+        "lon": 116.4706525,
+        "coordinate_status": "Actual OSM canal vertex by SOLANA; walk on adjacent public bank, not in water; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117832",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/197882346"
+      }
+    ],
+    "practical_note": "夜间灯光布置会调整；餐饮自选，不把季节灯光节当作全年活动。",
+    "copy_title": "蓝色港湾暮色散步｜北京周末灵感",
+    "copy_body": "湖风配一顿不用赶的晚饭。蓝色港湾 → 亮马河蓝色港湾段，安排约2–3小时。从临水商业街到岸边灯影与步道，留点时间给自己。夜间灯光布置会调整；餐饮自选，不把季节灯光节当作全年活动。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "东四环内侧"
+    ],
+    "hero_prompt_english": "SOLANA Beijing waterfront shopping street, human-scale pastel European-inspired facades around a lakefront promenade, warm arched windows and restrained decorative street lights, blue twilight water and dark tree silhouettes, adults sharing a simple evening coffee at an outdoor table. No invented festival installations or copied signs. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "4575223a86ecf22d17d8cceb276bcf438c5a706484e728b24ec38fb5cbeb3488",
+      "bounds_wgs84": [
+        116.46184061785766,
+        39.94241502190544,
+        116.47854928214232,
+        39.955224189951025
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "蓝色港湾",
+          "lon": 116.4697374,
+          "lat": 39.9479334,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "亮马河蓝色港湾段",
+          "lon": 116.4706525,
+          "lat": 39.9497064,
+          "coordinate_status": "Actual OSM canal vertex by SOLANA; walk on adjacent public bank, not in water; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:21:02.513617+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "蓝色港湾",
+          "source_url": "https://www.openstreetmap.org/way/359741619",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "亮马河蓝色港湾段",
+          "source_url": "https://www.openstreetmap.org/way/197882346",
+          "status": "Actual OSM canal vertex by SOLANA; walk on adjacent public bank, not in water; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "蓝色港湾 → 亮马河蓝色港湾段",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东四环内侧·朝阳公园西侧",
+        "box": [
+          52,
+          133,
+          436,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "蓝色港湾暮色散步",
+        "box": [
+          49,
+          188,
+          601,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "四环周边·夜色晚饭  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "湖风配一顿不用赶的晚饭",
+        "box": [
+          55,
+          1013,
+          297,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  蓝色港湾",
+        "box": [
+          413,
+          1117,
+          565,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "临水商业街",
+        "box": [
+          416,
+          1153,
+          516,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  亮马河蓝色港湾段",
+        "box": [
+          413,
+          1194,
+          673,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "岸边灯影与步道",
+        "box": [
+          416,
+          1230,
+          556,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "夜间灯光布置会调整；餐饮自选，不把季节灯光节当作全年活动。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁枣营站后步行",
+        "box": [
+          413,
+          1362,
+          573,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "19 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "094",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

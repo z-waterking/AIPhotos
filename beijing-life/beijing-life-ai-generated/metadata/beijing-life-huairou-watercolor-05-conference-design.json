@@ -1,0 +1,330 @@
+{
+  "output": "../beijing-life-huairou-watercolor-05-conference-design.png",
+  "refined_prompt": "../prompts/beijing-life-huairou-watercolor-05-conference-design.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:57:07.145289+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-huairou-watercolor",
+  "group_number": 13,
+  "series_number": 5,
+  "anthology_index": 65,
+  "title": "在湖区看当代建筑",
+  "sha256": "fbc9540cd314f80f58b9bae7a1c262c06403ae0a39a099930e0e9eebcf768c0c",
+  "native_sha256": "170b8f3ea44ff8deff45f06567bc6e9d53831f39c9b78c09609ddd366c3abe6b",
+  "prompt_sha256": "5aab96ee6f76febedac17d9ca042be2e61f4a3d06e39e5e88be8e1295aaf10ca",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2013740,
+  "art_direction": {
+    "style_name": "湿画水彩旅行册",
+    "style_prompt_english": "Luminous wet-on-wet watercolor landscape with granular washes, softly bleeding edges and selective precise pen-free architectural details. Large pools of lake color and atmospheric mountains, human-scale foreground activity, generous layered scene coverage rather than blank paper.",
+    "palette": [
+      "#437D96",
+      "#BFCF8C",
+      "#DE9B73",
+      "#EEE4CB"
+    ],
+    "layout_variant": 2,
+    "activity": "湖畔与阅读",
+    "area": "怀柔区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "conference-design",
+    "title": "在湖区看当代建筑",
+    "subtitle": "会展建筑外观与山水尺度",
+    "area_label": "北京·怀柔区",
+    "duration": "约2–3小时",
+    "transport": "怀柔城区公交或出租车；大型活动时交通可能调整",
+    "stops": [
+      {
+        "name": "雁栖湖国际会展中心外观",
+        "detail": "看覆瓦坡屋顶与现代柱廊",
+        "lat": 40.376864,
+        "lon": 116.6500927,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118633",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/378873805"
+      },
+      {
+        "name": "雁栖湖周边公共广场",
+        "detail": "仅在开放公共空间散步",
+        "lat": 40.376864,
+        "lon": 116.6500927,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118633",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/378873805"
+      }
+    ],
+    "practical_note": "不承诺进入会展馆或会议中心；如广场临时封闭，改去雁栖湖旅游区。",
+    "copy_title": "怀柔区｜在湖区看当代建筑",
+    "copy_body": "会展建筑外观与山水尺度。这次只安排一个片区：雁栖湖国际会展中心外观 → 雁栖湖周边公共广场。建议留约2–3小时，把拍照、休息和短时参观一起算进去。不承诺进入会展馆或会议中心；如广场临时封闭，改去雁栖湖旅游区。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "怀柔区",
+      "北京小众玩法",
+      "湖畔与阅读"
+    ],
+    "hero_prompt_english": "Beijing Yanqi Lake International Convention and Exhibition Center in Huairou: an expansive low modern building with broad layered Chinese-inspired dark sloping roofs and a long glazed facade, formal public forecourt, gentle mountain ridge behind. An adult architectural sketcher works from an open public area at a distance. No access inside secured conference facilities. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "d792121f4e3cd2f7d79541f5d405d51d64393c824cd4a6f89020dcbe1981d40a",
+      "bounds_wgs84": [
+        116.64173836785766,
+        40.37049936956577,
+        116.65844703214232,
+        40.383228029272935
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "雁栖湖国际会展中心外观",
+          "lon": 116.6500927,
+          "lat": 40.376864,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "雁栖湖周边公共广场",
+          "lon": 116.6500927,
+          "lat": 40.376864,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:47.564885+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "雁栖湖国际会展中心外观",
+          "source_url": "https://www.openstreetmap.org/way/378873805",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "雁栖湖周边公共广场",
+          "source_url": "https://www.openstreetmap.org/way/378873805",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "雁栖湖国际会展中心外观 → 雁栖湖周边公共广场",
+        "box": [
+          52,
+          43,
+          610,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·怀柔区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "在湖区看当代建筑",
+        "box": [
+          49,
+          188,
+          601,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "怀柔｜让山水慢一点  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "会展建筑外观与山水尺度",
+        "box": [
+          55,
+          1013,
+          297,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  雁栖湖国际会展中心外观",
+        "box": [
+          53,
+          1117,
+          394,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看覆瓦坡屋顶与现代柱廊",
+        "box": [
+          56,
+          1153,
+          276,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  雁栖湖周边公共广场",
+        "box": [
+          53,
+          1194,
+          340,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "仅在开放公共空间散步",
+        "box": [
+          56,
+          1230,
+          256,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "不承诺进入会展馆或会议中心；如广场临时封闭，改去雁栖湖旅游区。",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "怀柔城区公交或出租车；大型活动时交通可能调整",
+        "box": [
+          53,
+          1362,
+          493,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "13 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "065",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "The generated long rectangular hipped-roof lakeside hall corresponds to a generic conference hall or the core-island convention center, whereas the named International Convention and Exhibition Center is a huge round inverted-frustum structure with three widening red horizontal overhanging eave bands. Verified official imagery confirms this unmistakable principal silhouette.",
+    "superseded_native_sha256": "d56520b8299c32a4602e7ea88617ebfe4ae12018c97ff28685749305c22ec49e",
+    "repaired_at": "2026-10-29T04:56:29.464969+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

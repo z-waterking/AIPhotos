@@ -1,0 +1,339 @@
+{
+  "output": "../beijing-life-pages-and-exhibits-05-agriculture-reading.png",
+  "refined_prompt": "../prompts/beijing-life-pages-and-exhibits-05-agriculture-reading.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:03:31.217068+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-pages-and-exhibits",
+  "group_number": 17,
+  "series_number": 5,
+  "anthology_index": 85,
+  "title": "把节气读成展览",
+  "sha256": "c853067ecaaa44df8cce7bcf9376b22189d075c34a6c31fd565a8cc30095caef",
+  "native_sha256": "cd924df91030d377080b3a5dad18299b1100bad57d24d40ff86c73210b8c8966",
+  "prompt_sha256": "37cc864bcb7a3ddbf2df5910eee4a157a9e4e964fff32afa215559c8148977bd",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1714681,
+  "art_direction": {
+    "style_name": "折页立体书",
+    "style_prompt_english": "Photographed physical pop-up artist book with elaborate folded pages transforming into miniature real Beijing architecture and reading interiors; sculptural paper engineering, visible paper folds, warm directional light, restrained color on layered cream paper. View close enough that paper architecture fills the entire frame, no blank page border, no letters or printed text. Architecture comes out of an open book but remains recognizable.",
+    "palette": [
+      "#273E57",
+      "#D78247",
+      "#E6C979",
+      "#F1E5CA"
+    ],
+    "layout_variant": 1,
+    "activity": "看书／读展／安静散步",
+    "area": "二环外公共阅读空间"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "agriculture-reading",
+    "title": "把节气读成展览",
+    "subtitle": "一座展馆里的田野笔记",
+    "area_label": "二环外·朝阳农展馆",
+    "duration": "约3小时",
+    "transport": "地铁农业展览馆站；馆区步行",
+    "stops": [
+      {
+        "name": "中国农业博物馆",
+        "detail": "农业史与节气知识展陈",
+        "lat": 39.9391895,
+        "lon": 116.4589809,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118142",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/129187924"
+      },
+      {
+        "name": "全国农业展览馆广场",
+        "detail": "传统屋顶与开阔前场",
+        "lat": 39.939,
+        "lon": 116.4568,
+        "coordinate_status": "Approximate public forecourt west of named exhibition building; WGS84; access not verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118142",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/129187924"
+      }
+    ],
+    "practical_note": "场馆预约与具体开放展厅提前查；广场外观不等同于可自由进入所有场馆。",
+    "copy_title": "把节气读成展览｜北京周末灵感",
+    "copy_body": "一座展馆里的田野笔记。中国农业博物馆 → 全国农业展览馆广场，安排约3小时。从农业史与节气知识展陈到传统屋顶与开阔前场，留点时间给自己。场馆预约与具体开放展厅提前查；广场外观不等同于可自由进入所有场馆。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环外"
+    ],
+    "hero_prompt_english": "National Agriculture Exhibition Center Beijing: dignified symmetrical yellow-glazed tiled roofs with Chinese eaves atop a cream exhibition building, broad steps and public plaza, foreground paper models of grains, wheat and an ordinary open blank notebook, adult visitor studying agricultural displays. Quiet scholarly mood, no political slogans or copied exhibition panels. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "b9764f251e93f3d2eb0ecd69604c8ae34d991d2bf60c7b5ab15f962da547ba60",
+      "bounds_wgs84": [
+        116.44953611785768,
+        39.93268895581531,
+        116.46624478214234,
+        39.94549994472023
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "中国农业博物馆",
+          "lon": 116.4589809,
+          "lat": 39.9391895,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "全国农业展览馆广场",
+          "lon": 116.4568,
+          "lat": 39.939,
+          "coordinate_status": "Approximate public forecourt west of named exhibition building; WGS84; access not verified"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:36.950539+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "中国农业博物馆",
+          "source_url": "https://www.openstreetmap.org/way/129187924",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "全国农业展览馆广场",
+          "source_url": "https://www.openstreetmap.org/way/129187924",
+          "status": "Approximate public forecourt west of named exhibition building; WGS84; access not verified"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "中国农业博物馆 → 全国农业展览馆广场",
+        "box": [
+          52,
+          43,
+          506,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环外·朝阳农展馆",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "把节气读成展览",
+        "box": [
+          49,
+          188,
+          532,
+          256
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环外·书页与展柜  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "一座展馆里的田野笔记",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  中国农业博物馆",
+        "box": [
+          413,
+          1117,
+          646,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "农业史与节气知识展陈",
+        "box": [
+          416,
+          1153,
+          616,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  全国农业展览馆广场",
+        "box": [
+          413,
+          1194,
+          700,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "传统屋顶与开阔前场",
+        "box": [
+          416,
+          1230,
+          596,
+          1250
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "场馆预约与具体开放展厅提前查；广场外观不等同于可自由进入所有",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "场馆。",
+        "box": [
+          413,
+          1306,
+          467,
+          1324
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁农业展览馆站；馆区步行",
+        "box": [
+          413,
+          1362,
+          673,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "17 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "085",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "Prior agricultural exhibition building was generated as a tall stacked pagoda with mountains. Replace with broad low yellow-roof hall and flat urban setting.",
+    "superseded_native_sha256": "dcf186789934c14e0b9042339fcc6cc2866b2297c25883db934d856ec2bc3e90",
+    "repaired_at": "2026-10-29T05:01:02.628151+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

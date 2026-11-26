@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-craft-09-miniature-house-teacup.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-09-miniature-house-teacup.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-09-miniature-house-teacup-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 9,
+  "anthology_index": 49,
+  "panel_count": 4,
+  "display_title": "茶杯前的房子",
+  "visible_description": "做微缩景的人发现，站得足够近，一只茶杯也能当一座远山。",
+  "synopsis": "两位朋友搭纸房子，总觉得背景空了一块，却找不到合适的材料。休息时，一只浅蓝茶杯放在模型后面，从桌沿望过去，杯口竟像远处的山。她们调整房子和杯子的距离，又放下一小团棉花当云。最后拍照时，镜头里是一座山间小屋；镜头外，两个人一边端详照片，一边等那杯茶放凉。",
+  "story_text": "纸房子做好了，屋顶、窗子和小门都齐全，背后却只有一面空墙。两位朋友蹲在桌沿看了半天，谁也没找到合适的背景。\n\n喝茶休息时，一只浅蓝杯子放在房子后面。蹲着的人忽然叫住朋友：从这个高度看，杯子像一座圆圆的远山，连把手都正好藏了起来。\n\n她们把房子挪远一点，又在杯前安放一小团棉花。相机垫低，镜头贴近桌面，屋子果然站进了有山有云的地方。\n\n拍完照片，两人挤在相机后面看。照片里只有安静的小屋，桌上却仍然是杯子、纸片和一团松棉花。茶还没有凉好，她们于是又换个角度，让山挪到了屋子的另一边。",
+  "art_direction": "Paper-model gouache with colored-pencil edge textures on aged ivory paper",
+  "character_design": "An adult model maker with dark shoulder-length hair wears a cream shirt, olive apron and rust trousers. Her adult friend has short black curls, round glasses, a faded blue shirt and tan trousers. Their miniature house is plain warm brown cardboard with a cream pitched roof and unmarked square windows. A broad pale blue ceramic teacup, one small tuft of white cotton and a compact black camera are the key props. The table is a simple honey-colored wood.",
+  "panels": [
+    {
+      "caption": "小房子搭好了，背后还是空的。",
+      "scene": "On a broad craft table, the finished tiny cardboard house stands alone near the front edge with its warm brown walls, cream roof and simple square windows. The model maker crouches to table height and looks behind it at an empty pale wall. Her friend stands nearby holding a plain pale blue teacup during a break. Small paper scraps lie in a shallow tray, but the immediate foreground around the house stays clean. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "茶杯一放下，远山就出现了。",
+      "scene": "The friend sets the broad pale blue teacup behind the model house while the crouching maker looks along the tabletop. From her low viewpoint, the rounded cup rises beyond the roof like a smooth blue hill, with the handle hidden behind its body. The maker points toward the new backdrop, visibly struck by the resemblance. The friend pauses with fingers still near the cup, and a faint wisp of tea steam rises softly above it. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "再加一朵云，把镜头放低。",
+      "scene": "The maker adjusts the cardboard house a little farther forward while the friend positions a small white cotton tuft behind its roof and in front of the blue cup. A compact camera rests on a low stack of plain cardboard at tabletop height, aimed across the house toward the improvised mountain. Both adults lean down to inspect the framing. Keep the teacup visible enough that the physical trick remains understandable, without any floating fantasy landscape. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "照片里是山，桌上还是一杯茶。",
+      "scene": "Show the camera resting beside the miniature set with its small screen displaying only a simple image of the house against a blue hill and white cloud, no interface markings. The two friends lean together to view it, smiling. Behind the camera, the real pale blue teacup remains clearly visible beside the cardboard house and loose cotton tuft. One friend cups a hand near the cooling drink, connecting the successful illusion to the ordinary studio break. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E4D9C3",
+    "#84A7B5",
+    "#B4826A",
+    "#849C78",
+    "#C4B370"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "小房子搭好了，背后还是空的。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "茶杯一放下，远山就出现了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "再加一朵云，把镜头放低。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "照片里是山，桌上还是一杯茶。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "b47831062c62b280d652c92f1876930fc8f079b739a0f990b30ecca66500f1ad",
+  "sha256": "43568611804b8aa1705648e17a6433b729f10fa04691f7ec2830919aa30c81f1",
+  "prompt_sha256": "cd2995c7edec01eb6229b135224861f1fe7ffa3283394f5f59b87029e666c56e",
+  "story_sha256": "aa7ea4d3f05f47456df98128e0494fc2c10fd306745bf35b65617df39791c569",
+  "created_at": "2026-10-26T10:15:51.578620+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

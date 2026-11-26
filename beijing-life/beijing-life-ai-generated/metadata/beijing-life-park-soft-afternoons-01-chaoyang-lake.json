@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-park-soft-afternoons-01-chaoyang-lake.png",
+  "refined_prompt": "../prompts/beijing-life-park-soft-afternoons-01-chaoyang-lake.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:05.774605+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-park-soft-afternoons",
+  "group_number": 18,
+  "series_number": 1,
+  "anthology_index": 86,
+  "title": "朝阳湖边不赶路",
+  "sha256": "1223f50d118cce111a2b11d4249bdc8d13b7a3af1656973209b9803f5a0dfe0c",
+  "native_sha256": "d0e2edbea1c1fce7ff603add7a014f65924d881c3f0995b2fe761fd3d386defb",
+  "prompt_sha256": "521f5dd567faf9f4cc97bc6bed3ac93881526ca6bd7a4bb93dd3ce911d25d6f4",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2372249,
+  "art_direction": {
+    "style_name": "浓色油画棒",
+    "style_prompt_english": "Rich expressive oil-pastel travel illustration, thick waxy marks, vibrant overlapping scumbles, highly tactile directional strokes, strong sunlit color patches and deep blue shadows, softly simplified but identifiable real landscape forms, foreground foliage overflowing frame. No text, no picture frame.",
+    "palette": [
+      "#134857",
+      "#F39442",
+      "#DDC86A",
+      "#E66A75",
+      "#50886B"
+    ],
+    "layout_variant": 2,
+    "activity": "看湖／散步／写生",
+    "area": "北京三四环周边"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "chaoyang-lake",
+    "title": "朝阳湖边不赶路",
+    "subtitle": "两小时只做一件小事",
+    "area_label": "三四环之间·朝阳公园",
+    "duration": "约2–3小时",
+    "transport": "地铁朝阳公园站或枣营站；园内步行",
+    "stops": [
+      {
+        "name": "朝阳公园南门",
+        "detail": "宽阔入口与林荫道",
+        "lat": 39.9328806,
+        "lon": 116.4743759,
+        "coordinate_status": "OSM named park south-gate structure centroid; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101910",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/232100111"
+      },
+      {
+        "name": "朝阳公园滨水之舟广场",
+        "detail": "湖岸与开阔水景",
+        "lat": 39.9433034,
+        "lon": 116.4732412,
+        "coordinate_status": "OSM named Binshui Zhizhou plaza representative point; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101910",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/231663925"
+      }
+    ],
+    "practical_note": "不含游乐项目与游船；按开放园路自选短环线。",
+    "copy_title": "朝阳湖边不赶路｜北京周末灵感",
+    "copy_body": "两小时只做一件小事。朝阳公园南门 → 朝阳公园滨水之舟广场，安排约2–3小时。从宽阔入口与林荫道到湖岸与开阔水景，留点时间给自己。不含游乐项目与游船；按开放园路自选短环线。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "三四环之间"
+    ],
+    "hero_prompt_english": "Chaoyang Park Beijing central lake with open blue water, mature plane trees and gold autumn canopy, a curving broad paved shore path, scattered distant contemporary city towers; an adult on a bench enjoying a thermos while sketchbook rests closed, no amusement rides or invented pavilions. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "ab3bb1e2e32c7675484e7c70f4726c3c04e3a880023ce54a9ba27161c6118052",
+      "bounds_wgs84": [
+        116.46327344612267,
+        39.93001405170067,
+        116.48434365387733,
+        39.94616939169136
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "朝阳公园南门",
+          "lon": 116.4743759,
+          "lat": 39.9328806,
+          "coordinate_status": "OSM named park south-gate structure centroid; WGS84; not navigation or a surveyed entrance"
+        },
+        {
+          "name": "朝阳公园滨水之舟广场",
+          "lon": 116.4732412,
+          "lat": 39.9433034,
+          "coordinate_status": "OSM named Binshui Zhizhou plaza representative point; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:40.072692+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "朝阳公园南门",
+          "source_url": "https://www.openstreetmap.org/way/232100111",
+          "status": "OSM named park south-gate structure centroid; WGS84; not navigation or a surveyed entrance"
+        },
+        {
+          "name": "朝阳公园滨水之舟广场",
+          "source_url": "https://www.openstreetmap.org/way/231663925",
+          "status": "OSM named Binshui Zhizhou plaza representative point; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "朝阳公园南门 → 朝阳公园滨水之舟广场",
+        "box": [
+          52,
+          43,
+          506,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "三四环之间·朝阳公园",
+        "box": [
+          52,
+          133,
+          372,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "朝阳湖边不赶路",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "三四环周边·公园放空  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "两小时只做一件小事",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  朝阳公园南门",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "宽阔入口与林荫道",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  朝阳公园滨水之舟广场",
+        "box": [
+          53,
+          1194,
+          367,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "湖岸与开阔水景",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "不含游乐项目与游船；按开放园路自选短环线。",
+        "box": [
+          53,
+          1281,
+          431,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁朝阳公园站或枣营站；园内步行",
+        "box": [
+          53,
+          1362,
+          373,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "18 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "086",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

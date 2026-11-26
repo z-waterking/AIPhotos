@@ -1,0 +1,332 @@
+{
+  "output": "../beijing-life-fengtai-gardens-05-wanping-bridge.png",
+  "refined_prompt": "../prompts/beijing-life-fengtai-gardens-05-wanping-bridge.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:47.506195+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fengtai-gardens",
+  "group_number": 5,
+  "series_number": 5,
+  "anthology_index": 25,
+  "title": "从城门走到石桥",
+  "sha256": "9d2aab9cf47d6acff84c7d4b009346847a6ac33f79db3838b43043020af979ba",
+  "native_sha256": "f3348d79af848443742bbfcd4690c090e78c55906a696fe1c31b4177511cb735",
+  "prompt_sha256": "4445c5bce20dba0f21ebd5ef14f7a5f2428888e86a6720f35ef2b859953f9cf2",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2301792,
+  "art_direction": {
+    "style_name": "彩线刺绣风景",
+    "style_prompt_english": "A richly tactile embroidered travel artwork made of colored threads: satin-stitch architectural planes, chain-stitch paths, densely stitched foliage and softly padded fabric water. Distinct stitch directions construct the actual forms, not a texture filter on a photograph. Full-bleed fabric landscape with detailed recognizable buildings and small embroidered adult visitors.",
+    "palette": [
+      "#E87935",
+      "#447D69",
+      "#E5C862",
+      "#5467A0"
+    ],
+    "layout_variant": 4,
+    "activity": "园林、湖岸与老城休闲",
+    "area": "丰台区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "wanping-bridge",
+    "title": "从城门走到石桥",
+    "subtitle": "宛平城与卢沟桥日常游",
+    "area_label": "丰台·宛平城",
+    "duration": "约3小时",
+    "transport": "地铁16号线宛平城站；步行接驳",
+    "stops": [
+      {
+        "name": "宛平城",
+        "detail": "沿公共城内街看城门",
+        "lat": 39.8498394,
+        "lon": 116.2201305,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101622",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/700356064"
+      },
+      {
+        "name": "卢沟桥",
+        "detail": "观察石拱与石栏外形",
+        "lat": 39.849026,
+        "lon": 116.2128823,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101415",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/27035564"
+      }
+    ],
+    "practical_note": "城墙不默认可登；桥区票务、入口与步行开放以现场为准。",
+    "copy_title": "丰台·宛平城｜从城门走到石桥",
+    "copy_body": "这次只慢慢看建筑：城门的砖缝、桥栏的起伏、永定河的开阔。把一段老城路走得细一点。 路线：宛平城 → 卢沟桥。约3小时，到首站和返程另计。城墙不默认可登；桥区票务、入口与步行开放以现场为准。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "丰台",
+      "从城门走到石桥"
+    ],
+    "hero_prompt_english": "Peaceful autumn Wanping city gate and Lugou Bridge architectural outing, gray-brick arched gate tower in a separate middle-ground vignette and ancient pale stone bridge balustrades with small carved lion silhouettes in foreground, broad river under clear sky. No war scene or memorial imagery; an adult strolls on open public paths. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "92d00a9e1cfba95145eb247e1be0f9c1a195c615567b75ddb44a77f4a2cd1ca1",
+      "bounds_wgs84": [
+        116.20815206785767,
+        39.84301852202298,
+        116.22486073214233,
+        39.85584628112877
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "宛平城",
+          "lon": 116.2201305,
+          "lat": 39.8498394,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "卢沟桥",
+          "lon": 116.2128823,
+          "lat": 39.849026,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:23.903176+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "宛平城",
+          "source_url": "https://www.openstreetmap.org/node/700356064",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "卢沟桥",
+          "source_url": "https://www.openstreetmap.org/way/27035564",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "宛平城 → 卢沟桥",
+        "box": [
+          52,
+          43,
+          246,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "丰台·宛平城",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "从城门走到石桥",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "丰台园林游乐簿  ·  约3小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "宛平城与卢沟桥日常游",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  宛平城",
+        "box": [
+          53,
+          1117,
+          178,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿公共城内街看城门",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  卢沟桥",
+        "box": [
+          53,
+          1194,
+          178,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "观察石拱与石栏外形",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "城墙不默认可登；桥区票务、入口与步行开放以现场为准。",
+        "box": [
+          53,
+          1281,
+          521,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁16号线宛平城站；步行接驳",
+        "box": [
+          53,
+          1362,
+          337,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "05 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "025",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "VisualQAshowsanincorrecttallTHREE-tierimperialgatetowerforWanping;actualWanpingcitygatehasonecompactlowgatehouseontopofgraybrickwall.Preserveclearrecognizableplace.",
+    "superseded_native_sha256": "ea21af9c30e7cf18c8a9ba6e144a180852b0c75e413f5cd579fffc4696503930",
+    "repaired_at": "2026-10-29T04:49:40.753542+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

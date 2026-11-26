@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-seasons-09-winter-mitten-planters.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-09-winter-mitten-planters.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-09-winter-mitten-planters-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 9,
+  "anthology_index": 69,
+  "panel_count": 4,
+  "display_title": "手套的新住客",
+  "visible_description": "落单的旧手套变成了盆套，窗边的小苗从此多了一只软软的小手。",
+  "synopsis": "收冬衣时，阿乔找遍篮子也没有找到旧手套的另一只。她套上试试，袖口已经有些短了，猫却很喜欢那个空着的拇指。阿乔看到窗边的小陶盆，便用手套给它做了一个软软的盆套。折好袖口，小苗稳稳站在窗台，旁边鼓起的拇指像一只小手；她不再寻找，而是和猫一起看它迎着光。",
+  "story_text": "收冬衣时，阿乔从篮底翻出一只旧手套。另一只不知去了哪里，她把衣服重新抖开，连篮子底部也摸过一遍，仍然没有找到。\n\n她把手套套上试了试，袖口已经短到够不着手腕。猫坐在旁边，看她翻来覆去，伸爪轻轻碰了一下那根空着的拇指。\n\n阿乔望见窗台上的小陶盆，便把手套脱下来套在盆外。折好袖口后，大小竟然合适，圆圆的拇指鼓在旁边，像花盆多了一只小手。\n\n她把穿好的花盆放回窗边，猫跳上矮凳，抬头看了很久。阿乔没有继续找另一只手套。那只小手迎着光轻轻垂着，窗台上的冬天，似乎也有了新的住法。",
+  "art_direction": "Cozy opaque gouache with fine colored pencil wool fibers",
+  "character_design": "Aqiao is an adult woman with round glasses, shoulder-length black hair, dusty rose sweatshirt and cream trousers. Her cream cat has ginger ears and a curled tail. EXACTLY ONE sage mitten with an ochre cuff exists: one broad rounded main finger pouch and one short rounded thumb only, never separate finger tubes. EXACTLY ONE small terracotta pot holds one green seedling. A wicker laundry basket, one low table and one empty windowsill remain consistent. Never duplicate the mitten, plant or pot on hands, table, sill or floor.",
+  "panels": [
+    {
+      "caption": "收好冬天，少了一只手套。",
+      "scene": "Aqiao kneels beside the woven basket of folded neutral winter clothes. Her left hand holds the ochre cuff of the ONLY sage mitten, letting its simple silhouette hang clearly: ONE broad rounded main pouch and ONE short rounded side thumb, with no separate finger tubes, extra fingers or dangling strips. Her right hand rests inside the basket after searching. The cream cat sits nearby. The ONLY terracotta seedling pot stands on the windowsill; the low table is empty. No spare mitten or second plant exists. Wordless old-paper gouache; no signs, lettering or speech balloons.",
+      "position": "TL"
+    },
+    {
+      "caption": "它已经装不下长大的手。",
+      "scene": "Aqiao tries the ONLY sage mitten on her left hand, placing all fingers together inside its single broad rounded main pouch while the short side thumb remains empty and softly folded. The ochre cuff is visibly too short to cover her wrist. Her right hand gently supports that cuff. The cat reaches one paw toward the empty thumb without gripping it. The ONLY terracotta seedling pot stays on the windowsill and the table stays empty. No other mitten or plant appears. Preserve the simple two-lobed mitten shape. Wordless illustration.",
+      "position": "TR"
+    },
+    {
+      "caption": "花盆倒觉得，大小正好。",
+      "scene": "The ONLY terracotta seedling pot now stands firmly on the low table, partly enclosed by the SAME single sage mitten. Aqiao has removed the mitten from her hand; both of her hands are bare and touch only its ochre cuff, folding it neatly around the rim of this ONE stationary pot. The mitten main pouch wraps the pot and its one short rounded thumb forms a small side bulge. The windowsill is completely empty because its pot moved to this table. No planter is held in midair, no second pot or mitten appears. The cat watches from the floor. Wordless illustration.",
+      "position": "BL"
+    },
+    {
+      "caption": "窗边的小苗，多了一只软软的手。",
+      "scene": "The SAME single mitten-covered seedling pot now rests fully on the sunny windowsill, its base stable and the rounded mitten thumb bulging at one side. Aqiao stands beside it with both empty hands gently withdrawing after setting it down. The low table behind her is completely empty; nothing remains there. Her cream cat watches from a low stool below the sill, and the laundry basket sits on the floor. Exactly one plant, one pot and one simple two-lobed mitten exist in the entire frame. Wordless old-paper gouache; no signs, lettering, speech balloons or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E6D8C4",
+    "#A77A72",
+    "#78928A",
+    "#C6AE77",
+    "#655D58"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "收好冬天，少了一只手套。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "它已经装不下长大的手。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "花盆倒觉得，大小正好。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "窗边的小苗，多了一只软软的手。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "de3ce5328d2345d2c43d11a4722de69bdb7f8f8efd0c612d560804c104a9ce68",
+  "sha256": "eb5f3a7c41daca9b68178a44f8320f0bba5f021332d71f278f6dfc6cd238f051",
+  "prompt_sha256": "f95260ede112a9968766cd5515e53c07fc25efb255727350ba3aa8d749678171",
+  "story_sha256": "b998b5e04d40fb99c2816d0389ca48ce5993de76867f832ff55cc32c7733c63a",
+  "created_at": "2026-10-26T10:54:50.255140+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

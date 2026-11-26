@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-seasons-10-small-snowman-hat.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-10-small-snowman-hat.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-10-small-snowman-hat-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 10,
+  "anthology_index": 70,
+  "panel_count": 6,
+  "display_title": "雪人的小帽子",
+  "visible_description": "雪人变矮了，那顶小帽子便搬到了第一株春芽旁。",
+  "synopsis": "院里的小雪人戴着一只红色瓶盖，孩子每天都会来看看它。天气渐暖，雪人只剩矮矮的一团，瓶盖滑到了草边。孩子没有再堆回去，而是在旁边发现了一株绿芽。她把瓶盖开口朝上放在芽旁，盛了几滴融雪水，像给刚来的春天准备了一只小碗。",
+  "story_text": "下雪那天，露露在院里堆了一只小雪人，只到自己的膝盖。奶奶拿来红瓶盖当帽子，她又找了两颗小石子，给雪人安好眼睛。\n\n接连几天放晴，小雪人一天天变矮。\n\n露露再来时，红帽子已经滑到草边，眼睛也落在一小团雪旁。她蹲下去，把帽子捡起来。\n\n帽子后面竟藏着一株绿芽。奶奶也蹲下来，两个人看着那两片刚展开的小叶子，谁都没有急着去碰。雪水沿着草尖慢慢滴下。\n\n露露把瓶盖开口朝上，接了几滴水，放在小芽旁边。\n\n回屋前，她又望了一眼：雪人的帽子已经变成春天的小碗，颜色还是那样鲜亮，像刚刚搬到这里。",
+  "art_direction": "Chalky gouache snow with tender colored pencil spring accents",
+  "character_design": "Lulu is a six year old child with a dark bob, a pale blue padded coat, brown trousers, and red boots. Her adult grandmother wears a plum cardigan beneath a beige coat. A tiny snowman has pebble eyes and a red bottle cap hat; a green shoot emerges from the nearby grass. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "小雪人，有一顶红帽子。",
+      "scene": "Lulu crouches beside a tiny snowman on a patch of garden grass, carefully adjusting its red bottle cap hat. Her grandmother stands nearby with relaxed hands. The snowman has only pebble eyes and a simple rounded body. Red boots, pale winter light, and a few exposed blades of grass make the scene cheerful and small. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "暖了几天，它慢慢变矮。",
+      "scene": "Lulu looks down at the same spot after a mild spell: the little snowman has become a low mound of clean melting snow. Its red bottle cap rests beside the mound on the grass. She stands with hands on her knees, curious rather than upset. Her grandmother watches from the garden path behind her. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "她拾起帽子，先看看里面。",
+      "scene": "Lulu crouches beside the shrinking snow mound and lifts the red bottle cap in her mittened fingers. A few clear drops cling inside its rim. Her grandmother bends nearby to watch, while the pebble eyes rest harmlessly on the grass. The small green shoot remains partly hidden just behind the place where the cap had fallen. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "帽子旁边，有个新邻居。",
+      "scene": "Lulu kneels on the dry edge of the grass and points at a fresh green shoot emerging beside the shrinking snow mound. She holds the red cap in her free hand. Her grandmother crouches nearby to look with her. A few pebble eyes remain on the shrinking snow mound, while tiny drops of meltwater shine on the grass around the newly noticed plant. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "小小的碗，接住几滴融雪。",
+      "scene": "Lulu holds the red bottle cap upright beneath the wet tip of a grass blade beside the last snow mound. A single drop is about to fall into the tiny shallow cup. Her grandmother steadies herself with one hand on her own knee, and both look closely at the deliberate miniature collection of meltwater. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "给春天，也留一只小碗。",
+      "scene": "Lulu places the red bottle cap with its open concave side facing upward beside the green shoot, holding a few clear drops of meltwater like a miniature bowl. Her fingertip has just left its rim. The grandmother smiles over her shoulder. The last little snow mound remains farther back, quietly connecting the winter visitor and the first small sign of spring. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E8E8D9",
+    "#BC6558",
+    "#8AA17A",
+    "#91ADB8",
+    "#847463"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        12,
+        13,
+        505,
+        523
+      ],
+      [
+        520,
+        13,
+        1013,
+        523
+      ],
+      [
+        12,
+        538,
+        505,
+        1011
+      ],
+      [
+        520,
+        538,
+        1013,
+        1011
+      ],
+      [
+        12,
+        1026,
+        505,
+        1524
+      ],
+      [
+        520,
+        1026,
+        1013,
+        1524
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        42,
+        200,
+        494,
+        668
+      ],
+      [
+        530,
+        200,
+        982,
+        668
+      ],
+      [
+        34,
+        819,
+        502,
+        1268
+      ],
+      [
+        522,
+        819,
+        990,
+        1268
+      ],
+      [
+        36,
+        1420,
+        499,
+        1888
+      ],
+      [
+        524,
+        1420,
+        987,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "小雪人，有一顶红帽子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "暖了几天，它慢慢变矮。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "她拾起帽子，先看看里面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "帽子旁边，有个新邻居。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "小小的碗，接住几滴融雪。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "给春天，也留一只小碗。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Native row gutters were measured at y=524-536 and y=1012-1024. The first row extends beyond nominal y=512 and the fixed middle-row crop includes a narrow strip from the previous scene. Confirmed interior crops are centered proportionally inside the original slots with ivory padding, without enlargement or stretching. Final recomposition still requires visual QA.",
+      "native_sha256": "887b56690931103da54d62e6a040d692c8aea74dc0cf548d23181aaa2107577e",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          8,
+          0,
+          8,
+          0
+        ],
+        [
+          8,
+          0,
+          8,
+          0
+        ],
+        [
+          0,
+          9,
+          0,
+          10
+        ],
+        [
+          0,
+          9,
+          0,
+          10
+        ],
+        [
+          2,
+          0,
+          3,
+          0
+        ],
+        [
+          2,
+          0,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "native_sha256": "887b56690931103da54d62e6a040d692c8aea74dc0cf548d23181aaa2107577e",
+  "sha256": "5d6a187e45d05c28201d276d1d816c36416f4e9b29f06ecdbcbefe9d0f757842",
+  "prompt_sha256": "1a37cfac7e179c2bf1b6d9ab951e7105d93f6b936681cba8c83ca172c00731d7",
+  "story_sha256": "0c3e6fd6cda26591ac7174466b1fadb11f1dffebcf7e068e9d309d6c55267a82",
+  "created_at": "2026-10-26T10:59:09.375449+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

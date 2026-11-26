@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-beyond-five-weekends-01-song-pines.png",
+  "refined_prompt": "../prompts/beijing-life-beyond-five-weekends-01-song-pines.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:08.721659+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-beyond-five-weekends",
+  "group_number": 20,
+  "series_number": 1,
+  "anthology_index": 96,
+  "title": "松树之间看一场展",
+  "sha256": "08afd487e4ed3634da11cbdbedb7f950f0c824c72fda795475a80471412cb10a",
+  "native_sha256": "cb6107103f8dd97391e9d457e5ce932aa704d8a406d6abee94c8ca14c20ef9e5",
+  "prompt_sha256": "14dc53c1e701332ac5971b6f142d45d8d79b1833bc4ba67bb14a29d1615e734b",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1835881,
+  "art_direction": {
+    "style_name": "像素立体场景",
+    "style_prompt_english": "High-quality original pixel-art isometric diorama, crisp deliberate square pixels with elegant limited palette and detailed architecture, sophisticated game-environment lighting, stepped shadows, densely composed foreground and background, adults at realistic small scale. Do not copy any game world, branded character or existing pixel artwork; no text, HUD or border.",
+    "palette": [
+      "#283B63",
+      "#DF8472",
+      "#8FBF8B",
+      "#E7CD7A",
+      "#87C8CF"
+    ],
+    "layout_variant": 4,
+    "activity": "艺术园庭／创意商街／自然观察",
+    "area": "北京五环外"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "song-pines",
+    "title": "松树之间看一场展",
+    "subtitle": "顺义留给艺术的半天",
+    "area_label": "五环外·顺义天竺",
+    "duration": "约3–4小时",
+    "transport": "地铁孙河站或国展站后公交、出租车接驳",
+    "stops": [
+      {
+        "name": "松美术馆",
+        "detail": "白色馆舍与松庭",
+        "lat": 40.0246049,
+        "lon": 116.5794566,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120975",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1547480785"
+      },
+      {
+        "name": "松美术馆庭园",
+        "detail": "松树与修整草坪",
+        "lat": 40.0238,
+        "lon": 116.579,
+        "coordinate_status": "Approximate garden location inside named Song Art Museum compound; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120975",
+        "coordinate_source_url": "https://www.openstreetmap.org/relation/21192157"
+      }
+    ],
+    "practical_note": "展览票务、庭园开放与预约提前确认；不进入非开放后场，接驳另计。",
+    "copy_title": "松树之间看一场展｜北京周末灵感",
+    "copy_body": "顺义留给艺术的半天。松美术馆 → 松美术馆庭园，安排约3–4小时。从白色馆舍与松庭到松树与修整草坪，留点时间给自己。展览票务、庭园开放与预约提前确认；不进入非开放后场，接驳另计。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "五环外"
+    ],
+    "hero_prompt_english": "Song Art Museum Shunyi, minimalist low white museum buildings and a carefully spaced garden of mature sculptural pine trees on a manicured lawn, warm autumn sunlight, an adult following the garden path before entering a gallery. Preserve the spare white architecture and pine grove; blank artwork panels, no copies of current exhibits. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "393b59e9358f526e9f6660a09e6cf86da1877b608d11e3fcb84e0587a9c6f355",
+      "bounds_wgs84": [
+        116.57087396785768,
+        40.01780463047349,
+        116.58758263214234,
+        40.030599671989535
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "松美术馆",
+          "lon": 116.5794566,
+          "lat": 40.0246049,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "松美术馆庭园",
+          "lon": 116.579,
+          "lat": 40.0238,
+          "coordinate_status": "Approximate garden location inside named Song Art Museum compound; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:21:07.604578+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "松美术馆",
+          "source_url": "https://www.openstreetmap.org/way/1547480785",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "松美术馆庭园",
+          "source_url": "https://www.openstreetmap.org/relation/21192157",
+          "status": "Approximate garden location inside named Song Art Museum compound; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "松美术馆 → 松美术馆庭园",
+        "box": [
+          52,
+          43,
+          350,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "五环外·顺义天竺",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "松树之间看一场展",
+        "box": [
+          49,
+          188,
+          601,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "五环外·创意周末  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "顺义留给艺术的半天",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  松美术馆",
+        "box": [
+          53,
+          1117,
+          205,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "白色馆舍与松庭",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  松美术馆庭园",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "松树与修整草坪",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "展览票务、庭园开放与预约提前确认；不进入非开放后场，接驳另计。",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁孙河站或国展站后公交、出租车接驳",
+        "box": [
+          53,
+          1362,
+          413,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "20 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "096",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

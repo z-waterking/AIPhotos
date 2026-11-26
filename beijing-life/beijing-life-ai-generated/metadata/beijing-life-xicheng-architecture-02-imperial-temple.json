@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-xicheng-architecture-02-imperial-temple.png",
+  "refined_prompt": "../prompts/beijing-life-xicheng-architecture-02-imperial-temple.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:48.916235+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-xicheng-architecture",
+  "group_number": 2,
+  "series_number": 2,
+  "anthology_index": 7,
+  "title": "红墙里的大屋顶",
+  "sha256": "1d861323011ee5d532121b824048630a88de01927a8817448b4fda08a27f0a96",
+  "native_sha256": "1ff0d949d1570e34ccc1d8f38d2f1e87476e5e4d8d7b68833f3778ec268d96e4",
+  "prompt_sha256": "fe7f23006059658c4622aeca4064ec8ecde6d5a06f32e49afdc3ed442b4643b4",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2515907,
+  "art_direction": {
+    "style_name": "铜版蚀刻建筑图",
+    "style_prompt_english": "Original copperplate-etching architectural illustration: fine incised crosshatching, dense tactile line fields, confident perspective and dramatic large architectural silhouettes. Copper orange and deep indigo ink on warm ivory; small solid colored accents, no copied historical print, no lettering. A full-bleed architectural scene with inset-feeling foreground details integrated into the setting.",
+    "palette": [
+      "#B85728",
+      "#152E50",
+      "#E7D8BA",
+      "#81A9A8"
+    ],
+    "layout_variant": 1,
+    "activity": "建筑观察与老城散步",
+    "area": "西城区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "imperial-temple",
+    "title": "红墙里的大屋顶",
+    "subtitle": "庙宇轴线与木构节奏",
+    "area_label": "西城·阜成门内大街",
+    "duration": "约3小时",
+    "transport": "地铁4号线西四站；步行接驳",
+    "stops": [
+      {
+        "name": "历代帝王庙",
+        "detail": "大殿屋顶与院落轴线",
+        "lat": 39.9237175,
+        "lon": 116.3611957,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101785",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30834653"
+      },
+      {
+        "name": "广济寺",
+        "detail": "庭院与木构外观",
+        "lat": 39.923229,
+        "lon": 116.3661537,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118073",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/233219116"
+      }
+    ],
+    "practical_note": "按开放安排择两处参观，宗教空间保持安静；建筑细节以实物为准。",
+    "copy_title": "西城·阜成门内大街｜红墙里的大屋顶",
+    "copy_body": "用一个下午比较两座院落：一座看庄重的中轴线，一座看檐下与庭院的节奏。红墙、瓦面和树影都值得停留。 路线：历代帝王庙 → 广济寺。约3小时，到首站和返程另计。按开放安排择两处参观，宗教空间保持安静；建筑细节以实物为准。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "西城",
+      "红墙里的大屋顶"
+    ],
+    "hero_prompt_english": "Monumental glazed-tile Chinese temple roof inspired by the Temple of Emperors in Beijing, layered eaves, red timber columns, axial stone courtyard and distant dark cypress trees. Foreground perspective includes a close architectural bracket and a calm adult viewing the structure, no imaginary imperial palace. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "84d1e21a88a9d8924e4895a254cd499be4b767561327a43495ccd149b69dcae9",
+      "bounds_wgs84": [
+        116.35532036785767,
+        39.917065994179396,
+        116.37202903214234,
+        39.92987990715474
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "历代帝王庙",
+          "lon": 116.3611957,
+          "lat": 39.9237175,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "广济寺",
+          "lon": 116.3661537,
+          "lat": 39.923229,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:42.439076+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "历代帝王庙",
+          "source_url": "https://www.openstreetmap.org/way/30834653",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "广济寺",
+          "source_url": "https://www.openstreetmap.org/way/233219116",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "历代帝王庙 → 广济寺",
+        "box": [
+          52,
+          43,
+          298,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "西城·阜成门内大街",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "红墙里的大屋顶",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "西城建筑放大镜  ·  约3小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "庙宇轴线与木构节奏",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  历代帝王庙",
+        "box": [
+          413,
+          1117,
+          592,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "大殿屋顶与院落轴线",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  广济寺",
+        "box": [
+          413,
+          1194,
+          538,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "庭院与木构外观",
+        "box": [
+          416,
+          1230,
+          556,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "按开放安排择两处参观，宗教空间保持安静；建筑细节以实物为准。",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁4号线西四站；步行接驳",
+        "box": [
+          413,
+          1362,
+          665,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "02 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "007",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

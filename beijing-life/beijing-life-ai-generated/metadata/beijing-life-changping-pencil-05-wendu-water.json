@@ -1,0 +1,333 @@
+{
+  "output": "../beijing-life-changping-pencil-05-wendu-water.png",
+  "refined_prompt": "../prompts/beijing-life-changping-pencil-05-wendu-water.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:54:09.894691+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-changping-pencil",
+  "group_number": 9,
+  "series_number": 5,
+  "anthology_index": 45,
+  "title": "温榆河畔慢下来",
+  "sha256": "bb89c12896fe2b2d7a77bec51e879fa6a3a7b17611f69d0d97dc7703ed7815aa",
+  "native_sha256": "48e873a93f6ec087aa25b3763ebfc457e8d3d795eb234d06f95da6e97419735d",
+  "prompt_sha256": "17ce40470be5d4792a429deded04fca638f162b113a21f67024fda8d549b34bf",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2258632,
+  "art_direction": {
+    "style_name": "彩铅自然手记",
+    "style_prompt_english": "Rich colored-pencil field-journal illustration: visible layered pencil hatching, warm paper tooth, carefully observed architectural perspective, close-up leaves and everyday objects integrated with a panoramic main scene. Dense edge-to-edge composition, no text.",
+    "palette": [
+      "#315D4D",
+      "#D9B34B",
+      "#BF5A44",
+      "#EEE3C8"
+    ],
+    "layout_variant": 3,
+    "activity": "遗产与放松",
+    "area": "昌平区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "wendu-water",
+    "title": "温榆河畔慢下来",
+    "subtitle": "湖边走走，再吃一顿热饭",
+    "area_label": "北京·昌平区",
+    "duration": "约3小时",
+    "transport": "地铁8号线或昌平线后接公交或出租车",
+    "stops": [
+      {
+        "name": "温都水城休闲区",
+        "detail": "看水岸、园林与休闲建筑",
+        "lat": 40.1028454,
+        "lon": 116.3647408,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117332",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1250671017"
+      },
+      {
+        "name": "温都水城餐饮区",
+        "detail": "按需安排午餐或下午茶",
+        "lat": 40.1028454,
+        "lon": 116.3647408,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117332",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1250671017"
+      }
+    ],
+    "practical_note": "仅推荐岸上休闲与餐饮；温泉或水上项目需另查预约、票务和适用规则。",
+    "copy_title": "昌平区｜温榆河畔慢下来",
+    "copy_body": "湖边走走，再吃一顿热饭。这次只安排一个片区：温都水城休闲区 → 温都水城餐饮区。建议留约3小时，把拍照、休息和短时参观一起算进去。仅推荐岸上休闲与餐饮；温泉或水上项目需另查预约、票务和适用规则。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "昌平区",
+      "北京小众玩法",
+      "遗产与放松"
+    ],
+    "hero_prompt_english": "Wendu Water City leisure complex in northern Changping: a tranquil landscaped lake beside Chinese-inspired resort pavilions and modern glazed leisure buildings, mature trees and a paved promenade. Fully clothed adult friends carry warm takeaway food while strolling by the lake; no baths or swimwear. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "e1fe318ca0d54c0b86eb19055f6944634ab320f9d97a3678e1bceeb901209c7c",
+      "bounds_wgs84": [
+        116.35638646785767,
+        40.09645495970695,
+        116.37309513214234,
+        40.109235240095316
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "温都水城休闲区",
+          "lon": 116.3647408,
+          "lat": 40.1028454,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "温都水城餐饮区",
+          "lon": 116.3647408,
+          "lat": 40.1028454,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:02.710462+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "温都水城休闲区",
+          "source_url": "https://www.openstreetmap.org/way/1250671017",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "温都水城餐饮区",
+          "source_url": "https://www.openstreetmap.org/way/1250671017",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "温都水城休闲区 → 温都水城餐饮区",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·昌平区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "温榆河畔慢下来",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "昌平｜一页京北慢生活  ·  约3小时",
+        "box": [
+          52,
+          282,
+          422,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "湖边走走，再吃一顿热饭",
+        "box": [
+          55,
+          1013,
+          297,
+          1037
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  温都水城休闲区",
+        "box": [
+          413,
+          1117,
+          646,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看水岸、园林与休闲建筑",
+        "box": [
+          416,
+          1153,
+          636,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  温都水城餐饮区",
+        "box": [
+          413,
+          1194,
+          646,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "按需安排午餐或下午茶",
+        "box": [
+          416,
+          1230,
+          616,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "仅推荐岸上休闲与餐饮；温泉或水上项目需另查预约、票务和适用规",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "则。",
+        "box": [
+          413,
+          1306,
+          449,
+          1323
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁8号线或昌平线后接公交或出租车",
+        "box": [
+          413,
+          1362,
+          745,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "09 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "045",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "output": "../daily-vignette-keepsake-09-clock-case-entryway-keys.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-09-clock-case-entryway-keys.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-09-clock-case-entryway-keys-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 9,
+  "anthology_index": 9,
+  "panel_count": 4,
+  "display_title": "准时出门",
+  "visible_description": "停摆的小木钟不再报时，却让一家人少了找钥匙的忙乱。",
+  "synopsis": "玄关的小木钟停了很久，修理师傅检查后，把钟面和旧机芯妥善收进了纸盒。爸爸想保留木壳，女儿便在里面铺上软布，装了两排圆头小钩。第二天出门，爸爸照旧弯腰翻包，女儿却指了指木钟。几串钥匙整整齐齐挂在里面，他抬头笑了：这回不用走动的钟，也让大家早出了门。",
+  "story_text": "玄关的小木钟停了很久。修理师傅把取下的钟面和机芯收好，爸爸仍抱着空木壳回来，说这拱起来的顶，怎么看都顺眼。\n\n女儿看了看钟，又看了看桌角那堆钥匙。她找来软布铺进里面，和爸爸一起装上两排圆头小钩。玻璃门擦亮，一打开，里面就有了整齐的位置。\n\n家门钥匙、车钥匙，一串串挂好。上面圆圆的空处还放得下一副折好的眼镜。爸爸关上玻璃门，退后半步，看起来像在欣赏一只修好的钟。\n\n第二天出门，他习惯地把手伸向包底，女儿已经替他打开了小玻璃门。钥匙就在眼前。两个人走进早晨的阳光时，爸爸摸了摸口袋，这次竟没在玄关多耽误一分钟。",
+  "art_direction": "Restrained gouache with precise pencil carpentry details on warm ivory paper",
+  "character_design": "The father is a Chinese man around forty-five with neatly cropped black hair, rectangular glasses, and a long mild face. He wears a cream buttoned shirt, muted blue trousers, and brown loafers. His adult daughter has a straight chin-length black bob and wears a sage cardigan, rust-colored skirt over opaque tights, and flat shoes. Their small wooden mantel clock has an arched walnut-brown case, a round opening above, and a narrow rectangular lower compartment with a glass-fronted hinged door.",
+  "panels": [
+    {
+      "caption": "钟停了，爸爸仍舍不得那只小木壳。",
+      "scene": "At an entryway console, the father holds the empty arched wooden clock case upright while his daughter looks into its round upper opening and lower glass-fronted compartment. The removed clock face and old mechanism lie protected in a shallow cardboard box lined with tissue beside them. No repair activity is shown. An untidy pile of keys, scarves, and gloves occupies the other end of the console. Use the walnut wood grain and the father's careful grip to show that the small case still matters to him."
+    },
+    {
+      "caption": "女儿量了量，把软布铺进钟里。",
+      "scene": "The daughter sits at the entryway console, fitting a muted teal felt lining into the empty clock case. Her father steadies the case while she presses the fabric neatly around the lower compartment. A few small rounded wooden pegs, already prepared for mounting, rest in a shallow dish nearby. Keep the clock face and mechanism safely boxed at the far side, clearly separate from the new work. The glass door stands open toward the viewer, and afternoon light highlights the transformation from empty cavity into tidy storage space."
+    },
+    {
+      "caption": "几串钥匙，终于各有各的位置。",
+      "scene": "Show the completed arched clock case on the console, its felt-lined interior holding several key rings on two neat rows of rounded wooden pegs. The daughter hangs a final ring with a small rust-colored fabric loop while the father watches beside her. The round upper opening now frames a shallow fabric-lined shelf containing one pair of folded spectacles. Retain the old glass-fronted lower door and familiar walnut case. The surrounding console is cleared except for a bowl and folded scarf, creating an obvious contrast through visible order."
+    },
+    {
+      "caption": "第二天，爸爸终于不用在包底找钥匙。",
+      "scene": "In bright morning light, the father stands by the open front door with his work bag over one shoulder and reaches directly for a key ring inside the transformed wooden clock case. His daughter waits beside him, already wearing her shoes, with a playful knowing smile. The bag remains closed and undisturbed. The clock's open glass door catches a small reflection, and the remaining keys hang neatly against teal felt. Frame the old case near their hands and the sunlit doorway beyond, conveying an easy, unhurried departure."
+    }
+  ],
+  "palette": [
+    "#E9DDC3",
+    "#916748",
+    "#698B86",
+    "#C99A68",
+    "#5D676F"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "钟停了，爸爸仍舍不得那只小木壳。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "女儿量了量，把软布铺进钟里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "几串钥匙，终于各有各的位置。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "第二天，爸爸终于不用在包底找钥",
+          "匙。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "94703ac2cc7a791e33f0356c1087f033ea4d03ebc8492f33a139f17fad470199",
+  "sha256": "27cd7ad8e1a4f64717c5d7ad9eb78dc676c0c8190924e2902dc93558db93346a",
+  "prompt_sha256": "c86ad1a018a4ba319af55ca5be9b838e9bf9423bb941ba5d2d0ae4462f79caa1",
+  "story_sha256": "5328b0f238338036abc1fc940f0ec426185da6205d9b31937518f007171b1ae9",
+  "created_at": "2026-10-26T09:46:25.493130+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

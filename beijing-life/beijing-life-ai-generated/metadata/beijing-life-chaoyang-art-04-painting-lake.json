@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-chaoyang-art-04-painting-lake.png",
+  "refined_prompt": "../prompts/beijing-life-chaoyang-art-04-painting-lake.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:45.694431+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-chaoyang-art",
+  "group_number": 4,
+  "series_number": 4,
+  "anthology_index": 19,
+  "title": "画院到湖边",
+  "sha256": "d9b5bbe4ba9778661805f85fff0905f622812f59a054b47e2414f30251868fed",
+  "native_sha256": "dcb99a9feee2927365bc6fc31a1612ddf94aa7b4a091234c0a7ee6c6ca1185a9",
+  "prompt_sha256": "488d51ce348cb0955afdeb310658f7edb03725b1967201eaf68b7fd78252a7c0",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1680350,
+  "art_direction": {
+    "style_name": "硬边赛璐璐都市",
+    "style_prompt_english": "Original hard-edged cel-animation city illustration, crisp ink contours, angular light and shadow shapes, slightly wide cinematic perspective and energetic diagonal composition. Architecture must remain recognizable; saturated cyan, hot orange and violet, with small adult figures giving scale. No existing anime characters or copied artworks.",
+    "palette": [
+      "#06BED4",
+      "#FF6B35",
+      "#5436A0",
+      "#FFE9B0"
+    ],
+    "layout_variant": 3,
+    "activity": "看展、建筑与书店",
+    "area": "朝阳区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "painting-lake",
+    "title": "画院到湖边",
+    "subtitle": "一场展加一圈水岸",
+    "area_label": "朝阳·团结湖",
+    "duration": "约3小时",
+    "transport": "地铁10号线团结湖站；步行接驳",
+    "stops": [
+      {
+        "name": "北京画院美术馆",
+        "detail": "看当期绘画展",
+        "lat": 39.9317993,
+        "lon": 116.46689096,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120370",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/234197416"
+      },
+      {
+        "name": "团结湖公园",
+        "detail": "环湖散步与休息",
+        "lat": 39.9244956,
+        "lon": 116.4585005,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101947",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/233218915"
+      }
+    ],
+    "practical_note": "画院参观查预约与展期。",
+    "copy_title": "朝阳·团结湖｜画院到湖边",
+    "copy_body": "看完画去湖边，让颜色从展厅回到日常。团结湖不大，适合把节奏放慢，留点时间坐着。 路线：北京画院美术馆 → 团结湖公园。约3小时，到首站和返程另计。画院参观查预约与展期。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "朝阳",
+      "画院到湖边"
+    ],
+    "hero_prompt_english": "Urban gallery facade and Tuanjiehu Park lake promenade united as a readable city scene: angular museum entrance at one side, curving lake railing and autumn foliage across the foreground. Adult visitor carries a plain sketchbook; hard-edged cel shading, no reproduced paintings. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "c4ce3bdef75f3cc30b7769084b9746508069b00a88c9191d44645952260e3b5e",
+      "bounds_wgs84": [
+        116.45434139785768,
+        39.921740728563016,
+        116.47105006214234,
+        39.93455376669189
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京画院美术馆",
+          "lon": 116.46689096,
+          "lat": 39.9317993,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "团结湖公园",
+          "lon": 116.4585005,
+          "lat": 39.9244956,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:10.154717+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京画院美术馆",
+          "source_url": "https://www.openstreetmap.org/way/234197416",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "团结湖公园",
+          "source_url": "https://www.openstreetmap.org/way/233218915",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京画院美术馆 → 团结湖公园",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "朝阳·团结湖",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "画院到湖边",
+        "box": [
+          49,
+          188,
+          394,
+          256
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "朝阳艺术与新鲜事  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "一场展加一圈水岸",
+        "box": [
+          55,
+          1013,
+          231,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京画院美术馆",
+        "box": [
+          413,
+          1117,
+          646,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看当期绘画展",
+        "box": [
+          416,
+          1153,
+          536,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  团结湖公园",
+        "box": [
+          413,
+          1194,
+          592,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "环湖散步与休息",
+        "box": [
+          416,
+          1230,
+          556,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "画院参观查预约与展期。",
+        "box": [
+          413,
+          1281,
+          611,
+          1299
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁10号线团结湖站；步行接驳",
+        "box": [
+          413,
+          1362,
+          697,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "04 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "019",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

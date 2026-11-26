@@ -1,0 +1,340 @@
+{
+  "output": "../beijing-life-changping-pencil-03-juyong-yuntai.png",
+  "refined_prompt": "../prompts/beijing-life-changping-pencil-03-juyong-yuntai.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:54:09.275116+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-changping-pencil",
+  "group_number": 9,
+  "series_number": 3,
+  "anthology_index": 43,
+  "title": "关城下看云台",
+  "sha256": "b3d645eb61559ab2b6dd8f483924bcf02d48a8d4cd216f8b067da1c6501b797f",
+  "native_sha256": "3e7d2ce3bc2843ed43a5a0bf159d0f37d83478e5a911c60ab57baf7327496ede",
+  "prompt_sha256": "853592510feb23515b5828a678699734f33b60435986ebf9a5753d96feaef9e4",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2300623,
+  "art_direction": {
+    "style_name": "彩铅自然手记",
+    "style_prompt_english": "Rich colored-pencil field-journal illustration: visible layered pencil hatching, warm paper tooth, carefully observed architectural perspective, close-up leaves and everyday objects integrated with a panoramic main scene. Dense edge-to-edge composition, no text.",
+    "palette": [
+      "#315D4D",
+      "#D9B34B",
+      "#BF5A44",
+      "#EEE3C8"
+    ],
+    "layout_variant": 3,
+    "activity": "遗产与放松",
+    "area": "昌平区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "juyong-yuntai",
+    "title": "关城下看云台",
+    "subtitle": "不用爬满长城也能看细节",
+    "area_label": "北京·昌平区",
+    "duration": "约2–3小时",
+    "transport": "地铁昌平线后接公交或出租车至景区",
+    "stops": [
+      {
+        "name": "居庸关云台",
+        "detail": "白石券门与石刻建筑细节",
+        "lat": 40.2890341,
+        "lon": 116.0682992,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101252",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/497788379"
+      },
+      {
+        "name": "居庸关关城广场",
+        "detail": "从平缓公共游线仰看关城",
+        "lat": 40.2890341,
+        "lon": 116.0682992,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101252",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/497788379"
+      }
+    ],
+    "practical_note": "本条只安排云台和关城下部，不把登城爬山算入轻松行程；按开放范围与票务出行。",
+    "copy_title": "昌平区｜关城下看云台",
+    "copy_body": "不用爬满长城也能看细节。这次只安排一个片区：居庸关云台 → 居庸关关城广场。建议留约2–3小时，把拍照、休息和短时参观一起算进去。本条只安排云台和关城下部，不把登城爬山算入轻松行程；按开放范围与票务出行。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "昌平区",
+      "北京小众玩法",
+      "遗产与放松"
+    ],
+    "hero_prompt_english": "Juyongguan Cloud Platform: a squat white marble platform with a broad central arched tunnel, finely carved stone edges and balustrades, with the Great Wall winding distantly over green-gold mountain slopes. Two adult visitors stand at ground level looking at stone architecture; no arduous hiking, no military action. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "2d6354a4071d639e17f3c4bd697fc39eb46a7ce594c717fafca70df04f88c221",
+      "bounds_wgs84": [
+        116.05994486785767,
+        40.28266118096954,
+        116.07665353214233,
+        40.295406418172064
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "居庸关云台",
+          "lon": 116.0682992,
+          "lat": 40.2890341,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "居庸关关城广场",
+          "lon": 116.0682992,
+          "lat": 40.2890341,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:17:57.487589+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "居庸关云台",
+          "source_url": "https://www.openstreetmap.org/way/497788379",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "居庸关关城广场",
+          "source_url": "https://www.openstreetmap.org/way/497788379",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "居庸关云台 → 居庸关关城广场",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·昌平区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "关城下看云台",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "昌平｜一页京北慢生活  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "不用爬满长城也能看细节",
+        "box": [
+          55,
+          1013,
+          297,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  居庸关云台",
+        "box": [
+          413,
+          1117,
+          592,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "白石券门与石刻建筑细节",
+        "box": [
+          416,
+          1153,
+          636,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  居庸关关城广场",
+        "box": [
+          413,
+          1194,
+          646,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "从平缓公共游线仰看关城",
+        "box": [
+          416,
+          1230,
+          636,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "本条只安排云台和关城下部，不把登城爬山算入轻松行程；按开放范",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "围与票务出行。",
+        "box": [
+          413,
+          1306,
+          539,
+          1324
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁昌平线后接公交或出租车至景区",
+        "box": [
+          413,
+          1362,
+          733,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "09 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "043",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "Generated Juyongguan Cloud Platform has a large roofed red-and-blue pavilion standing on top. The extant Cloud Platform is a squat white-marble platform with only a stone balustrade and no superstructure. This changes the core named landmark.",
+    "superseded_native_sha256": "6f3fd331603ad3bd9de2d2ee4b84018b70562ef2c906d63abcc9fe5cbf83b677",
+    "repaired_at": "2026-10-29T04:53:02.210797+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

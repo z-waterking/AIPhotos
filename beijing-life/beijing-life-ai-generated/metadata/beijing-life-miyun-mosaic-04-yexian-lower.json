@@ -1,0 +1,344 @@
+{
+  "output": "../beijing-life-miyun-mosaic-04-yexian-lower.png",
+  "refined_prompt": "../prompts/beijing-life-miyun-mosaic-04-yexian-lower.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:02:33.409556+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-miyun-mosaic",
+  "group_number": 14,
+  "series_number": 4,
+  "anthology_index": 69,
+  "title": "塔影下的轻松半日",
+  "sha256": "319ed6e474c4e3ba630adf449360ac96f786b90c03dfc120325a61e0823950d3",
+  "native_sha256": "9195fe81970e88c6efc93239b4cd4c2b0a743ab0ac3d47e81ec4dacaf51a3b43",
+  "prompt_sha256": "eaa2baf6b04b07d1b29c543e4ae6e827bb6fffdad5d90c484ad580ffdded213a",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2368486,
+  "art_direction": {
+    "style_name": "陶片马赛克",
+    "style_prompt_english": "Hand-set ceramic tessera mosaic illustration: irregular matte tile pieces, thin grout channels, directional tile flow shaping real architecture, water and trees. Rich cobalt, coral, pale jade and butter-yellow tiles; readable large silhouettes with tactile tessera detail rather than pixel art.",
+    "palette": [
+      "#285FAA",
+      "#ED7355",
+      "#99C5AE",
+      "#F5D579"
+    ],
+    "layout_variant": 3,
+    "activity": "公园与小度假",
+    "area": "密云区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "yexian-lower",
+    "title": "塔影下的轻松半日",
+    "subtitle": "只走山脚，不追求登顶",
+    "area_label": "北京·密云区",
+    "duration": "约2–3小时",
+    "transport": "密云城区公交或出租车至景区",
+    "stops": [
+      {
+        "name": "冶仙塔景区山脚区",
+        "detail": "从开放区域远看塔影",
+        "lat": 40.3999479,
+        "lon": 116.8646834,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118132",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/511018607"
+      },
+      {
+        "name": "下普照寺",
+        "detail": "沿正式院落游线看建筑",
+        "lat": 40.3999479,
+        "lon": 116.8646834,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118132",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/511018607"
+      }
+    ],
+    "practical_note": "有台阶；不包含登塔、登山和滑道，低处游线也需按体力与开放选择。",
+    "copy_title": "密云区｜塔影下的轻松半日",
+    "copy_body": "只走山脚，不追求登顶。这次只安排一个片区：冶仙塔景区山脚区 → 下普照寺。建议留约2–3小时，把拍照、休息和短时参观一起算进去。有台阶；不包含登塔、登山和滑道，低处游线也需按体力与开放选择。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "密云区",
+      "北京小众玩法",
+      "公园与小度假"
+    ],
+    "hero_prompt_english": "Yexian Pagoda scenic area on the edge of Miyun town: a small pale historic pagoda silhouette on a low wooded hill, the lower Puzhao Temple courtyard and simple tiled roofs in the foreground. Adult visitors remain on a formal lower paved courtyard. Golden autumn foliage, clear separation between distant hill and accessible ground-level scene; no climb or rides. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "c71f69e0496b633565b99e02aa3e605d4679a046653e4795f4d518c17351a118",
+      "bounds_wgs84": [
+        116.85632906785766,
+        40.393585450499806,
+        116.87303773214232,
+        40.40630974826026
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "冶仙塔景区山脚区",
+          "lon": 116.8646834,
+          "lat": 40.3999479,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "下普照寺",
+          "lon": 116.8646834,
+          "lat": 40.3999479,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:53.868584+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "冶仙塔景区山脚区",
+          "source_url": "https://www.openstreetmap.org/way/511018607",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "下普照寺",
+          "source_url": "https://www.openstreetmap.org/way/511018607",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "冶仙塔景区山脚区 → 下普照寺",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·密云区",
+        "box": [
+          52,
+          105,
+          244,
+          137
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "塔影下的轻松半日",
+        "box": [
+          49,
+          153,
+          489,
+          207
+        ],
+        "font_size": 55
+      },
+      {
+        "text": "密云｜城边的彩色慢游  ·  约2–3小时",
+        "box": [
+          52,
+          232,
+          449,
+          256
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "只走山脚，不追求登顶",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  冶仙塔景区山脚区",
+        "box": [
+          413,
+          1117,
+          673,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "从开放区域远看塔影",
+        "box": [
+          416,
+          1153,
+          596,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  下普照寺",
+        "box": [
+          413,
+          1194,
+          565,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿正式院落游线看建筑",
+        "box": [
+          416,
+          1230,
+          616,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "有台阶；不包含登塔、登山和滑道，低处游线也需按体力与开放选择",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "。",
+        "box": [
+          413,
+          1306,
+          431,
+          1312
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "密云城区公交或出租车至景区",
+        "box": [
+          413,
+          1362,
+          673,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "14 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "069",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ],
+    "compact_header": {
+      "bottom": 270,
+      "reason": "preserve tall landmark finial visibility"
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "Distant named Yexian Tower is a tall slender many-storey pagoda in generated image. Actual ridge landmark is compact two-level pavilion-like masonry structure with broad hipped roof, not a many-tier tower. Named title and route warrant correction even though distant.",
+    "superseded_native_sha256": "9c39a4564d7ff7f5e65400b784c560d0166a131124f48f88fef63fc94589195f",
+    "repaired_at": "2026-10-29T04:56:29.907175+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

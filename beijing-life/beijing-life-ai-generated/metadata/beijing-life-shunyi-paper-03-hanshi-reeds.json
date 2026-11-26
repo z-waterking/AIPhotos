@@ -1,0 +1,333 @@
+{
+  "output": "../beijing-life-shunyi-paper-03-hanshi-reeds.png",
+  "refined_prompt": "../prompts/beijing-life-shunyi-paper-03-hanshi-reeds.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:16.434781+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shunyi-paper",
+  "group_number": 8,
+  "series_number": 3,
+  "anthology_index": 38,
+  "title": "去芦苇里听风",
+  "sha256": "903225e11eabeb457b8b5430203b075a552c6452e00d195b9b99a7dda42ebbd7",
+  "native_sha256": "09197ababbe36d7ffe06440f7ac09a9a451721b8209c311c1a41473ef6f8bc30",
+  "prompt_sha256": "85fb6393b13bc2eed3a1c041a2932e482108eb93939b41e8ffe3e86e0c38d974",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1828768,
+  "art_direction": {
+    "style_name": "手工纸雕浮雕",
+    "style_prompt_english": "Layered cut-paper relief built from thick tactile colored cardstock, shallow physical shadows, sculptural architecture with clear stepped paper contours; bright daylight and a real three-dimensional paper diorama, not a flat photo filter.",
+    "palette": [
+      "#00A8A8",
+      "#F6C84A",
+      "#F07346",
+      "#F8EED6"
+    ],
+    "layout_variant": 2,
+    "activity": "艺术与自然",
+    "area": "顺义区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "hanshi-reeds",
+    "title": "去芦苇里听风",
+    "subtitle": "观鸟与慢走，不赶打卡",
+    "area_label": "北京·顺义区",
+    "duration": "约3小时",
+    "transport": "顺义城区公交或出租车接驳杨镇；首末交通另计",
+    "stops": [
+      {
+        "name": "汉石桥湿地景区",
+        "detail": "开放游览区看水面与大片芦苇",
+        "lat": 40.1253017,
+        "lon": 116.8000378,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117847",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/700757536"
+      },
+      {
+        "name": "汉石桥湿地观鸟厅",
+        "detail": "了解湿地鸟类，开放时入内",
+        "lat": 40.1253017,
+        "lon": 116.8000378,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117847",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/700757536"
+      }
+    ],
+    "practical_note": "仅走景区开放区域，不进入保护核心区；观鸟厅开放和观鸟结果不作保证。",
+    "copy_title": "顺义区｜去芦苇里听风",
+    "copy_body": "观鸟与慢走，不赶打卡。这次只安排一个片区：汉石桥湿地景区 → 汉石桥湿地观鸟厅。建议留约3小时，把拍照、休息和短时参观一起算进去。仅走景区开放区域，不进入保护核心区；观鸟厅开放和观鸟结果不作保证。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "顺义区",
+      "北京小众玩法",
+      "艺术与自然"
+    ],
+    "hero_prompt_english": "Hanshiqiao Wetland in Shunyi, dense tawny reeds rising from flat marsh water and a curving visitor boardwalk, autumn grasses, distant small herons. Two adult birdwatchers with binoculars remain on the public boardwalk, observing rather than feeding birds. The broad reed marsh is the distinctive landscape, no invented pagoda. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "e316238dde7b0aaa99143f303e0cda5901bd5e0b4610f5e9c75a1c0e2edda082",
+      "bounds_wgs84": [
+        116.79168346785767,
+        40.118913369378475,
+        116.80839213214233,
+        40.131689430342774
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "汉石桥湿地景区",
+          "lon": 116.8000378,
+          "lat": 40.1253017,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "汉石桥湿地观鸟厅",
+          "lon": 116.8000378,
+          "lat": 40.1253017,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:17:46.426877+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "汉石桥湿地景区",
+          "source_url": "https://www.openstreetmap.org/way/700757536",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "汉石桥湿地观鸟厅",
+          "source_url": "https://www.openstreetmap.org/way/700757536",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "汉石桥湿地景区 → 汉石桥湿地观鸟厅",
+        "box": [
+          52,
+          43,
+          480,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·顺义区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "去芦苇里听风",
+        "box": [
+          49,
+          188,
+          463,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "顺义｜把周末折成风景  ·  约3小时",
+        "box": [
+          52,
+          282,
+          422,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "观鸟与慢走，不赶打卡",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  汉石桥湿地景区",
+        "box": [
+          53,
+          1117,
+          286,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "开放游览区看水面与大片芦苇",
+        "box": [
+          56,
+          1153,
+          316,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  汉石桥湿地观鸟厅",
+        "box": [
+          53,
+          1194,
+          313,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "了解湿地鸟类，开放时入内",
+        "box": [
+          56,
+          1230,
+          296,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "仅走景区开放区域，不进入保护核心区；观鸟厅开放和观鸟结果不作保",
+        "box": [
+          53,
+          1281,
+          612,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "证。",
+        "box": [
+          53,
+          1306,
+          89,
+          1323
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "顺义城区公交或出租车接驳杨镇；首末交通另计",
+        "box": [
+          53,
+          1362,
+          473,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "08 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "038",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

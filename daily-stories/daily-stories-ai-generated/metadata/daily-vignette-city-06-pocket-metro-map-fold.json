@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-06-pocket-metro-map-fold.png",
+  "refined_prompt": "../prompts/daily-vignette-city-06-pocket-metro-map-fold.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-06-pocket-metro-map-fold-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 6,
+  "anthology_index": 76,
+  "panel_count": 4,
+  "display_title": "地图只剩一角",
+  "visible_description": "一张折不回去的游览图，最后只露出今天要走的那个角落。",
+  "synopsis": "阿远在广场打开一张画满建筑图形的游览图，越展开越大，几乎挡住自己的脸。准备收起时，他却找不回原来的折痕。朋友来到身旁，指了指他们眼前那座拱桥，阿远便只把画着桥的角落留在外面。两人沿河散步，剩下的地图稳稳待在口袋里，今天不必一次走完整座城。",
+  "story_text": "阿远在广场打开游览图，想先看看今天往哪儿走。图纸一层层展开，比他想象的大得多，等全部摊平，脸都快被挡住了。\n\n他打算先收好再等朋友，可折痕横一条竖一条，怎么对都多出一片角。刚折好的半边又弹开，河道和房屋在纸上挤来挤去。\n\n朋友走到旁边，没帮他找所有的折痕，只指了指眼前那座拱桥。阿远低头，在图上认出同样的弯桥，便把那一小角留在外面，其余轻轻折拢。\n\n两人沿河往桥边走，图纸稳稳待在外套口袋里，只露出蓝河和黄桥。阿远摸了摸那个角，觉得今天这样正好；等走到桥边，再决定要不要把别的街道请出来。",
+  "art_direction": "Geometric gouache paving with lively colored pencil gesture accents",
+  "character_design": "Ayuan is an adult man with close dark hair, a slate blue jacket, cream trousers, and brown shoes. His adult friend wears a rust coat and has a short wavy bob. The map is cream paper with simple pictorial buildings, a blue river, and one ochre arched bridge, containing absolutely no letters, numbers, or symbols requiring reading. Preserve these exact faces, proportions, clothing colors, and recurring props throughout all panels. Keep every figure fully clothed, gently expressive, and grounded in an ordinary peaceful setting. Objects and backgrounds have no legible writing, logos, or commercial designs.",
+  "panels": [
+    {
+      "caption": "地图一打开，差点遮住整张脸。",
+      "scene": "Ayuan stands on a broad city square holding a large unfolded cream map in both hands. Its purely pictorial design shows simple building shapes, a blue river, and an ochre arched bridge without any text or numbers. The paper rises nearly to his eyes. A real low arched bridge is visible across the quiet riverside behind him. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "收起来时，折痕忽然多得认不全。",
+      "scene": "Ayuan tries to refold the large map, but one broad triangular flap springs outward while another section hangs loosely below his hands. He looks at the mismatched edges with mild confusion. The pictorial river crosses several folds, making the paper’s awkward geometry visible. His friend approaches from the wide pedestrian path beside the square. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "朋友指了指桥，今天先走到那里。",
+      "scene": "The friend points toward the real ochre arched bridge across the river while Ayuan finds its matching pictorial shape on one map corner. He begins folding the rest of the sheet behind that small visible section. Their heads lean comfortably toward the same point, with the broad riverside path and actual bridge providing clear context. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "口袋只露一角，已经够走这一程。",
+      "scene": "Ayuan and his friend walk side by side along the level riverside path toward the low arched bridge. Most of the map is neatly folded inside his jacket pocket, with only its blue river and ochre bridge corner visible. He rests one hand lightly on the pocket, smiling as they begin the modest route they selected together. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DDD6BF",
+    "#779CA0",
+    "#BF9B6B",
+    "#A9838A",
+    "#8A9D76"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "地图一打开，差点遮住整张脸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "收起来时，折痕忽然多得认不全。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "朋友指了指桥，今天先走到那里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "口袋只露一角，已经够走这一程。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "ee54adb7f7d8718dccc7e6f6843f1b37053b1f6a7f72fe3da05c84a14d7ca0af",
+  "sha256": "136ee2005a794a45ceefe66ee4d6b2d4ae166ef9edf293222d5ecaf0efa512b3",
+  "prompt_sha256": "81e95e0168a5219e6e753927961147c89117522e132c7fd06b8af628af8d2108",
+  "story_sha256": "0c91027f2931d529324702be9f953b4c98e2b7d3d5c65c02decd03e1ad2384f4",
+  "created_at": "2026-10-26T10:30:25.531441+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

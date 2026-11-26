@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-seasons-07-first-scarf-bench.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-07-first-scarf-bench.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-07-first-scarf-bench-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 7,
+  "anthology_index": 67,
+  "panel_count": 4,
+  "display_title": "围巾太长",
+  "visible_description": "第一条手织围巾太长，恰好够两个人坐在一起。",
+  "synopsis": "秋末，小陈戴着刚织好的围巾出门，绕了两圈还垂到膝盖。他在长椅旁试着再绕一圈，却把下巴埋得不见了。来接他的姐姐笑着坐下，拉过多余的一端搭在自己肩上。两人于是不用急着走了，一起等着手里的热栗子慢慢凉下来。",
+  "story_text": "小陈织完第一条围巾，才发现它比自己想象的长了许多。出门时绕两圈，流苏仍垂到膝盖，走到公园，他决定再试一圈。\n\n这一圈绕完，下巴却没了。他捧着热栗子，空出一只手去找自己的围巾边。来接他的姐姐在长椅旁停住，笑得肩膀一动一动。\n\n两人坐下，姐姐拉过多出来的一端，轻轻搭在自己肩上。小陈松开脖子前面的一圈，终于能舒舒服服地低头看栗子了。\n\n栗子还烫，他们每人捏着一颗，谁也没有急着站起来。长围巾在两件外套之间连成一个柔软的弧。小陈看了看剩下的流苏，忽然不打算把它拆短了。",
+  "art_direction": "Warm gouache masses with chunky colored pencil knitted loops",
+  "character_design": "Chen is an adult man with short wavy black hair, a navy coat, tan trousers, and dark shoes. His adult older sister has a chin length bob, an olive wool coat, and cream trousers. The very long hand knitted rust scarf is wide and soft; they each carry a small unmarked paper cone of chestnuts. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "第一条围巾，比想象中长。",
+      "scene": "Chen stands beside a park bench in late autumn wearing a rust scarf wound twice around his neck, with both ends still hanging near his knees. He looks down at the long fringe with puzzled pride. Bare branches and pale leaves frame the bench. A small paper cone of chestnuts rests carefully in one hand. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "再绕一圈，下巴就失踪了。",
+      "scene": "Chen has added another loose scarf loop, which now rises comically over his chin without covering his nose or restricting him. He lifts one edge with his free hand, mildly embarrassed. His sister approaches the bench carrying her own chestnuts, smiling as she notices the great soft mound around his neck. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "姐姐借走多出来的半条。",
+      "scene": "Both siblings sit on the bench as the sister gently lays one long scarf end across her own shoulders. Chen loosens the extra loop, his chin visible again. Their hands hold the paper cones safely above their laps. The scarf forms a soft rust colored bridge between their coats without binding their bodies. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "栗子还烫，就再坐一会儿。",
+      "scene": "The siblings sit comfortably close on the bench, sharing the long scarf across their shoulders. Chen holds one chestnut delicately above his open paper cone while his sister blows softly on another. Their expressions are patient and amused. A few dry leaves collect beneath their shoes in the quiet late autumn park. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DCC9AF",
+    "#A95F55",
+    "#6D8592",
+    "#8E8D68",
+    "#F1E3CD"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "第一条围巾，比想象中长。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "再绕一圈，下巴就失踪了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "姐姐借走多出来的半条。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "栗子还烫，就再坐一会儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "36479c593baa1918dbcb14b09cf9042176091365aa58684eeca25f131a109f47",
+  "sha256": "d5225e7765dcc693dedf97a45a14e70cbbd637063db6f8cdb3ffe204147a62fb",
+  "prompt_sha256": "0a8c6fb604003bcade6f8ca6f446dcfdae7d525164fc2fd7ffaba5087b832511",
+  "story_sha256": "878eb3e0029643532f1bea59efd2a2695b222889425093fd13429d7353ebfd0e",
+  "created_at": "2026-10-26T10:23:21.389125+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

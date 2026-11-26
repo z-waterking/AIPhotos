@@ -1,0 +1,322 @@
+{
+  "output": "../beijing-life-yanqing-postcards-04-liugou-meal.png",
+  "refined_prompt": "../prompts/beijing-life-yanqing-postcards-04-liugou-meal.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:58:25.932058+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-yanqing-postcards",
+  "group_number": 15,
+  "series_number": 4,
+  "anthology_index": 74,
+  "title": "柳沟豆腐小旅行",
+  "sha256": "55fa27bbae623bcb50cac8c2af1a64fdcbd0b8af35a177f86241e2f8e194bf3f",
+  "native_sha256": "df18df4b0833f0e55ba350cef2417cf5b0f0956af78a789c7f7dacb1e883ab43",
+  "prompt_sha256": "d282c74b838ef351671954934c4a57575a0ceee0c34bbd690008f6f40553605a",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2524541,
+  "art_direction": {
+    "style_name": "复古旅行邮票",
+    "style_prompt_english": "Original vintage engraved travel-postage illustration, intricate cross-hatching, saturated spot inks, large monumental framing, tiny scenic vignettes, fine perforation-inspired edge rhythm integrated into a full-bleed design, no lettering or numerals. Architectural features remain realistic. Not a recreation of any actual stamp.",
+    "palette": [
+      "#173B50",
+      "#E46338",
+      "#E9B951",
+      "#C9DDD2"
+    ],
+    "layout_variant": 4,
+    "activity": "湖岸散步／古城／园艺",
+    "area": "延庆区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "liugou-meal",
+    "title": "柳沟豆腐小旅行",
+    "subtitle": "村巷散步加一顿家常饭",
+    "area_label": "延庆·井庄镇",
+    "duration": "约3小时",
+    "transport": "延庆城区公交或出租车到柳沟；村内步行",
+    "stops": [
+      {
+        "name": "柳沟民俗村",
+        "detail": "村巷与家常豆腐宴",
+        "lat": 40.4445992,
+        "lon": 116.0923393,
+        "coordinate_status": "OSM village representative estimated from local map; source linked to nearby named village bus stop, not claimed exact entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120391",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/11404919074"
+      },
+      {
+        "name": "柳沟古城北门",
+        "detail": "古城门外观",
+        "lat": 40.4484499,
+        "lon": 116.088225,
+        "coordinate_status": "OSM named north gate feature centroid; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120391",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1337063441"
+      }
+    ],
+    "practical_note": "餐饮以当日营业为准；古城墙不攀爬，接驳时间另计。",
+    "copy_title": "柳沟豆腐小旅行｜北京周末灵感",
+    "copy_body": "村巷散步加一顿家常饭。柳沟民俗村 → 柳沟古城北门，安排约3小时。从村巷与家常豆腐宴到古城门外观，留点时间给自己。餐饮以当日营业为准；古城墙不攀爬，接驳时间另计。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "延庆"
+    ],
+    "hero_prompt_english": "Liugou village Yanqing, a modest weathered stone-and-brick arched village gate and gray tiled courtyard lanes, foreground ceramic bowls of tofu and seasonal vegetables on a rustic table, rising steam, two adults sharing a peaceful simple meal. No brand, no invented imperial architecture. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "a44b3c2df535ff9ad65b53b05fcaa67ca83316fa361867dc74c2d3a73951094d",
+      "bounds_wgs84": [
+        116.08192781785766,
+        40.4401665317191,
+        116.09863648214233,
+        40.45288202203717
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "柳沟民俗村",
+          "lon": 116.0923393,
+          "lat": 40.4445992,
+          "coordinate_status": "OSM village representative estimated from local map; source linked to nearby named village bus stop, not claimed exact entrance"
+        },
+        {
+          "name": "柳沟古城北门",
+          "lon": 116.088225,
+          "lat": 40.4484499,
+          "coordinate_status": "OSM named north gate feature centroid; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:06.714577+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "柳沟民俗村",
+          "source_url": "https://www.openstreetmap.org/node/11404919074",
+          "status": "OSM village representative estimated from local map; source linked to nearby named village bus stop, not claimed exact entrance"
+        },
+        {
+          "name": "柳沟古城北门",
+          "source_url": "https://www.openstreetmap.org/way/1337063441",
+          "status": "OSM named north gate feature centroid; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "柳沟民俗村 → 柳沟古城北门",
+        "box": [
+          52,
+          43,
+          376,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "延庆·井庄镇",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "柳沟豆腐小旅行",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "延庆·山水慢假日  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "村巷散步加一顿家常饭",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  柳沟民俗村",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "村巷与家常豆腐宴",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  柳沟古城北门",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "古城门外观",
+        "box": [
+          56,
+          1230,
+          156,
+          1250
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "餐饮以当日营业为准；古城墙不攀爬，接驳时间另计。",
+        "box": [
+          53,
+          1281,
+          485,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "延庆城区公交或出租车到柳沟；村内步行",
+        "box": [
+          53,
+          1362,
+          413,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "15 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "074",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

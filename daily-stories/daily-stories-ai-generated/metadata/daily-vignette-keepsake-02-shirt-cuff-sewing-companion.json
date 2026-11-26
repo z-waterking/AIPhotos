@@ -1,0 +1,213 @@
+{
+  "output": "../daily-vignette-keepsake-02-shirt-cuff-sewing-companion.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-02-shirt-cuff-sewing-companion.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-02-shirt-cuff-sewing-companion-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 2,
+  "anthology_index": 2,
+  "panel_count": 6,
+  "display_title": "袖口小帮手",
+  "visible_description": "一件穿旧的条纹衬衣，留下袖口陪奶奶继续做针线。",
+  "synopsis": "奶奶整理衣柜，摸到那件袖肘磨薄的蓝条纹衬衣，迟迟没有放进旧布袋。来帮忙的孙女发现，她做针线时总要伸手去够桌角的小垫子。两人把完好的袖口取下来，缝上柔软的圆布包，扣回奶奶腕上。奶奶试着缝好一只布兔子的耳朵，孙女又把衬衣原来的小纽扣缀在兔子胸前。",
+  "story_text": "奶奶收衣柜，最后才拿起那件蓝条纹衬衣。袖肘磨得透亮，袖口倒还结实。她把衣服放进旧布袋，又抽出来，慢慢抚平了领子。\n\n孙女没有催。她看见奶奶拿起布兔子，手却要越过半张桌子去够针线垫，便把那只完好的袖口轻轻圈在自己腕上。宽度刚好，还留着原来的扣子。\n\n两人拆下袖口，缝上一只填得鼓鼓的软布包。奶奶扣好它，抬手、转腕，先笑了起来：这下不用总在桌角找东西了。\n\n布兔子的耳朵很快缝稳。孙女挑出衬衣上一枚小纽扣，缀在兔子胸前。奶奶把兔子举到窗边看，腕上的蓝条纹跟着晃了一下，像刚整理好的衣袖。",
+  "art_direction": "Opaque gouache with fine colored-pencil stitch details on warm textured paper",
+  "character_design": "The grandmother is a Chinese woman in her early seventies with silver hair in a low bun, softly lined cheeks, and thin round reading glasses. She wears a sage-green long-sleeved blouse, charcoal loose trousers, and beige slippers. Her adult granddaughter has straight black hair in a low ponytail and wears a dusty coral cotton shirt with rolled sleeves and cream trousers. The old shirt is pale blue with narrow white vertical stripes, cream buttons, and noticeably faded elbow fabric.",
+  "panels": [
+    {
+      "caption": "奶奶把旧衬衣又从布袋里拿了出来。",
+      "scene": "At an open wooden wardrobe, the grandmother sits on a low chair with the pale blue striped shirt spread across her knees. One thin elbow catches the light, while its broad intact cuff lies over her palm. Her granddaughter kneels beside an open cloth bag of clean fabric scraps and notices the grandmother's lingering touch. A simple sewing table stands in the background, with a small round pincushion inconveniently far from the chair. Keep the feeling thoughtful but light, without tears or theatrical sadness."
+    },
+    {
+      "caption": "桌角的小垫子，总比她的手远一点。",
+      "scene": "The grandmother is at her sewing table, leaning forward with one hand reaching toward the small round pincushion at the far corner. Her other hand holds an unfinished plain cloth rabbit in her lap. The granddaughter stands beside her and notices the long reach, looking from the distant cushion down toward the intact striped cuff of the old shirt folded nearby. Compose this as a clear discovery moment, with the grandmother's extended arm and the available cloth visibly related, using soft window light across the table."
+    },
+    {
+      "caption": "她先把旧袖口，轻轻圈在自己的腕上。",
+      "scene": "The granddaughter wraps the intact blue striped shirt cuff around her own wrist, aligning its original cream button with the buttonhole to test the fit. Grandmother watches closely from her chair, holding the small cloth rabbit in her lap. The old shirt body hangs softly over the table edge. A folded peach fabric square lies nearby, suggesting the padding they are considering without showing a finished object yet."
+    },
+    {
+      "caption": "一只旧袖口，长出软软的布包。",
+      "scene": "A close tabletop composition shows the granddaughter securing a softly stuffed peach-colored fabric dome to the detached blue striped cuff while the grandmother steadies the cuff with both hands. Several short straight pins sit safely embedded in the padded dome, with their round colored heads visible. Keep all sharp points concealed inside the padding. The cuff's original cream button remains attached and usable. Nearby lie folded shirt fabric and the unfinished cloth rabbit. Emphasize fabric grain, tidy stitches, and two generations working comfortably side by side."
+    },
+    {
+      "caption": "扣上原来的扣子，奶奶转了转手腕。",
+      "scene": "Grandmother tries the finished striped cuff pincushion on her left wrist for the first time, turning her forearm gently to inspect the soft peach dome. Her granddaughter fastens the original cream button and smiles at the comfortable fit. The unfinished cloth rabbit lies beside folded shirt fabric on the table. Keep the round pin heads embedded in the cushion and all points concealed, making the test calm and practical."
+    },
+    {
+      "caption": "袖口陪她缝兔子，纽扣也没有闲着。",
+      "scene": "The grandmother sits comfortably upright, wearing the finished striped cuff pincushion on her left wrist while holding a completed small cloth rabbit in both hands. Its ears are neatly attached, and one familiar cream shirt button decorates its chest. Her granddaughter, seated beside her, adjusts the rabbit's little fabric collar with a pleased smile. The distant table corner is now empty except for a folded cloth. Bring their hands, the wrist cushion, and the rabbit together in a warm close composition without showing active needlework."
+    }
+  ],
+  "palette": [
+    "#EFE3CD",
+    "#7998AC",
+    "#CE9B86",
+    "#6A7560",
+    "#7E6858"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "奶奶把旧衬衣又从布袋里拿了出来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "桌角的小垫子，总比她的手远一点。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "她先把旧袖口，轻轻圈在自己的腕",
+          "上。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "一只旧袖口，长出软软的布包。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "扣上原来的扣子，奶奶转了转手腕。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "袖口陪她缝兔子，纽扣也没有闲着。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "aad10105be90a53c1297607a1b6fe067d3879c68b4603f0bdc2a82d2663310f8",
+  "sha256": "c8508c3992723d2b273aa6ff952a312e1b0dc850191f0fe3eaed521642f08312",
+  "prompt_sha256": "a1295de9bebb6bf8c0fb560b4f5fb064f53bb74eba4386714cf414e4db578571",
+  "story_sha256": "b106aa24425947337df996fcbcf24e37f849ac3228b86d236e3b8935d106446b",
+  "created_at": "2026-10-26T09:43:32.098724+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

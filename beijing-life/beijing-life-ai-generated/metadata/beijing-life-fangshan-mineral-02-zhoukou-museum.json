@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-fangshan-mineral-02-zhoukou-museum.png",
+  "refined_prompt": "../prompts/beijing-life-fangshan-mineral-02-zhoukou-museum.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:46.684230+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fangshan-mineral",
+  "group_number": 12,
+  "series_number": 2,
+  "anthology_index": 57,
+  "title": "给远古一个下午",
+  "sha256": "0d5289b589d165cb8ba909be54f696bb334e3158f02a4cb93d0087fb965ab4fc",
+  "native_sha256": "307345a316d29af50379714fc9e3af0aa85cfbf3d5b17cc534f21956b42640af",
+  "prompt_sha256": "0c56b2f7be5cb740eb063bb4b9d47b32b42e4d03f4baf6ee22bd2158d3bd96a0",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1914971,
+  "art_direction": {
+    "style_name": "矿物色壁画",
+    "style_prompt_english": "Original mineral-pigment architectural mural illustration on finely textured plaster, flat lapis blue and malachite green planes, warm ochre stone, elegant crisp fine contours and decorative layered hills. Make recognizable modern and historic places, no copying religious murals or named artists.",
+    "palette": [
+      "#275CA1",
+      "#379078",
+      "#C98B42",
+      "#F0D9B1"
+    ],
+    "layout_variant": 1,
+    "activity": "园林与文化",
+    "area": "房山区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "zhoukou-museum",
+    "title": "给远古一个下午",
+    "subtitle": "从博物馆读懂周口店",
+    "area_label": "北京·房山区",
+    "duration": "约2–3小时",
+    "transport": "房山线后换公交或出租车至周口店博物馆",
+    "stops": [
+      {
+        "name": "周口店遗址博物馆",
+        "detail": "认识考古、地层和石器",
+        "lat": 39.6863323,
+        "lon": 115.9309648,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101537",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1090515798"
+      },
+      {
+        "name": "周口店遗址博物馆室外广场",
+        "detail": "看建筑与龙骨山环境",
+        "lat": 39.6863323,
+        "lon": 115.9309648,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101537",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1090515798"
+      }
+    ],
+    "practical_note": "本条不包含遗址公园登坡；博物馆与遗址公园票务、入口分开确认。",
+    "copy_title": "房山区｜给远古一个下午",
+    "copy_body": "从博物馆读懂周口店。这次只安排一个片区：周口店遗址博物馆 → 周口店遗址博物馆室外广场。建议留约2–3小时，把拍照、休息和短时参观一起算进去。本条不包含遗址公园登坡；博物馆与遗址公园票务、入口分开确认。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "房山区",
+      "北京小众玩法",
+      "园林与文化"
+    ],
+    "hero_prompt_english": "Zhoukoudian Site Museum in Fangshan: a modern low angular building with faceted earth-colored stone cladding inspired by fractured stone tools, museum forecourt and low limestone hills beyond. An adult visitor holds a small guidebook; foreground contains abstract archaeological stone-tool and sediment-layer study motifs, no human remains, skeletons or frightening scenes. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "2c92acbd78267a17679308d96d2176cf1ed64aeae81b28a6f02aab665fc8eae2",
+      "bounds_wgs84": [
+        115.92261046785767,
+        39.679902908442564,
+        115.93931913214233,
+        39.6927610929295
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "周口店遗址博物馆",
+          "lon": 115.9309648,
+          "lat": 39.6863323,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "周口店遗址博物馆室外广场",
+          "lon": 115.9309648,
+          "lat": 39.6863323,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:31.579220+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "周口店遗址博物馆",
+          "source_url": "https://www.openstreetmap.org/way/1090515798",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "周口店遗址博物馆室外广场",
+          "source_url": "https://www.openstreetmap.org/way/1090515798",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "周口店遗址博物馆 → 周口店遗址博物馆室外广场",
+        "box": [
+          52,
+          43,
+          610,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·房山区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "给远古一个下午",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "房山｜石色与水光  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "从博物馆读懂周口店",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  周口店遗址博物馆",
+        "box": [
+          413,
+          1117,
+          673,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "认识考古、地层和石器",
+        "box": [
+          416,
+          1153,
+          616,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  周口店遗址博物馆室外广场",
+        "box": [
+          413,
+          1194,
+          781,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看建筑与龙骨山环境",
+        "box": [
+          416,
+          1230,
+          596,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "本条不包含遗址公园登坡；博物馆与遗址公园票务、入口分开确认。",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "房山线后换公交或出租车至周口店博物馆",
+        "box": [
+          413,
+          1362,
+          773,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "12 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "057",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

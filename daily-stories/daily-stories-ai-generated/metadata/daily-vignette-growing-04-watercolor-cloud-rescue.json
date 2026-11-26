@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-growing-04-watercolor-cloud-rescue.png",
+  "refined_prompt": "../prompts/daily-vignette-growing-04-watercolor-cloud-rescue.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-growing-04-watercolor-cloud-rescue-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-growing",
+  "group": "growing",
+  "series_number": 4,
+  "anthology_index": 84,
+  "panel_count": 4,
+  "display_title": "云从水里来",
+  "visible_description": "第一次画的天空流成一团，他便留出一朵慢慢散开的云。",
+  "synopsis": "学水彩的第一天，阿蓝想画一片干净的蓝天，水却放得太多，蓝色沿着纸面到处跑。他停下画笔，用干纸巾轻轻按住最深的地方。纸巾拿开后，那里出现了一块柔软的白。等画晾干，他只添了远处一条细细的山线，那团原本的失手变成了天空里最蓬松的一朵云。",
+  "story_text": "阿蓝第一次画水彩，只想画一片简单的蓝天。他把纸润湿，又让画笔在水杯里停得久了些，蓝色一落上去，便沿着纸面四处跑开。\n\n他举着画笔，看那团深蓝越变越大。想补救，却又担心再添一笔会更乱，最后伸手拿起桌边的纸巾，轻轻按住颜色最深的一处。\n\n纸巾抬起来，蓝里出现了一块柔软的白，边缘还是毛茸茸的。阿蓝把纸晾平，等它完全干了，只在最下面添了一条淡淡的山线。\n\n下午，他举着画好的天空对着窗户看。白云蓬松地待在山上方，仿佛本来就应该在那里。桌上的纸巾染成深蓝，他没有马上扔掉，先把它折好放在画旁边。",
+  "art_direction": "Transparent gouache wash effect with restrained colored pencil landscape line",
+  "character_design": "Alan is an adult man with close cropped black hair, a pale blue cotton shirt, tan trousers, and round glasses. He paints at a small wooden table using a plain ceramic water cup, one soft brush, white tissue, and thick ivory paper. The final simple landscape has one broad cloud and a low muted green mountain line. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "他想画一片清清爽爽的天。",
+      "scene": "Alan sits at a small wooden table, touching a soft brush loaded with pale blue color to damp ivory paper. A plain ceramic water cup stands well away from the page edge. He leans forward with attentive beginner concentration. The visible painting contains only a spreading blue wash, leaving the rest of the composition uncluttered. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "水多了一点，蓝色跑开了。",
+      "scene": "Alan lifts the brush and watches a darker blue pool spread unevenly across the damp paper. His free hand hovers above a folded white tissue nearby. The water cup and small palette remain steady on the table. His expression shows mild surprise, while the irregular wash makes the unintended change immediately visible. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "轻轻一按，纸上出现了柔软的白。",
+      "scene": "Alan presses a folded clean tissue gently onto the darkest blue patch, lifting some color from the wet paper. One edge of a pale cloud shaped area is already visible beside his fingers. The brush rests across the water cup. His posture is careful and unhurried, with the tissue action clearly centered in the panel. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "那朵云，成了他最喜欢的地方。",
+      "scene": "Alan holds the dry finished painting up near the window, showing a broad soft white cloud in a pale blue sky above one thin green mountain line. He studies the cloud with a pleased smile. A blue stained tissue lies on the table beneath the picture, quietly recording how the cloud first appeared. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E4DFC9",
+    "#7FACC0",
+    "#A8BEBC",
+    "#8A9B7A",
+    "#A78D71"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "他想画一片清清爽爽的天。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "水多了一点，蓝色跑开了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "轻轻一按，纸上出现了柔软的白。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "那朵云，成了他最喜欢的地方。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "180c28a85e3ed486cf8c5df2b43d5fbef8b19b80d9d4743f47eb1987629e420f",
+  "sha256": "c5e20b5e2fd9f43634e0e4566645b1280e4f83fe62c5d21da1c63a131b8bcef4",
+  "prompt_sha256": "5f7b16ca258e7d6bdf803950a7242ce9c31192ac7988a013d39b5f78e6bf19f2",
+  "story_sha256": "e33a18d4a20d9b10942307682fb72ef9603f17a31d419dbfe3c61b1a58155bc3",
+  "created_at": "2026-10-26T10:36:35.270234+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

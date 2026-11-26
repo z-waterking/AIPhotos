@@ -1,0 +1,163 @@
+{
+  "output": "../daily-vignette-family-10-aunt-nephew-unexpected-dance-partner.png",
+  "refined_prompt": "../prompts/daily-vignette-family-10-aunt-nephew-unexpected-dance-partner.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-10-aunt-nephew-unexpected-dance-partner-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 10,
+  "anthology_index": 20,
+  "panel_count": 4,
+  "display_title": "慢半拍舞伴",
+  "visible_description": "外甥陪姑姑练习舞步，忙着照顾彼此的两个人终于找到了同一个节拍。",
+  "synopsis": "姑姑想学一段轻快的舞，外甥自告奋勇陪她练。两人对着电视，一会儿各往一边，一会儿又同时停下来等对方，越认真越跟不上。姑姑关掉播放，只让外甥拍出简单的节奏，自己跟着走四步。外甥也加入后，两人终于踩到一起。奶奶端水果经过，脚下不知不觉跟了两步，三个人就这样绕过了客厅的小地毯。",
+  "story_text": "姑姑想学一小段轻快的舞，外甥说可以陪练。椅子挪开，地毯让到一边，两个人站得端正，对着屏幕同时抬起脚。\n\n没跳几下，他们就停了。姑姑等外甥转身，外甥等姑姑跟上；一个往左，一个往右，越照顾对方，越找不到一起落脚的时候。\n\n姑姑关掉画面，先请外甥慢慢拍手。她跟着走四步，回原位，再来一次。等脚下熟了，外甥站到旁边，这回两人的鞋终于朝同一个方向移动。\n\n奶奶端着水果经过，起初只是站住看，脚尖却不知不觉跟着挪了两下。姑姑给她让出位置，外甥也放慢节奏。三个人绕着地毯走了小小半圈，果盘里的橘子稳稳当当，一瓣也没掉。",
+  "art_direction": "Rhythmic gouache with loose colored-pencil movement and generous warm paper space",
+  "character_design": "The aunt is a Chinese woman in her late thirties with a shoulder-length dark bob and a cheerful round face. She wears a loose plum long-sleeved top, cream trousers, and soft flat indoor shoes. Her fifteen-year-old nephew has short black hair and wears a teal sweatshirt, navy trousers, and plain sneakers. The grandmother has a silver bun and wears a mustard cardigan with brown trousers and slippers. All dance movements are small ordinary side steps, with relaxed arms and enough open floor space around a rectangular woven rug.",
+  "panels": [
+    {
+      "caption": "姑姑想学跳舞，他说自己可以陪练。",
+      "scene": "In a bright living room with chairs moved safely aside, the aunt and her teenage nephew stand facing a television that shows only indistinct colored silhouettes. Both raise one relaxed hand and prepare for a small side step, watching attentively. A rectangular woven rug lies behind them rather than under their moving feet. The nephew looks confident and the aunt eager. Keep the television secondary, with no recognizable performers, text, or interface details, while their fully clothed figures and the clear open floor establish a casual family practice session."
+    },
+    {
+      "caption": "一个等一个，反而总慢了半拍。",
+      "scene": "The aunt has paused with one foot slightly to the left while her nephew pauses with his foot slightly to the right. They turn to look at each other, both holding open palms as if politely waiting for the other to continue. Their mismatched directions form a gentle visual joke without exaggerated or athletic poses. The television still glows indistinctly at the edge of the frame. Keep plenty of space between them and the furniture, and show their amusement growing as careful cooperation accidentally makes the simple dance harder."
+    },
+    {
+      "caption": "先关掉画面，只听他拍手的节奏。",
+      "scene": "The television is now dark. The nephew stands still near the wall, clapping his hands at chest height to mark a simple steady rhythm, while the aunt takes one small deliberate side step across the open floor. She looks toward his hands rather than the screen, shoulders relaxed and expression newly confident. The remote rests on a nearby table. Show a single clap and one visible step, without musical notes or motion sequences, using the spacing between their figures to make the simplified practice method immediately clear."
+    },
+    {
+      "caption": "终于走到一起，奶奶端水果也跟了两步。",
+      "scene": "The aunt and nephew now take the same small side step together, smiling at one another with relaxed arms. Grandmother passes beside them carrying a shallow plate of peeled fruit in both hands, and her feet quietly mirror their step as she joins the gentle rhythm. Arrange the three figures in a loose curve around the edge of the woven rug, leaving the floor uncluttered. The dark television remains in the background. This is a light ordinary family movement, with the fruit plate level and everyone comfortably balanced."
+    }
+  ],
+  "palette": [
+    "#EEE0C7",
+    "#AA7E94",
+    "#719C9E",
+    "#D0AB63",
+    "#8C8D74"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "姑姑想学跳舞，他说自己可以陪练。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "一个等一个，反而总慢了半拍。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "先关掉画面，只听他拍手的节奏。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "终于走到一起，奶奶端水果也跟了",
+          "两步。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "bf933b364e7441fbb16158aca53ea7332ae35e7227665814a3ca02eba741b73a",
+  "sha256": "13fccd5e1cce97d4c96cf74e261514cee0db0cd4b1e600eccfae2c65c8e51222",
+  "prompt_sha256": "c7434181b43b2c1f242e7a262598eba7efbc0eff6e3172682dc2e20d8b50505f",
+  "story_sha256": "a59fc3181952b59662b236be9591a3418cda36b3187b819ecefaa751a3d3733e",
+  "created_at": "2026-10-26T09:54:22.086805+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

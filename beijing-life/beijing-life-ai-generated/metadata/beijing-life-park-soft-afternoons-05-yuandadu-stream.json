@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-park-soft-afternoons-05-yuandadu-stream.png",
+  "refined_prompt": "../prompts/beijing-life-park-soft-afternoons-05-yuandadu-stream.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:06.976022+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-park-soft-afternoons",
+  "group_number": 18,
+  "series_number": 5,
+  "anthology_index": 90,
+  "title": "小月河边慢一格",
+  "sha256": "c0dbf96c0ad31cf0c0df17b2e3813efc649908b1fd7e7f2ced5bb203d2919a2c",
+  "native_sha256": "265af47e438630610127e662ccd28c4ff8a48f48ef971e2aea063e8ef9473e38",
+  "prompt_sha256": "8f1f7cf806f2e16c0ef4d1dc081c5a92ce631809cfe7cb3dd011ac9382bf214e",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2292660,
+  "art_direction": {
+    "style_name": "浓色油画棒",
+    "style_prompt_english": "Rich expressive oil-pastel travel illustration, thick waxy marks, vibrant overlapping scumbles, highly tactile directional strokes, strong sunlit color patches and deep blue shadows, softly simplified but identifiable real landscape forms, foreground foliage overflowing frame. No text, no picture frame.",
+    "palette": [
+      "#134857",
+      "#F39442",
+      "#DDC86A",
+      "#E66A75",
+      "#50886B"
+    ],
+    "layout_variant": 2,
+    "activity": "看湖／散步／写生",
+    "area": "北京三四环周边"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "yuandadu-stream",
+    "title": "小月河边慢一格",
+    "subtitle": "城垣边走一段日常绿道",
+    "area_label": "北三四环之间·元大都",
+    "duration": "约2–3小时",
+    "transport": "地铁健德门站到安贞门站一带；步行",
+    "stops": [
+      {
+        "name": "元大都城垣遗址公园",
+        "detail": "土城遗址与林间游路",
+        "lat": 39.974502,
+        "lon": 116.3786208,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117825",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/990439598"
+      },
+      {
+        "name": "小月河",
+        "detail": "河道与岸边步道",
+        "lat": 39.97455,
+        "lon": 116.3916,
+        "coordinate_status": "Approximate stream-side area within named eastern park section; WGS84; path not surveyed",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117825",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/232724487"
+      }
+    ],
+    "practical_note": "选公园开放平路；不攀爬保护土城，步行长度可按体力缩短。",
+    "copy_title": "小月河边慢一格｜北京周末灵感",
+    "copy_body": "城垣边走一段日常绿道。元大都城垣遗址公园 → 小月河，安排约2–3小时。从土城遗址与林间游路到河道与岸边步道，留点时间给自己。选公园开放平路；不攀爬保护土城，步行长度可按体力缩短。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "北三四环之间"
+    ],
+    "hero_prompt_english": "Yuan Dadu City Wall Relics Park Beijing, a long low grass-covered earthen rampart beside Xiaoyue River, narrow quiet watercourse, tall poplars golden in autumn, a level footpath and a modest bridge, two adults strolling at comfortable distance. Do not invent a tall crenellated stone Great Wall. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "bc800dec58abd38680e1dffefbfa02ce124acd6f0a868778a13e952a36e5b84b",
+      "bounds_wgs84": [
+        116.37505151999999,
+        39.96681714224055,
+        116.39516927999999,
+        39.982233988347524
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "元大都城垣遗址公园",
+          "lon": 116.3786208,
+          "lat": 39.974502,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "小月河",
+          "lon": 116.3916,
+          "lat": 39.97455,
+          "coordinate_status": "Approximate stream-side area within named eastern park section; WGS84; path not surveyed"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:51.138184+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "元大都城垣遗址公园",
+          "source_url": "https://www.openstreetmap.org/way/990439598",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "小月河",
+          "source_url": "https://www.openstreetmap.org/way/232724487",
+          "status": "Approximate stream-side area within named eastern park section; WGS84; path not surveyed"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "元大都城垣遗址公园 → 小月河",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北三四环之间·元大都",
+        "box": [
+          52,
+          133,
+          372,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "小月河边慢一格",
+        "box": [
+          49,
+          188,
+          532,
+          256
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "三四环周边·公园放空  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "城垣边走一段日常绿道",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  元大都城垣遗址公园",
+        "box": [
+          53,
+          1117,
+          340,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "土城遗址与林间游路",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  小月河",
+        "box": [
+          53,
+          1194,
+          178,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "河道与岸边步道",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "选公园开放平路；不攀爬保护土城，步行长度可按体力缩短。",
+        "box": [
+          53,
+          1281,
+          539,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁健德门站到安贞门站一带；步行",
+        "box": [
+          53,
+          1362,
+          373,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "18 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "090",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

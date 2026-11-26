@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-01-last-bubble-skyline.png",
+  "refined_prompt": "../prompts/daily-vignette-city-01-last-bubble-skyline.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-01-last-bubble-skyline-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 1,
+  "anthology_index": 71,
+  "panel_count": 4,
+  "display_title": "最后一颗泡泡",
+  "visible_description": "瓶底最后一点泡泡水，吹出了一座倒过来的小小城市。",
+  "synopsis": "小敏在广场边吹泡泡，热闹的小泡泡很快用完了，瓶底只剩浅浅一点水。她把瓶子倾斜，让圆环慢慢沾满，再放轻呼吸吹了一口。这次出来的只有一颗，却格外圆大。妈妈蹲到她身旁，两人看着泡泡里倒映的楼房和树，等它晃晃悠悠飘过长椅，像一座刚刚起飞的小城。",
+  "story_text": "小敏坐在广场的长椅边，吹出一串又一串小泡泡。阳光一照，它们变成彩色，飘到半空便很快散开，她又赶紧把圆环伸回瓶子里。\n\n吹到后来，圆环怎么也沾不上水了。她举起蓝瓶子看，底下只剩浅浅一点。妈妈蹲下来，没有替她另买一瓶，只陪她把瓶子慢慢倾斜。\n\n最后一点水铺到瓶边，小敏把圆环轻轻滚过，终于得到一张完整的薄膜。这一回她没着急，用很轻很慢的一口气，吹出一颗格外大的泡泡。\n\n两人一起看着它，里面竟倒映着楼房、长椅和树，整座小广场都变圆了。泡泡晃过长椅，慢慢向上。小敏没有追，只举着空圆环，送那座小城又飞高一点。",
+  "art_direction": "Rain washed gouache with colored pencil umbrella spokes",
+  "character_design": "Xiaomin is a seven year old child with a short black bob, a mustard cardigan, teal trousers, and white sneakers. Her adult mother has a low dark ponytail, a cream jacket, and rust trousers. Their props are one plain blue bubble bottle and a rounded orange bubble wand, used on a quiet pedestrian square. Preserve these exact faces, proportions, clothing colors, and recurring props throughout all panels. Keep every figure fully clothed, gently expressive, and grounded in an ordinary peaceful setting. Objects and backgrounds have no legible writing, logos, or commercial designs.",
+  "panels": [
+    {
+      "caption": "瓶底，只剩最后一点泡泡水。",
+      "scene": "Xiaomin sits beside her mother on a broad pedestrian square bench, holding a blue bubble bottle up toward the light. Only a shallow amount of liquid remains at the bottom. The orange wand is dry in her other hand. A few small earlier bubbles drift far behind them among soft buildings and trees. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "把瓶子侧一侧，圆环慢慢滚过去。",
+      "scene": "Xiaomin carefully tilts the blue bottle so the remaining bubble solution pools along one side, then rolls the orange ring through that shallow patch. Her mother crouches beside the bench, watching without taking over. The child’s hands stay low over the paving, and a complete transparent film begins to shine inside the ring. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "轻轻一口气，吹出一颗很大的圆。",
+      "scene": "Xiaomin exhales gently through the orange wand, forming one large iridescent bubble at the ring. Her cheeks remain relaxed rather than puffed hard. Her mother kneels nearby with an attentive smile. The blue bottle stands upright on the paving, while soft reflections of the square’s buildings begin to curve across the growing bubble. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "一座小小城市，就这样飞起来了。",
+      "scene": "The single large bubble floats above the bench, showing curved upside down reflections of trees and simple city buildings across its shimmering surface. Xiaomin and her mother look upward together with delighted expressions. The child holds the empty orange ring lowered at her side, allowing this last bubble to drift away without rushing after it. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DDD6BF",
+    "#779CA0",
+    "#BF9B6B",
+    "#A9838A",
+    "#8A9D76"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "瓶底，只剩最后一点泡泡水。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "把瓶子侧一侧，圆环慢慢滚过去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "轻轻一口气，吹出一颗很大的圆。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "一座小小城市，就这样飞起来了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "974e0474b04d1318a85d448d6bfad54120d577d017e9005173ce74dd5d6f88c4",
+  "sha256": "36eae42dfa94aa01610b780aa32fae6845da6855e1523e926affb4c8966ebfbe",
+  "prompt_sha256": "4f6949402be5f7f7fc02c994679bac1bfec020a3083b7599802cef291e9db2ba",
+  "story_sha256": "52f22712238b6e3b00dd5d9419e914bdd03465eb8c798335192b429e1021b257",
+  "created_at": "2026-10-26T10:26:23.250658+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

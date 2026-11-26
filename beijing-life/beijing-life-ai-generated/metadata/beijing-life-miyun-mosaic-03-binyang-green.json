@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-miyun-mosaic-03-binyang-green.png",
+  "refined_prompt": "../prompts/beijing-life-miyun-mosaic-03-binyang-green.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:02:33.129596+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-miyun-mosaic",
+  "group_number": 14,
+  "series_number": 3,
+  "anthology_index": 68,
+  "title": "宾阳公园的小日常",
+  "sha256": "ab82a27af843becfdd41107c9132a71b9dbc8871dc2056fcd4dddb224611b9a7",
+  "native_sha256": "d703d87f56a50a36eee8ff0c4854c35a7c4f056a050dc97256133011b870b77d",
+  "prompt_sha256": "55b49ea5be877d0fb2175c30b2d82bf3ce90fb9a1f605e91d5a6e91935e07d62",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2512655,
+  "art_direction": {
+    "style_name": "陶片马赛克",
+    "style_prompt_english": "Hand-set ceramic tessera mosaic illustration: irregular matte tile pieces, thin grout channels, directional tile flow shaping real architecture, water and trees. Rich cobalt, coral, pale jade and butter-yellow tiles; readable large silhouettes with tactile tessera detail rather than pixel art.",
+    "palette": [
+      "#285FAA",
+      "#ED7355",
+      "#99C5AE",
+      "#F5D579"
+    ],
+    "layout_variant": 3,
+    "activity": "公园与小度假",
+    "area": "密云区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "binyang-green",
+    "title": "宾阳公园的小日常",
+    "subtitle": "散步、休息、看一片树影",
+    "area_label": "北京·密云区",
+    "duration": "约1–2小时",
+    "transport": "高铁密云站或980快后接城区公交、出租车",
+    "stops": [
+      {
+        "name": "法制公园（原宾阳公园）",
+        "detail": "沿公共园路短走",
+        "lat": 40.3825456,
+        "lon": 116.8579161,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118437",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/408814168"
+      },
+      {
+        "name": "法制公园绿化区",
+        "detail": "找座位休息，看日常公园生活",
+        "lat": 40.3825456,
+        "lon": 116.8579161,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118437",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/408814168"
+      }
+    ],
+    "practical_note": "以公园日常休憩为主；沿开放园路慢走，开放以现场为准。",
+    "copy_title": "密云区｜宾阳公园的小日常",
+    "copy_body": "散步、休息、看一片树影。这次只安排一个片区：法制公园（原宾阳公园） → 法制公园绿化区。建议留约1–2小时，把拍照、休息和短时参观一起算进去。以公园日常休憩为主；沿开放园路慢走，开放以现场为准。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "密云区",
+      "北京小众玩法",
+      "公园与小度假"
+    ],
+    "hero_prompt_english": "Binyang Law-themed Park in Miyun town: compact formal urban garden with dense green and gold tree canopies, paved promenade, a low traditional garden wall and benches. An adult sketches leaves while another quietly walks. Avoid copying any specific sculptural artwork or showing legal or political slogans; focus on real calm park atmosphere. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "edfcb443611abe5c5ca6b5d524fb1b0bafedccd6cdf97d1b55057708abb56481",
+      "bounds_wgs84": [
+        116.84956176785767,
+        40.37618150625942,
+        116.86627043214233,
+        40.38890909255991
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "法制公园（原宾阳公园）",
+          "lon": 116.8579161,
+          "lat": 40.3825456,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "法制公园绿化区",
+          "lon": 116.8579161,
+          "lat": 40.3825456,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:52.510621+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "法制公园（原宾阳公园）",
+          "source_url": "https://www.openstreetmap.org/way/408814168",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "法制公园绿化区",
+          "source_url": "https://www.openstreetmap.org/way/408814168",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "法制公园（原宾阳公园） → 法制公园绿化区",
+        "box": [
+          52,
+          43,
+          558,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·密云区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "宾阳公园的小日常",
+        "box": [
+          49,
+          188,
+          601,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "密云｜城边的彩色慢游  ·  约1–2小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "散步、休息、看一片树影",
+        "box": [
+          55,
+          1013,
+          297,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  法制公园（原宾阳公园）",
+        "box": [
+          413,
+          1117,
+          754,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿公共园路短走",
+        "box": [
+          416,
+          1153,
+          556,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  法制公园绿化区",
+        "box": [
+          413,
+          1194,
+          646,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "找座位休息，看日常公园生活",
+        "box": [
+          416,
+          1230,
+          676,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "以公园日常休憩为主；沿开放园路慢走，开放以现场为准。",
+        "box": [
+          413,
+          1281,
+          881,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "高铁密云站或980快后接城区公交、出租车",
+        "box": [
+          413,
+          1362,
+          789,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "14 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "068",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

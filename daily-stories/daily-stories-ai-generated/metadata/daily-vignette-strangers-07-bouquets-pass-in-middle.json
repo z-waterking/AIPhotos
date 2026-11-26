@@ -1,0 +1,212 @@
+{
+  "output": "../daily-vignette-strangers-07-bouquets-pass-in-middle.png",
+  "refined_prompt": "../prompts/daily-vignette-strangers-07-bouquets-pass-in-middle.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-strangers-07-bouquets-pass-in-middle-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-strangers",
+  "group": "strangers",
+  "series_number": 7,
+  "anthology_index": 37,
+  "panel_count": 6,
+  "display_title": "花束让路",
+  "visible_description": "两束花堵住了窄路，交换一朵之后才走得从容。",
+  "synopsis": "窄巷里，两个人各抱着一大束花迎面碰上。一个往左让，另一个也往左，花枝轻轻搭到了一起。他们停下来，各把花束举向外侧，终于空出一条小路。擦肩时，一朵小雏菊挂在另一束的丝带上。两人回头笑了笑，又各自抽出一朵花递给对方，这次谁也没有选错方向。",
+  "story_text": "窄巷里，两束花迎面碰上了。姑娘抱着白雏菊和黄花，男人怀里是粉色的芍药，隔着蓬松的花头，两人只能看见对方的眉眼。\n\n姑娘往旁边让，男人也往同一边让。她笑着换了方向，他又跟着换。花枝搭在一起，仿佛比人先握了手。\n\n他们终于停住。姑娘把花举高，男人把花放低，各朝自己身侧让开，这才慢慢走过去。一朵白雏菊却挂在了粉色丝带上。\n\n两人同时回头。姑娘取下雏菊，想了想，又把它递过去。男人便从怀里抽出一朵芍药回礼。第二次伸手，他们都选中了最中间的那条路。",
+  "art_direction": "Airy colored pencil with soft gouache flower masses on old ivory paper",
+  "character_design": "An adult woman with copper curls gathered into a low bun wears a dusty blue coat, cream trousers and tan ankle boots. She carries a broad bouquet of white daisies and yellow flowers wrapped in plain kraft paper with blue ribbon. An adult man with straight black hair and warm tan skin wears a moss green overshirt, brown trousers and cream sneakers. His bouquet contains pink peonies and small white filler flowers with a plain rose-colored ribbon.",
+  "panels": [
+    {
+      "caption": "两束花，把巷子挤得很满。",
+      "scene": "In a narrow pedestrian lane between pale plaster walls, the woman and man approach each other carrying their broad bouquets at chest height. White daisies and yellow blooms spread from the left, while pink peonies fill the right, nearly meeting in the center. Both adults notice the limited passing space with polite surprise. Show their entire grounded figures and the clearly walkable lane so the obstacle is the large flowers rather than any physical danger. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他们连让路都让到了同一边。",
+      "scene": "Both people have shifted toward the same wall, leaving the opposite side empty while their bouquets touch gently in the middle. Several daisy stems rest over the pink ribbon without bending or breaking. The woman and man look past the flowers at each other, smiling at the synchronized mistake. Their shoulders stay relaxed and separated. The pale walls form a simple theatrical corridor around this single awkward, harmless moment. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "花举高一点，人就能过去。",
+      "scene": "The two adults turn slightly sideways to pass, each holding their bouquet outward toward their own wall, opening a clear corridor between them. The woman raises her daisies a little, while the man lowers his peonies, coordinating the crossing. A single white daisy remains lightly caught at the edge of the rose ribbon. Their eye contact is friendly, and the carefully angled bouquets create an airy arch rather than a collision. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "擦肩过去，丝带上多了一朵雏菊。",
+      "scene": "After passing, the two adults stand back-to-back a few steps apart in the same narrow lane. The man holds his pink peony bouquet in one arm and notices a single white daisy caught gently beneath its rose ribbon. The woman turns her head toward him while still carrying her own white-and-yellow bouquet. Clearly show the loose daisy stem outside the peony wrapping, separate from the remaining flowers. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他们回过头，把小意外接住。",
+      "scene": "Facing each other again across the now-clear lane, the woman carefully lifts the loose daisy from the rose ribbon with her free hand while supporting her main bouquet in the other arm. The man steadies his peonies and begins selecting one pink stem near the outer edge. Their shoulders remain relaxed, and both smile at the accidental exchange. Keep the hands and two distinct flower stems clearly visible in this preparation moment. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "路走通了，还多出两朵花。",
+      "scene": "Now standing a few steps past each other, both adults turn back and exchange one flower by extending their free hands across the open lane. The woman offers a white daisy, and the man offers a pink peony, while the main bouquets rest securely in their other arms. Show the two stems meeting neatly in the center with clear, uncrowded hand positions. Their earlier confusion has become a small deliberate gesture of mutual amusement. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E5DBC5",
+    "#C98999",
+    "#D8B85D",
+    "#718B75",
+    "#718BA3"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "两束花，把巷子挤得很满。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "他们连让路都让到了同一边。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "花举高一点，人就能过去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "擦肩过去，丝带上多了一朵雏菊。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "他们回过头，把小意外接住。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "路走通了，还多出两朵花。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "5ac55ea8fd2642d4bc291332baa2740c0e7e21c3f48dca8492955c64111ead2c",
+  "sha256": "fe5308f73cd0508affa367073c8e9e2c2d207b23a17d27dc416bfe7b61b185a9",
+  "prompt_sha256": "3412a0dfa6b1270e6b2e1984927497ab68a29bdf50137c46f63c78f0b19ced52",
+  "story_sha256": "454aabb8070ed01783a8a5a61e16c2f1c969a34411d71524775a470c55883e41",
+  "created_at": "2026-10-26T10:05:52.724338+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

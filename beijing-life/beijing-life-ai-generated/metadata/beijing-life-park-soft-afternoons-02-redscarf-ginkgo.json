@@ -1,0 +1,333 @@
+{
+  "output": "../beijing-life-park-soft-afternoons-02-redscarf-ginkgo.png",
+  "refined_prompt": "../prompts/beijing-life-park-soft-afternoons-02-redscarf-ginkgo.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:06.080448+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-park-soft-afternoons",
+  "group_number": 18,
+  "series_number": 2,
+  "anthology_index": 87,
+  "title": "红领巾公园看秋",
+  "sha256": "ad6dd8317c850ad5a366196fb4188a24bc689807325cb5ed93c092c3c4e99ce5",
+  "native_sha256": "f9254ddf7e1a2b15cd606460724e2c52835a09955051cf1c0fa66cc3249807e6",
+  "prompt_sha256": "a1c0fba8983c7cf710fb5beae9df6fb2578a197f61611524cf7c6085b0ed3cef",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2325804,
+  "art_direction": {
+    "style_name": "浓色油画棒",
+    "style_prompt_english": "Rich expressive oil-pastel travel illustration, thick waxy marks, vibrant overlapping scumbles, highly tactile directional strokes, strong sunlit color patches and deep blue shadows, softly simplified but identifiable real landscape forms, foreground foliage overflowing frame. No text, no picture frame.",
+    "palette": [
+      "#134857",
+      "#F39442",
+      "#DDC86A",
+      "#E66A75",
+      "#50886B"
+    ],
+    "layout_variant": 2,
+    "activity": "看湖／散步／写生",
+    "area": "北京三四环周边"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "redscarf-ginkgo",
+    "title": "红领巾公园看秋",
+    "subtitle": "银杏色刚好落在湖面上",
+    "area_label": "东四环周边·红领巾公园",
+    "duration": "约2小时",
+    "transport": "地铁金台路站或周边公交后步行",
+    "stops": [
+      {
+        "name": "红领巾公园",
+        "detail": "湖岸与开阔步道",
+        "lat": 39.9250417,
+        "lon": 116.486613,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101245",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/235243285"
+      },
+      {
+        "name": "红领巾公园银杏广场",
+        "detail": "金黄银杏树影",
+        "lat": 39.926,
+        "lon": 116.4858,
+        "coordinate_status": "Approximate ginkgo-viewing area inside named OSM park; individual grove not surveyed",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101245",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/235243285"
+      }
+    ],
+    "practical_note": "从开放入口入园，沿湖选择短环线；秋色随天气变化，临时通行以现场为准。",
+    "copy_title": "红领巾公园看秋｜北京周末灵感",
+    "copy_body": "银杏色刚好落在湖面上。红领巾公园 → 红领巾公园银杏广场，安排约2小时。从湖岸与开阔步道到金黄银杏树影，留点时间给自己。从开放入口入园，沿湖选择短环线；秋色随天气变化，临时通行以现场为准。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "东四环周边"
+    ],
+    "hero_prompt_english": "Red Scarf Park Beijing calm lake, brilliant ginkgo trees and yellow leaves beside a broad public walkway, distant ordinary residential towers softened in the haze, one adult taking a simple leaf photograph without plucking branches. No statues, no copied park sculptures, no fictional pagoda. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "b487a14ee2f5aa372d839bb808c737c10d84ca66ad596a13436357e9e9005597",
+      "bounds_wgs84": [
+        116.47785216785768,
+        39.91911378702697,
+        116.49456083214234,
+        39.93192731678154
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "红领巾公园",
+          "lon": 116.486613,
+          "lat": 39.9250417,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "红领巾公园银杏广场",
+          "lon": 116.4858,
+          "lat": 39.926,
+          "coordinate_status": "Approximate ginkgo-viewing area inside named OSM park; individual grove not surveyed"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:42.042541+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "红领巾公园",
+          "source_url": "https://www.openstreetmap.org/way/235243285",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "红领巾公园银杏广场",
+          "source_url": "https://www.openstreetmap.org/way/235243285",
+          "status": "Approximate ginkgo-viewing area inside named OSM park; individual grove not surveyed"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "红领巾公园 → 红领巾公园银杏广场",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东四环周边·红领巾公园",
+        "box": [
+          52,
+          133,
+          404,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "红领巾公园看秋",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "三四环周边·公园放空  ·  约2小时",
+        "box": [
+          52,
+          282,
+          422,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "银杏色刚好落在湖面上",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  红领巾公园",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "湖岸与开阔步道",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  红领巾公园银杏广场",
+        "box": [
+          53,
+          1194,
+          340,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "金黄银杏树影",
+        "box": [
+          56,
+          1230,
+          176,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "从开放入口入园，沿湖选择短环线；秋色随天气变化，临时通行以现场",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "为准。",
+        "box": [
+          53,
+          1306,
+          107,
+          1323
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁金台路站或周边公交后步行",
+        "box": [
+          53,
+          1362,
+          333,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "18 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "087",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

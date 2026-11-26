@@ -1,0 +1,161 @@
+{
+  "output": "../daily-vignette-keepsake-01-enamel-basin-scallion-garden.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-01-enamel-basin-scallion-garden.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-01-enamel-basin-scallion-garden-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 1,
+  "anthology_index": 1,
+  "panel_count": 4,
+  "display_title": "盆里的春天",
+  "visible_description": "旧搪瓷盆接住了几棵东倒西歪的小葱，也重新回到一家人的饭桌旁。",
+  "synopsis": "搬动阳台杂物时，林姨找出一只掉了小块蓝漆的旧搪瓷盆。窗边几个纸杯里的小葱挤得歪歪扭扭，她便给盆铺好碎陶和泥土，把葱移成整齐的一圈。外甥坚持在中间留条弯弯的小路。晚饭时剪下的葱花进了面碗，旧盆仍留在窗外，像一座有路可走的小菜园。",
+  "story_text": "林姨从阳台最下面抽出旧搪瓷盆，蓝边缺了一小块，盆底还压着一枚从前晾衣用的木夹。外甥擦完一圈，说它洗干净以后，好像也没那么旧。\n\n窗台上的小葱倒很着急，几棵挤在纸杯里，叶子全往一个方向歪。林姨铺碎陶、添泥土，让它们搬进盆里，外甥负责扶住细细的葱身。\n\n种到中间，他忽然按住小铲子，留下了一条空隙。他找来三颗白石头，弯弯地摆好，说这里要留一条走路的地方，不能住得太挤。\n\n晚饭的面碗上浮着新剪的葱花。外甥吃一口，就往窗外看一眼。蓝边小盆里，葱叶都直起来了，那条只有蚂蚁走得下的路，也还整整齐齐。",
+  "art_direction": "Gouache and soft colored pencil on warm aged paper, loose domestic literary illustration",
+  "character_design": "Aunt Lin is a Chinese woman around fifty with a round face, short softly waved black hair streaked with gray, and small oval spectacles. She wears an ochre cardigan over a cream shirt, loose navy trousers, and cloth house shoes. Her eight-year-old nephew has a neat bowl haircut and wears a mint sweatshirt, brown trousers, and striped socks. Keep both faces gentle and ordinary. The same shallow cream enamel basin has a cobalt rim and one small missing patch of blue paint.",
+  "panels": [
+    {
+      "caption": "旧盆从阳台最下面露了出来。",
+      "scene": "In a modest sunlit apartment balcony, Aunt Lin crouches beside a low wooden storage shelf and lifts a shallow cream enamel basin with a cobalt rim. Its single chipped blue patch faces the viewer. Her nephew kneels nearby with a folded cleaning cloth, looking into the empty basin. Behind them, several thin scallions lean in cramped paper cups along the windowsill. Frame the basin prominently at lower center, with pots, terracotta fragments, and soft pale laundry providing an intimate everyday setting."
+    },
+    {
+      "caption": "纸杯里的小葱，已经挤弯了腰。",
+      "scene": "Show a closer view across the balcony worktable. Aunt Lin supports one paper cup while her nephew gently steadies a tuft of narrow green scallions, their crowded roots visible above a little spilled soil. The cleaned enamel basin waits beside them, its chipped cobalt rim unmistakable, now holding a shallow layer of terracotta pieces and fresh earth. A small wooden scoop rests flat on the table. Their hands and the tilted plants form the focal triangle, with afternoon light making the young leaves translucent."
+    },
+    {
+      "caption": "他给葱苗留了一条弯弯的小路。",
+      "scene": "From a slightly elevated angle, the nephew carefully places three smooth pale pebbles in a winding line through the center of the enamel basin. Aunt Lin presses soil around the last scallion tuft on the outside of that path. The scallions now stand upright in a loose ring, with their original cramped paper cups stacked empty at one corner of the table. Keep the pebble path narrow and charmingly irregular. Their sleeves and faces remain consistent, and no written labels appear anywhere in the scene."
+    },
+    {
+      "caption": "晚饭有葱花，窗外也有了小菜园。",
+      "scene": "Inside the adjoining kitchen at early evening, Aunt Lin and her nephew sit opposite one another with two steaming bowls of simple noodles dotted with fresh green scallions. The boy leans sideways to admire the enamel basin through the open window. Place the basin on the balcony ledge behind him, cobalt chip visible, with upright scallions and its tiny pale pebble path clearly recognizable. A small dish of extra chopped greens sits between the bowls. Use a warm indoor glow meeting the cooler green light outside."
+    }
+  ],
+  "palette": [
+    "#F0E4CB",
+    "#477B8B",
+    "#84A16B",
+    "#BC7754"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "旧盆从阳台最下面露了出来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "纸杯里的小葱，已经挤弯了腰。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "他给葱苗留了一条弯弯的小路。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "晚饭有葱花，窗外也有了小菜园。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "61c65bceb9918b36d21197a68a6a9302109ed42372c8ab3c0675e048b12653ea",
+  "sha256": "5b5ac90e85b7f23f8ad556b1849711c9628f6163f174c97c17b1db9ae534f069",
+  "prompt_sha256": "a1f841ec854550c3c35d1800f3a7b0daaaaa5141f245f96d4ad916d11f0d3fb3",
+  "story_sha256": "a4fc25044324d8631fc52df929a36934211c9aafd22143d5d05331a8815402ce",
+  "created_at": "2026-10-26T09:37:17.111597+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

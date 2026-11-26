@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-shunyi-paper-01-luohong-garden.png",
+  "refined_prompt": "../prompts/beijing-life-shunyi-paper-01-luohong-garden.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:15.862283+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shunyi-paper",
+  "group_number": 8,
+  "series_number": 1,
+  "anthology_index": 36,
+  "title": "园林里的摄影日",
+  "sha256": "0fd35f7d535fbff4a118189a01974015b918eebf507992b068433d2ffdeba8b1",
+  "native_sha256": "66f3e21d527cf49696270d345b3506290c7486c73449adb3f31deae55ca1ad74",
+  "prompt_sha256": "b5f6ae9fa36ea57ae6ec2d87cdbf78b51751647af57633ca41f49cd07b8676bc",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2074927,
+  "art_direction": {
+    "style_name": "手工纸雕浮雕",
+    "style_prompt_english": "Layered cut-paper relief built from thick tactile colored cardstock, shallow physical shadows, sculptural architecture with clear stepped paper contours; bright daylight and a real three-dimensional paper diorama, not a flat photo filter.",
+    "palette": [
+      "#00A8A8",
+      "#F6C84A",
+      "#F07346",
+      "#F8EED6"
+    ],
+    "layout_variant": 2,
+    "activity": "艺术与自然",
+    "area": "顺义区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "luohong-garden",
+    "title": "园林里的摄影日",
+    "subtitle": "看建筑、逛园林、坐下来喝杯茶",
+    "area_label": "北京·顺义区",
+    "duration": "约3–4小时",
+    "transport": "地铁15号线国展站后接公交或出租车；末段另计",
+    "stops": [
+      {
+        "name": "罗红摄影作品展馆",
+        "detail": "黑色现代展馆与自然主题摄影",
+        "lat": 40.0418981,
+        "lon": 116.568535,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120977",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/202286684"
+      },
+      {
+        "name": "东方园林景观",
+        "detail": "松树、岩石、水景与曲折步道",
+        "lat": 40.0418981,
+        "lon": 116.568535,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120977",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/202286684"
+      }
+    ],
+    "practical_note": "摄影展票务与园林开放范围出发前确认；咖啡甜点按需消费。",
+    "copy_title": "顺义区｜园林里的摄影日",
+    "copy_body": "看建筑、逛园林、坐下来喝杯茶。这次只安排一个片区：罗红摄影作品展馆 → 东方园林景观。建议留约3–4小时，把拍照、休息和短时参观一起算进去。摄影展票务与园林开放范围出发前确认；咖啡甜点按需消费。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "顺义区",
+      "北京小众玩法",
+      "艺术与自然"
+    ],
+    "hero_prompt_english": "Luo Hong Art Museum in Shunyi: a dark low contemporary gallery building behind a carefully composed East Asian garden with sculptural pines, large rounded rocks, a shallow reflective pond and a stone path. An adult visitor with a camera rests beside a takeaway tea; architecture and planted garden are the subjects, no visible copies of photographic exhibits. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "7aa48d7849f9b5b241a2385b88712c031a2e800273bbd982208cde29bb78f5f9",
+      "bounds_wgs84": [
+        116.56018066785767,
+        40.03550193892295,
+        116.57688933214233,
+        40.04829366110111
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "罗红摄影作品展馆",
+          "lon": 116.568535,
+          "lat": 40.0418981,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "东方园林景观",
+          "lon": 116.568535,
+          "lat": 40.0418981,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:17:42.478838+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "罗红摄影作品展馆",
+          "source_url": "https://www.openstreetmap.org/way/202286684",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "东方园林景观",
+          "source_url": "https://www.openstreetmap.org/way/202286684",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "罗红摄影作品展馆 → 东方园林景观",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·顺义区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "园林里的摄影日",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "顺义｜把周末折成风景  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "看建筑、逛园林、坐下来喝杯茶",
+        "box": [
+          55,
+          1013,
+          363,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  罗红摄影作品展馆",
+        "box": [
+          53,
+          1117,
+          313,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "黑色现代展馆与自然主题摄影",
+        "box": [
+          56,
+          1153,
+          316,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  东方园林景观",
+        "box": [
+          53,
+          1194,
+          259,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "松树、岩石、水景与曲折步道",
+        "box": [
+          56,
+          1230,
+          316,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "摄影展票务与园林开放范围出发前确认；咖啡甜点按需消费。",
+        "box": [
+          53,
+          1281,
+          539,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁15号线国展站后接公交或出租车；末段另计",
+        "box": [
+          53,
+          1362,
+          477,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "08 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "036",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

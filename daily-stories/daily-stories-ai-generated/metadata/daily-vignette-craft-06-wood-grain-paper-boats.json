@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-craft-06-wood-grain-paper-boats.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-06-wood-grain-paper-boats.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-06-wood-grain-paper-boats-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 6,
+  "anthology_index": 46,
+  "panel_count": 4,
+  "display_title": "木纹小船",
+  "visible_description": "桌板的纹路被拓进纸里，又折成了一支各有航线的小船队。",
+  "synopsis": "修旧实木桌的兄妹只磨去边缘毛刺，桌面保留着浅浅凹凸的年轮纹。休息时，他们拿薄纸盖在纹路上，用彩铅侧锋轻轻拓印。两张纸纹路不同，便各折成小船，放回原位比较。夕阳照进来，小船上的纹路和桌面接在一起；整张刚整理好的桌子，忽然像一片安静的水。",
+  "story_text": "兄妹俩只磨去旧实木桌边的毛刺，桌面仍留着浅浅凹凸的年轮纹。妹妹沿弯线摸过去，说它像院外的小河。哥哥也伸手试了试，指给她看一处更宽的岔口。\n\n休息时，他们把薄纸压在这层细微起伏上，用彩铅侧锋轻轻擦过。凸起的木纹一条条拓到纸里，这边密，那边疏，谁的纸也和谁不一样。\n\n两人各折了一只小船。妹妹的船身是绕来绕去的细线，哥哥的船侧则有一道宽宽的弧。\n\n他们把船放回刚才拓印的位置，又慢慢调整角度。夕阳斜着照进屋，纸上的线和桌上的纹路忽然接在了一起。哥哥收好砂纸，妹妹把第三张薄纸铺开，想再添一只小船。",
+  "art_direction": "Colored-pencil frottage with thin gouache washes on softly aged paper",
+  "character_design": "An adult woman with a dark pixie haircut wears a dusty blue work shirt, tan trousers and brown shoes. Her adult brother has sandy shoulder-length hair tied back, an olive shirt, cream apron and charcoal trousers. Their old rectangular honey-brown solid-wood table has shallow raised growth-ring ridges suitable for pencil rubbing; only edge splinters have been smoothed, not the textured tabletop. Materials are folded sandpaper, thin cream paper and broad ochre pencils. Two paper boats retain grain rubbings, one densely wavy and the other lightly curved.",
+  "panels": [
+    {
+      "caption": "磨净桌边，木纹仍有浅浅起伏。",
+      "scene": "In a sunlit workshop, the woman runs her fingertips over the clean dry solid-wood tabletop, feeling shallow raised growth-ring ridges that remain across its honey-brown surface. Her brother rests folded sandpaper beside the newly smoothed table edge, whose splinters have been removed. The top is deliberately textured and unfinished, not polished flat, so its relief can transfer through paper. Both inspect the flowing ridges like little channels. Show only quiet hand-finishing materials and no powered equipment. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他们借一张纸，把纹路带走。",
+      "scene": "Each sibling holds a thin cream sheet flat against a different textured section of the solid-wood table and rubs the broad side of an ochre pencil over it. Shallow raised growth-ring ridges catch the pencil pressure through the paper, producing visible flowing frottage lines. Their free hands hold the paper corners still. One sheet shows dense waves and the other wider curves. Bare ridges remain visible beside each sheet; folded sandpaper rests by the already smoothed table edge. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "两张纸，折成两种航线。",
+      "scene": "At the same table, the siblings each finish folding a small paper boat from their rubbed sheet. The woman opens the dense-grain boat base between her fingertips, and the brother gently pinches the ridge of the pale curved-grain boat. A third unused cream sheet lies flat nearby. Their focus rests on the little folded forms, and the rubbed patterns remain clearly visible across the boat sides instead of becoming decorative symbols or writing. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "小船放回去，桌子就成了水。",
+      "scene": "The two finished paper boats sit on the restored tabletop in a warm band of evening light. Their rubbed lines visually continue the natural wood grain beneath them, creating the impression of boats resting on a quiet wooden river. The siblings lean on opposite table edges and study the alignment with soft smiles. Frame the tabletop generously, using the long grain curves and simple boat silhouettes as the main visual payoff. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E4D3B9",
+    "#A77A56",
+    "#698D95",
+    "#C2A25F",
+    "#8C8375"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "磨净桌边，木纹仍有浅浅起伏。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "他们借一张纸，把纹路带走。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "两张纸，折成两种航线。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "小船放回去，桌子就成了水。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "89ef135bd78568d271d5f08a6fc61cd44fee2b1dbaa5fc4957b0bfe46d8aabd2",
+  "sha256": "c57b6f1690c86507c97b6a8fbc6db2a1e6ab6d79bda44034f91c55678f5d0826",
+  "prompt_sha256": "4b5c36c07661de3c37eb11a550b3eaf10a0fe35eadee14af6d88aa72b07ff3e1",
+  "story_sha256": "2fdab6eda3b53b0f4f59575d5ce740480c6a3dfac282fe4f455608ac25955c66",
+  "created_at": "2026-10-26T10:13:14.150620+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

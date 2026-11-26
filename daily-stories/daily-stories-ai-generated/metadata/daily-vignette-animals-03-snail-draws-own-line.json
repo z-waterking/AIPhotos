@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-03-snail-draws-own-line.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-03-snail-draws-own-line.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-03-snail-draws-own-line-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 3,
+  "anthology_index": 53,
+  "panel_count": 4,
+  "display_title": "慢慢画过去",
+  "visible_description": "孩子想画蜗牛走过的路，最后决定把铅笔放下来等。",
+  "synopsis": "雨后的院子里，一只蜗牛沿着湿石板爬行。孩子蹲着画它，刚画好壳，蜗牛就往前挪了一小段。孩子搬动本子跟着，线越画越长，纸上的蜗牛却越来越多。后来他索性坐在原地，等蜗牛穿过一片叶子的阴影。最后一页只画了一只蜗牛，还有它走出来的一条长长的弯线。",
+  "story_text": "雨停以后，孩子在院子里看见一只蜗牛。它沿着湿石板慢慢爬，壳上的弯纹十分清楚。孩子拿来本子，蹲着画了一圈，抬头时，蜗牛已经离刚才的位置远了一点。\n\n他搬动本子，重新画，又发现它往前走了。纸上挤出好几个螺旋，线也越接越长，像一群蜗牛在开会。\n\n孩子终于放下铅笔，坐到低台阶上。那只真的蜗牛穿过一片叶子的影子，没有停，也没有回头，只把路一点点走出来。\n\n等它爬到亮处，孩子翻开新的一页。这一次，他只画一只蜗牛，再在后面留下一条长弯线。画完以后，他没有马上合上本子，还想看看那条线会往哪里去。",
+  "art_direction": "Gentle watercolor-gouache washes with visible colored-pencil observation marks",
+  "character_design": "A child about nine with short dark curls wears a moss-green cardigan, cream shorts and yellow rain boots. The child uses a small cream sketchbook and one ochre colored pencil, drawing only pictures. A healthy brown garden snail has a rounded cinnamon spiral shell and a pale gray-beige body with extended feelers. The courtyard has broad damp stone paving, a few intact fallen green leaves and soft shadows from a low plant, with ample safe space around the snail.",
+  "panels": [
+    {
+      "caption": "壳刚画好，蜗牛往前走了。",
+      "scene": "The child crouches comfortably beside a damp courtyard paving stone with the sketchbook balanced on both knees. A brown snail moves slowly a short distance ahead of a half-finished spiral sketch visible on the open page. The child holds the ochre pencil above the paper and looks back toward the real snail, noticing the changed position. A broad green leaf lies farther along the snail path, casting a soft outline on the wet stone. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "本子跟着搬，纸上的路也变长了。",
+      "scene": "The child has shifted the sketchbook slightly along the pavement, remaining crouched a respectful distance from the snail. The open page contains several simple exploratory spiral outlines connected by hesitant curved pencil strokes, all clearly drawings rather than writing. The snail continues toward the green leaf shadow with its feelers extended. The child looks between the cluttered page and the moving animal, one hand resting on the ground for balance without blocking its path. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他终于放下铅笔，等了一会儿。",
+      "scene": "Now seated on a low courtyard step, the child rests the closed pencil across the open sketchbook and watches quietly. The snail crosses the soft shadow cast by the broad green leaf on the damp paving, midway between the bright and shaded areas. Both child hands remain on the book, leaving the animal completely undisturbed. The composition emphasizes the small measured progress across one ordinary patch of light rather than speed or spectacle. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "最后，只留下一只和一条路。",
+      "scene": "The child sits on the same low step and shows a fresh sketchbook page with one carefully drawn spiral snail and one long curved line behind it, with no other marks or words. On the paving below, the real snail has passed beyond the green leaf into another patch of light. The child smiles down at both page and traveler. Keep the drawing modest and childlike, with the quiet curve echoing the natural damp trail without exaggeration. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#DED8C5",
+    "#9BA889",
+    "#9A7C61",
+    "#839DA5",
+    "#C9B77D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "壳刚画好，蜗牛往前走了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "本子跟着搬，纸上的路也变长了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "他终于放下铅笔，等了一会儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "最后，只留下一只和一条路。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "8000ac1e03453d757660570b40d46a56a4ea3e4a89c8719871d6a8b3438873d0",
+  "sha256": "aca58637ea5623c60003f95599dc4af5d652d98bec1005aaa118d632721d26e9",
+  "prompt_sha256": "40bef6de8e89fb8753e600e21aa0afaa9c86066317de9ea034982776a9cb45cd",
+  "story_sha256": "57b6654d4a1c0181063d71d49b59a6e1907396aa34a2240e7bed935ad69833e9",
+  "created_at": "2026-10-26T10:18:26.608939+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

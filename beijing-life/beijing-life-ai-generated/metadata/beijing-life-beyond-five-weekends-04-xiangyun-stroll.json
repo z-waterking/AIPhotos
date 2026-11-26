@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-beyond-five-weekends-04-xiangyun-stroll.png",
+  "refined_prompt": "../prompts/beijing-life-beyond-five-weekends-04-xiangyun-stroll.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:09.585381+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-beyond-five-weekends",
+  "group_number": 20,
+  "series_number": 4,
+  "anthology_index": 99,
+  "title": "祥云小镇不赶集",
+  "sha256": "1c43e440971c213aed255aa266c5817fd044c7f70d0f4b877374b03ccc48bc86",
+  "native_sha256": "7507b264473aad78c7033f98d4f5c446da0377aacc4340dc0b9cccd6254d39ec",
+  "prompt_sha256": "61a21d3d02a77a315d9573db4a0a1fc0a4baa850d273bd97f598307f4158f9fe",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1926723,
+  "art_direction": {
+    "style_name": "像素立体场景",
+    "style_prompt_english": "High-quality original pixel-art isometric diorama, crisp deliberate square pixels with elegant limited palette and detailed architecture, sophisticated game-environment lighting, stepped shadows, densely composed foreground and background, adults at realistic small scale. Do not copy any game world, branded character or existing pixel artwork; no text, HUD or border.",
+    "palette": [
+      "#283B63",
+      "#DF8472",
+      "#8FBF8B",
+      "#E7CD7A",
+      "#87C8CF"
+    ],
+    "layout_variant": 4,
+    "activity": "艺术园庭／创意商街／自然观察",
+    "area": "北京五环外"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "xiangyun-stroll",
+    "title": "祥云小镇不赶集",
+    "subtitle": "一条开放街区慢慢逛",
+    "area_label": "五环外·顺义后沙峪",
+    "duration": "约3–4小时",
+    "transport": "地铁后沙峪站后公交或出租车接驳",
+    "stops": [
+      {
+        "name": "中粮祥云小镇",
+        "detail": "开放商业街与餐饮",
+        "lat": 40.0860872,
+        "lon": 116.5303861,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/121003",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/8892368998"
+      },
+      {
+        "name": "祥云小镇白鸽广场",
+        "detail": "步行广场与街边座位",
+        "lat": 40.0855036,
+        "lon": 116.531796,
+        "coordinate_status": "OSM named White Dove Plaza feature centroid; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/121003",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1333254284"
+      }
+    ],
+    "practical_note": "市集与活动并非每日举办；按日常街区安排，不喂食野生鸟类。",
+    "copy_title": "祥云小镇不赶集｜北京周末灵感",
+    "copy_body": "一条开放街区慢慢逛。中粮祥云小镇 → 祥云小镇白鸽广场，安排约3–4小时。从开放商业街与餐饮到步行广场与街边座位，留点时间给自己。市集与活动并非每日举办；按日常街区安排，不喂食野生鸟类。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "五环外"
+    ],
+    "hero_prompt_english": "COFCO Shine Hills open-air shopping town Shunyi, small contemporary European-inspired mixed brick and pastel facades, a pleasant pedestrian square with outdoor cafe tables and leafy trees, two adults choosing a simple pastry. No copied brands or character sculptures, no festival guarantee, everyday weekend atmosphere. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "7efd05a31ebfa3f8ff7630c4cf5f50db737f2ac18514c25d2eee36535c2ed66d",
+      "bounds_wgs84": [
+        116.52273671785767,
+        40.07940335921491,
+        116.53944538214233,
+        40.09218684189994
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "中粮祥云小镇",
+          "lon": 116.5303861,
+          "lat": 40.0860872,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "祥云小镇白鸽广场",
+          "lon": 116.531796,
+          "lat": 40.0855036,
+          "coordinate_status": "OSM named White Dove Plaza feature centroid; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:21:14.988501+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "中粮祥云小镇",
+          "source_url": "https://www.openstreetmap.org/node/8892368998",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "祥云小镇白鸽广场",
+          "source_url": "https://www.openstreetmap.org/way/1333254284",
+          "status": "OSM named White Dove Plaza feature centroid; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "中粮祥云小镇 → 祥云小镇白鸽广场",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "五环外·顺义后沙峪",
+        "box": [
+          52,
+          133,
+          341,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "祥云小镇不赶集",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "五环外·创意周末  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "一条开放街区慢慢逛",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  中粮祥云小镇",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "开放商业街与餐饮",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  祥云小镇白鸽广场",
+        "box": [
+          53,
+          1194,
+          313,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "步行广场与街边座位",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "市集与活动并非每日举办；按日常街区安排，不喂食野生鸟类。",
+        "box": [
+          53,
+          1281,
+          557,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁后沙峪站后公交或出租车接驳",
+        "box": [
+          53,
+          1362,
+          353,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "20 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "099",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

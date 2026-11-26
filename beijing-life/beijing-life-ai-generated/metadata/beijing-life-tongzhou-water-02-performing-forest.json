@@ -1,0 +1,364 @@
+{
+  "output": "../beijing-life-tongzhou-water-02-performing-forest.png",
+  "refined_prompt": "../prompts/beijing-life-tongzhou-water-02-performing-forest.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:00.432940+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-tongzhou-water",
+  "group_number": 7,
+  "series_number": 2,
+  "anthology_index": 32,
+  "title": "文化粮仓旁散步",
+  "sha256": "d81a7aa353a584a7643695b666d07ffcb9eec71a90654bab79466af0ad339838",
+  "native_sha256": "b132517c27c682076701a4a85f299753fae42c15cf9a108c466605929a04a09d",
+  "prompt_sha256": "f8a93ef97a250439d10f668277e5f3e949e4d1b01eedd168745bd46aaa4ee214",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1881437,
+  "art_direction": {
+    "style_name": "胶片剪影杂志拼贴",
+    "style_prompt_english": "Original editorial photomontage-like illustration made from newly generated photographic-looking fragments: crisp cut silhouette edges, overlapping architecture, translucent color-paper light fields and subtle 35mm film grain. One coherent scene with one large real landmark and a close concrete activity. No actual external photos, no text, no copied campaign design; richly filled full-bleed vertical composition.",
+    "palette": [
+      "#BCE7D9",
+      "#4068BD",
+      "#EC9876",
+      "#EEDCB8"
+    ],
+    "layout_variant": 1,
+    "activity": "运河散步、文化建筑与阅读",
+    "area": "通州区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "performing-forest",
+    "title": "文化粮仓旁散步",
+    "subtitle": "三座银色建筑与绿心",
+    "area_label": "通州·绿心文化区",
+    "duration": "约2–3小时",
+    "transport": "地铁6号线北运河西站后公交接驳",
+    "stops": [
+      {
+        "name": "北京艺术中心",
+        "detail": "三座银色文化粮仓外观",
+        "lat": 39.8854811,
+        "lon": 116.7124778,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://perkinswill.com/project/beijing-performing-arts-centre/",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1151193751"
+      },
+      {
+        "name": "绿心露天剧场",
+        "detail": "从开放公共区看河畔看台",
+        "lat": 39.8861912,
+        "lon": 116.7143356,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://www.bpac.org.cn/gywm/",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1253826817",
+        "source_verification_note": "Read directly in preceding outer-four series on2026-10-29; current retry405, archived factual notes retained in beijing-outer-four/fifth-research-notes.txt"
+      },
+      {
+        "name": "城市绿心森林公园",
+        "detail": "文化区附近园路散步",
+        "lat": 39.8831,
+        "lon": 116.7139,
+        "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://www.bpac.org.cn/gywm/",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/779532223",
+        "source_verification_note": "Read directly in preceding outer-four series on2026-10-29; current retry405, archived factual notes retained in beijing-outer-four/fifth-research-notes.txt"
+      }
+    ],
+    "practical_note": "演出不含在时长内；场馆参观与座席开放查预约，公共道路以现场为准。",
+    "copy_title": "通州·绿心文化区｜文化粮仓旁散步",
+    "copy_body": "不追一场演出，也能来看看建筑。沿三座银色粮仓走到树林，把文化区当作一座可散步的公园。 路线：北京艺术中心 → 绿心露天剧场 → 城市绿心森林公园。约2–3小时，到首站和返程另计。演出不含在时长内；场馆参观与座席开放查预约，公共道路以现场为准。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "通州",
+      "文化粮仓旁散步"
+    ],
+    "hero_prompt_english": "Beijing Performing Arts Center as three separate silvery granary-like theater volumes with single-ridge double-pitched GABLED roofs and softly folded perforated aluminum facades, not cylindrical beside water, calm riverfront outdoor amphitheater visible as low curved seating and forest beyond. Adult walker with a folded coat, mint-blue original editorial collage, realistic distinctive ribbed facades. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "0ea20fbb75101d084d107f7d6480366a341280c0756ddaf613a8d6fdff56a682",
+      "bounds_wgs84": [
+        116.70505236785768,
+        39.87823472937577,
+        116.72176103214234,
+        39.891055906075565
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京艺术中心",
+          "lon": 116.7124778,
+          "lat": 39.8854811,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "绿心露天剧场",
+          "lon": 116.7143356,
+          "lat": 39.8861912,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "城市绿心森林公园",
+          "lon": 116.7139,
+          "lat": 39.8831,
+          "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:40.576162+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京艺术中心",
+          "source_url": "https://www.openstreetmap.org/way/1151193751",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "绿心露天剧场",
+          "source_url": "https://www.openstreetmap.org/way/1253826817",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "城市绿心森林公园",
+          "source_url": "https://www.openstreetmap.org/way/779532223",
+          "status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京艺术中心 → 绿心露天剧场 → 城市绿心森林公园",
+        "box": [
+          52,
+          43,
+          648,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "通州·绿心文化区",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "文化粮仓旁散步",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "通州水边的新旧北京  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "三座银色建筑与绿心",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京艺术中心",
+        "box": [
+          413,
+          1117,
+          619,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "三座银色文化粮仓外观",
+        "box": [
+          416,
+          1153,
+          616,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  绿心露天剧场",
+        "box": [
+          413,
+          1194,
+          619,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "从开放公共区看河畔看台",
+        "box": [
+          416,
+          1230,
+          636,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  城市绿心森林公园",
+        "box": [
+          413,
+          1271,
+          673,
+          1298
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "文化区附近园路散步",
+        "box": [
+          416,
+          1307,
+          596,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁6号线北运河西站后公交接驳",
+        "box": [
+          413,
+          1362,
+          705,
+          1382
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "07 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "032",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "Prior prompt called the three theater volumes cylindrical; verified architect and prior official research show three granary-inspired SINGLE-RIDGE DOUBLE-PITCHED GABLED roof volumes with folded perforated aluminum facades. Correct recognizable architecture before final delivery.",
+    "superseded_native_sha256": "ce4281aa7e76e16fe3b0bce5f2916f2546819793cc4741e8eb383c30f5744e3c",
+    "repaired_at": "2026-10-29T04:51:17.102861+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "output": "../daily-vignette-family-02-family-photo-extra-seat.png",
+  "refined_prompt": "../prompts/daily-vignette-family-02-family-photo-extra-seat.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-02-family-photo-extra-seat-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 2,
+  "anthology_index": 12,
+  "panel_count": 4,
+  "display_title": "合影多一位",
+  "visible_description": "爸爸为全家设置好合影，家里的小狗却先坐上了给他留的位置。",
+  "synopsis": "每次家庭合影，爸爸都躲在相机后面。这次姐姐找来小支架，给他在沙发上留好位置。爸爸设好定时，匆匆跑回去，才发现小狗已经端端正正坐在空垫子上。大家没有把它抱走，而是一起往两边挪，给爸爸腾出半个座位。快门落下时，奶奶一手拉着爸爸，一手还扶着那位抢先入座的小客人。",
+  "story_text": "一家人坐到沙发上，爸爸举起相机，又往后退了一步。姐姐看看奶奶旁边的空位，忽然站起来，把相机接过去，装到小支架上。\n\n奶奶拍了拍空垫子，妈妈把靠枕挪开。爸爸设好定时，三步并两步赶回来，刚要坐下，却发现小狗已经端端正正占好了位置，眼睛正对着镜头。\n\n姐姐笑着向旁边挪，妈妈也跟着让出一点。爸爸终于坐进半块垫子，肩膀紧挨奶奶。小狗没有动，倒把前爪摆得更齐了。\n\n奶奶一手拉住爸爸，一手轻轻扶在狗旁边。快门落下时，大家没能保持同一种笑法：有人抿嘴，有人露牙，爸爸还微微喘着气。但这一次，相片里终于连按快门的人也在。",
+  "art_direction": "Gentle living-room gouache and lively colored-pencil faces on yellowed paper",
+  "character_design": "The father is a Chinese man in his forties with short dark hair and rectangular glasses, wearing an ochre sweater and navy trousers. The grandmother has a silver bun and wears a plum cardigan over a cream blouse with dark trousers. The adult daughter has shoulder-length straight hair and wears a sage shirt and rust trousers. The mother has a neat black bob and a dusty blue dress over opaque tights. Their small white dog has tan ears and one tan patch around its left eye.",
+  "panels": [
+    {
+      "caption": "大家都坐好了，爸爸还在相机后面。",
+      "scene": "In a modest living room, grandmother, mother, and adult daughter sit together on a muted green sofa while the father stands behind a small camera held at his face. A conspicuous empty cushion at one end marks the place he would occupy. The small white dog with tan ears sits on the rug nearby. View from beside the camera so both photographer and family are visible. Keep their clothes distinct, the sofa arrangement simple, and the empty cushion unmistakable as the daughter looks toward her father rather than the lens."
+    },
+    {
+      "caption": "姐姐支好相机，给他留了一块空垫子。",
+      "scene": "The daughter adjusts the same small camera on a low stable tripod in front of the sofa. Behind her, grandmother pats the empty cushion beside her while mother shifts a decorative pillow out of the way. The father bends over the camera to set its timer, using a small button without any readable screen details. The dog has risen from the rug and faces the inviting empty seat. Use a slightly wider composition that clearly connects the fixed camera, the open sofa space, and the family's plan to include everyone."
+    },
+    {
+      "caption": "他刚跑回来，小狗已经端正地坐好了。",
+      "scene": "Capture the father arriving at the sofa with one foot still in a small hurried step, smiling in surprise. The white dog now sits perfectly upright in the middle of the reserved cushion, tan ears forward, looking toward the camera. Grandmother and mother lean back with amused expressions while the daughter slides sideways to make room. The tripod remains visible at the lower foreground edge. Keep the scene affectionate and physically calm, showing a practical seating puzzle rather than anyone chasing or scolding the little dog."
+    },
+    {
+      "caption": "大家挤一挤，这次谁也没落下。",
+      "scene": "Show the final family portrait as seen from the camera: father sits on half the cushion beside grandmother, daughter and mother have shifted closer, and the small dog remains proudly between them. Grandmother holds the father's hand with one hand and rests her other hand lightly beside the dog. Their shoulders overlap naturally, with warm unposed smiles and a slight cozy squeeze. Leave a soft edge of the room around the sofa so it remains an illustration of the moment, without a photo border, timestamp, or written caption inside the picture."
+    }
+  ],
+  "palette": [
+    "#EFE1C8",
+    "#8CA09A",
+    "#B77A60",
+    "#CEAA64",
+    "#6E6778"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "大家都坐好了，爸爸还在相机后面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "姐姐支好相机，给他留了一块空垫",
+          "子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "他刚跑回来，小狗已经端正地坐好",
+          "了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "大家挤一挤，这次谁也没落下。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "d15866f263c42bec200f12be814cfc1c0fbdac76eb5c2794b3154d51acc03199",
+  "sha256": "3f14605589157e1f0515700045f0dc119e55ca2d22afd1bf37f523a9cd6db580",
+  "prompt_sha256": "db47dcf72737655137dafc7fca43e344e117783314033db93aea71c2ab08a99f",
+  "story_sha256": "932a18ade87dcb1d6d246e97645264a376f256e89910bae0f8bdb778c6b13b60",
+  "created_at": "2026-10-26T09:48:45.170866+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

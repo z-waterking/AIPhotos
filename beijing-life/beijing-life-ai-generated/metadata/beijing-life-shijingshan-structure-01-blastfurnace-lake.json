@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-shijingshan-structure-01-blastfurnace-lake.png",
+  "refined_prompt": "../prompts/beijing-life-shijingshan-structure-01-blastfurnace-lake.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T05:01:44.041058+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shijingshan-structure",
+  "group_number": 6,
+  "series_number": 1,
+  "anthology_index": 26,
+  "title": "钢铁也会有倒影",
+  "sha256": "fa2f8cc8bed1380d4562a1844e95ee81a5fcbf73698d0a53433606d31da5e905",
+  "native_sha256": "8b304572a0042ad7ad7f367a6e17cc92a49353884269aad813d04cfd250adbcb",
+  "prompt_sha256": "88ed0bc99598a9f1aa599643e143ee9fe51ce114e0a569ccf132fbe3cbd5024f",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2206278,
+  "art_direction": {
+    "style_name": "蓝晒工程线稿",
+    "style_prompt_english": "Original cyanotype-inspired architectural field notebook artwork: deep Prussian blue, pale cyan blueprint lines and selective burnt-orange accents; dense precise linework describes steel joints, masonry and tree branches, photogram-like leaf silhouettes at the edges. No writing, dimensions or fake technical labels. Full-bleed scene, not an empty blueprint sheet.",
+    "palette": [
+      "#113D69",
+      "#64C8D2",
+      "#F4E6B5",
+      "#D66B34"
+    ],
+    "layout_variant": 0,
+    "activity": "工业遗产、古街与山麓散步",
+    "area": "石景山区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "blastfurnace-lake",
+    "title": "钢铁也会有倒影",
+    "subtitle": "首钢北区的结构散步",
+    "area_label": "石景山·首钢园",
+    "duration": "约3小时",
+    "transport": "地铁6号线金安桥站后步行接驳",
+    "stops": [
+      {
+        "name": "秀池",
+        "detail": "湖岸看高炉倒影",
+        "lat": 39.9191555,
+        "lon": 116.1470532,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118780",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/118554595"
+      },
+      {
+        "name": "三高炉",
+        "detail": "观察工业结构外观",
+        "lat": 39.9190967,
+        "lon": 116.1493752,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118780",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/943176364"
+      },
+      {
+        "name": "六工汇",
+        "detail": "旧厂房更新与午餐",
+        "lat": 39.9156364,
+        "lon": 116.1477589,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118780",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/996804869"
+      }
+    ],
+    "practical_note": "按开放公共园路游览；高炉入内另查票务，午餐自行选择。",
+    "copy_title": "石景山·首钢园｜钢铁也会有倒影",
+    "copy_body": "先看倒影，再看钢铁怎么连接。用一顿午饭把首钢北区的湖、炉和新生活串起来。 路线：秀池 → 三高炉 → 六工汇。约3小时，到首站和返程另计。按开放公共园路游览；高炉入内另查票务，午餐自行选择。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "石景山",
+      "钢铁也会有倒影"
+    ],
+    "hero_prompt_english": "Shougang Park No.3 blast furnace rendered in precise cyanotype blue linework, huge cylindrical steel body, dense external stairs and pipes reflected in Xiuchi water; nearby red-brick factory conversion, tiny adult visitor with a camera, tree leaves as pale cyan photogram silhouettes. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "a5f451b6e7176cd70e8d6eab120cb06d253a1e9e56d26039dab294ed498eb245",
+      "bounds_wgs84": [
+        116.13985986785767,
+        39.910988147708316,
+        116.15656853214233,
+        39.923803197985976
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "秀池",
+          "lon": 116.1470532,
+          "lat": 39.9191555,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "三高炉",
+          "lon": 116.1493752,
+          "lat": 39.9190967,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "六工汇",
+          "lon": 116.1477589,
+          "lat": 39.9156364,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:27.597450+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "秀池",
+          "source_url": "https://www.openstreetmap.org/way/118554595",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "三高炉",
+          "source_url": "https://www.openstreetmap.org/way/943176364",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "六工汇",
+          "source_url": "https://www.openstreetmap.org/way/996804869",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "秀池 → 三高炉 → 六工汇",
+        "box": [
+          52,
+          43,
+          336,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "石景山·首钢园",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "钢铁也会有倒影",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "石景山结构观察课  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "首钢北区的结构散步",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  秀池",
+        "box": [
+          53,
+          1117,
+          151,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "湖岸看高炉倒影",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  三高炉",
+        "box": [
+          53,
+          1194,
+          178,
+          1222
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "观察工业结构外观",
+        "box": [
+          56,
+          1230,
+          216,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  六工汇",
+        "box": [
+          53,
+          1271,
+          178,
+          1297
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "旧厂房更新与午餐",
+        "box": [
+          56,
+          1307,
+          216,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁6号线金安桥站后步行接驳",
+        "box": [
+          53,
+          1362,
+          325,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "06 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "026",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

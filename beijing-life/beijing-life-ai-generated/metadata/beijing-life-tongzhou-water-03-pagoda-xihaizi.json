@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-tongzhou-water-03-pagoda-xihaizi.png",
+  "refined_prompt": "../prompts/beijing-life-tongzhou-water-03-pagoda-xihaizi.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:00.709664+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-tongzhou-water",
+  "group_number": 7,
+  "series_number": 3,
+  "anthology_index": 33,
+  "title": "燃灯塔旁慢半天",
+  "sha256": "627cf747d8dbbd27a5697a0bb0cd04e32b93be065235bd3cdc71d99ee263213c",
+  "native_sha256": "9b9a4f340f6678177ab26c1d27e0bde4fcb845baf0a73644e529af0242829dfe",
+  "prompt_sha256": "0184243cc17626a36e34f10334565e7969e29efcb4d0480393d1d6dc3475efdc",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2131606,
+  "art_direction": {
+    "style_name": "胶片剪影杂志拼贴",
+    "style_prompt_english": "Original editorial photomontage-like illustration made from newly generated photographic-looking fragments: crisp cut silhouette edges, overlapping architecture, translucent color-paper light fields and subtle 35mm film grain. One coherent scene with one large real landmark and a close concrete activity. No actual external photos, no text, no copied campaign design; richly filled full-bleed vertical composition.",
+    "palette": [
+      "#BCE7D9",
+      "#4068BD",
+      "#EC9876",
+      "#EEDCB8"
+    ],
+    "layout_variant": 1,
+    "activity": "运河散步、文化建筑与阅读",
+    "area": "通州区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "pagoda-xihaizi",
+    "title": "燃灯塔旁慢半天",
+    "subtitle": "古塔、寺院和城市公园",
+    "area_label": "通州·老城北部",
+    "duration": "约3小时",
+    "transport": "地铁6号线通州北关站；步行接驳",
+    "stops": [
+      {
+        "name": "三庙一塔景区",
+        "detail": "院落建筑与燃灯塔外观",
+        "lat": 39.9145168,
+        "lon": 116.6598481,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118319",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/675902182"
+      },
+      {
+        "name": "西海子公园",
+        "detail": "水面和古城公园散步",
+        "lat": 39.9132065,
+        "lon": 116.658329,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117933",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/691433333"
+      }
+    ],
+    "practical_note": "塔以外观安排；查景区预约与园门，环湖路线根据开放情况调整。",
+    "copy_title": "通州·老城北部｜燃灯塔旁慢半天",
+    "copy_body": "通州不只有新建筑。看燃灯塔的密檐，再去西海子公园坐一会儿，让新城行程里也留一点老城。 路线：三庙一塔景区 → 西海子公园。约3小时，到首站和返程另计。塔以外观安排；查景区预约与园门，环湖路线根据开放情况调整。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "通州",
+      "燃灯塔旁慢半天"
+    ],
+    "hero_prompt_english": "Ancient Randeng Pagoda in Tongzhou with tall slender multi-eave octagonal brick profile above low temple roofs, nearby Xihaizi park water and autumn willow branches. Adult visitor rests on a bench, layered film-grain collage with precise pagoda silhouette, no imaginary tower climb. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "023901ff93317549cd5db5198cb00de784c5073eae7b29a55173c2e9630e206e",
+      "bounds_wgs84": [
+        116.65073421785767,
+        39.90745349757072,
+        116.66744288214234,
+        39.920269209194934
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "三庙一塔景区",
+          "lon": 116.6598481,
+          "lat": 39.9145168,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "西海子公园",
+          "lon": 116.658329,
+          "lat": 39.9132065,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:42.558485+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "三庙一塔景区",
+          "source_url": "https://www.openstreetmap.org/way/675902182",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "西海子公园",
+          "source_url": "https://www.openstreetmap.org/way/691433333",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "三庙一塔景区 → 西海子公园",
+        "box": [
+          52,
+          43,
+          376,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "通州·老城北部",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "燃灯塔旁慢半天",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "通州水边的新旧北京  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "古塔、寺院和城市公园",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  三庙一塔景区",
+        "box": [
+          413,
+          1117,
+          619,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "院落建筑与燃灯塔外观",
+        "box": [
+          416,
+          1153,
+          616,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  西海子公园",
+        "box": [
+          413,
+          1194,
+          592,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "水面和古城公园散步",
+        "box": [
+          416,
+          1230,
+          596,
+          1250
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "塔以外观安排；查景区预约与园门，环湖路线根据开放情况调整。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁6号线通州北关站；步行接驳",
+        "box": [
+          413,
+          1362,
+          705,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "07 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "033",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

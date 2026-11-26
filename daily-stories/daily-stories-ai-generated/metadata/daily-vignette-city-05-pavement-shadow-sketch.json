@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-05-pavement-shadow-sketch.png",
+  "refined_prompt": "../prompts/daily-vignette-city-05-pavement-shadow-sketch.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-05-pavement-shadow-sketch-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 5,
+  "anthology_index": 75,
+  "panel_count": 4,
+  "display_title": "影子坐下了",
+  "visible_description": "她请路边的树影，在速写本里多坐了一会儿。",
+  "synopsis": "午休时，阿简坐在广场边画树，画到一半却发现树影已经挪出了纸上的位置。她没有擦掉旧线条，而是在旁边添上新的影子轮廓。等同事端着咖啡回来，纸上已经有了几层浅浅的树冠。她把杯子放在画旁，杯影也落进空白处，像最后一位刚刚赶来的客人。",
+  "story_text": "午休只有一会儿，阿简拿着速写本坐到广场边。她选好一棵树，先画树影的边缘，想把这个安静的中午装进一张小纸里。\n\n画到一半，影子已经移开。她把本子挪到眼前比了比，旧线和地上的新位置差了一点，再过片刻，好像又差了一点。\n\n阿简没有擦，把新位置也画进去，颜色落得更浅。两个树冠慢慢叠出几层，像同一棵树轻轻摇头，也像纸上的时间终于有了形状。\n\n同事买咖啡回来，把杯子放到本子旁。圆圆的杯影正落进一处留白，阿简指给他看，两个人都笑了。那棵树今天多了一位小邻居，而且还带着温暖的香气。",
+  "art_direction": "Loose graphite and colored pencil over muted gouache blocks",
+  "character_design": "Ajian is an adult woman with a loose dark bun, plain cream blouse, navy culottes and tan loafers. Her adult male colleague has short black hair, a sage overshirt and brown trousers. One unlettered sketchbook and one dark pencil are present throughout. ZERO cups exist in panels 1-3 while the colleague is away buying coffee. ONLY panel 4 contains exactly TWO plain terracotta takeaway cups: one rests on the bench beside the book, the other is held in his left hand. Never duplicate cups.",
+  "panels": [
+    {
+      "caption": "午休只够画一棵树。",
+      "scene": "Ajian sits on the low bench at a quiet city square, with the ONE sketchbook open on her lap and ONE dark pencil held above its page. A broad tree casts a clear leafy shadow across the paving in front. Her colleague walks away in the background with BOTH HANDS EMPTY, going to buy coffee. ZERO cups, mugs, bottles, saucers or drink containers are visible anywhere: the bench beside her is entirely empty. The sketch contains only a simple tree-shadow outline. Warm paper gouache and pencil, one quiet observable moment, no lettering, logos, signs or speech balloons.",
+      "position": "TL"
+    },
+    {
+      "caption": "画到一半，影子换了座位。",
+      "scene": "Alone beside the same bench, Ajian raises the ONE open sketchbook to compare its existing tree-shadow outline with the actual shifted shade on the paving. The ONE pencil lies across the page, and both hands support the book. Her colleague is absent, still away buying coffee. There are ZERO cups or other drink containers on the bench, in her hands, on the ground, or in the background. Her slightly raised eyebrows show recognition of the moved shadow. Keep the tree and bench unchanged. Wordless old-paper gouache and pencil; no labels, symbols or speech balloons.",
+      "position": "TR"
+    },
+    {
+      "caption": "她把新的位置，也留在纸上。",
+      "scene": "Ajian sits alone and draws a second faint overlapping tree-shadow shape in the ONE sketchbook on her lap. She holds the ONE pencil in her right hand and steadies the page with her left. The original darker outline remains visible beside the new pale one. Her colleague is still absent. ZERO cups, mugs, saucers, bottles or coffee containers appear anywhere; the entire bench surface beside her remains empty. The live tree shadow lies on the paving nearby. Focus on the layered pictorial drawing and thoughtful smile, without lettering, signage, speech balloons or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "咖啡杯，也来占一个位置。",
+      "scene": "The colleague has returned. Show one precise moment AFTER he has fully released the first coffee cup onto the bench beside the open sketchbook. EXACTLY TWO cups exist: Cup one rests upright on the bench, casting its rounded shadow into the blank page corner; Cup two is held ONLY in his LEFT hand near his chest. His RIGHT hand is visibly EMPTY and withdrawn from the first cup. Ajian holds no cup and points toward the new shadow. No additional cup sits elsewhere, no cup appears twice in motion. Same two plain terracotta containers, wordless scene.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E5DDC8",
+    "#81947B",
+    "#BCA17A",
+    "#7395A4",
+    "#6F655D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "午休只够画一棵树。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "画到一半，影子换了座位。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "她把新的位置，也留在纸上。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "咖啡杯，也来占一个位置。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "0c5682bff2f72677b558d216c8c240b187da8544eabf988bbecee72f37bf1792",
+  "sha256": "50a112cb1f435710404338a97646204c349cf60cfb510e6d38e4480dcfa96698",
+  "prompt_sha256": "5bc57d86a1f8a7d940f9d184183342f064918a4d085cb338a58b88be66ee71a8",
+  "story_sha256": "e56ae12dc810e34aed459c33797025ca158521b7043c6f52c009ee98a9ff4282",
+  "created_at": "2026-10-26T10:55:42.298460+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

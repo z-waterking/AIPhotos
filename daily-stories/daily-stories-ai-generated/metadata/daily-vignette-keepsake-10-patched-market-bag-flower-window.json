@@ -1,0 +1,213 @@
+{
+  "output": "../daily-vignette-keepsake-10-patched-market-bag-flower-window.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-10-patched-market-bag-flower-window.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-10-patched-market-bag-flower-window-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 10,
+  "anthology_index": 10,
+  "panel_count": 6,
+  "display_title": "布袋开小窗",
+  "visible_description": "一块补在旧菜袋上的花布，最后成了专门放花的小口袋。",
+  "synopsis": "爷爷的帆布菜袋底角磨薄了，他翻出一块碎花布，准备补得结结实实。孙女提醒他，每回买的小雏菊都被萝卜叶挤在一起。两人把袋底补好，又用剩下的花布在外面缝了一个窄口袋。第二天赶集，爷爷照样装满蔬菜，雏菊却独自站在袋外。回家时，孙女远远就看见那扇会晃动的小花窗。",
+  "story_text": "爷爷的帆布菜袋用了很久，底角磨得发薄。他翻出一块旧花布铺在桌上，准备补得厚一些，明天还要带它去市场。\n\n孙女把袋里的小雏菊取出来，花瓣旁还勾着萝卜叶。她将花贴着袋子外侧立好，问爷爷能不能给它们单独留个地方。爷爷看看剩下的布，点了点头。\n\n袋底补稳以后，两人又缝出一个窄口袋。孙女把花茎放进去试，深浅刚好，花头露在外面，像从一扇小窗探出来。爷爷把袋子拎起，转过来给她看。\n\n第二天他照旧买了许多蔬菜。回家走到楼下，孙女已经站在门口招手。她先看见的不是爷爷，也不是那一大把萝卜叶，而是袋外轻轻晃着的几朵白雏菊。",
+  "art_direction": "Fresh market gouache with soft pencil fabric textures on cream paper",
+  "character_design": "The grandfather is a Chinese man in his late sixties with a bald crown, short gray side hair, cheerful thick eyebrows, and a round nose. He wears a pale blue long-sleeved shirt, brown trousers, and dark cloth shoes. His teenage granddaughter has a black braid over one shoulder and wears a cream sweatshirt, moss-green trousers, and white sneakers. The old shopping tote is unbleached canvas with dark brown handles. The patch fabric is faded terracotta printed with tiny simple cream flowers.",
+  "panels": [
+    {
+      "caption": "菜袋角磨薄了，爷爷翻出一块花布。",
+      "scene": "At a kitchen table, the grandfather turns his empty canvas shopping tote inside out to inspect a thin worn bottom corner. His granddaughter stands beside him holding a folded piece of faded terracotta flower-patterned cloth. A few radishes and a small bunch of daisies from the morning market lie on a tray nearby, their stems tangled together. Keep the worn corner clearly visible but not torn open. The brown handles drape across the table, and their practical expressions establish a familiar repair rather than a dramatic loss."
+    },
+    {
+      "caption": "袋底补结实了，桌上还剩一小条花布。",
+      "scene": "The grandfather smooths a securely sewn terracotta floral patch over the tote bottom while his granddaughter holds the canvas bag open for him. A narrow leftover strip of matching cloth lies clearly on the table beside the radishes and daisies. The dark brown handles drape toward the viewer. Focus on the completed repair and spare fabric, keeping the flower pocket absent at this stage so the later idea develops visibly."
+    },
+    {
+      "caption": "她拎出被萝卜叶挤住的小雏菊。",
+      "scene": "The granddaughter gently lifts the small bunch of white daisies away from the radish leaves on the tray and holds them upright against the outside of the canvas tote. The grandfather presses a finished floral patch over the tote's bottom corner, noticing her demonstration. A narrow leftover strip of matching flower fabric lies between them. Compose the daisies, bag edge, and fabric strip as a clear visual proposal, with the granddaughter's hand showing the flowers' preferred vertical position and both figures focused on the same modest idea."
+    },
+    {
+      "caption": "补好袋底，剩下的布又缝成窄口袋。",
+      "scene": "The repaired canvas tote rests upright on the table, supported by a folded towel inside. Its patched bottom corner is visible, and a narrow terracotta floral pocket is now attached to the outer side. The grandfather smooths the pocket's top edge while his granddaughter tests it with the daisy stems, lowering them carefully into the new compartment. Show the pocket deep enough to hold stems securely, leaving only flowers and upper leaves above the rim. Fine pencil stitches, worn canvas, and fresh petals provide the tactile focus."
+    },
+    {
+      "caption": "他拎起菜袋，花头刚好露在外面。",
+      "scene": "The grandfather lifts the repaired tote by its brown handles and lets it hang naturally beside his knee. A small bunch of daisies sits in the new narrow outer pocket, their white heads visible above the terracotta floral fabric. His granddaughter steps back to check the height and steadiness with a satisfied smile. The bag is still empty of groceries, making this a clear trial of the new pocket before the market trip."
+    },
+    {
+      "caption": "蔬菜坐里面，小雏菊有了自己的窗。",
+      "scene": "On a sunlit neighborhood lane, the grandfather returns from market carrying the familiar canvas tote filled with leafy vegetables and radishes. A small bunch of white daisies stands neatly in the outer floral pocket, separate from the groceries, its heads bobbing just above the bag's side. His granddaughter waits in the apartment doorway and spots the flowers with a bright smile, one hand raised in greeting. Keep the visible patch and matching pocket consistent. The composition leads from the lively bag in the foreground to their welcoming faces."
+    }
+  ],
+  "palette": [
+    "#ECE0C5",
+    "#7D9462",
+    "#C88A6A",
+    "#E0BD63",
+    "#728F9F"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "菜袋角磨薄了，爷爷翻出一块花布。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "袋底补结实了，桌上还剩一小条花",
+          "布。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "她拎出被萝卜叶挤住的小雏菊。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "补好袋底，剩下的布又缝成窄口袋。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "他拎起菜袋，花头刚好露在外面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "蔬菜坐里面，小雏菊有了自己的窗。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "7f3e406babd20d737a7ec2620942c5b53ab6fe46b0e2f683058bf8fc9e7af771",
+  "sha256": "baaf8f68a3aaf0767e73d0b35ef286face9d67b7fb4594de10fe90cf1e8ab0ea",
+  "prompt_sha256": "e7830bad7e17e30ab9c6813726b57c22ed97d23b1be7ae404c6e65703762f09c",
+  "story_sha256": "fdbb99d84a22ea5760bc02d3bfd3c437b93eadfe605e7be5f8b2b9f581c2252a",
+  "created_at": "2026-10-26T09:47:34.850252+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

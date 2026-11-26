@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-dongcheng-hutong-04-nanluo-side-lanes.png",
+  "refined_prompt": "../prompts/beijing-life-dongcheng-hutong-04-nanluo-side-lanes.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:41.250434+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-dongcheng-hutong",
+  "group_number": 1,
+  "series_number": 4,
+  "anthology_index": 4,
+  "title": "从热闹走到安静",
+  "sha256": "31b7bb03583d05e6ff677e358797adf6f69371f2beaec3d2674dcf60d29514a4",
+  "native_sha256": "b7374444b91cbfd344a4ba91c13d490742e7f8a74d84dbc6eecca0209aab938b",
+  "prompt_sha256": "41c8a0f2018e7effd4fe57853cc67ccf12645359264819ebcc94d45a6efd0fd7",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2173760,
+  "art_direction": {
+    "style_name": "不透明水粉街景",
+    "style_prompt_english": "Opaque gouache travel painting with visible broad brush marks, flat light shapes, irregular architectural contours and luminous dark doorways. Slightly elevated street-level view; layered street foreground, brick courtyard middle distance and autumn tree canopy. A complete lived-in scene rather than isolated stickers.",
+    "palette": [
+      "#FFC857",
+      "#DC5938",
+      "#295F6B",
+      "#F7EACD"
+    ],
+    "layout_variant": 0,
+    "activity": "胡同散步与院落观察",
+    "area": "东城区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "nanluo-side-lanes",
+    "title": "从热闹走到安静",
+    "subtitle": "南锣东侧三条小街",
+    "area_label": "东城·南锣鼓巷",
+    "duration": "约2–3小时",
+    "transport": "地铁6/8号线南锣鼓巷站；步行接驳",
+    "stops": [
+      {
+        "name": "南锣鼓巷",
+        "detail": "鱼骨状胡同街区主巷",
+        "lat": 39.93512891538462,
+        "lon": 116.3968783,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101328",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/4922662"
+      },
+      {
+        "name": "菊儿胡同",
+        "detail": "灰瓦院落和支巷尺度",
+        "lat": 39.93774546,
+        "lon": 116.39916502000001,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101328",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30748845"
+      },
+      {
+        "name": "后圆恩寺胡同",
+        "detail": "安静门楼与树影",
+        "lat": 39.93706015,
+        "lon": 116.3996289,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101328",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/4931240"
+      }
+    ],
+    "practical_note": "沿公共街道游览；故居院落不默认开放，主巷人多时错峰。",
+    "copy_title": "东城·南锣鼓巷｜从热闹走到安静",
+    "copy_body": "不只沿南锣鼓巷买东西，向东拐两次，看看房屋高度、门窗和树影怎样把街巷变小。 路线：南锣鼓巷 → 菊儿胡同 → 后圆恩寺胡同。约2–3小时，到首站和返程另计。沿公共街道游览；故居院落不默认开放，主巷人多时错峰。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "东城",
+      "从热闹走到安静"
+    ],
+    "hero_prompt_english": "A lively section of Nanluoguxiang transitions into a quieter side lane inspired by Juer Hutong, narrow low gray courtyard houses and a mature tree dominating foreground. Two adult friends point out roof tiles and a stone threshold. Warm ochre walls touched with vermilion, no commercial brand signs. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "c39eeb4c87b53f0202af6810a63765aa56e3fca6f28dc7dc44a7da15f59f334d",
+      "bounds_wgs84": [
+        116.38989926785766,
+        39.930031157194875,
+        116.40660793214232,
+        39.94284264361371
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "南锣鼓巷",
+          "lon": 116.3968783,
+          "lat": 39.93512891538462,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "菊儿胡同",
+          "lon": 116.39916502000001,
+          "lat": 39.93774546,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "后圆恩寺胡同",
+          "lon": 116.3996289,
+          "lat": 39.93706015,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:36.324038+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "南锣鼓巷",
+          "source_url": "https://www.openstreetmap.org/way/4922662",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "菊儿胡同",
+          "source_url": "https://www.openstreetmap.org/way/30748845",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "后圆恩寺胡同",
+          "source_url": "https://www.openstreetmap.org/way/4931240",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "南锣鼓巷 → 菊儿胡同 → 后圆恩寺胡同",
+        "box": [
+          52,
+          43,
+          492,
+          70
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东城·南锣鼓巷",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "从热闹走到安静",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "东城胡同慢镜头  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          377,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "南锣东侧三条小街",
+        "box": [
+          55,
+          1013,
+          231,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  南锣鼓巷",
+        "box": [
+          53,
+          1117,
+          205,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "鱼骨状胡同街区主巷",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  菊儿胡同",
+        "box": [
+          53,
+          1194,
+          205,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "灰瓦院落和支巷尺度",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  后圆恩寺胡同",
+        "box": [
+          53,
+          1271,
+          259,
+          1298
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "安静门楼与树影",
+        "box": [
+          56,
+          1307,
+          196,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁6/8号线南锣鼓巷站；步行接驳",
+        "box": [
+          53,
+          1362,
+          365,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "01 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "004",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

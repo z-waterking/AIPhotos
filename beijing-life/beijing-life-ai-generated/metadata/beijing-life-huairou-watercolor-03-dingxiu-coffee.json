@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-huairou-watercolor-03-dingxiu-coffee.png",
+  "refined_prompt": "../prompts/beijing-life-huairou-watercolor-03-dingxiu-coffee.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:57:06.505189+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-huairou-watercolor",
+  "group_number": 13,
+  "series_number": 3,
+  "anthology_index": 63,
+  "title": "雁栖河畔喝杯咖啡",
+  "sha256": "26a51a1f88cabe372b4a0d8ce0ebe572c0b5e38e7f4aca533d3a5577c0ac4ec0",
+  "native_sha256": "49cef2f5475444431e9f879850564f182188df1d1fdf65dd5b5001360050d18e",
+  "prompt_sha256": "323c36f5b77ed105bfa736f50fe2cac114ee09b07092b05ecd397c486bdaee06",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2056585,
+  "art_direction": {
+    "style_name": "湿画水彩旅行册",
+    "style_prompt_english": "Luminous wet-on-wet watercolor landscape with granular washes, softly bleeding edges and selective precise pen-free architectural details. Large pools of lake color and atmospheric mountains, human-scale foreground activity, generous layered scene coverage rather than blank paper.",
+    "palette": [
+      "#437D96",
+      "#BFCF8C",
+      "#DE9B73",
+      "#EEE4CB"
+    ],
+    "layout_variant": 2,
+    "activity": "湖畔与阅读",
+    "area": "怀柔区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "dingxiu-coffee",
+    "title": "雁栖河畔喝杯咖啡",
+    "subtitle": "把小镇当作一个慢下午",
+    "area_label": "北京·怀柔区",
+    "duration": "约3小时",
+    "transport": "怀密线或916快到怀柔后公交、出租车接驳",
+    "stops": [
+      {
+        "name": "顶秀美泉小镇",
+        "detail": "欧式立面与步行商业街",
+        "lat": 40.3688037,
+        "lon": 116.6676746,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120834",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1348498513"
+      },
+      {
+        "name": "雁栖河畔公共步道",
+        "detail": "在允许通行的岸边散步",
+        "lat": 40.3688037,
+        "lon": 116.6676746,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120834",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1348498513"
+      }
+    ],
+    "practical_note": "沿公共街区和已开放步道走；不进入住宅庭院，店铺营业另查。",
+    "copy_title": "怀柔区｜雁栖河畔喝杯咖啡",
+    "copy_body": "把小镇当作一个慢下午。这次只安排一个片区：顶秀美泉小镇 → 雁栖河畔公共步道。建议留约3小时，把拍照、休息和短时参观一起算进去。沿公共街区和已开放步道走；不进入住宅庭院，店铺营业另查。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "怀柔区",
+      "北京小众玩法",
+      "湖畔与阅读"
+    ],
+    "hero_prompt_english": "Dingxiu Meiquan town in Huairou: a pedestrian street of colorful European-inspired low facades with steep roofs and decorative windows beside the Yanqi River, gentle local hills in the distance. Adults chat over coffee at a public cafe terrace. Keep the setting a contemporary Beijing leisure town, no claim it is historic Europe. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "781223303239f23f3154051aea829517b03d179b3196e0bea5f08f6880b9f0be",
+      "bounds_wgs84": [
+        116.65932026785767,
+        40.36243830828346,
+        116.67602893214233,
+        40.37516849058281
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "顶秀美泉小镇",
+          "lon": 116.6676746,
+          "lat": 40.3688037,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "雁栖河畔公共步道",
+          "lon": 116.6676746,
+          "lat": 40.3688037,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:44.425556+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "顶秀美泉小镇",
+          "source_url": "https://www.openstreetmap.org/way/1348498513",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "雁栖河畔公共步道",
+          "source_url": "https://www.openstreetmap.org/way/1348498513",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "顶秀美泉小镇 → 雁栖河畔公共步道",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·怀柔区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "雁栖河畔喝杯咖啡",
+        "box": [
+          49,
+          188,
+          601,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "怀柔｜让山水慢一点  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "把小镇当作一个慢下午",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  顶秀美泉小镇",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "欧式立面与步行商业街",
+        "box": [
+          56,
+          1153,
+          256,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  雁栖河畔公共步道",
+        "box": [
+          53,
+          1194,
+          313,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "在允许通行的岸边散步",
+        "box": [
+          56,
+          1230,
+          256,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "沿公共街区和已开放步道走；不进入住宅庭院，店铺营业另查。",
+        "box": [
+          53,
+          1281,
+          557,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "怀密线或916快到怀柔后公交、出租车接驳",
+        "box": [
+          53,
+          1362,
+          429,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "13 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "063",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

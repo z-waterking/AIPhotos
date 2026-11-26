@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-seasons-01-fallen-camellia-bowl.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-01-fallen-camellia-bowl.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-01-fallen-camellia-bowl-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 1,
+  "anthology_index": 61,
+  "panel_count": 4,
+  "display_title": "落花入碗",
+  "visible_description": "她把雨后落下的山茶花，搬进了早餐桌中央。",
+  "synopsis": "雨停后，阿敏想剪一枝山茶插进早餐瓶，却发现最饱满的花已经落在窗台上。她捧起花朵，细长的瓶口怎么也放不下。最后她换来一只盛水的浅碗，让花浮在水面。两人吃早饭时，花朵被茶壶带起的小风轻轻转了半圈。",
+  "story_text": "雨停得很轻，阿敏推开厨房窗户时，山茶叶上还挂着一圈水珠。她拿来细口花瓶，想给早餐桌添一枝花，最饱满的一朵却已经落在窗台上。\n\n她把那朵花捧起来。花瓣干干净净，铺满手心，只有瓶口太窄，怎么也容不下。她试了两个角度，又把花放回掌心。\n\n橱柜里有一只浅碗，平时盛小菜。阿敏往里倒了半碗水，花一落下去，便稳稳浮住，连最外边的花瓣也舒展开了。\n\n早餐时，伴侣把茶壶放在碗旁。那点小风让花转了半圈，原先朝窗外的花心正好对着两人。阿敏低头吃了一口粥，觉得今天的桌子特别宽。",
+  "art_direction": "Old paper gouache with delicate waxy colored pencil edges",
+  "character_design": "Amin is an adult woman with a short black bob, round glasses, a moss green cardigan, cream trousers, and rust slippers. Her adult companion has close cropped brown hair and a pale blue shirt. A coral camellia, narrow ivory bottle, shallow ochre bowl, and plain dark teapot are the key props. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "雨把最好的花留在窗台。",
+      "scene": "On a sheltered apartment windowsill after spring rain, Amin bends toward a single intact coral camellia lying beside the potted bush. One hand holds a small empty ivory bottle, while the other carefully lifts the fallen flower. Bright water beads mark the leaves; the breakfast table is visible just inside. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "瓶口太窄，花不肯进去。",
+      "scene": "At the breakfast table, Amin holds the broad camellia above the narrow mouth of the ivory bottle, visibly comparing their incompatible widths. Her eyebrows rise in mild amusement. The companion sits nearby with two empty breakfast bowls, pausing with a spoon. The flower remains complete and undamaged in her open palm. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "换一只碗，就宽敞了。",
+      "scene": "Amin lowers the camellia onto water in a shallow ochre bowl at the center of the table. The unused narrow bottle stands to one side. Her companion leans forward to watch the petals settle, with both hands resting beside a small breakfast plate. Reflected spring light makes the water easy to see. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "早餐中央，多了一小片春天。",
+      "scene": "The couple eat breakfast on opposite sides of the table while the floating camellia turns gently beside the dark teapot. Her companion has just set the teapot down, one hand still nearby. Amin smiles at the flower rather than the food. The narrow ivory bottle now holds only a small green leaf. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E7DBC5",
+    "#BF6D70",
+    "#74856A",
+    "#C3D2C7",
+    "#705B52"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "雨把最好的花留在窗台。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "瓶口太窄，花不肯进去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "换一只碗，就宽敞了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "早餐中央，多了一小片春天。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "57289564981a61aa9949a60aa8592a2b69c208e5b6527ec3f2b5fad96f4bf451",
+  "sha256": "dda8e2c704f011f50a95f286574f34c09db348b36faddf5fb3f1a34bf2eef5dd",
+  "prompt_sha256": "13c142624e4fc5dd85f1de9962a8c7e7198432e640ca33ec858ede5ff21db908",
+  "story_sha256": "ce23d0fe7a3acc7ac8fa14a5e63d3f956db685ba7730d2329ab5f41c5b787d20",
+  "created_at": "2026-10-26T10:20:37.249668+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

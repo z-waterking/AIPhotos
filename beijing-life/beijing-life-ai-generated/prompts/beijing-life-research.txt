@@ -1,0 +1,547 @@
+# Beijing leisure anthology research provenance
+Research date: 2026-10-29. All sources are written references only; no source images were uploaded.
+Exact local generation prompts are archived individually; geographical facts and coordinates may have been corrected after the original draft prompt. Canonical metadata outing is the final itinerary source of truth.
+
+research-a-summary.md
+# A组研究与定位说明
+
+01–07共35条小型出游计划，核查日2026-10-29。权威基础资料为北京市文旅局监管的北京旅游网资源库、场馆官网和设计方页面。research-a-verified-places*.json、research-a-direct.json、research-a-verified-remaining.json存直接读取的文字；仅作研究，不复制其图片。
+
+所有坐标改用OpenStreetMap命名要素/道路几何，原始查询保存在coordinates-a-nominatim.json和coordinates-a-detail-*.json。大建筑、园区坐标是代表点，不声称入口实测。丹棱街图书馆用官方地址与已核验道路定位，没有把海淀北馆误当本馆。园内未独立核验子区域共享场馆代表点，并在说明中标明。
+
+北京艺术中心的正确外形为三座单脊双坡屋顶、折叠穿孔铝幕墙的粮仓意象建筑。最早草案误写cylindrical，已在plan-a.json纠正；旧原始提示词保留真实生成记录，另有qa-a-regeneration.json供根代理换新构图。艺术中心官网gywm本次重试405，但上一轮四环外任务已直接读取同日来源，记录在../beijing-outer-four/fifth-research-notes.txt；设计方Perkins&Will本轮200直接读取。
+
+交通只是首末接驳建议；营业、门票、预约和开放园路以出行日为准。主要行程2–4小时，纯参观而非跨区赶场。画面为AI艺术示意，地图为真实地理底图加游览顺序，不是假称导航。
+
+最终计划源是plan-a.json与plan-a-partial.json，build_plan_a.py是初稿，不应重新覆盖已审校计划。
+
+
+plan-c-coordinate-audit.json
+[
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101245",
+    "bd09": [
+      116.502165,
+      39.932888
+    ],
+    "wgs84_approx": [
+      116.489693,
+      39.925557
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101269",
+    "bd09": [
+      115.984164,
+      40.462637
+    ],
+    "wgs84_approx": [
+      115.971406,
+      40.455744
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101328",
+    "bd09": [
+      116.411161,
+      39.939882
+    ],
+    "wgs84_approx": [
+      116.398549,
+      39.932145
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101344",
+    "bd09": [
+      116.330768,
+      39.950177
+    ],
+    "wgs84_approx": [
+      116.318071,
+      39.943113
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101455",
+    "bd09": [
+      116.329357,
+      39.945164
+    ],
+    "wgs84_approx": [
+      116.316673,
+      39.938085
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101910",
+    "bd09": [
+      116.521695,
+      39.958953
+    ],
+    "wgs84_approx": [
+      116.509363,
+      39.951439
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/101933",
+    "bd09": [
+      116.320764,
+      39.926621
+    ],
+    "wgs84_approx": [
+      116.30815,
+      39.919418
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/117279",
+    "bd09": [
+      116.439469,
+      39.947084
+    ],
+    "wgs84_approx": [
+      116.426747,
+      39.939759
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/117799",
+    "bd09": [
+      116.349894,
+      39.912153
+    ],
+    "wgs84_approx": [
+      116.337114,
+      39.905158
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/117825",
+    "bd09": [
+      116.388305,
+      39.982036
+    ],
+    "wgs84_approx": [
+      116.375618,
+      39.974431
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/117832",
+    "bd09": [
+      116.482819,
+      39.954403
+    ],
+    "wgs84_approx": [
+      116.470151,
+      39.947344
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/117843",
+    "bd09": [
+      116.404828,
+      39.903815
+    ],
+    "wgs84_approx": [
+      116.392203,
+      39.896063
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/117861",
+    "bd09": [
+      116.399172,
+      39.811731
+    ],
+    "wgs84_approx": [
+      116.386572,
+      39.804017
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/118019",
+    "bd09": [
+      116.396803,
+      40.025255
+    ],
+    "wgs84_approx": [
+      116.384152,
+      40.017544
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/118142",
+    "bd09": [
+      116.470827,
+      39.946997
+    ],
+    "wgs84_approx": [
+      116.458086,
+      39.940019
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/118159",
+    "bd09": [
+      116.436641,
+      39.989685
+    ],
+    "wgs84_approx": [
+      116.423892,
+      39.982291
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/118205",
+    "bd09": [
+      115.966168,
+      40.463153
+    ],
+    "wgs84_approx": [
+      115.953523,
+      40.45613
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/118835",
+    "bd09": [
+      116.172546,
+      40.531324
+    ],
+    "wgs84_approx": [
+      116.159908,
+      40.523559
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/119172",
+    "bd09": [
+      116.472673,
+      39.776289
+    ],
+    "wgs84_approx": [
+      116.459938,
+      39.769308
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/119557",
+    "bd09": [
+      116.480665,
+      39.996404
+    ],
+    "wgs84_approx": [
+      116.467944,
+      39.989355
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/119677",
+    "bd09": [
+      116.750258,
+      39.952061
+    ],
+    "wgs84_approx": [
+      116.737765,
+      39.944607
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/120391",
+    "bd09": [
+      116.10042,
+      40.44645
+    ],
+    "wgs84_approx": [
+      116.087409,
+      40.4393
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/120936",
+    "bd09": [
+      116.2814950051,
+      39.9154424524
+    ],
+    "wgs84_approx": [
+      116.269081,
+      39.907881
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/120975",
+    "bd09": [
+      116.614799,
+      40.027748
+    ],
+    "wgs84_approx": [
+      116.602485,
+      40.020734
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/120977",
+    "bd09": [
+      116.580928,
+      40.048654
+    ],
+    "wgs84_approx": [
+      116.568518,
+      40.041939
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/120984",
+    "bd09": [
+      115.957449,
+      40.450315
+    ],
+    "wgs84_approx": [
+      115.94489,
+      40.443169
+    ]
+  },
+  {
+    "url": "https://s.visitbeijing.com.cn/attraction/121003",
+    "bd09": null,
+    "wgs84_approx": null
+  }
+]
+
+Source and coordinate URL inventory
+Group 01: 东城胡同慢镜头
+史家胡同博物馆 | https://s.visitbeijing.com.cn/attraction/120280 | coordinate: https://www.openstreetmap.org/node/3951269871 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+史家胡同 | https://s.visitbeijing.com.cn/attraction/120280 | coordinate: https://www.openstreetmap.org/way/186862103 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+演乐胡同 | https://s.visitbeijing.com.cn/attraction/120280 | coordinate: https://www.openstreetmap.org/way/60210485 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+五道营胡同 | https://s.visitbeijing.com.cn/attraction/119045 | coordinate: https://www.openstreetmap.org/way/30662318 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+箭厂胡同 | https://s.visitbeijing.com.cn/attraction/119045 | coordinate: https://www.openstreetmap.org/way/24804512 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+国子监街 | https://s.visitbeijing.com.cn/attraction/120690 | coordinate: https://www.openstreetmap.org/way/30767439 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+老舍纪念馆 | https://www.visitbeijing.com.cn/article/4TfuP8GKHtO | coordinate: https://www.openstreetmap.org/node/384065070 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+丰富胡同 | https://www.visitbeijing.com.cn/article/4TfuP8GKHtO | coordinate: https://www.openstreetmap.org/way/34104232 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+灯市口西街 | https://www.visitbeijing.com.cn/article/4TfuP8GKHtO | coordinate: https://www.openstreetmap.org/way/9779240 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+南锣鼓巷 | https://s.visitbeijing.com.cn/attraction/101328 | coordinate: https://www.openstreetmap.org/way/4922662 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+菊儿胡同 | https://s.visitbeijing.com.cn/attraction/101328 | coordinate: https://www.openstreetmap.org/way/30748845 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+后圆恩寺胡同 | https://s.visitbeijing.com.cn/attraction/101328 | coordinate: https://www.openstreetmap.org/way/4931240 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+东交民巷 | https://s.visitbeijing.com.cn/attraction/120959 | coordinate: https://www.openstreetmap.org/way/442394488 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+法国邮政局旧址 | https://s.visitbeijing.com.cn/attraction/120959 | coordinate: https://www.openstreetmap.org/node/6531655885 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+圣弥厄尔教堂 | https://s.visitbeijing.com.cn/attraction/120959 | coordinate: https://www.openstreetmap.org/way/442394488 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+Group 02: 西城建筑放大镜
+白塔寺 | https://s.visitbeijing.com.cn/attraction/101452 | coordinate: https://www.openstreetmap.org/way/33614641 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+宫门口东岔 | https://s.visitbeijing.com.cn/attraction/101452 | coordinate: https://www.openstreetmap.org/way/33614641 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+宫门口西岔 | https://s.visitbeijing.com.cn/attraction/101452 | coordinate: https://www.openstreetmap.org/way/33614641 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+历代帝王庙 | https://s.visitbeijing.com.cn/attraction/101785 | coordinate: https://www.openstreetmap.org/way/30834653 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+广济寺 | https://s.visitbeijing.com.cn/attraction/118073 | coordinate: https://www.openstreetmap.org/way/233219116 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+北京鲁迅博物馆 | https://s.visitbeijing.com.cn/attraction/120369 | coordinate: https://www.openstreetmap.org/way/447939893 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+宫门口二条 | https://s.visitbeijing.com.cn/attraction/120369 | coordinate: https://www.openstreetmap.org/way/30838800 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+法源寺 | https://s.visitbeijing.com.cn/attraction/101842 | coordinate: https://www.openstreetmap.org/way/30834367 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+烂缦胡同 | https://s.visitbeijing.com.cn/attraction/101842 | coordinate: https://www.openstreetmap.org/way/59210727 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+南半截胡同 | https://s.visitbeijing.com.cn/attraction/101842 | coordinate: https://www.openstreetmap.org/way/59210782 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+恭王府博物馆 | https://s.visitbeijing.com.cn/attraction/117810 | coordinate: https://www.openstreetmap.org/way/26514871 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+柳荫街 | https://s.visitbeijing.com.cn/attraction/117810 | coordinate: https://www.openstreetmap.org/way/24804758 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+Group 03: 海淀读书的五种下午
+国家图书馆总馆北区 | https://s.visitbeijing.com.cn/attraction/119129 | coordinate: https://www.openstreetmap.org/way/78051436 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+紫竹院公园东门 | https://s.visitbeijing.com.cn/attraction/101455 | coordinate: https://www.openstreetmap.org/way/30725406 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+国家典籍博物馆 | https://s.visitbeijing.com.cn/attraction/118314 | coordinate: https://www.openstreetmap.org/way/973220920 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+紫竹院公园 | https://s.visitbeijing.com.cn/attraction/101455 | coordinate: https://www.openstreetmap.org/way/30725406 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+海淀区图书馆 | https://s.visitbeijing.com.cn/attraction/119132 | coordinate: https://s.visitbeijing.com.cn/attraction/119132 | Approximate Danleng Street16 library address, checked against official venue address and OSM road geometry; WGS84; not surveyed entrance
+丹棱街 | https://s.visitbeijing.com.cn/attraction/119132 | coordinate: https://www.openstreetmap.org/way/136511986 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+中关村图书大厦 | https://s.visitbeijing.com.cn/attraction/119144 | coordinate: https://www.openstreetmap.org/node/2180702595 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+海淀西大街 | https://s.visitbeijing.com.cn/attraction/119144 | coordinate: https://www.openstreetmap.org/node/2180702595 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+海淀公园 | https://s.visitbeijing.com.cn/attraction/118037 | coordinate: https://www.openstreetmap.org/way/189801200 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+丹棱沜 | https://s.visitbeijing.com.cn/attraction/118037 | coordinate: https://www.openstreetmap.org/node/9183226289 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+Group 04: 朝阳艺术与新鲜事
+UCCA尤伦斯当代艺术中心 | https://ucca.org.cn/en/visit/ | coordinate: https://www.openstreetmap.org/node/5930548986 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+798 CUBE | https://www.798cube.com.cn/index/index/about.html | coordinate: https://www.openstreetmap.org/node/11530187637 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+红砖美术馆 | https://s.visitbeijing.com.cn/attraction/120338 | coordinate: https://www.openstreetmap.org/way/410678516 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+红砖美术馆园林 | https://s.visitbeijing.com.cn/attraction/120338 | coordinate: https://www.openstreetmap.org/way/410678516 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+今日美术馆 | https://s.visitbeijing.com.cn/attraction/119551 | coordinate: https://www.openstreetmap.org/node/5894004587 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+百子湾路 | https://s.visitbeijing.com.cn/attraction/119551 | coordinate: https://www.openstreetmap.org/node/5894004587 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+北京画院美术馆 | https://s.visitbeijing.com.cn/attraction/120370 | coordinate: https://www.openstreetmap.org/way/234197416 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+团结湖公园 | https://s.visitbeijing.com.cn/attraction/101947 | coordinate: https://www.openstreetmap.org/way/233218915 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+中信书店朝阳大悦城店 | https://www.visitbeijing.com.cn/article/4TgkrYDQbuW | coordinate: https://www.openstreetmap.org/way/220911627 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+朝阳大悦城 | https://www.visitbeijing.com.cn/article/4TgkrYDQbuW | coordinate: https://www.openstreetmap.org/way/220911627 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+Group 05: 丰台园林游乐簿
+中国园林博物馆 | https://s.visitbeijing.com.cn/attraction/118284 | coordinate: https://www.openstreetmap.org/way/646141227 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+苏州畅园展园 | https://s.visitbeijing.com.cn/attraction/118284 | coordinate: https://www.openstreetmap.org/way/646141227 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+半亩轩榭展园 | https://s.visitbeijing.com.cn/attraction/118284 | coordinate: https://www.openstreetmap.org/way/646141227 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+北京园博园 | https://s.visitbeijing.com.cn/attraction/118459 | coordinate: https://www.openstreetmap.org/relation/8769598 | OSM named park representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+锦绣谷 | https://s.visitbeijing.com.cn/attraction/118459 | coordinate: https://www.openstreetmap.org/node/6071968380 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+永定塔 | https://s.visitbeijing.com.cn/attraction/118459 | coordinate: https://www.openstreetmap.org/way/633444676 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+莲花池公园 | https://s.visitbeijing.com.cn/attraction/101326 | coordinate: https://www.openstreetmap.org/way/33658131 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+莲花池公园湖岸步道 | https://s.visitbeijing.com.cn/attraction/101326 | coordinate: https://www.openstreetmap.org/way/33658131 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+世界花卉大观园 | https://s.visitbeijing.com.cn/attraction/101936 | coordinate: https://www.openstreetmap.org/way/453481910 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+世界花卉大观园温室区 | https://s.visitbeijing.com.cn/attraction/101936 | coordinate: https://www.openstreetmap.org/way/453481910 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+宛平城 | https://s.visitbeijing.com.cn/attraction/101622 | coordinate: https://www.openstreetmap.org/node/700356064 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+卢沟桥 | https://s.visitbeijing.com.cn/attraction/101415 | coordinate: https://www.openstreetmap.org/way/27035564 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+Group 06: 石景山结构观察课
+秀池 | https://s.visitbeijing.com.cn/attraction/118780 | coordinate: https://www.openstreetmap.org/way/118554595 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+三高炉 | https://s.visitbeijing.com.cn/attraction/118780 | coordinate: https://www.openstreetmap.org/way/943176364 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+六工汇 | https://s.visitbeijing.com.cn/attraction/118780 | coordinate: https://www.openstreetmap.org/way/996804869 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+群明湖 | https://s.visitbeijing.com.cn/attraction/118780 | coordinate: https://www.openstreetmap.org/way/118554601 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+首钢大跳台 | https://s.visitbeijing.com.cn/attraction/118780 | coordinate: https://www.openstreetmap.org/way/976963312 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+模式口古街 | https://s.visitbeijing.com.cn/attraction/120670 | coordinate: https://www.openstreetmap.org/way/25004142 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+北京燕京八绝博物馆 | https://s.visitbeijing.com.cn/attraction/121028 | coordinate: https://www.openstreetmap.org/way/879310438 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+北京法海寺博物馆 | https://s.visitbeijing.com.cn/attraction/117905 | coordinate: https://www.openstreetmap.org/node/271822412 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+法海寺森林公园 | https://s.visitbeijing.com.cn/attraction/119683 | coordinate: https://www.openstreetmap.org/way/1351695740 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+八大处公园南门 | https://s.visitbeijing.com.cn/attraction/101427 | coordinate: https://www.openstreetmap.org/node/5953513327 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+灵光寺 | https://s.visitbeijing.com.cn/attraction/101427 | coordinate: https://www.openstreetmap.org/way/630501588 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+三山庵 | https://s.visitbeijing.com.cn/attraction/101427 | coordinate: https://www.openstreetmap.org/way/630501590 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+Group 07: 通州水边的新旧北京
+北京城市图书馆 | https://www.snohetta.com/projects/beijing-city-library | coordinate: https://www.openstreetmap.org/way/1151193750 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+北京大运河博物馆 | https://www.canalmuseum.org.cn/aboutUs.html | coordinate: https://www.openstreetmap.org/way/1130934228 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+北京艺术中心 | https://perkinswill.com/project/beijing-performing-arts-centre/ | coordinate: https://www.openstreetmap.org/way/1151193751 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+绿心露天剧场 | https://www.bpac.org.cn/gywm/ | coordinate: https://www.openstreetmap.org/way/1253826817 | OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance
+城市绿心森林公园 | https://www.bpac.org.cn/gywm/ | coordinate: https://www.openstreetmap.org/way/779532223 | Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route
+三庙一塔景区 | https://s.visitbeijing.com.cn/attraction/118319 | coordinate: https://www.openstreetmap.org/way/675902182 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+西海子公园 | https://s.visitbeijing.com.cn/attraction/117933 | coordinate: https://www.openstreetmap.org/way/691433333 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route
+通州运河文化广场 | https://s.visitbeijing.com.cn/attraction/120807 | coordinate: https://www.openstreetmap.org/way/31759072 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+通州东关大桥 | https://s.visitbeijing.com.cn/attraction/120915 | coordinate: https://www.openstreetmap.org/way/829181250 | OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route
+大运河森林公园 | https://s.visitbeijing.com.cn/attraction/120994 | coordinate: https://www.openstreetmap.org/way/231113730 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+大运河森林公园运河岸线 | https://s.visitbeijing.com.cn/attraction/120994 | coordinate: https://www.openstreetmap.org/way/231113730 | OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified
+Group 08: 顺义｜把周末折成风景
+罗红摄影作品展馆 | https://s.visitbeijing.com.cn/attraction/120977 | coordinate: https://www.openstreetmap.org/way/202286684 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+东方园林景观 | https://s.visitbeijing.com.cn/attraction/120977 | coordinate: https://www.openstreetmap.org/way/202286684 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+松美术馆展厅 | https://s.visitbeijing.com.cn/attraction/120975 | coordinate: https://www.openstreetmap.org/way/1547480785 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+松美术馆庭院 | https://s.visitbeijing.com.cn/attraction/120975 | coordinate: https://www.openstreetmap.org/way/1547480785 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+汉石桥湿地景区 | https://s.visitbeijing.com.cn/attraction/117847 | coordinate: https://www.openstreetmap.org/way/700757536 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+汉石桥湿地观鸟厅 | https://s.visitbeijing.com.cn/attraction/117847 | coordinate: https://www.openstreetmap.org/way/700757536 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+顺义奥林匹克水上公园 | https://s.visitbeijing.com.cn/attraction/117989 | coordinate: https://www.openstreetmap.org/way/55784725 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+水上公园赛艇看台 | https://s.visitbeijing.com.cn/attraction/117989 | coordinate: https://www.openstreetmap.org/way/55784725 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+北京国际鲜花港 | https://s.visitbeijing.com.cn/attraction/117714 | coordinate: https://www.openstreetmap.org/way/684188327 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+鲜花港幻花湖 | https://s.visitbeijing.com.cn/attraction/117714 | coordinate: https://www.openstreetmap.org/way/684188327 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+Group 09: 昌平｜一页京北慢生活
+白浮泉湿地公园 | https://s.visitbeijing.com.cn/attraction/119602 | coordinate: https://www.openstreetmap.org/way/342881095 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+白浮泉湿地公园湖岸 | https://s.visitbeijing.com.cn/attraction/119602 | coordinate: https://www.openstreetmap.org/way/342881095 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+长陵祾恩门 | https://s.visitbeijing.com.cn/attraction/120860 | coordinate: https://www.openstreetmap.org/way/1019345026 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+长陵祾恩殿 | https://s.visitbeijing.com.cn/attraction/120860 | coordinate: https://www.openstreetmap.org/way/1019345027 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+居庸关云台 | https://s.visitbeijing.com.cn/attraction/101252 | coordinate: https://www.openstreetmap.org/way/497788379 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+居庸关关城广场 | https://s.visitbeijing.com.cn/attraction/101252 | coordinate: https://www.openstreetmap.org/way/497788379 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+乐多港假日广场 | https://s.visitbeijing.com.cn/attraction/119454 | coordinate: https://www.openstreetmap.org/way/1052302109 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+乐多港万达广场 | https://s.visitbeijing.com.cn/attraction/119454 | coordinate: https://www.openstreetmap.org/way/1052302109 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+温都水城休闲区 | https://s.visitbeijing.com.cn/attraction/117332 | coordinate: https://www.openstreetmap.org/way/1250671017 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+温都水城餐饮区 | https://s.visitbeijing.com.cn/attraction/117332 | coordinate: https://www.openstreetmap.org/way/1250671017 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+Group 10: 大兴｜向南找点新鲜
+念坛公园 | https://s.visitbeijing.com.cn/attraction/119637 | coordinate: https://www.openstreetmap.org/way/42651215 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+念坛公园沙滩区 | https://s.visitbeijing.com.cn/attraction/119637 | coordinate: https://www.openstreetmap.org/way/42651215 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+南海子公园 | https://s.visitbeijing.com.cn/attraction/119172 | coordinate: https://www.openstreetmap.org/way/312174169 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+南海子麋鹿苑 | https://s.visitbeijing.com.cn/attraction/117861 | coordinate: https://www.openstreetmap.org/way/242473223 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+中国印刷博物馆古代馆 | https://s.visitbeijing.com.cn/attraction/117938 | coordinate: https://www.openstreetmap.org/way/363347726 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+中国印刷博物馆近现代馆 | https://s.visitbeijing.com.cn/attraction/117938 | coordinate: https://www.openstreetmap.org/way/363347726 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+清源公园 | https://s.visitbeijing.com.cn/attraction/119637 | coordinate: https://www.openstreetmap.org/way/570570420 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+小龙河绿地 | https://s.visitbeijing.com.cn/attraction/119637 | coordinate: https://www.openstreetmap.org/way/570570420 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+北京野生动物园步行区 | https://s.visitbeijing.com.cn/attraction/120560 | coordinate: https://www.openstreetmap.org/way/542184568 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+北京野生动物园科普展区 | https://s.visitbeijing.com.cn/attraction/120560 | coordinate: https://www.openstreetmap.org/way/542184568 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+Group 11: 门头沟｜京西不赶路
+永定楼 | https://s.visitbeijing.com.cn/attraction/119725 | coordinate: https://www.openstreetmap.org/way/1015255738 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+永定河文化广场 | https://s.visitbeijing.com.cn/attraction/119725 | coordinate: https://www.openstreetmap.org/way/1015255738 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+三家店蒲草湿地公园 | https://s.visitbeijing.com.cn/attraction/119726 | coordinate: https://www.openstreetmap.org/relation/9348599 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+京浪岛公园 | https://s.visitbeijing.com.cn/attraction/119726 | coordinate: https://www.openstreetmap.org/way/1195991951 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+琉璃渠村过街楼 | https://s.visitbeijing.com.cn/attraction/120998 | coordinate: https://www.openstreetmap.org/way/1051448026 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+琉璃渠景区 | https://s.visitbeijing.com.cn/attraction/120998 | coordinate: https://www.openstreetmap.org/way/1051448026 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+潭柘寺山门 | https://s.visitbeijing.com.cn/attraction/117841 | coordinate: https://www.openstreetmap.org/way/537178957 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+潭柘寺大雄宝殿 | https://s.visitbeijing.com.cn/attraction/117841 | coordinate: https://www.openstreetmap.org/way/537178957 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+檀谷慢闪公园 | https://s.visitbeijing.com.cn/attraction/121087 | coordinate: https://www.openstreetmap.org/way/1213615039 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+檀谷慢闪广场 | https://s.visitbeijing.com.cn/attraction/121087 | coordinate: https://www.openstreetmap.org/way/1013707318 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+Group 12: 房山｜石色与水光
+云居寺 | https://s.visitbeijing.com.cn/attraction/101425 | coordinate: https://www.openstreetmap.org/way/313092717 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+云居寺唐辽塔群 | https://s.visitbeijing.com.cn/attraction/101425 | coordinate: https://www.openstreetmap.org/way/313092717 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+周口店遗址博物馆 | https://s.visitbeijing.com.cn/attraction/101537 | coordinate: https://www.openstreetmap.org/way/1090515798 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+周口店遗址博物馆室外广场 | https://s.visitbeijing.com.cn/attraction/101537 | coordinate: https://www.openstreetmap.org/way/1090515798 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+昊天公园 | https://s.visitbeijing.com.cn/attraction/118256 | coordinate: https://www.openstreetmap.org/way/911097299 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+良乡多宝佛塔 | https://s.visitbeijing.com.cn/attraction/118256 | coordinate: https://www.openstreetmap.org/way/911097299 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+长沟湿地公园游览区 | https://s.visitbeijing.com.cn/attraction/118546 | coordinate: https://www.openstreetmap.org/way/836317117 | OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance
+长沟龙泉湖 | https://s.visitbeijing.com.cn/attraction/118546 | coordinate: https://www.openstreetmap.org/way/836317117 | OSM named wetland park representative point; internal lake is represented by park point, not verified public entrance
+北京首创奥特莱斯 | https://s.visitbeijing.com.cn/attraction/120564 | coordinate: https://www.openstreetmap.org/way/655131696 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+首创奥莱休闲走廊 | https://s.visitbeijing.com.cn/attraction/120564 | coordinate: https://www.openstreetmap.org/way/655131696 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+Group 13: 怀柔｜让山水慢一点
+雁栖湖旅游区 | https://s.visitbeijing.com.cn/attraction/101430 | coordinate: https://www.openstreetmap.org/way/756194497 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+雁栖湖游船码头 | https://s.visitbeijing.com.cn/attraction/101430 | coordinate: https://www.openstreetmap.org/way/756194497 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+红螺寺御竹林 | https://s.visitbeijing.com.cn/attraction/101418 | coordinate: https://www.openstreetmap.org/way/491869586 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+红螺寺大雄宝殿 | https://s.visitbeijing.com.cn/attraction/101418 | coordinate: https://www.openstreetmap.org/way/491869586 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+顶秀美泉小镇 | https://s.visitbeijing.com.cn/attraction/120834 | coordinate: https://www.openstreetmap.org/way/1348498513 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+雁栖河畔公共步道 | https://s.visitbeijing.com.cn/attraction/120834 | coordinate: https://www.openstreetmap.org/way/1348498513 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+篱苑书屋 | https://s.visitbeijing.com.cn/attraction/120496 | coordinate: https://s.visitbeijing.com.cn/attraction/120496 | Approximate WGS84 converted from official tourism BD09 pin; specific building not independently resolved in OSM, not verified entrance
+交界河村 | https://s.visitbeijing.com.cn/attraction/120496 | coordinate: https://www.openstreetmap.org/node/5768712249 | OSM named village representative point; public route and private property boundaries not surveyed
+雁栖湖国际会展中心外观 | https://s.visitbeijing.com.cn/attraction/118633 | coordinate: https://www.openstreetmap.org/way/378873805 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+雁栖湖周边公共广场 | https://s.visitbeijing.com.cn/attraction/118633 | coordinate: https://www.openstreetmap.org/way/378873805 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+Group 14: 密云｜城边的彩色慢游
+密虹公园 | https://s.visitbeijing.com.cn/attraction/118439 | coordinate: https://www.openstreetmap.org/way/171926818 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+檀州石桥 | https://s.visitbeijing.com.cn/attraction/118439 | coordinate: https://www.openstreetmap.org/way/171926818 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+云虹桥 | https://s.visitbeijing.com.cn/attraction/118439 | coordinate: https://www.openstreetmap.org/way/171926818 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+白河公园 | https://s.visitbeijing.com.cn/attraction/118436 | coordinate: https://www.openstreetmap.org/node/9926301814 | OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route
+望潮亭 | https://s.visitbeijing.com.cn/attraction/118436 | coordinate: https://www.openstreetmap.org/node/9926301814 | OSM named park representative point confirmed through Nominatim; internal stops share park point, not an entrance or navigation route
+法制公园（原宾阳公园） | https://s.visitbeijing.com.cn/attraction/118437 | coordinate: https://www.openstreetmap.org/way/408814168 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+法制公园绿化区 | https://s.visitbeijing.com.cn/attraction/118437 | coordinate: https://www.openstreetmap.org/way/408814168 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+冶仙塔景区山脚区 | https://s.visitbeijing.com.cn/attraction/118132 | coordinate: https://www.openstreetmap.org/way/511018607 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+下普照寺 | https://s.visitbeijing.com.cn/attraction/118132 | coordinate: https://www.openstreetmap.org/way/511018607 | OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation
+张裕爱斐堡国际酒庄 | https://s.visitbeijing.com.cn/attraction/117990 | coordinate: https://s.visitbeijing.com.cn/attraction/117990 | Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point
+爱斐堡欧洲小镇 | https://s.visitbeijing.com.cn/attraction/117990 | coordinate: https://s.visitbeijing.com.cn/attraction/117990 | Approximate WGS84 converted from BD-09 venue point in official tourism resource page; not surveyed or entrance-verified; internal stops intentionally share venue point
+Group 15: 延庆·山水慢假日
+夏都公园 | https://s.visitbeijing.com.cn/attraction/101269 | coordinate: https://www.openstreetmap.org/way/500102560 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+妫川广场 | https://s.visitbeijing.com.cn/attraction/101269 | coordinate: https://www.openstreetmap.org/way/500102562 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+妫水公园 | https://s.visitbeijing.com.cn/attraction/118205 | coordinate: https://www.openstreetmap.org/node/11152297335 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+妫水河沿岸 | https://s.visitbeijing.com.cn/attraction/118205 | coordinate: https://www.openstreetmap.org/way/226254733 | Approximate accessible riverside representative within Guishui Park; river source confirms feature only; WGS84; not navigation or a surveyed entrance
+永宁古城 | https://s.visitbeijing.com.cn/attraction/118835 | coordinate: https://www.openstreetmap.org/way/1372941717 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+玉皇阁 | https://s.visitbeijing.com.cn/attraction/118835 | coordinate: https://www.openstreetmap.org/way/1372941716 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+柳沟民俗村 | https://s.visitbeijing.com.cn/attraction/120391 | coordinate: https://www.openstreetmap.org/node/11404919074 | OSM village representative estimated from local map; source linked to nearby named village bus stop, not claimed exact entrance
+柳沟古城北门 | https://s.visitbeijing.com.cn/attraction/120391 | coordinate: https://www.openstreetmap.org/way/1337063441 | OSM named north gate feature centroid; WGS84; not navigation or a surveyed entrance
+北京世园公园中国馆 | https://s.visitbeijing.com.cn/attraction/120984 | coordinate: https://www.openstreetmap.org/way/1019709130 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+北京世园公园永宁阁 | https://s.visitbeijing.com.cn/attraction/120984 | coordinate: https://www.openstreetmap.org/way/687879788 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+Group 16: 二环内·边走边吃
+前门大街 | https://s.visitbeijing.com.cn/attraction/117843 | coordinate: https://www.openstreetmap.org/way/9779112 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+鲜鱼口 | https://s.visitbeijing.com.cn/attraction/117843 | coordinate: https://www.openstreetmap.org/node/4511088693 | Approximate street representative east of OSM Xianyukou entrance landmark; WGS84; not navigation or a surveyed entrance
+护国寺街 | https://s.visitbeijing.com.cn/search?key=护国寺 | coordinate: https://www.openstreetmap.org/way/30748909 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+新街口南大街 | https://s.visitbeijing.com.cn/search?key=新街口 | coordinate: https://www.openstreetmap.org/way/156465483 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+牛街 | https://s.visitbeijing.com.cn/search?key=牛街 | coordinate: https://www.openstreetmap.org/node/9672055668 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+输入胡同 | https://s.visitbeijing.com.cn/search?key=牛街 | coordinate: https://www.openstreetmap.org/way/161802287 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+南锣鼓巷 | https://s.visitbeijing.com.cn/attraction/101328 | coordinate: https://www.openstreetmap.org/way/4922662 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+帽儿胡同 | https://s.visitbeijing.com.cn/attraction/101328 | coordinate: https://www.openstreetmap.org/way/523523958 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+北新桥 | https://s.visitbeijing.com.cn/attraction/117279 | coordinate: https://www.openstreetmap.org/way/1391132559 | OSM named Beixinqiao road junction representative point; WGS84; public route guidance only
+簋街 | https://s.visitbeijing.com.cn/attraction/117279 | coordinate: https://www.openstreetmap.org/way/26812214 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+Group 17: 二环外·书页与展柜
+国家图书馆总馆 | https://s.visitbeijing.com.cn/attraction/101344 | coordinate: https://www.openstreetmap.org/way/625701993 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+紫竹院公园东门 | https://s.visitbeijing.com.cn/attraction/101455 | coordinate: https://www.openstreetmap.org/way/30725406 | Approximate eastern park approach within named OSM park area; WGS84; entrance not surveyed
+首都图书馆 | https://www.clcn.net.cn | coordinate: https://www.openstreetmap.org/way/58648876 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+首都图书馆馆前广场 | https://www.clcn.net.cn | coordinate: https://www.openstreetmap.org/way/58648876 | Approximate library forecourt associated with named library footprint; WGS84; not navigation or a surveyed entrance
+首都博物馆 | https://s.visitbeijing.com.cn/attraction/117799 | coordinate: https://www.openstreetmap.org/way/136998797 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+白云路 | https://s.visitbeijing.com.cn/attraction/117799 | coordinate: https://www.openstreetmap.org/way/146696735 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+中国现代文学馆 | https://s.visitbeijing.com.cn/attraction/118159 | coordinate: https://www.openstreetmap.org/way/395220422 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+中国现代文学馆庭园 | https://s.visitbeijing.com.cn/attraction/118159 | coordinate: https://www.openstreetmap.org/way/395220422 | Approximate garden within named modern literature museum compound; WGS84; not navigation or a surveyed entrance
+中国农业博物馆 | https://s.visitbeijing.com.cn/attraction/118142 | coordinate: https://www.openstreetmap.org/way/129187924 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+全国农业展览馆广场 | https://s.visitbeijing.com.cn/attraction/118142 | coordinate: https://www.openstreetmap.org/way/129187924 | Approximate public forecourt west of named exhibition building; WGS84; access not verified
+Group 18: 三四环周边·公园放空
+朝阳公园南门 | https://s.visitbeijing.com.cn/attraction/101910 | coordinate: https://www.openstreetmap.org/way/232100111 | OSM named park south-gate structure centroid; WGS84; not navigation or a surveyed entrance
+朝阳公园滨水之舟广场 | https://s.visitbeijing.com.cn/attraction/101910 | coordinate: https://www.openstreetmap.org/way/231663925 | OSM named Binshui Zhizhou plaza representative point; WGS84; not navigation or a surveyed entrance
+红领巾公园 | https://s.visitbeijing.com.cn/attraction/101245 | coordinate: https://www.openstreetmap.org/way/235243285 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+红领巾公园银杏广场 | https://s.visitbeijing.com.cn/attraction/101245 | coordinate: https://www.openstreetmap.org/way/235243285 | Approximate ginkgo-viewing area inside named OSM park; individual grove not surveyed
+紫竹院公园东门 | https://s.visitbeijing.com.cn/attraction/101455 | coordinate: https://www.openstreetmap.org/way/30725406 | Approximate eastern park approach within named OSM park area; WGS84; entrance not surveyed
+紫竹院公园湖畔 | https://s.visitbeijing.com.cn/attraction/101455 | coordinate: https://www.openstreetmap.org/way/412316481 | OSM waterbody representative point; lakeside activity area is approximate; WGS84; not navigation or a surveyed entrance
+玉渊潭公园东门 | https://s.visitbeijing.com.cn/attraction/101933 | coordinate: https://www.openstreetmap.org/way/670356664 | OSM named park east gate structure centroid; WGS84; not navigation or a surveyed entrance
+玉渊潭公园西湖 | https://s.visitbeijing.com.cn/attraction/101933 | coordinate: https://www.openstreetmap.org/way/245754211 | OSM western lake waterbody representative point; shore access approximate; WGS84; not navigation or a surveyed entrance
+元大都城垣遗址公园 | https://s.visitbeijing.com.cn/attraction/117825 | coordinate: https://www.openstreetmap.org/way/990439598 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+小月河 | https://s.visitbeijing.com.cn/attraction/117825 | coordinate: https://www.openstreetmap.org/way/232724487 | Approximate stream-side area within named eastern park section; WGS84; path not surveyed
+Group 19: 四环周边·夜色晚饭
+望京SOHO | https://s.visitbeijing.com.cn/attraction/119557 | coordinate: https://www.openstreetmap.org/way/1145074158 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+望京小街 | https://s.visitbeijing.com.cn/attraction/119557 | coordinate: https://www.openstreetmap.org/way/24790441 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+颐堤港 | https://www.indigobeijing.com | coordinate: https://www.openstreetmap.org/way/1034500140 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+坝河将台段 | https://www.indigobeijing.com/events/2026-river-festival | coordinate: https://www.openstreetmap.org/way/233351216 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+华熙LIVE·五棵松 | https://s.visitbeijing.com.cn/attraction/120936 | coordinate: https://www.openstreetmap.org/way/631869655 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+五棵松体育馆外广场 | https://s.visitbeijing.com.cn/attraction/120936 | coordinate: https://www.openstreetmap.org/way/107011057 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+蓝色港湾 | https://s.visitbeijing.com.cn/attraction/117832 | coordinate: https://www.openstreetmap.org/way/359741619 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+亮马河蓝色港湾段 | https://s.visitbeijing.com.cn/attraction/117832 | coordinate: https://www.openstreetmap.org/way/197882346 | Actual OSM canal vertex by SOLANA; walk on adjacent public bank, not in water; WGS84; not navigation or a surveyed entrance
+国家体育场外广场 | https://s.visitbeijing.com.cn/attraction/118019 | coordinate: https://www.openstreetmap.org/way/152301551 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+国家游泳中心外广场 | https://s.visitbeijing.com.cn/attraction/118019 | coordinate: https://www.openstreetmap.org/way/29201257 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+Group 20: 五环外·创意周末
+松美术馆 | https://s.visitbeijing.com.cn/attraction/120975 | coordinate: https://www.openstreetmap.org/way/1547480785 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+松美术馆庭园 | https://s.visitbeijing.com.cn/attraction/120975 | coordinate: https://www.openstreetmap.org/relation/21192157 | Approximate garden location inside named Song Art Museum compound; WGS84; not navigation or a surveyed entrance
+罗红摄影艺术馆 | https://s.visitbeijing.com.cn/attraction/120977 | coordinate: https://www.openstreetmap.org/way/202286684 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+罗红艺术馆庭园 | https://s.visitbeijing.com.cn/attraction/120977 | coordinate: https://www.openstreetmap.org/way/202286684 | Approximate garden representative beside verified museum footprint; WGS84; not exact entrance
+宋庄画家村小堡片区 | https://s.visitbeijing.com.cn/attraction/119677 | coordinate: https://www.openstreetmap.org/node/7631906984 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+宋庄美术馆周边 | https://s.visitbeijing.com.cn/attraction/119677 | coordinate: https://www.openstreetmap.org/way/1245299162 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+中粮祥云小镇 | https://s.visitbeijing.com.cn/attraction/121003 | coordinate: https://www.openstreetmap.org/node/8892368998 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+祥云小镇白鸽广场 | https://s.visitbeijing.com.cn/attraction/121003 | coordinate: https://www.openstreetmap.org/way/1333254284 | OSM named White Dove Plaza feature centroid; WGS84; not navigation or a surveyed entrance
+南海子公园 | https://s.visitbeijing.com.cn/attraction/119172 | coordinate: https://www.openstreetmap.org/way/312174169 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance
+北京麋鹿苑 | https://s.visitbeijing.com.cn/attraction/117861 | coordinate: https://www.openstreetmap.org/way/242473223 | OSM named feature representative point from Nominatim; WGS84; not a verified public entrance

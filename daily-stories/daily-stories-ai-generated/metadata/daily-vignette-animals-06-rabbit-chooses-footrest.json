@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-06-rabbit-chooses-footrest.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-06-rabbit-chooses-footrest.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-06-rabbit-chooses-footrest-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 6,
+  "anthology_index": 56,
+  "panel_count": 4,
+  "display_title": "小地毯的去处",
+  "visible_description": "给兔子铺的地毯总被推歪，直到主人发现它想把自己也搬进来。",
+  "synopsis": "主人在桌脚旁铺了一块小草编垫，兔子闻了闻，用鼻子把它向外拱了一点。主人又摆正，兔子又拱，来回两次，垫子离桌子越来越远。她索性不再纠正，蹲下来观察。兔子把垫子推到她的拖鞋旁，先坐上去，再把下巴轻轻靠住鞋边。她慢慢坐回椅子，让两只脚都留在原来的地方。",
+  "story_text": "小草编垫放在桌脚间，主人觉得那里安静，也不挡路。兔子走过来闻了闻，鼻子贴着垫边一拱，垫子便斜出去一点。\n\n她伸手摆正。兔子又拱。来回两次以后，垫子离桌脚越来越远，像自己找到了另一条路。她索性蹲下来，把手收回膝上，只看不动。\n\n兔子继续向前推，直到垫边碰到她的拖鞋。它踩上去，转了个小圈，把前爪收好，又把下巴轻轻搁在鞋边。\n\n主人没有再搬垫子。她慢慢坐回椅子，两只脚仍留在原处。过了一会儿，桌脚下空着的那一块也显得很合适：那里可以继续空着，脚边的小住客却已经安顿好了。",
+  "art_direction": "Quiet gouache with soft pencil whiskers and woven mat texture",
+  "character_design": "A healthy pet rabbit has soft pale cinnamon fur, a cream underside, upright ears with muted pink interiors and dark round eyes. Its adult owner has a short dark bob, a sage cardigan, cream trousers and soft rust house slippers. The rabbit has a small rectangular natural grass mat with rounded corners and a woven texture, safe and intact. The home has a low wooden writing table, a plain cream rug, a water bowl and a quiet open floor.",
+  "panels": [
+    {
+      "caption": "小垫子铺好了，兔子先闻一闻。",
+      "scene": "In a calm living room, the owner kneels beside the low table and lays the small rectangular grass mat neatly between two table legs. The cinnamon rabbit stands beside it with its nose close to the woven edge, ears upright and relaxed. The owner rust slippers are visible a short distance away on the cream rug. A plain water bowl sits against the wall, leaving plenty of open floor around the animal and the new resting spot. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她刚摆正，它又轻轻拱歪了。",
+      "scene": "The rabbit presses its nose against the grass mat edge and nudges it outward from beneath the table, while the owner reaches with an open hand toward the opposite corner, pausing before straightening it again. The mat sits diagonally, showing that it has moved. The rabbit posture remains relaxed and curious, not distressed. Keep the same table legs, nearby rust slippers and water bowl visible to establish the short physical distance being negotiated. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她不动了，垫子继续往脚边走。",
+      "scene": "The owner crouches beside her slippers with both hands resting on her knees, watching rather than intervening. The rabbit noses the grass mat the final few inches toward the side of one rust slipper. Most of the mat now lies outside the table shadow, close to the seated area. Show the single clear push and the owner attentive stillness, with enough floor visible to connect the original table position to the chosen new location. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "兔子安顿好，她的脚也安顿好了。",
+      "scene": "The owner sits quietly on the low chair with both rust-slippered feet kept exactly beside the grass mat. The rabbit rests on the mat with its front paws tucked in and its chin lightly touching the soft outer edge of one slipper. The owner looks down with a small smile and relaxed shoulders. The empty space between the table legs remains visible behind them, making the rabbit preferred arrangement clear without human-like expressions or invented dialogue. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E2D8C3",
+    "#BCA484",
+    "#829C92",
+    "#C08D7A",
+    "#777C8D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "小垫子铺好了，兔子先闻一闻。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她刚摆正，它又轻轻拱歪了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "她不动了，垫子继续往脚边走。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "兔子安顿好，她的脚也安顿好了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "c4088f9367f08a58ae35d04f541a2960754244b5176587c78eb03667f076b95b",
+  "sha256": "97b8adcabddb418bb2260482805335f91ddd130a625845cbd630d275ecd3cf2c",
+  "prompt_sha256": "83a773b319c0b696b37f77b893c04d2c692802600fc17d74893db4d42166b09f",
+  "story_sha256": "7b8c6b902e8d6282d882785ec1755b1e146245ee18c1dedb02972b38b7cf44ce",
+  "created_at": "2026-10-26T10:19:22.840946+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

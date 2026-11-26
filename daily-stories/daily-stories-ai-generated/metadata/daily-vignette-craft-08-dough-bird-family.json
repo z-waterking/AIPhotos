@@ -1,0 +1,212 @@
+{
+  "output": "../daily-vignette-craft-08-dough-bird-family.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-08-dough-bird-family.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-08-dough-bird-family-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 8,
+  "anthology_index": 48,
+  "panel_count": 6,
+  "display_title": "面团小鸟",
+  "visible_description": "学做面团小鸟的人越捏越小，出炉时却凑成了一整窝。",
+  "synopsis": "烘焙课上，老师示范用一段面团打结，再捏出头和尾巴。学员照着做，第一只很大，第二只小些，最后一只只够占住两根指头。她看着不整齐的托盘，正想把大小改成一样，老师把三只鸟轻轻挪成一前两后。面包烤好，她也照这个队形装进篮子，像带着一家小鸟回去。",
+  "story_text": "老师把一段面团绕成松结，前端捏圆，后端压扁，桌上就多了一只没有眼睛的小鸟。学员照着做，第一只大得占满手掌，第二只小些，第三只只够搁在两根指头上。\n\n她把三只鸟摆进烤盘，怎么看都不整齐，便伸手想拆开重揉。老师却先碰了碰最大的那只，把它挪到前面。\n\n中等的一只跟在后面，最小的一只又跟在最后。学员看了看，收回双手，给队伍之间留出一点空隙。\n\n面包烤好，三只鸟都鼓起圆圆的肚子。她拿来篮子，仍照这个顺序装好。提起篮子时，小鸟们一起轻轻晃了晃，像已经商量好要去同一个地方。",
+  "art_direction": "Warm buttery gouache and fine pencil flour texture on cream paper",
+  "character_design": "An adult baking learner with straight dark hair tied low wears a sage blouse, cream apron and brown trousers. The adult instructor has short gray curls, a rust shirt and tan apron. They shape simple bird-shaped bread rolls from golden cream dough using knot forms, rounded heads and flattened tails, without added eyes or writing. The learner makes exactly three rolls: one large, one medium and one tiny. Their tray is matte gray and the finished bread basket is pale wicker.",
+  "panels": [
+    {
+      "caption": "老师把面团，打成一个小结。",
+      "scene": "At a bakery classroom table dusted lightly with flour, the instructor demonstrates a single loose knot of cream dough, one end pinched into a rounded bird head and the other flattened into a simple tail. The learner watches closely with both hands resting beside her own dough rope. A matte gray baking tray waits nearby. Focus on the clearly visible hand shaping and soft edible forms, with no oven controls, labels or decorative text. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她做的小鸟，一只比一只小。",
+      "scene": "The learner places her third tiny dough bird onto the tray beside one large and one medium bird. The largest fills a palm, while the smallest balances between two fingertips; each retains the same rounded head, knot body and flat tail. She studies their unequal sizes with a doubtful but gentle expression. The instructor stands beside her, noticing the three forms and resting one hand on the edge of the tray without intervening yet. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "老师只帮它们换了个队形。",
+      "scene": "The instructor moves the large dough bird to the front of the tray and places the medium and tiny birds in a loose following line behind it. The learner holds her hands still above the work surface and begins to smile at the family-like arrangement. All three dough pieces remain their original sizes and shapes. Keep the composition close enough to show the tiny spaces between the birds and the quiet practical movement of one guiding hand. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "进炉之前，给它们留一点距离。",
+      "scene": "The learner gently slides the tiny dough bird a little farther behind the medium bird on the matte gray tray, while the large bird remains at the front. The instructor steadies the tray with both hands at the table edge. Clear spaces separate all three soft forms so they can expand during baking. Both adults inspect the loose family-like line, and the flour-dusted worktable contains only spare dough and a folded clean cloth. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "烤好放凉，三个肚子都鼓起来。",
+      "scene": "The same matte gray tray rests safely on the bakery table after cooling, holding the three golden baked bird rolls in their large-medium-tiny order. Their knot bodies have expanded into round bellies, but the heads and flat tails remain recognizable. The learner leans forward with hands resting on the table, smiling at the transformed shapes. The instructor places an empty pale wicker basket lined with cream cloth beside the tray, preparing for packing. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "出炉以后，一家三口都在。",
+      "scene": "The learner stands at the bakery table holding a pale wicker basket lined with a plain cream cloth. Inside, three baked golden bird rolls sit in the same front-to-back formation, the largest leading the medium and tiny birds. Their tops are gently browned and their simple knot shapes intact. The instructor smiles beside her with a folded cloth in hand. The tray is now empty on the table, clearly marking completion without showing any hot handling. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E8D7B9",
+    "#CF9B5A",
+    "#A87860",
+    "#7E9A93",
+    "#C3B676"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "老师把面团，打成一个小结。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "她做的小鸟，一只比一只小。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "老师只帮它们换了个队形。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "进炉之前，给它们留一点距离。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "烤好放凉，三个肚子都鼓起来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "出炉以后，一家三口都在。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "08b79e832d28a11ac0bf425a0084ac2eacb7b5ac804c21b2b4c411fea2b04870",
+  "sha256": "c3c4a07774908ead0c41459c8684147853ec40de9bc88499333c57f1ed1516fd",
+  "prompt_sha256": "6333bd283882f6862e80583004f6b0f1cfe595a0776250421b4b68f465fed8f8",
+  "story_sha256": "bb9e30c2a0f3cf930d8bc9ecaa404a8e09d267fd3e80ec6ed78f706e14df94b4",
+  "created_at": "2026-10-26T10:15:19.833483+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

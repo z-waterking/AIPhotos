@@ -1,0 +1,321 @@
+{
+  "output": "../beijing-life-inner-ring-flavours-01-qianmen-bites.png",
+  "refined_prompt": "../prompts/beijing-life-inner-ring-flavours-01-qianmen-bites.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:02.878122+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-inner-ring-flavours",
+  "group_number": 16,
+  "series_number": 1,
+  "anthology_index": 76,
+  "title": "前门从早吃到午",
+  "sha256": "db379524fe3887dec1814b4140b315a50eeaed9193ac916353ba9abaadc7ec52",
+  "native_sha256": "40fb592629acd9b4984f9fe11833898efd4eddbc26817da12a972cb226ee585e",
+  "prompt_sha256": "5917148e366dce53024a897cdd46f105b544f570394423e5e3bd3735b292e9dc",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2148693,
+  "art_direction": {
+    "style_name": "套色孔版印刷",
+    "style_prompt_english": "Original tactile risograph food-and-street illustration, deliberately offset layers of vivid coral, dark teal and turmeric spot inks, visible soy-ink grain, bold rounded shapes, close-up food foreground fused with an accurately recognizable street scene. Lively dense composition, no text or brand marks.",
+    "palette": [
+      "#F45C40",
+      "#153E49",
+      "#EDB83B",
+      "#F5E7C6"
+    ],
+    "layout_variant": 0,
+    "activity": "老城街巷／轻食／晚饭",
+    "area": "北京二环内"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "qianmen-bites",
+    "title": "前门从早吃到午",
+    "subtitle": "石板街与京味小吃",
+    "area_label": "二环内·前门",
+    "duration": "约3–4小时",
+    "transport": "地铁前门站；全程步行",
+    "stops": [
+      {
+        "name": "前门大街",
+        "detail": "传统街面与门脸",
+        "lat": 39.8937104,
+        "lon": 116.3919465,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117843",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/9779112"
+      },
+      {
+        "name": "鲜鱼口",
+        "detail": "老街与餐饮选择",
+        "lat": 39.8946,
+        "lon": 116.3945,
+        "coordinate_status": "Approximate street representative east of OSM Xianyukou entrance landmark; WGS84; not navigation or a surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117843",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/4511088693"
+      }
+    ],
+    "practical_note": "选正规营业店铺；只按街区推荐，不保证具体店铺菜单或价格。",
+    "copy_title": "前门从早吃到午｜北京周末灵感",
+    "copy_body": "石板街与京味小吃。前门大街 → 鲜鱼口，安排约3–4小时。从传统街面与门脸到老街与餐饮选择，留点时间给自己。选正规营业店铺；只按街区推荐，不保证具体店铺菜单或价格。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环内"
+    ],
+    "hero_prompt_english": "Qianmen pedestrian avenue in Beijing, accurate grand Zhengyangmen tower glimpsed at the north end, traditional two-storey gray shop facades and stone paving, foreground sesame buns and a simple small bowl of Beijing-style snacks, an adult choosing lunch. No text or copied storefront brands. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "24d516ea09630f366ea442c133cafb3a187a249f1e2bbaa8273cc8c4bd27577f",
+      "bounds_wgs84": [
+        116.38486891785767,
+        39.88774520261599,
+        116.40157758214234,
+        39.90056460084362
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "前门大街",
+          "lon": 116.3919465,
+          "lat": 39.8937104,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "鲜鱼口",
+          "lon": 116.3945,
+          "lat": 39.8946,
+          "coordinate_status": "Approximate street representative east of OSM Xianyukou entrance landmark; WGS84; not navigation or a surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:12.216357+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "前门大街",
+          "source_url": "https://www.openstreetmap.org/way/9779112",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "鲜鱼口",
+          "source_url": "https://www.openstreetmap.org/node/4511088693",
+          "status": "Approximate street representative east of OSM Xianyukou entrance landmark; WGS84; not navigation or a surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "前门大街 → 鲜鱼口",
+        "box": [
+          52,
+          43,
+          272,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环内·前门",
+        "box": [
+          52,
+          133,
+          244,
+          164
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "前门从早吃到午",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环内·边走边吃  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "石板街与京味小吃",
+        "box": [
+          55,
+          1013,
+          232,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  前门大街",
+        "box": [
+          53,
+          1117,
+          205,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "传统街面与门脸",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  鲜鱼口",
+        "box": [
+          53,
+          1194,
+          178,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "老街与餐饮选择",
+        "box": [
+          56,
+          1230,
+          196,
+          1250
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "选正规营业店铺；只按街区推荐，不保证具体店铺菜单或价格。",
+        "box": [
+          53,
+          1281,
+          557,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁前门站；全程步行",
+        "box": [
+          53,
+          1362,
+          253,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "16 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "076",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "checked": [
+      "Recognizable peaceful location illustration",
+      "Distinct group medium and visual treatment",
+      "Readable Chinese headings and activity details",
+      "True OSM inset with stop-order arrows",
+      "No clipping or unfilled background"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

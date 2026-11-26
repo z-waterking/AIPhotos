@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-08-dog-carries-picnic-corner.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-08-dog-carries-picnic-corner.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-08-dog-carries-picnic-corner-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 8,
+  "anthology_index": 58,
+  "panel_count": 4,
+  "display_title": "野餐布的角",
+  "visible_description": "狗帮忙叼着野餐布的一角，最后也认真占住了自己铺出的地方。",
+  "synopsis": "两个人在草地上铺野餐布，总有一个角被微风卷回来。小狗叼住那个角，往旁边走了两步，布一下展开。主人笑着蹲下，用空篮子压住另一边，小狗便松了口。东西摆好后，狗绕着布走了一圈，在自己叼过的那个角上趴下。两个人把餐盘往中间挪了挪，让那一小块空地原样留着。",
+  "story_text": "野餐布已经铺开大半，最后一个角却总被微风卷回来。两个人各按一边，空出来的那一角仍然不肯平躺。\n\n站在旁边的小狗低头衔住布角，往外走了两小步。条纹一下伸直，两人都笑了。一个人赶紧拿篮子压住另一端，另一个把中间抚平。\n\n小狗松开嘴，绕着布走了一圈。篮子、盘子和装点心的盒子陆续摆上去，它却始终盯着自己刚才叼过的那个角。\n\n等两人坐好，狗也在那里趴下来，前爪顺着蓝条纹伸得端正。他们把盘子往中间移了移，给它留出整块空位。风又来了一阵，那一角安稳得很，一点也没有翻。",
+  "art_direction": "Fresh gouache with colored-pencil woven fabric and grass marks",
+  "character_design": "A medium adult golden mixed-breed dog has honey-colored fur, floppy ears, a cream chest and a plain teal collar. One adult picnicker has short black curls, a pale blue shirt, cream trousers and brown shoes. The other has dark hair in a low ponytail, a rust cardigan, olive trousers and gray sneakers. Their picnic blanket is cream with broad muted blue stripes. They carry a pale wicker basket and simple unmarked ceramic plates, with all food kept in closed containers.",
+  "panels": [
+    {
+      "caption": "最后一个角，总想卷回来。",
+      "scene": "On a level open lawn, the two adults hold opposite edges of a cream picnic blanket with broad blue stripes, trying to lay it flat. One loose corner curls upward in a mild breeze close to the golden dog, which stands nearby watching. The pale wicker basket rests on the grass beside them, still closed. Keep the cloth low to the ground and the dog relaxed, with no flapping fabric near its face. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "小狗衔住一角，走了两小步。",
+      "scene": "The golden dog gently holds the raised blanket corner between its lips and stands two small steps outward, pulling that edge flat across the grass. The adults keep the other edges low and look toward the dog with delighted surprise. The striped blanket now forms a clear rectangle without dragging the animal or wrapping around it. The closed wicker basket remains beside one adult knee, ready to secure the fabric once it is spread. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "篮子压住了边，它就放开。",
+      "scene": "One adult kneels and sets the closed wicker basket onto the blanket edge opposite the dog, anchoring the fabric. The dog has released its corner and stands with an open relaxed mouth beside the newly flat cloth. The second adult smooths the center with one palm. Make the released corner clearly visible and empty, preserving the same stripe direction and blanket orientation so the helpful action reads as a continuous practical sequence. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "自己铺的那一角，当然要试坐。",
+      "scene": "The golden dog lies comfortably on the exact blanket corner it previously carried, front paws extended along a blue stripe and head lifted calmly. The two adults sit at the other sides and shift their plain plates inward, leaving a generous empty patch around the dog. The wicker basket anchors the opposite edge, and the food containers remain closed. The finished arrangement shows the animal sharing the space it helped unfold without any human-like costume or gesture. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E3D9BC",
+    "#7E9F82",
+    "#B88A69",
+    "#7F9EAF",
+    "#C9AF73"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "最后一个角，总想卷回来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "小狗衔住一角，走了两小步。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "篮子压住了边，它就放开。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "自己铺的那一角，当然要试坐。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "015ba2998c6d498e3dba294fab50668cf0ab15aa89d7d824a7d274adf9bae64c",
+  "sha256": "b6ea1c2b2b6fc1ac99cc0128138eb4733ac1fbe9ccda3b416c0df0800902645d",
+  "prompt_sha256": "1e9fa1697b7344437b9cd5d0780c02a643818bfc54a3a9ea30d8e50e3051cb11",
+  "story_sha256": "7beb809824a8cc1bbeb53dac13c85b0a7e0aec63d0492af3cbef1e9c32d6e277",
+  "created_at": "2026-10-26T10:19:53.890097+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

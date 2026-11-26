@@ -1,0 +1,163 @@
+{
+  "output": "../daily-vignette-keepsake-04-bicycle-bell-dumpling-station.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-04-bicycle-bell-dumpling-station.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-04-bicycle-bell-dumpling-station-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 4,
+  "anthology_index": 4,
+  "panel_count": 4,
+  "display_title": "开饭铃",
+  "visible_description": "退役自行车的小车铃，在包饺子的桌边找到了新的工作。",
+  "synopsis": "修车铺换下爸爸那枚声音清脆的旧车铃，他舍不得丢，便带回家放在餐桌角。周末包饺子，女儿包得慢，总被面皮追着跑。爸爸把铃固定在一块小木座上，约好每完成一盘就按一下。妈妈端来第一盘，女儿很快也凑齐了一盘。最后那声铃，是爸爸请大家来尝他包得最歪的一个。",
+  "story_text": "修车师傅换下旧车铃，爸爸接过来，又拨了一下。声音还是清脆的。他把它带回家，放在餐桌角，女儿路过时总要伸手按一声。\n\n周末包饺子，妈妈擀出的面皮排成一长串。女儿刚捏好一个，旁边又多了三个圆。爸爸便把车铃固定在小木座上，说谁完成一盘，谁来报到。\n\n妈妈先按了一次。女儿低头忙了好一会儿，也端来满满一小盘，手指上还沾着面粉。她按得格外郑重，爸爸给她腾开了桌子中央的位置。\n\n饺子煮好，铃又响了。爸爸举着一只歪歪扭扭的饺子，请大家看看他的作品。女儿笑得差点忘了端碗，那只从车上退下来的铃，今天比谁都忙。",
+  "art_direction": "Warm kitchen gouache with brisk colored-pencil gestures on lightly speckled paper",
+  "character_design": "The father is a Chinese man in his forties with short salt-and-pepper hair, a soft square face, and rolled sleeves on a muted teal shirt. He wears dark trousers and a plain cream apron. The mother has chin-length black hair, a rust-red blouse, and a pale brown apron. Their twelve-year-old daughter has two low braids and wears a mustard sweatshirt with navy trousers. The old bicycle bell is small, round, silver, and slightly tarnished, with a black thumb lever.",
+  "panels": [
+    {
+      "caption": "旧车铃跟着爸爸回了家。",
+      "scene": "The father stands at the kitchen table with a cloth shopping bag over one arm and the small tarnished silver bicycle bell resting in his open palm. His daughter leans in to examine its black thumb lever, while the mother clears a place beside a bowl of flour. Keep the bell's round shape large enough to recognize, with soft scratches rather than any logo. Through the entryway, part of an ordinary parked bicycle is visible. Warm domestic clutter suggests an afternoon about to become a shared cooking session."
+    },
+    {
+      "caption": "面皮排起长队，她还在捏第一个。",
+      "scene": "At the flour-dusted table, the daughter concentrates on pinching one plump dumpling, her brows knitted and her braids falling forward. A tidy row of flat round wrappers waits in front of her. Across the table, the father fits the old bell onto a small wooden block, while the mother arranges finished dumplings on a shallow bamboo tray. Show the three hands-on tasks clearly within one moment. The father's expression is playful rather than impatient, and the girl's first uneven dumpling remains intact between her fingers."
+    },
+    {
+      "caption": "一盘完成，就让车铃响一声。",
+      "scene": "The daughter has just placed a full small tray of handmade dumplings beside the bell's wooden stand and presses its black lever with one floury fingertip. Her other hand remains on the tray edge. The mother smiles from the opposite side, holding her own completed tray slightly higher, and the father looks up from another wrapper. Use the ringing gesture without lettering, musical symbols, or drawn sound effects. The mixture of neat and lopsided dumplings makes the shared progress visible and keeps the scene gently humorous."
+    },
+    {
+      "caption": "最后一声，叫大家来看爸爸的歪饺子。",
+      "scene": "The father presents one especially crooked but cheerful-looking cooked dumpling on a small plain plate, pressing the bicycle bell beside it with his other hand. Mother and daughter lean toward the plate, laughing softly with open relaxed faces. A steaming serving bowl of ordinary dumplings sits nearby, and three sets of bowls and chopsticks are ready for dinner. Make the little malformed dumpling the comic centerpiece without resembling a face or object too precisely. The familiar silver bell on its wooden block now belongs naturally among the tableware."
+    }
+  ],
+  "palette": [
+    "#EFE0C2",
+    "#AA5541",
+    "#577F78",
+    "#D1AC60",
+    "#6B6159"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "旧车铃跟着爸爸回了家。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "面皮排起长队，她还在捏第一个。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "一盘完成，就让车铃响一声。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "最后一声，叫大家来看爸爸的歪饺",
+          "子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "f5201bd12cc1e70c197f22a537c3a8e6cc3f403fb2767f018cba71ad2782e9e7",
+  "sha256": "197f63236d256195389f500c6c74a03a05f15851b0d9a7f688f37378f561bedc",
+  "prompt_sha256": "21a04adf54964f816dbe47a52e02b5b0f8ed3a985be13f1a403e278cf9f1e1a7",
+  "story_sha256": "96cc13e2a9010101f992368a603e007eff1a767ec8a1869ef10277cabbb91fa1",
+  "created_at": "2026-10-26T09:44:16.254830+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

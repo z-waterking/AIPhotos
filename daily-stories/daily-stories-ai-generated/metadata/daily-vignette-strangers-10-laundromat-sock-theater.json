@@ -1,0 +1,212 @@
+{
+  "output": "../daily-vignette-strangers-10-laundromat-sock-theater.png",
+  "refined_prompt": "../prompts/daily-vignette-strangers-10-laundromat-sock-theater.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-strangers-10-laundromat-sock-theater-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-strangers",
+  "group": "strangers",
+  "series_number": 10,
+  "anthology_index": 40,
+  "panel_count": 6,
+  "display_title": "袜子临时剧团",
+  "visible_description": "两个等洗衣的人，用各自落单的袜子演出了一场不必说话的小戏。",
+  "synopsis": "洗衣房里，两个人各从衣筐里翻出一只落单的袜子，互相看了一眼，都没有找到配对的那只。等机器转动的时间太长，他们索性把袜子套在手上，让两个软塌塌的脑袋隔着桌面打招呼。一个鞠躬，一个点头，旁边等候的孩子笑了。洗衣结束，真正的另一只袜子终于出现，小剧团也有了四位演员。",
+  "story_text": "洗衣机还在转。姑娘翻遍衣筐，手里只剩一只粉袜子。旁边的男人也举着一只绿袜子，两人对视了一眼，谁也没办法替对方找到另一只。\n\n姑娘把袜子套在手上，手指一弯，粉色的小脑袋就朝对面点了点。男人愣了一下，也把绿袜子套好，回了一个有点笨拙的鞠躬。\n\n两只袜子隔着折衣桌来回问候。等衣服的孩子发现了这出小戏，靠在家人身旁，笑得直拍手。\n\n机器终于停下，丢在衣服里的另两只袜子也露了面。两位演员没有立刻谢幕。他们各把第二只袜子套上另一只手，四个软脑袋一起向孩子弯下来，才开始收拾衣服。",
+  "art_direction": "Powdery gouache with tactile colored-pencil knit details on warm paper",
+  "character_design": "An adult woman with shoulder-length black hair wears a muted rose sweater, charcoal trousers and cream shoes. Her laundry basket is pale wicker, and her unmatched sock is dusty pink with a cream toe. An adult man with sandy curls wears a teal cardigan, tan trousers and gray sneakers. His basket is plain blue plastic, and his unmatched sock is sage green with a golden toe. A waiting child in a cream jacket sits nearby with an adult caregiver.",
+  "panels": [
+    {
+      "caption": "两只袜子，各少了一个伙伴。",
+      "scene": "At a clean shared folding table in a quiet laundromat, the woman lifts one dusty pink sock from her wicker basket while the man holds one sage sock above his blue basket. Both glance into their laundry piles with matching puzzled expressions. Behind them two round machine windows show soft colored laundry turning. The waiting child sits beside a caregiver at the edge of the room. Machines have no labels, numbers or visible interface text. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "等待太长，袜子先交了朋友。",
+      "scene": "Each adult has slipped the single sock over one hand, raising the soft fabric heads above the folding table. The pink sock bends toward the sage sock as if giving a polite greeting, while the man makes his sock lean forward in response. Their free hands rest comfortably beside the baskets. The adults look at the simple puppets with restrained amusement, and the child in the background has turned toward this unexpected miniature theater. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "一个鞠躬，一个认真点头。",
+      "scene": "The sock puppets now perform a small mutual bow over the table: the pink fabric head folds deeply, and the sage head tilts in acknowledgment. The child stands beside the seated caregiver and laughs, palms together in a quiet clap. Both adults remain behind their original baskets and smile at the tiny audience. Preserve the original sock colors and toe patches, using their soft shapes alone without adding eyes, mouths or decorative faces. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "机器停了，袜子的伙伴才露面。",
+      "scene": "At the laundromat folding table, the two adults have removed their sock puppets and placed the original pink and sage socks beside their respective baskets. Each now lifts a newly found matching sock from a small pile of clean laundry: pink with a cream toe for the woman, sage with a golden toe for the man. The machine windows are still in the background. The child watches the discovery from beside the caregiver. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他们对看一眼，把另一只手也套好。",
+      "scene": "Both adults stand behind the folding table, each slipping a second matching sock over the previously bare hand. The woman already wears one pink sock and pulls the second pink sock over her other hand; the man does the same with his sage pair. Their laundry baskets and folded piles remain below. They glance toward the waiting child with quiet conspiratorial smiles, preparing the expanded cast in one readable moment. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "洗好了，剧团忽然扩成四人。",
+      "scene": "The laundry has finished, and neatly folded clothes sit in low piles on the table. Each adult wears a matching pair of their socks over both hands, making four simple puppet heads greet the child across the tabletop. Pink socks with cream toes remain on the woman, and sage socks with golden toes remain on the man. The caregiver smiles from the bench as the child gives the expanded cast an enthusiastic but small clap. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E0DCCB",
+    "#B88D9A",
+    "#7D9E9B",
+    "#C4AC6B",
+    "#777F8D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "两只袜子，各少了一个伙伴。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "等待太长，袜子先交了朋友。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "一个鞠躬，一个认真点头。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "机器停了，袜子的伙伴才露面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "他们对看一眼，把另一只手也套好。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "洗好了，剧团忽然扩成四人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "b98137508360af426c8d653a10592175c77224ebed01806682d6292795a619e5",
+  "sha256": "f199fbe270fa9cbca31b9eb5364bc2b50cf44d582c10a5f25ae5de19d2d20203",
+  "prompt_sha256": "26afbfe8d654a8409fd034f1e331887890d7229d811cd2036b52f3b72b8cc882",
+  "story_sha256": "7144e41535b0f5c76e5a4c3bcf0278e24308aa0432a2e62775b648405c21a533",
+  "created_at": "2026-10-26T10:07:12.052658+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

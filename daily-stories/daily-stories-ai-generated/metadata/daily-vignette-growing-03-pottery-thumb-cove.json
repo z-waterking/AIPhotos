@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-growing-03-pottery-thumb-cove.png",
+  "refined_prompt": "../prompts/daily-vignette-growing-03-pottery-thumb-cove.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-growing-03-pottery-thumb-cove-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-growing",
+  "group": "growing",
+  "series_number": 3,
+  "anthology_index": 83,
+  "panel_count": 6,
+  "display_title": "拇指的弯",
+  "visible_description": "做歪的陶碗留下一个弯，握在手里却刚刚好。",
+  "synopsis": "第一次捏陶，阿陶想做一只圆得很标准的碗。她反复调整，碗沿却被拇指压出一个浅浅的弯。老师没有替她抹平，而是把碗转到她手里。她发现拇指放在那里特别舒服，便留下了这个小弯。几天后，烧好的碗装着温热的麦茶，她仍旧把拇指放在同一个位置。",
+  "story_text": "阿陶坐到陶艺桌前，认真捏起自己的第一只碗。\n\n她一边转一边看，总觉得这里高一点，那里宽一点，想把碗沿修得像店里的那样圆。\n\n调整了几次，拇指却在碗沿压出一个浅弯。她停住，拿起湿布又放下，不确定该往里面补泥，还是干脆把这小段重新捏好。\n\n老师没有动手修，只把碗转个方向，送回她的掌心。阿陶的拇指恰好落在那个弯里，其他手指托住碗底，握起来比刚才更舒服。\n\n几天后，她把烧好的碗带回家，倒进温热的麦茶。碗沿仍旧有那一小段不圆，拇指却一下就找到了位置。\n\n她坐在窗边喝茶，第一次没有把碗转来转去地检查。",
+  "art_direction": "Clay toned gouache with tactile pencil shaping marks",
+  "character_design": "Atao is an adult woman with a dark chin length bob, a pale teal shirt, a cream apron, and charcoal trousers. Her adult pottery teacher has short gray curls and a rust linen top. A small handmade clay bowl has one shallow thumb sized dip on its rim; the finished bowl keeps a matte sand glaze. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "她想做一只很圆的碗。",
+      "scene": "Atao sits at a pottery worktable, turning a small soft clay bowl between both hands to inspect its almost circular rim. Her cream apron carries a few pale clay smudges. The teacher stands nearby with hands resting loosely on the table. Simple clay lumps and a damp cloth lie beside the bowl, without sharp tools. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "拇指一用力，碗沿多了个弯。",
+      "scene": "Atao pauses with one thumb touching a shallow inward dip she has accidentally made along the bowl’s rim. She looks at the uneven circle with puzzled concern. The teacher leans slightly closer to see it, remaining calm. The damp cloth and spare clay remain on the table, reinforcing the modest scale of the unfinished object. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "她拿起湿布，又放回原处。",
+      "scene": "Atao reaches for the damp cloth beside her uneven clay bowl, then pauses with the cloth resting loosely in her hand. Her other hand cradles the bowl below its shallow rim indentation. The teacher watches patiently without correcting the shape. The gesture captures her uncertainty about whether the small hollow truly needs to be removed. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "转过来握着，倒是很舒服。",
+      "scene": "The teacher gently presents the bowl in Atao’s open palms with its shallow dip directly beneath her thumb. Atao rests her thumb naturally in that curve and looks surprised by the comfortable fit. The bowl is supported securely by both hands. Their attention stays on the small relationship between hand and handmade shape. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "这个弯不抹了，留下正好。",
+      "scene": "Atao returns the clay bowl to the worktable with its thumb sized dip facing her and gently smooths only the outer wall below it. She deliberately leaves the rim indentation intact. The teacher gives an appreciative quiet smile from beside the table, and the damp cloth now lies folded rather than being used to erase the feature. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "烧好以后，那个弯仍旧属于她。",
+      "scene": "At her home table, Atao holds the finished sand glazed bowl filled with pale barley tea. Her thumb rests in the same subtle dip along the rim, and a quiet smile softens her face. The cream apron hangs on a chair behind her. Warm window light emphasizes the bowl’s slightly irregular but pleasing outline. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DDC9B0",
+    "#A77C67",
+    "#7D9790",
+    "#E6DFD1",
+    "#6E6259"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        11,
+        10,
+        507,
+        527
+      ],
+      [
+        518,
+        10,
+        1014,
+        527
+      ],
+      [
+        11,
+        538,
+        507,
+        1023
+      ],
+      [
+        518,
+        538,
+        1014,
+        1023
+      ],
+      [
+        11,
+        1034,
+        507,
+        1526
+      ],
+      [
+        518,
+        1034,
+        1014,
+        1526
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        43,
+        200,
+        492,
+        668
+      ],
+      [
+        531,
+        200,
+        980,
+        668
+      ],
+      [
+        34,
+        815,
+        502,
+        1273
+      ],
+      [
+        522,
+        815,
+        990,
+        1273
+      ],
+      [
+        34,
+        1422,
+        502,
+        1886
+      ],
+      [
+        522,
+        1422,
+        990,
+        1886
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "她想做一只很圆的碗。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "拇指一用力，碗沿多了个弯。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "她拿起湿布，又放回原处。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "转过来握着，倒是很舒服。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "这个弯不抹了，留下正好。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "烧好以后，那个弯仍旧属于她。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Native row gutters were measured at y=528-536 and y=1023-1032. Visual QA found a strip of the preceding scene at the top of the fixed middle-row extraction. Confirmed native interiors remove the strip; proportional contain preserves aspect ratio within the existing slots, with centered ivory padding and unchanged caption positions. Final recomposition requires visual QA.",
+      "native_sha256": "3441e951633c0deb65f69e4411337ce133f7ea961c76ad9263f03fd38ba844ad",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          9,
+          0,
+          10,
+          0
+        ],
+        [
+          9,
+          0,
+          10,
+          0
+        ],
+        [
+          0,
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          0,
+          2
+        ]
+      ]
+    }
+  },
+  "native_sha256": "3441e951633c0deb65f69e4411337ce133f7ea961c76ad9263f03fd38ba844ad",
+  "sha256": "9eacc3dca562964c37945b1ed2ef3d4867099a005389c2989a1e4c0e36a33eb4",
+  "prompt_sha256": "0814c674d0ccaa0e73ed2714fdfef5326059a2dd5475fad417447e60df52955a",
+  "story_sha256": "1968a78f5b622e69f34754473d4a93b546c73d78bdbe797b0262caf6caae80c5",
+  "created_at": "2026-10-26T10:59:09.688613+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

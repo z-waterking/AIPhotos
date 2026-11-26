@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-haidian-reading-03-haidian-library.png",
+  "refined_prompt": "../prompts/beijing-life-haidian-reading-03-haidian-library.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:43.973155+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-haidian-reading",
+  "group_number": 3,
+  "series_number": 3,
+  "anthology_index": 13,
+  "title": "丹棱街的一章书",
+  "sha256": "ede33f210dafc169ab933d1b688f5c00f6fc30bb1a708326856eecdbe5818db6",
+  "native_sha256": "f5a5d4ea28468a95024e8ce7dbac6888a28d491c4281541811a89f0f77e81c93",
+  "prompt_sha256": "70d165b23c9591b23b61b8b5782a73922c9297de72c5fbf7cadcfe684de1e41c",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1968998,
+  "art_direction": {
+    "style_name": "粉彩阅读插画",
+    "style_prompt_english": "Soft pastel editorial illustration with powdery broken edges, thick velvety color fields, tactile paper grain and large still-life foreground. An open unlettered book and hands provide a human anchor while the real library or park scene fills the full background. Cinematic light and quiet but richly layered composition.",
+    "palette": [
+      "#F2BD9B",
+      "#536780",
+      "#D8D67B",
+      "#DDD5EC"
+    ],
+    "layout_variant": 2,
+    "activity": "图书馆、书店与自带书户外阅读",
+    "area": "海淀区"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "haidian-library",
+    "title": "丹棱街的一章书",
+    "subtitle": "区图书馆与街角休息",
+    "area_label": "海淀·中关村西区",
+    "duration": "约2–3小时",
+    "transport": "地铁4/10号线海淀黄庄站；步行接驳",
+    "stops": [
+      {
+        "name": "海淀区图书馆",
+        "detail": "丹棱街馆阅读空间",
+        "lat": 39.9774,
+        "lon": 116.3034,
+        "coordinate_status": "Approximate Danleng Street16 library address, checked against official venue address and OSM road geometry; WGS84; not surveyed entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119132",
+        "coordinate_source_url": "https://s.visitbeijing.com.cn/attraction/119132"
+      },
+      {
+        "name": "丹棱街",
+        "detail": "读后步行与周边简餐",
+        "lat": 39.977547825,
+        "lon": 116.305113035,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119132",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/136511986"
+      }
+    ],
+    "practical_note": "图书馆以丹棱街馆当日开放为准；餐饮在馆外自行选择。",
+    "copy_title": "海淀·中关村西区｜丹棱街的一章书",
+    "copy_body": "不用跨城寻找阅读氛围。在丹棱街读完一章，再到附近吃点东西，给周末留一个没有赶场的下午。 路线：海淀区图书馆 → 丹棱街。约2–3小时，到首站和返程另计。图书馆以丹棱街馆当日开放为准；餐饮在馆外自行选择。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "海淀",
+      "丹棱街的一章书"
+    ],
+    "hero_prompt_english": "Adult at a public neighborhood library table, simple book shelves, a canvas tote and an unlettered open book. Through a broad window an ordinary Zhongguancun street shows mid-rise office facades and amber plane trees; intimate pastel still-life in foreground, grounded everyday atmosphere rather than a fantasy library. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "c0062ab61aa5def1d5472f7fa7a5752378f6eb398c4ba80cbd3c2f79b51e3f43",
+      "bounds_wgs84": [
+        116.29590218535768,
+        39.9710717121926,
+        116.31261084964234,
+        39.983875513148845
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "海淀区图书馆",
+          "lon": 116.3034,
+          "lat": 39.9774,
+          "coordinate_status": "Approximate Danleng Street16 library address, checked against official venue address and OSM road geometry; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "丹棱街",
+          "lon": 116.305113035,
+          "lat": 39.977547825,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:56.809939+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "海淀区图书馆",
+          "source_url": "https://s.visitbeijing.com.cn/attraction/119132",
+          "status": "Approximate Danleng Street16 library address, checked against official venue address and OSM road geometry; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "丹棱街",
+          "source_url": "https://www.openstreetmap.org/way/136511986",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "海淀区图书馆 → 丹棱街",
+        "box": [
+          52,
+          43,
+          324,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "海淀·中关村西区",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "丹棱街的一章书",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "海淀读书的五种下午  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "区图书馆与街角休息",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  海淀区图书馆",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "丹棱街馆阅读空间",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  丹棱街",
+        "box": [
+          53,
+          1194,
+          178,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "读后步行与周边简餐",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "图书馆以丹棱街馆当日开放为准；餐饮在馆外自行选择。",
+        "box": [
+          53,
+          1281,
+          503,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁4/10号线海淀黄庄站；步行接驳",
+        "box": [
+          53,
+          1362,
+          377,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "03 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "013",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

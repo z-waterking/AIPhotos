@@ -1,0 +1,218 @@
+{
+  "output": "../daily-vignette-city-04-laundry-sock-constellation.png",
+  "refined_prompt": "../prompts/daily-vignette-city-04-laundry-sock-constellation.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-04-laundry-sock-constellation-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 4,
+  "anthology_index": 74,
+  "panel_count": 6,
+  "display_title": "袜子星座",
+  "visible_description": "洗衣店里一只孤单的袜子，靠着同样的圆点找到了伙伴。",
+  "synopsis": "小卓在自助洗衣店折衣服，发现一只黄袜子没有伙伴。她把袜子放到桌角，准备先带回家。旁边的大叔抖开自己的床单，另一只黄袜子从折缝里露出了脚尖。两人看见上面一样的蓝圆点，一起笑了起来。她把成对的袜子卷好，摆在最高的一摞衣服上，像小小的庆功旗。",
+  "story_text": "自助洗衣店里，衣服带着烘干后的温热。小卓把衣服一件件叠好，最后只剩一只黄袜子，上面几颗蓝圆点像在安静地等人。\n\n她抖开篮底的衣服，又摸了摸袖口，始终找不到另一只。只好先把它摆到桌角，想着回家也许就能找到，旁边大叔还在慢慢折一条床单。\n\n大叔把床单举高时，一截黄色从折缝里探出来。小卓抬起头，那几颗熟悉的蓝圆点也跟着露了脸。\n\n大叔一手托住袜子，两个人对着这位小乘客笑起来。\n\n小卓把两只袜子卷成一对，放在衣服堆最上面。大叔重新展开床单，这一次里面什么也没有了。\n\n她拎起篮子时，那团黄色随着脚步轻轻晃着，再也不需要独自等候。",
+  "art_direction": "Laundry soft gouache with rhythmic pencil circles and fabric folds",
+  "character_design": "Xiaozhuo is an adult woman with curly shoulder length hair, a blue sweatshirt, moss trousers, and white trainers. An older adult man nearby wears a dusty pink shirt and gray trousers. A pair of mustard socks with large blue circles, an ivory bedsheet, and two plain woven laundry baskets are recurring objects. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "洗好了，却少了一颗小圆点。",
+      "scene": "At a broad folding table in a bright self service laundry, Xiaozhuo holds up one mustard sock patterned with large blue circles. A basket of clean clothing sits before her. She looks into the basket for its missing partner. An older man folds an ivory bedsheet at the other end, beside quiet round fronted washing machines. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "先让它在桌角等一会儿。",
+      "scene": "Xiaozhuo places the single mustard sock neatly at the corner of the folding table while sorting a stack of blue and cream clothes. Her expression is mildly resigned. Nearby, the older man lifts one edge of his large ivory sheet, preparing a careful fold. The table is uncluttered enough for the lone sock to stand out. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "大叔抖开床单，里面鼓着一小块。",
+      "scene": "The older man lifts the ivory bedsheet between both hands, opening a broad fold above the laundry table. A small rounded bulge catches in the fabric near one lower corner, though its identity is not yet visible. Xiaozhuo pauses folding a blue garment and turns toward the unusual shape, while the first sock waits on the table. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "另一只，从床单里探出脚尖。",
+      "scene": "A matching mustard sock with blue circles peeks from a fold of the raised ivory bedsheet. The older man holds the fabric still and looks down at the surprise. Xiaozhuo turns toward him, her hand hovering over the first sock on the table. The two matching patterns create an obvious and cheerful visual connection. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "把圆点摆一起，果然是一对。",
+      "scene": "The older man places the recovered mustard sock beside Xiaozhuo’s waiting sock on the folding table. Their large blue circles and matching ochre cuffs align clearly. Xiaozhuo lightly straightens the pair with two fingertips, smiling up at him. The ivory sheet rests in a loose soft pile nearby, its hidden passenger now safely reunited. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "这次，两只一起回家。",
+      "scene": "Xiaozhuo places the reunited socks, rolled together with their blue circles visible, on top of a tidy stack of folded clothes in her basket. The older man smiles while folding the now empty sheet. Their separate baskets sit side by side on the table, and the small bright pair crowns the otherwise subdued laundry colors. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E0DDD0",
+    "#D3B34F",
+    "#6F94A5",
+    "#B58276",
+    "#6B7769"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "洗好了，却少了一颗小圆点。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "先让它在桌角等一会儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "大叔抖开床单，里面鼓着一小块。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "另一只，从床单里探出脚尖。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "把圆点摆一起，果然是一对。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "这次，两只一起回家。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "10f84e4d1a597e8927cc628ef01d16e5f03a949bd2a0ea13439e82282c936b64",
+  "sha256": "3ed02dcec23be7c2e9a59d9a1208e7acb86cdce69fcd40bb772426cf34cba258",
+  "prompt_sha256": "0c00f515d1941564e7aef4ca3e74c3a17eb8e9b44dd3a91556b61a5ca0817991",
+  "story_sha256": "4561dcf94bb9818d37c57ddd20c318099039bc5a8b50a5ba22ca04652b581408",
+  "created_at": "2026-10-26T10:29:18.248614+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

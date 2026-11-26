@@ -1,0 +1,163 @@
+{
+  "output": "../daily-vignette-neighbors-04-community-bench-book-shadow.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-04-community-bench-book-shadow.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-04-community-bench-book-shadow-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 4,
+  "anthology_index": 24,
+  "panel_count": 4,
+  "display_title": "挪过去一点",
+  "visible_description": "追着树影挪位置的两位邻居，最后把长椅上的书和棋盘都搬到了同一片阴凉里。",
+  "synopsis": "小区长椅上，一位姑娘看书，一位老人摆棋，各守着一头。太阳慢慢转过来，他们悄悄往中间挪，书角和棋盘终于碰到了一起。老人抬起棋盘，姑娘挪开布袋，两个人把东西重新排好，发现并排坐着反而更宽。姑娘看完一页，顺手替老人扶住快被风翻起的棋谱；老人则把小扇子转过来，替她遮住书上最后一点亮光。",
+  "story_text": "小区树下有条长椅。姑娘常在一头看书，老人常在另一头摆棋，中间隔着布袋、棋谱，还有一大片树影，谁也不觉得窄。\n\n这天下午，太阳慢慢转过来。姑娘挪一点，老人也挪一点，过了一阵，书角竟轻轻碰到棋盘。两个人抬头，才发现已经快挨到一起了。\n\n姑娘把布袋放到椅下，老人把棋盘移上膝头，再把散着的东西收拢。他们并排坐进阴凉，肩膀反而松快了，空出来的地方还够放一只小扇子。\n\n风来时，姑娘顺手压住老人快翻起的棋谱。老人转了转扇子，替她遮住书页边最后一小片阳光。没有谁停下手里的事，偶尔翻页和落子的声音，却已经挨得很近。",
+  "art_direction": "Dappled courtyard gouache with light colored-pencil foliage on cream paper",
+  "character_design": "The young neighbor is a Chinese woman around twenty-eight with a short straight black bob, small round glasses, and a thoughtful face. She wears a pale blue shirt, cream trousers, and brown flat shoes. The older neighbor is a Chinese man in his late sixties with cropped gray hair and a broad nose, wearing an olive jacket over a beige shirt and dark trousers. He has a plain small square wooden board with simple round game pieces and a folded blank-looking booklet, plus a small woven fan.",
+  "panels": [
+    {
+      "caption": "她看书，他摆棋，各坐长椅的一头。",
+      "scene": "On a wooden bench beneath a courtyard tree, the young woman reads an unmarked book at the far left while the older man arranges simple round game pieces on a small board at the far right. Her cloth bag occupies some space beside her; his folded booklet and woven fan lie beside the board. A broad patch of leafy shade covers the bench center, leaving their outer shoulders lightly sunlit. Keep the book pages and board markings indistinct, with no readable text or exact game position needed for the story."
+    },
+    {
+      "caption": "树影越缩越小，书角碰到了棋盘。",
+      "scene": "The two neighbors have each shifted closer to the middle of the bench as sunlight reaches both ends. The young woman's open book corner now lightly touches the edge of the man's wooden game board. Both look down at the contact in mild surprise, then toward one another with tentative smiles. Their bags and booklet make the middle space appear more crowded than necessary. Show the narrowed patch of shade clearly across their knees and the bench slats, making the gradual movement understandable without any time-lapse effect or repeated figures."
+    },
+    {
+      "caption": "把袋子挪开，并排坐着倒更宽敞了。",
+      "scene": "The young woman places her cloth bag neatly beneath the bench while the older man lifts his board onto his lap. They now sit comfortably side by side within the central shade, with enough room for both elbows. The folded booklet rests between them, and the woven fan lies near the man's knee. Their shoulders relax and their faces turn toward each other in a brief friendly exchange. Frame the tidier arrangement and available bench space as the visible solution, keeping the sunlit ends and leafy ground shadows consistent."
+    },
+    {
+      "caption": "她压住他的书页，他替她挡住一小片太阳。",
+      "scene": "Seated side by side, the young woman rests one fingertip on the older man's lightweight booklet to keep its page from lifting in a breeze, while still holding her own book. The older man angles his small woven fan so its shadow falls across a bright patch on her open page. His game board remains balanced on his knees. Both continue their quiet activities with small comfortable smiles. The reciprocal gestures should be subtle and simultaneous, with the fan shadow and gently lifted booklet corner clearly visible in the warm courtyard light."
+    }
+  ],
+  "palette": [
+    "#EEE0BF",
+    "#96A678",
+    "#8FA6AC",
+    "#BB8D66",
+    "#6E7360"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "她看书，他摆棋，各坐长椅的一头。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "树影越缩越小，书角碰到了棋盘。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "把袋子挪开，并排坐着倒更宽敞了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "她压住他的书页，他替她挡住一小",
+          "片太阳。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "d0cf70f34212a21b99c16264e0bfa89e4fae6b0683c203104f3461eb3f49d8a0",
+  "sha256": "0a875e4f6a51f3d7230ecd88782bdb7e2ae0f65d34a8fa46b9f8b783cabca2e9",
+  "prompt_sha256": "98d45e5c37bd23702b96236d93efeb1b588aeff5836c015e9aae405e1265cea4",
+  "story_sha256": "b4f61a3fd5dbf3c2da7661671a3415c4e1c8c69d525335d541a9a50d9587bb6d",
+  "created_at": "2026-10-26T09:56:34.082621+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-neighbors-09-laundry-room-mismatched-sleeve.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-09-laundry-room-mismatched-sleeve.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-09-laundry-room-mismatched-sleeve-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 9,
+  "anthology_index": 29,
+  "panel_count": 4,
+  "display_title": "认错的袖子",
+  "visible_description": "两件相似的蓝衬衣在公共晾衣间认错了主人，一枚贝壳扣帮它们回了家。",
+  "synopsis": "两位邻居一起从公共晾衣架收衣服，拿回家的蓝衬衣看着都差不多。老先生刚穿上，袖口却短了一截；年轻姑娘试着抬手，袖子又盖住了指尖。两人在走廊相遇，互相看了一眼就笑了。姑娘认出自己袖口那枚贝壳扣，把衬衣换回来。下回晾衣，两只衣架上分别系了圆布结和长布带，再也不用靠袖子来提醒了。",
+  "story_text": "公共晾衣间里，两件蓝衬衣挨着晒干。老先生和年轻姑娘各收一件，拎着篮子回家，谁也没留意袖口那一点细小差别。\n\n老先生穿上，手腕露出太多；姑娘抬起手，指尖却躲在袖子里面。两人前后走到走廊，看清对方，刚要说话就先笑了。\n\n他们脱下外面的衬衣，仍穿着各自的打底上衣。姑娘指着小一号袖口上的贝壳扣，终于认出自己的那件。交换回来，手腕和袖边都恢复了平常的位置。\n\n下一次晾衣，两只衣架上多了新记号：一只系圆圆的布结，一只垂着长布带。老先生收衣时先看记号，姑娘在旁边点点头。这回两个人还没穿上，就已经知道不会弄错了。",
+  "art_direction": "Light domestic gouache with detailed pencil buttons and soft blue fabric",
+  "character_design": "An older Chinese man has a bald crown, silver side hair, round face, cream base shirt and brown trousers. A younger Chinese woman has a black bob, oval face, cream base top and olive trousers. Exactly TWO blue shirts exist: his roomy pale-blue shirt and her smaller pale-blue shirt with one pearly right-cuff shell button. BOTH wear ONLY cream tops in panels 1, 3 and 4; blue shirts are worn ONLY in panel 2. Never add a third blue garment or duplicate any shirt on bodies, hands, hangers, baskets or background.",
+  "panels": [
+    {
+      "caption": "两件蓝衬衣，晾在同一根横杆上。",
+      "scene": "In the bright shared drying room, BOTH neighbors wear ONLY their CREAM base tops, with no blue outer shirt on either body. Exactly TWO blue shirts hang from exactly two adjacent hangers on the rail: the smaller shell-button shirt at left, the roomy shirt at right. The man reaches toward the left hanger and the woman toward the right, just before lifting them; neither shirt has left its hanger yet. Their two empty baskets rest on the floor. Show the entire cream-clothed torsos and both complete hanging shirts. No additional garments, blue clothing, duplicate shirts, signs, lettering or speech balloons."
+    },
+    {
+      "caption": "一个袖口太短，一个袖口盖住了手。",
+      "scene": "In the shared corridor, exactly TWO blue shirts are visible, both being WORN: the older man wears the smaller shell-button shirt over his cream base, and the woman wears the roomy shirt over her cream top. His cuffs stop above his wrists; her oversized cuffs cover her fingertips. They glance at these mismatched sleeves and smile. Their hands hold no garment, and there are no hangers, baskets of clothes, extra blue fabric or shirts in the corridor or doorways. Keep the two garments comfortable and modest. One single observable moment, with no lettering, signs or speech balloons."
+    },
+    {
+      "caption": "一枚贝壳扣，认出了真正的袖口。",
+      "scene": "After removing the exchanged outer shirts, BOTH neighbors now visibly wear ONLY their CREAM base tops from shoulder to waist; absolutely no blue shirt remains on either torso. Exactly TWO blue shirts exist in this panel. The man holds the ONE small shell-button shirt with both hands in front of his cream chest. The woman supports the ONE roomy shirt over her left forearm and uses her free right index finger to point at the shell button on his held shirt cuff. Both garments remain separate and fully identifiable. No shirt hangs elsewhere, no loose blue garment lies in the background, no text."
+    },
+    {
+      "caption": "下次，两只衣架各自系好了小标记。",
+      "scene": "On the next laundry day, BOTH neighbors stand below the rail in ONLY their CREAM base tops, with brown and olive trousers. Exactly TWO blue shirts hang on the rail and nowhere else: the roomy shirt on the left hanger with a small round rust cloth knot, and the smaller shell-button shirt on the right hanger with a long sage ribbon. Each neighbor holds only an EMPTY laundry basket. Neither body wears blue and neither hand holds a shirt. Show both complete cream torsos and the two hanging garments, including the small cuff button. No other garments, duplicates, lettering or speech balloons."
+    }
+  ],
+  "palette": [
+    "#EDE2CB",
+    "#8EADC2",
+    "#B58C72",
+    "#91A18A",
+    "#D0B67E"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "两件蓝衬衣，晾在同一根横杆上。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "一个袖口太短，一个袖口盖住了手。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "一枚贝壳扣，认出了真正的袖口。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "下次，两只衣架各自系好了小标记。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "ecf2e943ce36ae096682a9f83f0885024a81a60bdd7de2145916100415f86760",
+  "sha256": "e2dcbe6006dba7b9320d1322d2326a8df1a5a490f46fb4a688893ecb895ff794",
+  "prompt_sha256": "1eabd426bddd8feeded59960a87488a83f2bf852f14e655f186738bc55abeaf7",
+  "story_sha256": "9efd2a1ce49dbdc0b096bda40edbecc4f5eadcb55b7ad82c8587e7fd175d038a",
+  "created_at": "2026-10-26T10:53:58.318133+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

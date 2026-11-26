@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-strangers-08-orange-in-potted-tree.png",
+  "refined_prompt": "../prompts/daily-vignette-strangers-08-orange-in-potted-tree.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-strangers-08-orange-in-potted-tree-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-strangers",
+  "group": "strangers",
+  "series_number": 8,
+  "anthology_index": 38,
+  "panel_count": 4,
+  "display_title": "临时果树",
+  "visible_description": "捡起的橘子暂放盆土上，让两位路人认出一棵临时果树。",
+  "synopsis": "买菜的人刚提起网袋，一只橘子便从大网眼里滚出来。青年放稳花盆，伸手接住橘子，再把它暂放盆土上，另一手扶住盆沿。买菜的人用围巾托牢网袋，抬头却看见小树脚边多了一枚亮果子。两人笑着欣赏了这棵临时果树，随后她拿回橘子，青年也重新抱起盆栽。",
+  "story_text": "买完水果的阿姨提起网袋，一只橘子从松松的网眼里溜出来，在脚边滚了两圈。抱盆栽的年轻人先放稳花盆，再伸手把它接住。\n\n阿姨腾不出手，他就用一手扶盆，把橘子轻放到树干旁的平土上。她拿出围巾，裹住网袋底部，打了一个牢靠的结。\n\n年轻人指指小树。阿姨抬头一看，绿叶下面多出一枚亮橙色的果子，仿佛一棵小树把今天的收成暂时放在了脚边。两人都忍不住笑了。\n\n她伸手取回橘子，准备装进补好的袋里。年轻人也重新抱起盆栽。那一小块盆土空下来，这棵只结果一会儿的树，又变回了普普通通的绿树。",
+  "art_direction": "Warm gouache with loose colored-pencil market textures on cream paper",
+  "character_design": "A middle-aged adult woman with a dark braid over one shoulder wears a cream blouse, muted blue trousers and brown sandals. She carries a cream wide-mesh shopping bag containing several oranges and a soft rust scarf. A young adult man with short wavy hair wears a pale olive jacket, beige trousers and charcoal shoes. He carries a small leafy indoor tree in a wide terracotta pot. The tree has a short sturdy trunk and rounded dark green leaves.",
+  "panels": [
+    {
+      "caption": "橘子找到了一只太大的网眼。",
+      "scene": "At the edge of a quiet open-air market, the woman lifts her cream mesh bag and watches one orange roll onto the flat paving directly beside her sandals. The remaining oranges are visible through the wide gaps. The young man approaches carrying his small leafy tree in the terracotta pot, noticing the escaped fruit. Keep the path broad, level and empty of vehicles, with simple unlettered produce baskets far behind. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他接住橘子，暂放到盆土上。",
+      "scene": "The young man crouches beside the terracotta pot, already resting flat on the paving. Having caught the rolling orange, he now lowers it onto exposed level soil beside the little tree trunk with his right hand. His left hand firmly steadies the pot rim. Clearly show the orange supported by his fingers just above the soil, never floating or climbing the rim. The woman kneels nearby, reaching for her rust scarf beside the mesh bag. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "袋子补好了，树脚多了一枚果。",
+      "scene": "The woman sits on her heels and finishes tying the rust scarf securely around the mesh bag bottom, enclosing the remaining oranges. The man steadies the pot rim with his left hand and points with his right toward the single orange resting directly on visible soil beside the trunk. The fruit is below the pot rim, partly framed by low green leaves. She looks up and smiles at the tiny improvised fruit tree. Keep the pot flat on the paving. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "这棵果树，只营业了一小会儿。",
+      "scene": "The woman has lifted the orange from the pot soil and holds it visibly in her right hand above the open repaired shopping bag, which her left hand steadies on the paving. The young man crouches opposite, grasping the terracotta pot with both hands to lift it again. Both smile at the small tree, whose exposed soil is now empty beside the trunk. Keep the retrieved fruit, two supporting hands and stable bag clearly readable. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E9D9BF",
+    "#DC9A42",
+    "#73926B",
+    "#B16D55",
+    "#6A8094"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "橘子找到了一只太大的网眼。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "他接住橘子，暂放到盆土上。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "袋子补好了，树脚多了一枚果。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "这棵果树，只营业了一小会儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "c07302a3423bda46a41c49570103ee6d655b91ef46976223b4202cc6f278a905",
+  "sha256": "0ad40b7a633b0fb3c1bf85b1a12661394621ebacadc99d31da25789d262c9bcb",
+  "prompt_sha256": "57942baf72c2195a56f6f6c5544a0dc1cb4e9ebe4d1c4abeacb292779ed46ea6",
+  "story_sha256": "842ab63b172873a95fb6724d08514b8979d7af3dfedabe616791ced005a46d0c",
+  "created_at": "2026-10-26T10:05:53.000683+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

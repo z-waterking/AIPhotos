@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-growing-10-first-lunch-extra-lemon.png",
+  "refined_prompt": "../prompts/daily-vignette-growing-10-first-lunch-extra-lemon.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-growing-10-first-lunch-extra-lemon-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-growing",
+  "group": "growing",
+  "series_number": 10,
+  "anthology_index": 90,
+  "panel_count": 4,
+  "display_title": "柠檬放最后",
+  "visible_description": "新学的午饭少了一点味道，一片柠檬让她找到了自己的顺序。",
+  "synopsis": "照着记忆做完第一份冷面，阿朵尝了一口，总觉得还缺点什么。她把桌上的配料挪来挪去，最后看见一片暂时没用上的柠檬。她只挤了几滴汁，再尝时眉毛一下舒展开。第二天做饭，她不再把所有东西一股脑拌好，而是把柠檬单独放在碟边，留给坐下吃饭的人自己决定。",
+  "story_text": "阿朵第一次做冷面，黄瓜、番茄、面条都摆得很整齐。她认真拌好，尝了一口，又看了看碗，觉得味道还差一点，却一时说不清是什么。\n\n她把小碟子挪来挪去，忽然看见桌角那片没用上的柠檬。明亮的黄色一直在那里，只是刚才忙着拌面，没轮到它上场。\n\n阿朵只挤了几滴汁，再尝一口，眉毛一下舒展开来。她没有把整片都挤完，先把剩下的放回碟边，安安静静吃完了这顿午饭。\n\n第二天，室友也来一起吃。阿朵把面端上桌，每碗旁边另外放一片柠檬。室友拿起自己的那片，先闻了闻才轻轻挤下去。阿朵看着她，觉得今天的最后一步留得很合适。",
+  "art_direction": "Fresh food gouache with crisp colored pencil citrus texture",
+  "character_design": "Aduo is an adult woman with a black high bun, a pale blue linen shirt, an ochre apron, and cream trousers. Her adult housemate has a short brown bob and a sage sweater. Their lunch consists of cool noodles, cucumber ribbons, tomato pieces, and one lemon wedge, served in plain ivory bowls on a wooden table. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "第一份冷面，似乎还少一点什么。",
+      "scene": "Aduo sits at the kitchen table tasting cool noodles from an ivory bowl with plain chopsticks. Her eyebrows draw together thoughtfully rather than in dislike. Small dishes of cucumber ribbons and tomato pieces sit nearby, along with one unused lemon wedge. Her ochre apron is still tied, showing that the meal has just been prepared. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "桌角那片柠檬，还没有轮到。",
+      "scene": "Aduo sets the chopsticks across the bowl and notices the bright lemon wedge on a small side dish. One hand reaches toward it while the other nudges the ingredients into a clearer arrangement. Her expression shows a quiet new idea. The noodles remain undisturbed, and all vegetables are already prepared without any cutting tools visible. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "只加几滴，味道就转了个弯。",
+      "scene": "Aduo gently squeezes the lemon wedge over the bowl, with a few clear drops visibly falling onto the noodles. She holds the wedge low to avoid splashing, concentrating on the small amount. The cucumber and tomato colors remain fresh and distinct. A plain glass of water and folded cloth sit farther back on the table. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "第二天，最后一步留给吃饭的人。",
+      "scene": "Aduo and her housemate sit down to two bowls of cool noodles, each with a lemon wedge placed separately on the rim of a small side dish. The housemate lifts her wedge with an appreciative smile, while Aduo waits comfortably with chopsticks in hand. The repeated meal now allows each person a small choice. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E5DBC0",
+    "#D5BA5A",
+    "#83A17A",
+    "#BF866E",
+    "#738F99"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "第一份冷面，似乎还少一点什么。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "桌角那片柠檬，还没有轮到。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "只加几滴，味道就转了个弯。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "第二天，最后一步留给吃饭的人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "a51050f39040b2ce422c1ca57c2bad9fec93d814c174d530ffd07e376b72041f",
+  "sha256": "f587c1bd3b51bd719e167cd581e206922c5e6529f4dc14b3e9835f175cfc56d9",
+  "prompt_sha256": "fa57e0f51eeb7ccd278fb56f5470dcc95b94e69eeb0aa69784166e4973bb481a",
+  "story_sha256": "bd147edd26d793c646ef56ef41f64ad6f5a60e55811e205eeed0ec64df856de8",
+  "created_at": "2026-10-26T10:40:46.350063+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

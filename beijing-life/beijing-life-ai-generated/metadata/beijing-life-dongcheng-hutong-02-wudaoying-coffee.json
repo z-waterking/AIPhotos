@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-dongcheng-hutong-02-wudaoying-coffee.png",
+  "refined_prompt": "../prompts/beijing-life-dongcheng-hutong-02-wudaoying-coffee.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:40.666968+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-dongcheng-hutong",
+  "group_number": 1,
+  "series_number": 2,
+  "anthology_index": 2,
+  "title": "咖啡拐进小巷",
+  "sha256": "3e44eda397bc07caacb4c6b520e13875766dbb2c5dbb73f5a416683185f1cb9f",
+  "native_sha256": "4b6d4368718fcc41cf01856239ac300a16a68b234944e90fd08f20deebf13d26",
+  "prompt_sha256": "f82e1a5d903b8cb1394520b3921a046b27009e250148249c92654be15f82fa61",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2164078,
+  "art_direction": {
+    "style_name": "不透明水粉街景",
+    "style_prompt_english": "Opaque gouache travel painting with visible broad brush marks, flat light shapes, irregular architectural contours and luminous dark doorways. Slightly elevated street-level view; layered street foreground, brick courtyard middle distance and autumn tree canopy. A complete lived-in scene rather than isolated stickers.",
+    "palette": [
+      "#FFC857",
+      "#DC5938",
+      "#295F6B",
+      "#F7EACD"
+    ],
+    "layout_variant": 0,
+    "activity": "胡同散步与院落观察",
+    "area": "东城区"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "wudaoying-coffee",
+    "title": "咖啡拐进小巷",
+    "subtitle": "五道营与箭厂的慢半天",
+    "area_label": "东城·安定门内",
+    "duration": "约2–3小时",
+    "transport": "地铁2号线安定门站；步行接驳",
+    "stops": [
+      {
+        "name": "五道营胡同",
+        "detail": "小店橱窗和院落咖啡",
+        "lat": 39.947052025,
+        "lon": 116.40576858333333,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119045",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30662318"
+      },
+      {
+        "name": "箭厂胡同",
+        "detail": "南北小巷与灰墙转角",
+        "lat": 39.944820663636364,
+        "lon": 116.40532350909092,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119045",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/24804512"
+      },
+      {
+        "name": "国子监街",
+        "detail": "牌楼与古树下散步",
+        "lat": 39.94404308888889,
+        "lon": 116.40551627777778,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120690",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30767439"
+      }
+    ],
+    "practical_note": "饮品和店铺按当天营业选择；不将拍照停留挤占居民通行。",
+    "copy_title": "东城·安定门内｜咖啡拐进小巷",
+    "copy_body": "选一杯顺路的咖啡，把五道营的热闹和箭厂的转角一起装进下午。最后走到国子监街看牌楼。 路线：五道营胡同 → 箭厂胡同 → 国子监街。约2–3小时，到首站和返程另计。饮品和店铺按当天营业选择；不将拍照停留挤占居民通行。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "东城",
+      "咖啡拐进小巷"
+    ],
+    "hero_prompt_english": "An adult carries takeaway coffee around a narrow gray-brick corner at Wudaoying and Jianchang hutongs. Small unbranded shop windows, weathered red wooden doors, a parked city bicycle, hanging golden leaves and the rhythm of traditional tiled eaves. A distant traditional street archway references Guozijian Street without compressing it into a literal geographic map. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "e5ef26c51e774d6ff1a0b8caff5ffa6cca3a913ca9cf98a6e9b37661816429aa",
+      "bounds_wgs84": [
+        116.39719171406978,
+        39.93914238329071,
+        116.41390037835444,
+        39.95195216406247
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "五道营胡同",
+          "lon": 116.40576858333333,
+          "lat": 39.947052025,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "箭厂胡同",
+          "lon": 116.40532350909092,
+          "lat": 39.944820663636364,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "国子监街",
+          "lon": 116.40551627777778,
+          "lat": 39.94404308888889,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:31.427623+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "五道营胡同",
+          "source_url": "https://www.openstreetmap.org/way/30662318",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "箭厂胡同",
+          "source_url": "https://www.openstreetmap.org/way/24804512",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "国子监街",
+          "source_url": "https://www.openstreetmap.org/way/30767439",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "五道营胡同 → 箭厂胡同 → 国子监街",
+        "box": [
+          52,
+          43,
+          466,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东城·安定门内",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "咖啡拐进小巷",
+        "box": [
+          49,
+          188,
+          463,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "东城胡同慢镜头  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          377,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "五道营与箭厂的慢半天",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  五道营胡同",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "小店橱窗和院落咖啡",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  箭厂胡同",
+        "box": [
+          53,
+          1194,
+          205,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "南北小巷与灰墙转角",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  国子监街",
+        "box": [
+          53,
+          1271,
+          205,
+          1297
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "牌楼与古树下散步",
+        "box": [
+          56,
+          1307,
+          216,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁2号线安定门站；步行接驳",
+        "box": [
+          53,
+          1362,
+          325,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "01 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "002",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

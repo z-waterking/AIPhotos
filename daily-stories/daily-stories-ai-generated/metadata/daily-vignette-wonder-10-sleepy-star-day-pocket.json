@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-wonder-10-sleepy-star-day-pocket.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-10-sleepy-star-day-pocket.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-10-sleepy-star-day-pocket-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 10,
+  "anthology_index": 100,
+  "panel_count": 6,
+  "display_title": "星星的白天",
+  "visible_description": "贪睡的小星星错过了回家，被一只围裙口袋收留到傍晚。",
+  "synopsis": "在这个原创童话里，一颗小星星躺在窗台上打盹，醒来时天已经亮了。它的光太淡，找不到回夜空的路，只好钻进晒着的围裙口袋。傍晚，面包师收衣服时，发现口袋里有一点暖光，便把围裙挂回最高的窗钩。第一片暮色出现，小星星伸了个懒腰飞出去，口袋里留着一颗普通却亮晶晶的糖。",
+  "story_text": "小星星躺在窗台上打盹，一睁眼，天空已经亮了。它抖抖自己的光，亮度却比不过早晨，只好缩到旁边晾着的围裙口袋里。\n\n口袋松软又遮光，小星星趴着想办法，想着想着又睡着了。\n\n窗外的白天慢慢过去，厨房安静下来，只有围裙边缘偶尔被风轻轻碰一下。\n\n傍晚，面包师来收衣服，忽然摸到一点暖光。他掀开口袋，看见一双还没睡醒的小眼睛，便笑着把围裙挂回窗边最高的钩子上。\n\n第一片暮色出现，小星星伸个懒腰，沿着窗外的暗蓝飞出去。\n\n面包师再看口袋，里面只剩一颗普通的糖，亮晶晶的。他把糖收进掌心，抬头时，夜空刚好多了一点熟悉的光。",
+  "art_direction": "Twilight gouache glow with delicate colored pencil flour and cloth texture",
+  "character_design": "An original small five pointed star is softly rounded, warm golden, and friendly, with sleepy dot eyes and flexible little points. An adult baker has short gray curls, a pale blue shirt, cream trousers, and a plain rust apron with one large front pocket. A clear sugar crystal and a wooden window hook are recurring small props. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "小星星一觉醒来，天已经亮了。",
+      "scene": "A small rounded golden star sits on a broad interior windowsill, rubbing one sleepy eye with a flexible point. Bright morning sky fills the window, making its own glow look faint. A plain rust apron hangs to dry from a low wooden hook nearby, its large pocket open. The kitchen is warm, quiet, and entirely ordinary. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "白天太亮，它先躲进口袋。",
+      "scene": "The star peeks from the large pocket of the hanging rust apron, its upper points resting comfortably over the fabric edge. Its eyes are half closed again, reassured by the soft shade. Sunlight falls on the rest of the apron. The broad windowsill and simple kitchen shelves remain in the background without any text or branding. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "口袋遮住白天，正好再睡一觉。",
+      "scene": "The rounded golden star sleeps deep in the rust apron pocket, with only two soft points and a closed eye visible above the fabric edge. Bright daylight falls on the outer apron while the pocket interior stays gently shaded. A small fold forms beneath the star, making its cozy weight visible without changing the familiar kitchen surroundings. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "收衣服时，面包师摸到一点暖光。",
+      "scene": "At dusk, the baker holds the apron gently away from the hook and notices a small golden glow inside its pocket. The sleepy star looks up from the opening. The baker smiles in surprise and supports the pocket with an open palm, careful not to squeeze it. Pale blue evening light begins to replace the earlier sunlight. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "围裙重新挂高，等第一片暮色。",
+      "scene": "The baker has returned the rust apron to the high wooden hook beside the open window and rests one hand against the wall while watching the sky darken. The star peeks eagerly from the pocket, its golden points brighter against the new dusk. The calm kitchen remains unchanged, with the window providing a clear gentle route outward. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "星星回去，口袋留下一颗糖。",
+      "scene": "The apron hangs again from the high wooden window hook as the little star floats outward into the soft evening sky, waving one flexible point. The baker looks into the pocket, where a single ordinary clear sugar crystal catches the remaining golden glow. The open window frames the departure while the kitchen retains its warm, peaceful light. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DCD4BD",
+    "#D1B56B",
+    "#879BAD",
+    "#B98773",
+    "#6E8290"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        9,
+        9,
+        505,
+        523
+      ],
+      [
+        516,
+        9,
+        1016,
+        523
+      ],
+      [
+        9,
+        534,
+        505,
+        1011
+      ],
+      [
+        516,
+        534,
+        1016,
+        1011
+      ],
+      [
+        9,
+        1022,
+        505,
+        1528
+      ],
+      [
+        516,
+        1022,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        42,
+        200,
+        494,
+        668
+      ],
+      [
+        528,
+        200,
+        983,
+        668
+      ],
+      [
+        34,
+        819,
+        502,
+        1269
+      ],
+      [
+        522,
+        821,
+        990,
+        1267
+      ],
+      [
+        38,
+        1420,
+        497,
+        1888
+      ],
+      [
+        525,
+        1420,
+        987,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "小星星一觉醒来，天已经亮了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "白天太亮，它先躲进口袋。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "口袋遮住白天，正好再睡一觉。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "收衣服时，面包师摸到一点暖光。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "围裙重新挂高，等第一片暮色。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "星星回去，口袋留下一颗糖。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Native visual QA passed the narrative and confirmed unequal rows. Measured clear horizontal gutters are y=524-532 and y=1012-1020. Exact inner-panel crops avoid the preceding scene at the top of the fixed middle row and are proportionally contained in the original slots without enlargement. Caption positions stay fixed; final composition requires visual QA.",
+      "native_sha256": "a639e153b3901620cb35d40f76bcec2eff7ed56a33d1adc81e7c2bc0d5757b25",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          8,
+          0,
+          8,
+          0
+        ],
+        [
+          6,
+          0,
+          7,
+          0
+        ],
+        [
+          0,
+          9,
+          0,
+          9
+        ],
+        [
+          0,
+          11,
+          0,
+          11
+        ],
+        [
+          4,
+          0,
+          5,
+          0
+        ],
+        [
+          3,
+          0,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "native_sha256": "a639e153b3901620cb35d40f76bcec2eff7ed56a33d1adc81e7c2bc0d5757b25",
+  "sha256": "5df35d0909fcbde10ce4e88029539f37fcd1594a7d8fa837f0a9c6f4c279f111",
+  "prompt_sha256": "ec0773e638007b27f7fa513287fe2607814c9f828ea571cb9f89734e22f7b214",
+  "story_sha256": "41047889038a91f2bbf4e092c53c8083952cbbb4619db7447308349d1a5daaf7",
+  "created_at": "2026-10-26T10:58:48.961155+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

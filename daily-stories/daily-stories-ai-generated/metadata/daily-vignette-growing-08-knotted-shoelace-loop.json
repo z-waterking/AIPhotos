@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-growing-08-knotted-shoelace-loop.png",
+  "refined_prompt": "../prompts/daily-vignette-growing-08-knotted-shoelace-loop.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-growing-08-knotted-shoelace-loop-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-growing",
+  "group": "growing",
+  "series_number": 8,
+  "anthology_index": 88,
+  "panel_count": 4,
+  "display_title": "鞋带的小圈",
+  "visible_description": "孩子把鞋带绕了太多圈，最后自己找回了最简单的那一个。",
+  "synopsis": "小乔最近坚持自己系鞋带，坐在门口的小凳上绕了许久，鞋面上却出现一大团松松的圈。妈妈已经穿好鞋，便坐下来陪她把带子慢慢拆开。第二次，小乔只留两个小圈，轻轻一拉就系好了。出门时，她先低头检查一下，又蹲下来，替妈妈把歪向一边的鞋带摆正。",
+  "story_text": "小乔今天坚持自己系鞋带。妈妈穿好鞋，坐在门口等她，她却把两根带子绕过来又绕过去，鞋面上很快多出一团松松软软的小圈。\n\n小乔盯着那团圈，有点不知道从哪里开始。妈妈坐到她旁边，只帮忙握住其中一端，让她自己把另外几圈慢慢拆开，带子终于重新变得清清楚楚。\n\n再来一次时，小乔只做两个小圈，左右轻轻一拉。一个不大不小的蝴蝶结留在鞋面上。她把另一只也系好，低头看了好一会儿，才站起身。\n\n出门前，小乔忽然又蹲下来，替妈妈把歪到一边的鞋带摆正。妈妈一动不动地等着，像刚才那样。门口的小凳空了，两个人的鞋面倒都变得整整齐齐。",
+  "art_direction": "Domestic gouache with clear colored pencil lace loops",
+  "character_design": "Xiaoqiao is a seven year old child with a dark ponytail, a teal cardigan, cream trousers, and coral sneakers with ivory laces. Her mother wears a mustard blouse, olive trousers, and plain beige lace up shoes. They use a low wooden bench and a woven mat in the same calm entryway. Each sneaker contains exactly ONE short continuous ivory shoelace, threaded through its eyelets with exactly TWO free ends. The child works only on her right sneaker during panels 1-3; it stays on her foot, with its sole on the mat. Every loose bend and every later bow is part of that attached lace directly over the shoe tongue. A finished bow has exactly two compact loops and two short tails. No detached string, independent hand-held knot, second knot on the same shoe, extra rope, or lace on a lap. Keep appearances, clothing colors and shoe design identical throughout. Everyone is fully clothed.",
+  "panels": [
+    {
+      "caption": "她今天坚持，鞋带自己来。",
+      "scene": "Xiaoqiao sits on the low entryway bench, both feet resting on the woven mat. She leans down toward her right coral sneaker, which is visibly on her foot. The sneaker has one ivory lace threaded through its eyelets, currently untied. She holds one of its two short free tips in each hand just above the shoe tongue. Show the uninterrupted connection from each hand to the shoe. Her mother sits nearby with both beige shoes already tied, quietly waiting. The other coral sneaker is still untied. Show one clear physical instant, with clear visible contact between hands and objects. Use old paper gouache and colored pencil, consistent character design and plain unlettered objects. No lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "绕着绕着，小圈长成了一团。",
+      "scene": "In the same entryway, show Xiaoqiao and her mother bending toward the right coral sneaker still on the child’s foot and resting on the mat. Its same single threaded lace has two or three loose folds gathered directly on the shoe tongue, a small untidy attempt rather than a separate bundle of string. The mother lightly holds one free tip close to the shoe while Xiaoqiao loosens the other tip. All folds visibly connect to the same two ends and eyelets. There is no completed bow yet and no other string. Show one clear physical instant, with clear visible contact between hands and objects. Use old paper gouache and colored pencil, consistent character design and plain unlettered objects. No lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "少绕一点，两个小圈就够了。",
+      "scene": "Use a clear three-quarter view of Xiaoqiao leaning down from the bench. Her right coral sneaker is still on her foot with its sole on the mat; include her hands and the whole shoe in the same view. The single ivory lace remains threaded through the eyelets. Directly on its tongue, the child holds the two compact loops of ONE newly formed bow and gently draws them outward. The knot touches the shoe tongue; exactly two short tails lie beside it. No bow or loose knot exists in her lap. Her mother watches with both hands resting on her own knees. Show one clear physical instant, with clear visible contact between hands and objects. Use old paper gouache and colored pencil, consistent character design and plain unlettered objects. No lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "出门前，她也帮妈妈摆正一个。",
+      "scene": "Xiaoqiao now crouches on the entryway mat beside her mother’s beige shoe, which remains on her mother’s foot. She gently turns its existing two-loop bow so it lies straight on the shoe tongue, without pulling out the lace or creating another knot. Both coral sneakers are visibly on the child’s feet and each now has one neat attached ivory bow, two compact loops and two short tails. Her mother looks down warmly and remains still. The low bench behind them is empty. Show one clear physical instant, with clear visible contact between hands and objects. Use old paper gouache and colored pencil, consistent character design and plain unlettered objects. No lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E4D8BF",
+    "#C18A76",
+    "#769A9A",
+    "#9B9C6F",
+    "#6A635D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "她今天坚持，鞋带自己来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "绕着绕着，小圈长成了一团。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "少绕一点，两个小圈就够了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "出门前，她也帮妈妈摆正一个。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "68e6fe231c7e225093fc1c3bb8fc4a13728548ee44eeaf8e615628e91ea6a517",
+  "sha256": "a9093507b6a24dee62ec2b24049b3026a16b620aca635634b6fa0df08d3f1609",
+  "prompt_sha256": "75eba3bb5282bbf3036c5bb8e02d1fbf9c37bf5e5dcdef313df696e8da697af6",
+  "story_sha256": "e84087927ccf5b1d86ad0e1e924f65e0fbfc2f9058130faa715a3dd559977f97",
+  "created_at": "2026-10-26T10:56:38.701197+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

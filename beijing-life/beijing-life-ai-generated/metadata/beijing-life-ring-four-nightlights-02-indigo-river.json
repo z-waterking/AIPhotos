@@ -1,0 +1,322 @@
+{
+  "output": "../beijing-life-ring-four-nightlights-02-indigo-river.png",
+  "refined_prompt": "../prompts/beijing-life-ring-four-nightlights-02-indigo-river.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:07.547978+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-ring-four-nightlights",
+  "group_number": 19,
+  "series_number": 2,
+  "anthology_index": 92,
+  "title": "颐堤港到坝河",
+  "sha256": "c42c2ccdb2c60b199e9e5f44b334e0295583f35ad5a36e8788a45b8b7ab1f313",
+  "native_sha256": "d2bff940eca62f2223c3f7c608103f705ab7c8470b6381e38b49e2270b5e6240",
+  "prompt_sha256": "8a4bb0b91cb9387e3754440c0de4eabb1ff8f34d6796de7122e79d794f13484a",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1829439,
+  "art_direction": {
+    "style_name": "电影长曝光夜景",
+    "style_prompt_english": "Original cinematic travel photograph aesthetic at blue hour, realistic recognizable contemporary Beijing architecture, luminous warm windows, tasteful saturated cyan-magenta reflections, subtle long-exposure light trails only on roads, sharply detailed buildings and peaceful adults, rich deep navy shadows, sophisticated optical lens depth. No CGI neon lettering or advertisements.",
+    "palette": [
+      "#102239",
+      "#25BDCD",
+      "#EC669B",
+      "#FFBC54"
+    ],
+    "layout_variant": 3,
+    "activity": "夜景摄影／街区晚饭",
+    "area": "北京四环周边，非严格环间"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "indigo-river",
+    "title": "颐堤港到坝河",
+    "subtitle": "城市夜色里加一点水光",
+    "area_label": "东北四环外·酒仙桥",
+    "duration": "约2–3小时",
+    "transport": "地铁将台站；商区与水岸间步行",
+    "stops": [
+      {
+        "name": "颐堤港",
+        "detail": "玻璃商业空间与晚饭",
+        "lat": 39.9683284,
+        "lon": 116.4851843,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://www.indigobeijing.com",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1034500140"
+      },
+      {
+        "name": "坝河将台段",
+        "detail": "开放水岸步道",
+        "lat": 39.965469,
+        "lon": 116.4775147,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://www.indigobeijing.com/events/2026-river-festival",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/233351216"
+      }
+    ],
+    "practical_note": "只走开放公共水岸；颐堤港相关品牌更新与施工动线以现场为准。",
+    "copy_title": "颐堤港到坝河｜北京周末灵感",
+    "copy_body": "城市夜色里加一点水光。颐堤港 → 坝河将台段，安排约2–3小时。从玻璃商业空间与晚饭到开放水岸步道，留点时间给自己。只走开放公共水岸；颐堤港相关品牌更新与施工动线以现场为准。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "东北四环外"
+    ],
+    "hero_prompt_english": "INDIGO shopping district at Jiangtai Beijing with broad luminous glass atrium facade, clean modern office towers, a nearby accessible Bahe river promenade rendered as the secondary plane with warm path lights and soft water reflections, an adult holding a hot drink. Do not invent a completed new skyscraper extension or copy store branding. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "183c6100d7d784da5a1ba35c9658bb46a368970475a961c16311a9934b14f95c",
+      "bounds_wgs84": [
+        116.47299516785766,
+        39.96049552403275,
+        116.48970383214233,
+        39.97330130616796
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "颐堤港",
+          "lon": 116.4851843,
+          "lat": 39.9683284,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "坝河将台段",
+          "lon": 116.4775147,
+          "lat": 39.965469,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:56.833249+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "颐堤港",
+          "source_url": "https://www.openstreetmap.org/way/1034500140",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "坝河将台段",
+          "source_url": "https://www.openstreetmap.org/way/233351216",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "颐堤港 → 坝河将台段",
+        "box": [
+          52,
+          43,
+          298,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东北四环外·酒仙桥",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "颐堤港到坝河",
+        "box": [
+          49,
+          188,
+          463,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "四环周边·夜色晚饭  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "城市夜色里加一点水光",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  颐堤港",
+        "box": [
+          413,
+          1117,
+          538,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "玻璃商业空间与晚饭",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  坝河将台段",
+        "box": [
+          413,
+          1194,
+          592,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "开放水岸步道",
+        "box": [
+          416,
+          1230,
+          536,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "只走开放公共水岸；颐堤港相关品牌更新与施工动线以现场为准。",
+        "box": [
+          413,
+          1281,
+          935,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁将台站；商区与水岸间步行",
+        "box": [
+          413,
+          1362,
+          693,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "19 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "092",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

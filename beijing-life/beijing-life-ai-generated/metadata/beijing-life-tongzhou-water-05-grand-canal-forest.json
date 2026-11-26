@@ -1,0 +1,335 @@
+{
+  "output": "../beijing-life-tongzhou-water-05-grand-canal-forest.png",
+  "refined_prompt": "../prompts/beijing-life-tongzhou-water-05-grand-canal-forest.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:01.264976+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-tongzhou-water",
+  "group_number": 7,
+  "series_number": 5,
+  "anthology_index": 35,
+  "title": "去运河边放空",
+  "sha256": "0dc468055530ee4ddebfd77e351a6e3ceb481b91f180b80c995994dbea25b20e",
+  "native_sha256": "6ca527dfc44e10749ba90c620ceda51e62f7fa16666d91818327222bac89d147",
+  "prompt_sha256": "e0e3612dca5b5dc591f5b440e8e0ccaf625f336989a65754120ed36c0ca641cc",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2061427,
+  "art_direction": {
+    "style_name": "胶片剪影杂志拼贴",
+    "style_prompt_english": "Original editorial photomontage-like illustration made from newly generated photographic-looking fragments: crisp cut silhouette edges, overlapping architecture, translucent color-paper light fields and subtle 35mm film grain. One coherent scene with one large real landmark and a close concrete activity. No actual external photos, no text, no copied campaign design; richly filled full-bleed vertical composition.",
+    "palette": [
+      "#BCE7D9",
+      "#4068BD",
+      "#EC9876",
+      "#EEDCB8"
+    ],
+    "layout_variant": 1,
+    "activity": "运河散步、文化建筑与阅读",
+    "area": "通州区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "grand-canal-forest",
+    "title": "去运河边放空",
+    "subtitle": "森林公园的慢步调",
+    "area_label": "通州·大运河森林公园",
+    "duration": "约3小时",
+    "transport": "公共交通接驳至当日开放园门；首末交通另计",
+    "stops": [
+      {
+        "name": "大运河森林公园",
+        "detail": "沿开放林间园路散步",
+        "lat": 39.8695988,
+        "lon": 116.7406891,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120994",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/231113730"
+      },
+      {
+        "name": "大运河森林公园运河岸线",
+        "detail": "看水和秋季树林",
+        "lat": 39.8695988,
+        "lon": 116.7406891,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120994",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/231113730"
+      }
+    ],
+    "practical_note": "两点同属大范围园区，地图采用园区代表点；出发前确认具体园门和返程交通。",
+    "copy_title": "通州·大运河森林公园｜去运河边放空",
+    "copy_body": "把行程缩短成一段林路和一段河岸。带水、带外套，走到想坐的地方就停下来。 路线：大运河森林公园 → 大运河森林公园运河岸线。约3小时，到首站和返程另计。两点同属大范围园区，地图采用园区代表点；出发前确认具体园门和返程交通。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "通州",
+      "去运河边放空"
+    ],
+    "hero_prompt_english": "Tongzhou Grand Canal Forest Park with a broad navigable canal, open riverside path, tall golden poplars and reeds, no mountains or invented palace. Adult in practical autumn coat carries a small thermos, reflected tree silhouettes layered into newly generated film-like editorial collage, calm spacious but fully composed scene. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "a64c48950e304057e25ed6e50fd0bd3cd22881f9607097b64c04fbcfacbfdc2f",
+      "bounds_wgs84": [
+        116.73233476785767,
+        39.86318650532395,
+        116.74904343214233,
+        39.87601049534176
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "大运河森林公园",
+          "lon": 116.7406891,
+          "lat": 39.8695988,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "大运河森林公园运河岸线",
+          "lon": 116.7406891,
+          "lat": 39.8695988,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:46.453711+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "大运河森林公园",
+          "source_url": "https://www.openstreetmap.org/way/231113730",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "大运河森林公园运河岸线",
+          "source_url": "https://www.openstreetmap.org/way/231113730",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "大运河森林公园 → 大运河森林公园运河岸线",
+        "box": [
+          52,
+          43,
+          558,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "通州·大运河森林公园",
+        "box": [
+          52,
+          133,
+          372,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "去运河边放空",
+        "box": [
+          49,
+          188,
+          463,
+          256
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "通州水边的新旧北京  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "森林公园的慢步调",
+        "box": [
+          55,
+          1013,
+          231,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  大运河森林公园",
+        "box": [
+          413,
+          1117,
+          646,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿开放林间园路散步",
+        "box": [
+          416,
+          1153,
+          596,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  大运河森林公园运河岸线",
+        "box": [
+          413,
+          1194,
+          754,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看水和秋季树林",
+        "box": [
+          416,
+          1230,
+          556,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "两点同属大范围园区，地图采用园区代表点；出发前确认具体园门和",
+        "box": [
+          413,
+          1281,
+          953,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "返程交通。",
+        "box": [
+          413,
+          1306,
+          503,
+          1324
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "公共交通接驳至当日开放园门；首末交通另计",
+        "box": [
+          413,
+          1362,
+          813,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "07 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "035",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

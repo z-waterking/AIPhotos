@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-fengtai-gardens-01-garden-museum.png",
+  "refined_prompt": "../prompts/beijing-life-fengtai-gardens-01-garden-museum.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:46.279919+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-fengtai-gardens",
+  "group_number": 5,
+  "series_number": 1,
+  "anthology_index": 21,
+  "title": "把园林装进口袋",
+  "sha256": "17d8cd8cd2b4a3489893b450f9dc54a021f51ad32c2f08e5a85088b6c7c7ec39",
+  "native_sha256": "26cb93155d4e3cc2a103933500a200202250dfceb6a0246120f490feb24c81f1",
+  "prompt_sha256": "3660a0c7a7e12967c9b0d990ce5e95f0b6d30049e3951e0d19080b1ba63bf787",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2298101,
+  "art_direction": {
+    "style_name": "彩线刺绣风景",
+    "style_prompt_english": "A richly tactile embroidered travel artwork made of colored threads: satin-stitch architectural planes, chain-stitch paths, densely stitched foliage and softly padded fabric water. Distinct stitch directions construct the actual forms, not a texture filter on a photograph. Full-bleed fabric landscape with detailed recognizable buildings and small embroidered adult visitors.",
+    "palette": [
+      "#E87935",
+      "#447D69",
+      "#E5C862",
+      "#5467A0"
+    ],
+    "layout_variant": 4,
+    "activity": "园林、湖岸与老城休闲",
+    "area": "丰台区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "garden-museum",
+    "title": "把园林装进口袋",
+    "subtitle": "一座馆里看三种园林",
+    "area_label": "丰台·园博园片区",
+    "duration": "约3小时",
+    "transport": "地铁14号线园博园站后接驳至园博馆",
+    "stops": [
+      {
+        "name": "中国园林博物馆",
+        "detail": "园林主题展览",
+        "lat": 39.8778755,
+        "lon": 116.1708777,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118284",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/646141227"
+      },
+      {
+        "name": "苏州畅园展园",
+        "detail": "馆内水池与曲廊",
+        "lat": 39.8778755,
+        "lon": 116.1708777,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118284",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/646141227"
+      },
+      {
+        "name": "半亩轩榭展园",
+        "detail": "馆区北方园林空间",
+        "lat": 39.8778755,
+        "lon": 116.1708777,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/118284",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/646141227"
+      }
+    ],
+    "practical_note": "三点同属园博馆；子展园定位采用馆区代表点，实际入口按馆内导览；查预约开放。",
+    "copy_title": "丰台·园博园片区｜把园林装进口袋",
+    "copy_body": "不用一天跑遍南北园林。先在园博馆看展，再观察畅园的水和半亩轩榭的开合。 路线：中国园林博物馆 → 苏州畅园展园 → 半亩轩榭展园。约3小时，到首站和返程另计。三点同属园博馆；子展园定位采用馆区代表点，实际入口按馆内导览；查预约开放。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "丰台",
+      "把园林装进口袋"
+    ],
+    "hero_prompt_english": "Chinese Garden Museum Beijing interpreted in embroidered fabric: white plaster walls, gray tile roofs, a moon gate, a small water court and zigzag corridor; one adult quietly observing a garden rock. Stitch directions articulate roof ridges and rippling water; no imagined huge palace. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "dde83df209bab27a0407f8de5de0d1b634e5b19b635ebc753650934695b6f9cf",
+      "bounds_wgs84": [
+        116.16252336785767,
+        39.87146397900491,
+        116.17923203214234,
+        39.88428642162953
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "中国园林博物馆",
+          "lon": 116.1708777,
+          "lat": 39.8778755,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "苏州畅园展园",
+          "lon": 116.1708777,
+          "lat": 39.8778755,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "半亩轩榭展园",
+          "lon": 116.1708777,
+          "lat": 39.8778755,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:14.103575+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "中国园林博物馆",
+          "source_url": "https://www.openstreetmap.org/way/646141227",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "苏州畅园展园",
+          "source_url": "https://www.openstreetmap.org/way/646141227",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        },
+        {
+          "name": "半亩轩榭展园",
+          "source_url": "https://www.openstreetmap.org/way/646141227",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route; same-venue sub-area uses shared venue anchor, internal position not independently verified"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "中国园林博物馆 → 苏州畅园展园 → 半亩轩榭展园",
+        "box": [
+          52,
+          43,
+          622,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "丰台·园博园片区",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "把园林装进口袋",
+        "box": [
+          49,
+          188,
+          532,
+          256
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "丰台园林游乐簿  ·  约3小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "一座馆里看三种园林",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  中国园林博物馆",
+        "box": [
+          53,
+          1117,
+          286,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "园林主题展览",
+        "box": [
+          56,
+          1153,
+          176,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  苏州畅园展园",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "馆内水池与曲廊",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  半亩轩榭展园",
+        "box": [
+          53,
+          1271,
+          259,
+          1298
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "馆区北方园林空间",
+        "box": [
+          56,
+          1307,
+          216,
+          1328
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁14号线园博园站后接驳至园博馆",
+        "box": [
+          53,
+          1362,
+          377,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "05 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "021",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

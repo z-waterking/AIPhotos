@@ -1,0 +1,165 @@
+{
+  "output": "../daily-vignette-family-06-two-glasses-colored-cords.png",
+  "refined_prompt": "../prompts/daily-vignette-family-06-two-glasses-colored-cords.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-06-two-glasses-colored-cords-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 6,
+  "anthology_index": 16,
+  "panel_count": 4,
+  "display_title": "眼镜认颜色",
+  "visible_description": "外婆和外公给相似的眼镜系上不同颜色的绳，却又为了搭衣服交换了颜色。",
+  "synopsis": "外公和外婆的眼镜长得太像，早上一起摘下来擦，戴回去时谁都觉得桌上的豆子不太清楚。两人把眼镜换回来，女儿便各系一条彩绳，好让他们认得清。外婆挑了蓝色，外公选了红色。下午出门前，他们站在镜子前比了比衣服，竟把两条彩绳拆下来互换，认真留下了各自真正合适的镜片。",
+  "story_text": "早饭后，外公外婆各擦一副眼镜，擦完都放在桌子中央。两副一样的细黑框并排躺着，谁也没再多看一眼。\n\n重新戴上，豆子忽然不太清楚了。外婆把一颗举远，外公把碗拉近，两人越试越觉得奇怪。女儿站在椅背后笑了笑，请他们先把眼镜换回来。\n\n下午，女儿找出两条软绳，蓝的系给外婆，红的系给外公。两个人点头说好，辨认起来果然容易，眼镜也不怕顺手放错地方。\n\n出门前，他们在镜子前站了半天。外婆看看自己的红开衫，外公低头看看蓝毛衣，索性把彩绳拆下互换。女儿走来时，镜片还是各自的，绳子却已经跟衣服认真配成了一套。",
+  "art_direction": "Light comic gouache with precise pencil accessories on warm paper",
+  "character_design": "The grandmother is a Chinese woman around seventy with a neat silver bob and a small heart-shaped face. She wears a muted red cardigan over a cream shirt and navy trousers. The grandfather has thinning gray hair, a broad forehead, and a gentle smile; he wears a dusty blue sweater and brown trousers. Their adult daughter has a dark ponytail and a sage blouse with cream trousers. Exactly TWO pairs of similar small oval dark-rimmed eyeglasses exist: one pair for each elder. Never duplicate a pair across faces, hands, table or background, and the daughter never has glasses. TIMELINE: panels 1 and 2 have NO cords, chains, straps, dangling attachments or colored strings anywhere. Panel 1 has both uncorded pairs on the table and both elders bare-faced. Panel 2 has exactly one uncorded pair worn on each elder’s face and no loose glasses or tabletop in view. Only in panel 3 do the soft blue and brick-red cords first appear: blue for grandmother, red for grandfather. Panel 4 swaps cord colors, red for grandmother and blue for grandfather, while keeping their correct lenses.",
+  "panels": [
+    {
+      "caption": "两副眼镜擦干净，一起放在了桌中央。",
+      "scene": "At a sunny dining table, grandmother and grandfather have BARE FACES WITHOUT GLASSES. Each elder holds ONLY an empty soft cleaning cloth; neither holds any eyeglasses. Exactly TWO pairs of oval dark-rimmed glasses lie side by side at the table center. Those two tabletop pairs are the only spectacles anywhere in this panel. A shallow bowl of dry beans waits nearby for sorting, while their adult daughter carries one empty bowl. Keep the red cardigan and blue sweater visually distinct. Focus on the two nearly identical pairs resting on the tabletop, with no additional frames on faces, hands, clothing or background. This is before any colored cord is introduced. Both tabletop pairs are completely uncorded bare frames; there is no blue or red string, chain, strap, cord end, or dangling attachment anywhere in the scene."
+    },
+    {
+      "caption": "戴回去一看，连豆子都像隔了层雾。",
+      "scene": "Use a tight CHEST-UP close portrait of grandmother and grandfather seated side by side. The bottom of the composition ends at their upper chests, entirely above table height. The background contains ONLY a plain warm wall and the tops of their wooden chair backs. Grandmother wears exactly ONE pair of small oval dark-rimmed glasses on her face, and grandfather wears exactly ONE pair on his face. These two worn pairs are the only eyeglasses visible anywhere. Both frames are completely bare and UNCORDED, with no straps, strings, chains, hanging lines or attachments of any color. They have mistakenly put on each other’s glasses: grandmother squints mildly at one small bean held near her shoulder, while grandfather tips his head and squints with a similarly puzzled expression. Show ordinary clear air and normal lenses, without literal fog or blur. No daughter, table, tabletop, bowl, cleaning cloth, loose eyeglasses, spare frames, or background accessories appear in this close-up. Keep their red cardigan and blue sweater, silver bob and thinning gray hair consistent. This single quiet instant happens before the cords are found; use old paper gouache and colored pencil with no text or speech balloons."
+    },
+    {
+      "caption": "女儿系上两条彩绳，这回一眼就分清。",
+      "scene": "The glasses are back with their correct owners. The daughter fastens a soft blue cord to grandmother's pair while grandfather already holds his own pair with a brick-red cord draped between his hands. Both elders inspect the solution with pleased smiles. Place the empty cloths and neatly sorted beans at the table edge, showing their morning task has resumed successfully. Keep the cords plain and visibly different in color, and frame the three faces and careful fastening gesture closely enough that the practical distinction is immediately understandable."
+    },
+    {
+      "caption": "出门前，他们又把彩绳换成了配衣服的。",
+      "scene": "At the hallway mirror, grandmother now wears her correct spectacles with the brick-red cord matching her red cardigan, and grandfather wears his correct pair with the blue cord matching his sweater. They stand shoulder to shoulder, each adjusting the cord ends with quietly satisfied smiles. Their daughter watches from the dining-room doorway, one hand lifted in amused disbelief. No lenses are being exchanged in this final moment. The two cleaning cloths are absent, and simple shoes by the door establish that they are ready for a coordinated afternoon outing."
+    }
+  ],
+  "palette": [
+    "#EFE2C9",
+    "#7C9FB4",
+    "#B66E60",
+    "#A9A27D",
+    "#696866"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "两副眼镜擦干净，一起放在了桌中",
+          "央。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "戴回去一看，连豆子都像隔了层雾。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "女儿系上两条彩绳，这回一眼就分",
+          "清。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "出门前，他们又把彩绳换成了配衣",
+          "服的。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "b082b7673cb7deb6064ed260b8e1e5b7991e566c1931074db074226e423dfa2a",
+  "sha256": "c6729ebc4aeb7ecf15ef168c0c43acb4f86ad7595308f642184eae651495a8a3",
+  "prompt_sha256": "09452dbc3211f12e068c76d3fcd7983dcc9fcb2d0ac42e0fbf050d42827fb006",
+  "story_sha256": "4f1790cf58285cc0b196aef5c741c7b937f9474a74c0cf8d9eb6e3e922f927f9",
+  "created_at": "2026-10-26T10:58:48.385398+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "output": "../beijing-life-inner-ring-flavours-02-huguosi-snacks.png",
+  "refined_prompt": "../prompts/beijing-life-inner-ring-flavours-02-huguosi-snacks.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:03.179364+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-inner-ring-flavours",
+  "group_number": 16,
+  "series_number": 2,
+  "anthology_index": 77,
+  "title": "护国寺的早餐感",
+  "sha256": "a61ea5699c683cf6a175d14b2fa19da7fe50fb11aec4b0b6da21327270510367",
+  "native_sha256": "1b1a8b21873e1f25cc31fdeea6696b709473135014d63c59e5f54679bf600597",
+  "prompt_sha256": "f05b1a180d4f346602807656e5d6af2ea1b688025e3889ad23662f866eb179c3",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2345602,
+  "art_direction": {
+    "style_name": "套色孔版印刷",
+    "style_prompt_english": "Original tactile risograph food-and-street illustration, deliberately offset layers of vivid coral, dark teal and turmeric spot inks, visible soy-ink grain, bold rounded shapes, close-up food foreground fused with an accurately recognizable street scene. Lively dense composition, no text or brand marks.",
+    "palette": [
+      "#F45C40",
+      "#153E49",
+      "#EDB83B",
+      "#F5E7C6"
+    ],
+    "layout_variant": 0,
+    "activity": "老城街巷／轻食／晚饭",
+    "area": "北京二环内"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "huguosi-snacks",
+    "title": "护国寺的早餐感",
+    "subtitle": "几样小吃就能坐很久",
+    "area_label": "二环内·西城",
+    "duration": "约2–3小时",
+    "transport": "地铁平安里站；街区步行",
+    "stops": [
+      {
+        "name": "护国寺街",
+        "detail": "小吃街与老城街面",
+        "lat": 39.933726,
+        "lon": 116.3701421,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/search?key=护国寺",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/30748909"
+      },
+      {
+        "name": "新街口南大街",
+        "detail": "生活街道散步",
+        "lat": 39.9353041,
+        "lon": 116.3666652,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/search?key=新街口",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/156465483"
+      }
+    ],
+    "practical_note": "餐饮自选营业门店；尊重居民日常，不进入私人院落。",
+    "copy_title": "护国寺的早餐感｜北京周末灵感",
+    "copy_body": "几样小吃就能坐很久。护国寺街 → 新街口南大街，安排约2–3小时。从小吃街与老城街面到生活街道散步，留点时间给自己。餐饮自选营业门店；尊重居民日常，不进入私人院落。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环内"
+    ],
+    "hero_prompt_english": "Huguosi street breakfast scene in old Beijing: shallow ceramic bowls of milky bean soup, a crisp golden fried dough ring and sesame pastries on a small table, gray brick hutong shop facades, mature roadside trees, adult diners relaxed over breakfast. No readable signs, no invented landmarks. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "92f35e1e052cb50add28dd10fdf425e716959f987333091b1518c62325fa472f",
+      "bounds_wgs84": [
+        116.36004931785767,
+        39.92810883163806,
+        116.37675798214234,
+        39.94092067788025
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "护国寺街",
+          "lon": 116.3701421,
+          "lat": 39.933726,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "新街口南大街",
+          "lon": 116.3666652,
+          "lat": 39.9353041,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:15.140862+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "护国寺街",
+          "source_url": "https://www.openstreetmap.org/way/30748909",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "新街口南大街",
+          "source_url": "https://www.openstreetmap.org/way/156465483",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "护国寺街 → 新街口南大街",
+        "box": [
+          52,
+          43,
+          350,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环内·西城",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "护国寺的早餐感",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环内·边走边吃  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "几样小吃就能坐很久",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  护国寺街",
+        "box": [
+          53,
+          1117,
+          205,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "小吃街与老城街面",
+        "box": [
+          56,
+          1153,
+          216,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  新街口南大街",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "生活街道散步",
+        "box": [
+          56,
+          1230,
+          176,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "餐饮自选营业门店；尊重居民日常，不进入私人院落。",
+        "box": [
+          53,
+          1281,
+          485,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁平安里站；街区步行",
+        "box": [
+          53,
+          1362,
+          273,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "16 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "077",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "checked": [
+      "Recognizable peaceful location illustration",
+      "Distinct group medium and visual treatment",
+      "Readable Chinese headings and activity details",
+      "True OSM inset with stop-order arrows",
+      "No clipping or unfilled background"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

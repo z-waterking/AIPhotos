@@ -1,0 +1,216 @@
+{
+  "output": "../daily-vignette-family-07-brothers-balcony-sheet-fold.png",
+  "refined_prompt": "../prompts/daily-vignette-family-07-brothers-balcony-sheet-fold.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-07-brothers-balcony-sheet-fold-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 7,
+  "anthology_index": 17,
+  "panel_count": 6,
+  "display_title": "被单里的笑脸",
+  "visible_description": "两兄弟第一次合力收大被单，藏在布后的妈妈给他们找到了对齐的办法。",
+  "synopsis": "周末收衣服，妈妈把最大的被单交给已经长高的两个儿子。他们各拉一头，一个往左一个往右，怎么折都歪。妈妈没有接手，只隔着被单把两人的手慢慢引到同一高度。兄弟终于把四个角对齐，折成整整齐齐的一块。放进柜子前，小弟把最后一角掀起来，探出脸向妈妈宣布：刚才那座白山，已经搬好了。",
+  "story_text": "周末收衣服，妈妈把最大的白被单交给两个儿子。哥哥已经比她高，小弟也急着伸手，说这点事可以自己来。\n\n他们各抓一头，却各有各的方向。哥哥一抬高，小弟就往后拉；小弟想折过去，哥哥又把布绷紧。被单在中间鼓成歪歪的白山，两个人都看不见该对哪一角。\n\n妈妈走到布后，只轻轻托住他们的手，让两边落到同一高度。蓝色边线终于对上，兄弟互相点点头，慢慢合拢，再对折，白山一点点变小。\n\n哥哥抱着整齐的一块走到柜前，小弟忽然掀起最后一个松角，从里面探出脸。妈妈正准备腾地方，先笑了。小弟把角放平，又用手掌认真压了一遍，才肯一起送上架子。",
+  "art_direction": "Airy gouache with broad white fabric shapes and sparse colored-pencil movement",
+  "character_design": "The mother is a Chinese woman in her early forties with black hair in a loose bun and a patient expressive face. She wears a pale coral long-sleeved shirt and olive trousers. Her elder son is sixteen, tall and slim with short straight hair, wearing a faded blue sweatshirt and beige trousers. His younger brother is eleven with a round face and a slightly uneven fringe, wearing a mustard sweater and dark green trousers. The large bed sheet is plain warm white with a narrow pale blue hem.",
+  "panels": [
+    {
+      "caption": "最大的被单，今天交给两个长高的人。",
+      "scene": "On a bright covered balcony, the mother hands the two upper corners of a large warm-white bed sheet to her sons. The taller brother stands on the left and the younger one on the right, each gripping a pale blue hemmed corner. The sheet billows gently between them without obscuring their faces. Mother holds the center edge for a final moment before letting them take over. A laundry basket and a few neatly hung shirts provide context, while the sheet's broad shape emphasizes the scale of their shared task."
+    },
+    {
+      "caption": "他们各抓一个角，都觉得自己拿得很正。",
+      "scene": "The two brothers stand facing one another across the fully opened warm-white sheet, each gripping a blue-hemmed upper corner firmly. The older boy holds his side at chest height while the younger boy stretches his arms higher to match. Mother steps aside with the empty laundry basket, letting them try. The sheet is still mostly flat in this moment, and their earnest matching expressions show how confidently they begin the shared fold."
+    },
+    {
+      "caption": "一边抬高，一边拉远，白山越折越歪。",
+      "scene": "The brothers attempt their first fold, but the taller boy holds one corner too high while the younger boy pulls his side sideways. The sheet forms an uneven diagonal tent between them, with one lower corner sagging almost to the floor. Both look earnestly at the mismatched edges, puzzled rather than annoyed. Their mother watches from beside the laundry basket with a restrained smile and open hands. Keep their feet stable and the fabric light, using the exaggerated but harmless crooked shape to carry the visual comedy."
+    },
+    {
+      "caption": "妈妈隔着被单，帮他们把手放平。",
+      "scene": "Mother stands behind the broad sheet and gently guides each boy's wrist through the fabric toward the same horizontal height. Her face appears above the center edge while the boys look across at one another, their hands now level and the pale blue hems beginning to align. The sheet is folded into a cleaner rectangle between them, still large enough to feel like a joint achievement. Focus on the coordinated hands and straightening edge rather than multiple actions, with the balcony railing and soft laundry kept unobtrusive behind them."
+    },
+    {
+      "caption": "蓝边一对齐，四个角就找到了彼此。",
+      "scene": "The brothers bring the corrected sheet edges together, carefully aligning the pale blue hems into one clean straight line. Their hands meet near the middle while mother watches from behind with her hands now lowered, no longer guiding them. The large sheet has become a manageable rectangle, lifted well above the floor. Focus on the successfully matched corners and their newly coordinated posture, leaving the final folded bundle and playful face reveal for the following scene."
+    },
+    {
+      "caption": "白山搬好了，还从角落里探出一张笑脸。",
+      "scene": "Inside the linen cupboard area, the elder brother supports a neatly folded rectangle of the white sheet with both hands. The younger boy playfully lifts one loose corner just enough to frame his grinning face, peeking out as if from a tiny cloth tent. Mother reaches toward the open cupboard shelf, smiling at the completed fold. The pale blue hem runs in tidy parallel lines along the bundle. Show their task genuinely finished despite the small joke, with a stack of ordinary towels waiting beside the space prepared for the sheet."
+    }
+  ],
+  "palette": [
+    "#F2E9D7",
+    "#8CA7B5",
+    "#C79A65",
+    "#849C7C",
+    "#A67C73"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "最大的被单，今天交给两个长高的",
+          "人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "他们各抓一个角，都觉得自己拿得",
+          "很正。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "一边抬高，一边拉远，白山越折越",
+          "歪。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "妈妈隔着被单，帮他们把手放平。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "蓝边一对齐，四个角就找到了彼此。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "白山搬好了，还从角落里探出一张",
+          "笑脸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "2d10e0fe7b65e576958e30642e33c652fc6f6170499a908e0098be21ce4e0f0d",
+  "sha256": "989b4b1bf07bd480c35623707504d918f63f3c24cdcd62d84015dfc273f50625",
+  "prompt_sha256": "8cc51baac5cb40f87cd5ae2da4c8de2b0cec478ac461f39fee3d6776f9a871ab",
+  "story_sha256": "debc18db3ac489a0ac967ff594ffb731b102e46fd9d222c9258067afe304c9cc",
+  "created_at": "2026-10-26T09:51:30.024571+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

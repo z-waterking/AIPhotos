@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-strangers-04-button-belongs-to-bear.png",
+  "refined_prompt": "../prompts/daily-vignette-strangers-04-button-belongs-to-bear.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-strangers-04-button-belongs-to-bear-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-strangers",
+  "group": "strangers",
+  "series_number": 4,
+  "anthology_index": 34,
+  "panel_count": 4,
+  "display_title": "纽扣找主人",
+  "visible_description": "几位陌生人围着一枚纽扣查袖口，最后找到了最小的外套。",
+  "synopsis": "咖啡桌边躺着一枚蓝纽扣，捡到它的姑娘先检查自己的袖口。旁边的人也低头找，外套、围巾，谁都不缺这一枚。一个抱玩具熊的孩子走近，把熊的小衣服摊给大家看：胸前恰好空了一处。姑娘把纽扣交到孩子手里，孩子让小熊鞠了一躬，所有人都接受了这份谢意。",
+  "story_text": "咖啡桌脚边有一枚蓝纽扣，圆圆的，亮亮的。姑娘捡起来，先摸了摸自己的袖口。旁边的老人见了，也低头检查外套，连围巾下面都翻了翻。\n\n两人的衣服什么也没少。纽扣躺在姑娘掌心里，像一个还没找到座位的小圆点。\n\n抱着玩具熊的孩子走过来，看了看纽扣，忽然把熊的小衣服摊开。胸前一处还留着短线，旁边那一枚纽扣，恰好也是同样的蓝色。\n\n姑娘把纽扣交到孩子手里。孩子攥好它，又扶住小熊的腰，让熊朝两位大人深深鞠了一躬。姑娘认真回了一个点头，老人也放下杯子，坐直了一些。",
+  "art_direction": "Gentle pencil drawing under translucent gouache on softly speckled paper",
+  "character_design": "A young adult woman with cropped black hair and a wide friendly face wears a sage cardigan, cream trousers and brown shoes. An adult cafe patron with wavy gray hair wears a tan coat, blue scarf and dark trousers. A child about eight has dark curls, a mustard jacket, teal trousers and red sneakers. The child carries a small cinnamon-brown teddy bear wearing a cream jacket with two round blue buttons; one button is initially detached.",
+  "panels": [
+    {
+      "caption": "桌脚旁，多了一枚蓝纽扣。",
+      "scene": "The young woman bends beside a small outdoor cafe table and lifts a round blue button between finger and thumb. Her other hand turns back the cuff of her sage cardigan for inspection. On the neighboring chair, the older patron notices her discovery while holding a plain white cup. Keep the button large enough to see but realistically small; the cafe furniture and paving create a quiet everyday setting without menus or printed surfaces. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "大人的衣服都没有缺口。",
+      "scene": "The woman stands beside the seated patron, holding the blue button on her open palm. Both inspect their clothing with mildly puzzled expressions: she checks the front of her cardigan, while he lifts the edge of his tan coat and touches his blue scarf. None of their existing buttons are blue. At the edge of the frame the curly-haired child approaches, hugging the small teddy bear so only its cinnamon head is visible. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "最小的外套，少了一个圆点。",
+      "scene": "The child holds the teddy bear forward at chest height, spreading its little cream jacket with both hands. One blue button remains attached and one empty button location is clearly visible beside a short loose thread. The young woman compares the recovered button to the matching one on the bear, recognition softening her face. The older patron leans toward the tiny garment, his own much larger coat still partly open from the search. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "小熊替主人，认真鞠了个躬。",
+      "scene": "The child holds the recovered blue button safely in one closed hand and tips the teddy bear forward with the other, making it perform a formal little bow toward both adults. The woman and older patron respond with equally gentle nods and amused smiles. The bear still has its original single attached blue button and the visible empty place; do not imply instant sewing. A plain cup and warm cafe wall complete this modest ceremony. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E6D7C0",
+    "#497D9B",
+    "#B7886F",
+    "#8A9B84",
+    "#D5B66F"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "桌脚旁，多了一枚蓝纽扣。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "大人的衣服都没有缺口。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "最小的外套，少了一个圆点。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "小熊替主人，认真鞠了个躬。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "d2119c2a9c8447bacc41265ad8c883568f54ee5d7871f759901ce47764f9772a",
+  "sha256": "ceb04a15edebf47c8dcffaceb4d4a0fccc2447fa31450a6aa2c422bd26f85b17",
+  "prompt_sha256": "6a2165bc008dd813f6eaaa2600a1c092825ef9462755b757381da14379a7ed1d",
+  "story_sha256": "2a040aed96e6de81bf01955c499bf9dbf8a2ac36e571fa98488c6a302a906a4b",
+  "created_at": "2026-10-26T10:03:03.699192+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

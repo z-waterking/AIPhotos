@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-strangers-06-a-borrowed-breeze.png",
+  "refined_prompt": "../prompts/daily-vignette-strangers-06-a-borrowed-breeze.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-strangers-06-a-borrowed-breeze-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-strangers",
+  "group": "strangers",
+  "series_number": 6,
+  "anthology_index": 36,
+  "panel_count": 4,
+  "display_title": "借一阵风",
+  "visible_description": "没有风的纸风车，遇到了一把愿意拐弯的扇子。",
+  "synopsis": "午后的公园一点风也没有，孩子举着纸风车跑了几步，它仍旧懒洋洋地停着。长椅上的老人扇着扇子，看见孩子凑近，就把扇面转了过去。风车忽然转得欢快，孩子举得更高，老人也越扇越认真。过了一会儿，孩子把风车停在老人面前，自己接过扇子，换他享受这阵风。",
+  "story_text": "公园里一点风也没有。孩子举着纸风车跑了几步，停下来检查，蓝黄相间的叶片又懒懒地垂着。他想再跑，鞋尖却先转向了长椅。\n\n老人正在椅子上摇扇子。孩子凑过去，把风车举到扇前。老人看懂了，手腕换了方向，一阵小风正好落在纸叶片上。\n\n风车转了起来。孩子慢慢抬高手臂，老人也坐直一点，把风送得更远。两个人都认真得像在试一台很重要的机器。\n\n过了一会儿，孩子看见老人额角有一点汗。他把风车插稳在身旁的椅缝里，接过扇子，朝老人轻轻摇起来。这一次纸风车停着，老人却舒服地闭上了眼。",
+  "art_direction": "Soft flat gouache with crisp pencil-fold details on textured warm paper",
+  "character_design": "A child about seven with short tousled dark hair wears a coral striped shirt, plain cream shorts and blue canvas shoes. The child holds a four-blade paper pinwheel in alternating muted blue and golden yellow on a slim brown stick. An older adult with short white hair and round spectacles wears a sage linen shirt, brown trousers and soft black shoes. The older adult carries a plain cream folding fan with visible wooden ribs.",
+  "panels": [
+    {
+      "caption": "纸风车等了一下午的风。",
+      "scene": "On a quiet park path, the child stands with the paper pinwheel held high and looks at its completely still blue-and-yellow blades. The short shoelaces and nearby leaves also hang motionless, reinforcing the warm windless afternoon. In the background the older adult sits on a wooden bench and uses the open cream folding fan toward their own face. Leave ample soft green negative space around the small stationary pinwheel. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "长椅上，恰好存着一点风。",
+      "scene": "The child stands beside the bench with the pinwheel held at the seated adult shoulder level. The older adult turns the open cream fan away from their own face and toward the paper blades, wrist poised in a small gentle stroke. The child watches expectantly with both hands around the stick. One blue blade begins to angle differently from its earlier position, suggesting the first movement without using motion symbols or lettering. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "两个人把一阵风忙得团团转。",
+      "scene": "The paper pinwheel now spins in a soft circular blur above the delighted child, while the older adult leans forward slightly and fans toward it with exaggerated but gentle seriousness. The cream folding fan remains clearly identifiable by its wooden ribs. Both figures are comfortably planted beside the bench, with no running or strain. A single fallen leaf lifts near the fan, echoing the otherwise invisible current passing through their shared game. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "后来，吹风的人也轮到了风。",
+      "scene": "The older adult sits back against the bench with closed eyes and a relaxed smile. The child now holds the cream fan with both hands and fans gently toward the adult face. The still blue-and-yellow pinwheel rests upright between the bench slats beside them, safely within reach. The exchanged roles should be immediately legible, with the same quiet park path and motionless greenery surrounding a small pocket of patient afternoon companionship. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E4DCC2",
+    "#C58E53",
+    "#729681",
+    "#6D85AA",
+    "#C8736B"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "纸风车等了一下午的风。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "长椅上，恰好存着一点风。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "两个人把一阵风忙得团团转。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "后来，吹风的人也轮到了风。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "87a6b4fd2e6a625d95af91ef536e55eac23dae78c53744d20ae3bae2562e85bf",
+  "sha256": "54f890e3d3caa663efb18400d1660ed8e227cb28c15cdbf3ca16a8ab2ebc4131",
+  "prompt_sha256": "6e0c62620994b479a2bdd20b5d889361411c7b643963bc67ef1ad7ceafffd020",
+  "story_sha256": "62f447b3b30384fb74f584912a894be3456d8b5bf3de202b89b0949ecce7a6de",
+  "created_at": "2026-10-26T10:04:26.149164+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

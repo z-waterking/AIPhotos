@@ -1,0 +1,167 @@
+{
+  "output": "../daily-vignette-growing-02-embroidery-first-daisy.png",
+  "refined_prompt": "../prompts/daily-vignette-growing-02-embroidery-first-daisy.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-growing-02-embroidery-first-daisy-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-growing",
+  "group": "growing",
+  "series_number": 2,
+  "anthology_index": 82,
+  "panel_count": 4,
+  "display_title": "第一朵小雏菊",
+  "visible_description": "第一朵绣花挤成了小太阳，她便在旁边绣了一片有点害羞的叶子。",
+  "synopsis": "阿岑第一次绣雏菊，想让每片花瓣一样长，结果一朵花挤得圆圆的，像个小太阳。她没有拆掉，而是用绿线在旁边加一片叶子，花便有了自己的样子。几天后，她把绣好的布垫在茶杯下面，杯子挪开时，那朵总也不标准的小花正好从边上探出半个脸。",
+  "story_text": "阿岑第一次绣雏菊，把白布绷在小圈里，先摆好黄线和绿线。她想让花瓣一样长，一样宽，最好像刚从花园里摘来那么整齐。\n\n绣完一圈再看，花瓣却挤得圆圆的，中央也比想象的大。与其说是雏菊，倒更像一个小太阳。她捧着绣圈，认真看了很久，还是没有拆。\n\n阿岑换上绿线，在旁边添了一片小叶子。叶子略微歪着，反倒让整朵花有了朝向。她把布从圈里取下，抚平边角，觉得这个样子已经能够留下。\n\n几天后，小方布垫在了茶杯下面。她端起茶，圆圆的花从杯边露出半张脸，那片歪叶子也跟着出现。阿岑笑着把杯子往旁边移一点，让这个不太像雏菊的小太阳多晒一会儿。",
+  "art_direction": "Rhythmic gouache figures with colored pencil floor lines",
+  "character_design": "Cen is an adult woman with a short black ponytail, a rust long sleeve top, cream trousers, and soft slippers. She works with an ivory fabric square in a small rounded embroidery hoop, mustard and sage thread, and a plain blue ceramic tea cup. The first flower has uneven crowded golden petals and one small green leaf; no sharp tools are shown. Preserve these exact faces, proportions, clothing colors, and recurring props throughout all panels. Keep every figure fully clothed, gently expressive, and grounded in an ordinary peaceful setting. Objects and backgrounds have no legible writing, logos, or commercial designs.",
+  "panels": [
+    {
+      "caption": "她想绣一朵，花瓣一样长的雏菊。",
+      "scene": "Cen sits at a wooden table with an ivory fabric square stretched in a small rounded hoop. A few golden petal stitches have begun around an empty center, and neat mustard and sage thread bundles lie beside it. She studies the unfinished shape with careful beginner concentration. Her hands rest on the hoop rim, with no sharp tools visible. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "花瓣挤在一起，倒像一个小太阳。",
+      "scene": "Cen holds up the hoop to inspect the completed golden flower, whose uneven crowded petals form a friendly round sunlike shape. Her eyebrows rise at the difference from her plan. The sage thread remains unused on the table. Her fingers grip only the smooth wooden hoop, keeping the gentle craft scene free of visible needles or cutting tools. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "添一片小叶子，它就有了自己的方向。",
+      "scene": "The fabric now shows one small sage leaf beside the crowded golden flower. Cen lays the hoop flat and lightly touches the new leaf with a fingertip, appreciating its slightly tilted angle. The mustard and green thread bundles rest nearby. Her expression has softened into satisfaction as the uneven flower becomes a distinct little design. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "茶杯一挪开，小太阳就探出半张脸。",
+      "scene": "Cen lifts a plain blue tea cup from the finished ivory fabric coaster, revealing the round golden flower and its crooked green leaf at one corner. She smiles down at the partly uncovered embroidery. The small hoop sits empty on a shelf behind her, while warm window light falls across the handmade cloth and wooden table. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DDD6BF",
+    "#779CA0",
+    "#BF9B6B",
+    "#A9838A",
+    "#8A9D76"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "她想绣一朵，花瓣一样长的雏菊。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "花瓣挤在一起，倒像一个小太阳。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "添一片小叶子，它就有了自己的方",
+          "向。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "茶杯一挪开，小太阳就探出半张脸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "c04aaa2677c0bec72a0ba0b1eaafe7f6e5e77aa566dfa1b0559b608f08969da4",
+  "sha256": "9a293c641144f4a8d9893667149ef95e67729fdcba4d5ba050a2e59723588adf",
+  "prompt_sha256": "5a02284a4d09fc648cadf553feb4860b2eb4f7cc2cd31bb8a83554d53c13a122",
+  "story_sha256": "bdccbc773243664d5ae5ad1b02fc5a33ad2db7d032f51b2adc7c3367c9da4d6a",
+  "created_at": "2026-10-26T10:34:24.056992+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

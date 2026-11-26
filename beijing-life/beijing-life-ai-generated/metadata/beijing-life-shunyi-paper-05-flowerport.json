@@ -1,0 +1,330 @@
+{
+  "output": "../beijing-life-shunyi-paper-05-flowerport.png",
+  "refined_prompt": "../prompts/beijing-life-shunyi-paper-05-flowerport.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:53:16.981556+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-shunyi-paper",
+  "group_number": 8,
+  "series_number": 5,
+  "anthology_index": 40,
+  "title": "花港的彩色散步",
+  "sha256": "7418df11f6143c4b59ee2b0f441e163f9211bec7d01be4b3c09770b94eccb531",
+  "native_sha256": "eb1c5f7e7cc627f606365767320b60b19b4b53a767238daba2e915f9fb15f4f1",
+  "prompt_sha256": "52d414fe19c00e9fc8b7fbbbc02e07df2e119e10c2273b97fdb2179d649b4075",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1970505,
+  "art_direction": {
+    "style_name": "手工纸雕浮雕",
+    "style_prompt_english": "Layered cut-paper relief built from thick tactile colored cardstock, shallow physical shadows, sculptural architecture with clear stepped paper contours; bright daylight and a real three-dimensional paper diorama, not a flat photo filter.",
+    "palette": [
+      "#00A8A8",
+      "#F6C84A",
+      "#F07346",
+      "#F8EED6"
+    ],
+    "layout_variant": 2,
+    "activity": "艺术与自然",
+    "area": "顺义区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "flowerport",
+    "title": "花港的彩色散步",
+    "subtitle": "沿园路收集秋天的色块",
+    "area_label": "北京·顺义区",
+    "duration": "约3–4小时",
+    "transport": "顺义城区公交或出租车接驳杨镇；交通另计",
+    "stops": [
+      {
+        "name": "北京国际鲜花港",
+        "detail": "按当季花展开放范围游园",
+        "lat": 40.1808346,
+        "lon": 116.7904496,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117714",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/684188327"
+      },
+      {
+        "name": "鲜花港幻花湖",
+        "detail": "湖岸休息，看花境与水面",
+        "lat": 40.1808346,
+        "lon": 116.7904496,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117714",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/684188327"
+      }
+    ],
+    "practical_note": "花期、展区和票务随季节变化；不承诺满园花海。",
+    "copy_title": "顺义区｜花港的彩色散步",
+    "copy_body": "沿园路收集秋天的色块。这次只安排一个片区：北京国际鲜花港 → 鲜花港幻花湖。建议留约3–4小时，把拍照、休息和短时参观一起算进去。花期、展区和票务随季节变化；不承诺满园花海。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "顺义区",
+      "北京小众玩法",
+      "艺术与自然"
+    ],
+    "hero_prompt_english": "Beijing International Flower Port in Shunyi: a broad landscaped lake edged with curving beds of autumn chrysanthemums, warm grasses and airy park trees. A visitor stops at the flower border with a small notebook. A few saturated flower patches amid real green planting, not impossible endless fields or spring tulips. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "4b70f7db8c0814b5080d69ca29027a015c4780c3f636ff6f2ffaf68a09126740",
+      "bounds_wgs84": [
+        116.78209526785766,
+        40.17445149066637,
+        116.79880393214232,
+        40.18721710885607
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京国际鲜花港",
+          "lon": 116.7904496,
+          "lat": 40.1808346,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "鲜花港幻花湖",
+          "lon": 116.7904496,
+          "lat": 40.1808346,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:17:50.030982+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京国际鲜花港",
+          "source_url": "https://www.openstreetmap.org/way/684188327",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "鲜花港幻花湖",
+          "source_url": "https://www.openstreetmap.org/way/684188327",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京国际鲜花港 → 鲜花港幻花湖",
+        "box": [
+          52,
+          43,
+          428,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·顺义区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "花港的彩色散步",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "顺义｜把周末折成风景  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          449,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "沿园路收集秋天的色块",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京国际鲜花港",
+        "box": [
+          53,
+          1117,
+          286,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "按当季花展开放范围游园",
+        "box": [
+          56,
+          1153,
+          276,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  鲜花港幻花湖",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "湖岸休息，看花境与水面",
+        "box": [
+          56,
+          1230,
+          276,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "花期、展区和票务随季节变化；不承诺满园花海。",
+        "box": [
+          53,
+          1281,
+          449,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "顺义城区公交或出租车接驳杨镇；交通另计",
+        "box": [
+          53,
+          1362,
+          433,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "08 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "040",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "The generated image makes three monumental interlocking leaf-shaped glazed halls the central landmark. The approved plan was a lake and flower-border outing; this dominant architecture is not established by the verified tourism sources and could falsely identify the venue. Native lake, flowers and paper treatment otherwise work. Prefer the defensible landscape without unverified building silhouette.",
+    "superseded_native_sha256": "36eccc367babd792635923d2bb8d6263b7374928a1bcf9305b3d03b4d7ffa483",
+    "repaired_at": "2026-10-29T04:51:29.204324+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

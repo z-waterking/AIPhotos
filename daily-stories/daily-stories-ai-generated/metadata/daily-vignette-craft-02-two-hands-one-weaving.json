@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-craft-02-two-hands-one-weaving.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-02-two-hands-one-weaving.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-02-two-hands-one-weaving-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 2,
+  "anthology_index": 42,
+  "panel_count": 4,
+  "display_title": "梭子过桥",
+  "visible_description": "一块双人织布的节奏，从抢着动手变成了轮流接住。",
+  "synopsis": "两位朋友想合织一条桌旗，一个急着穿梭，另一个也伸手去接，手指总碰在一起。她们把织机移到桌子中间，各坐一边，先由一人把梭子送过去，另一人接稳再压紧。动作终于接上，红蓝线一段段交替。桌旗铺好那天，她们同时伸手摆花瓶，这一次又笑着停住，让一人先放下。",
+  "story_text": "两位朋友想合织一条桌旗，椅子挨着椅子坐好，梭子放在中间。第一行还没织完，两只手已经碰在一起三回。谁都想接住，谁也没接稳。\n\n她们把织机转到桌子正中，各坐一边。红衫的朋友先送梭子，蓝衫的朋友接稳，压紧这一行，再把梭子送回来。\n\n慢慢地，红蓝相间的布长了起来。说话可以慢一点，动作也可以停一下，梭子总会在另一双手里等着。\n\n桌旗完成后，两人一起把它铺上小餐桌。花瓶摆在哪里，她们都想试试，于是又同时伸了手。这一次，红衫朋友先笑着收回手，等花瓶放稳了，再把桌旗的流苏理齐。",
+  "art_direction": "Woven-texture colored pencil with opaque gouache shapes on old cream paper",
+  "character_design": "Two adult friends share a compact wooden tabletop loom. One has a black braid, copper-colored glasses, a dusty red blouse, cream apron and dark trousers. The other has short sandy curls, a muted blue blouse, olive apron and tan trousers. Their yarn colors are brick red and faded blue, with a cream warp. A smooth wooden shuttle and a plain wooden beating comb remain consistent. The final table runner has broad alternating red and blue sections.",
+  "panels": [
+    {
+      "caption": "两双手，一起堵在织机中央。",
+      "scene": "The friends sit shoulder to shoulder at a small tabletop loom and both reach for the same wooden shuttle, their fingertips meeting above the cream warp. A short unfinished woven section contains uneven red and blue bands. Neither person pulls forcefully; both pause with sheepish smiles at the crowded arrangement. Coils of the two yarn colors sit separately on the table, and the wooden beating comb rests within easy reach beside the frame. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "把织机转过来，就有了两岸。",
+      "scene": "The loom now stands lengthwise between the friends, who sit on opposite sides of the table. The braided friend sends the smooth shuttle through the open warp toward the curly-haired friend, whose palm waits just beyond the threads. Their hands no longer overlap. The red and blue yarn coils remain at opposite table corners, and the narrow woven section is centered in the frame. Show this single careful handoff as the moment cooperation becomes practical. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "送过去，接稳，再轻轻压紧。",
+      "scene": "The curly-haired friend holds the shuttle securely beyond the warp with one hand and uses the wooden comb to press a new blue row toward the growing cloth with the other. Across the table, the braided friend keeps a hand resting on the loom frame and waits attentively. The runner now displays several broad red and blue sections with a neat cream edge. Their expressions are calm and absorbed in the shared rhythm. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "摆花瓶时，她们又让了一次。",
+      "scene": "The finished red-and-blue runner lies across a small dining table, its cream fringe hanging from both short ends. Both friends have reached toward a simple ceramic vase of white daisies at the center, then paused and smiled. The braided friend withdraws one hand while the curly-haired friend settles the vase squarely on the woven cloth. Their original aprons remain on, linking the dining-table moment to the workbench without adding any written explanation. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E3D5BD",
+    "#B56E66",
+    "#698B9A",
+    "#A6A471",
+    "#7D7163"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "两双手，一起堵在织机中央。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "把织机转过来，就有了两岸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "送过去，接稳，再轻轻压紧。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "摆花瓶时，她们又让了一次。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "3aa21d9ce0212081c9584d6dd9e5663291b12e52b41f455f8fa1e646dd4a1a51",
+  "sha256": "78f36f76d2a1c0acf307b0661f56ebdcca2a39fa9ed3eb51fb16f872b638c761",
+  "prompt_sha256": "4ff451d6dc089777fe2b0f8f607229c6bfa5ce3fef6651ab443e2ad3c4558085",
+  "story_sha256": "092cbdf0e976396e01e4210d6f93ec5a1e8b6076dcd21c5fbfe28bb2d362f6cc",
+  "created_at": "2026-10-26T10:08:54.013899+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "output": "../daily-vignette-keepsake-06-lidless-teapot-little-garden.png",
+  "refined_prompt": "../prompts/daily-vignette-keepsake-06-lidless-teapot-little-garden.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-keepsake-06-lidless-teapot-little-garden-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-keepsake",
+  "group": "keepsake",
+  "series_number": 6,
+  "anthology_index": 6,
+  "panel_count": 4,
+  "display_title": "茶壶换了客人",
+  "visible_description": "少了盖子的旧茶壶，用细细的水流招待起窗台上的小苗。",
+  "synopsis": "老陶壶的盖子早就找不到了，周伯仍把它留在柜里。给新发芽的小苗浇水时，他发现大水壶总把泥土冲出浅坑，于是试着拿旧茶壶慢慢倾倒。细水正好绕过嫩叶。邻居来串门，看见茶壶对着一排小杯子，以为他要泡茶；走近才发现，每只杯子里都坐着一棵绿绿的小客人。",
+  "story_text": "柜子里那只陶茶壶没了盖，周伯仍没舍得收走。每回擦柜子，他都给它挪个位置，细细的壶嘴始终朝着外面。\n\n春天的小苗发了两片叶子。周伯拿大水壶浇水，一倾斜，杯里的泥土就被冲出浅坑。他赶紧停手，望着柜子想了一会儿，把旧茶壶拿了下来。\n\n细水从壶嘴流出来，贴着杯边落下，嫩叶一点也没被碰到。周伯沿窗台慢慢浇过去，红杯、绿杯、小白杯，像排队等着斟茶。\n\n邻居带点心来串门，见他守着茶壶和一排杯子，笑说自己来得正好。走近一看，每只杯里都有一棵小苗。周伯把点心接过来，另外拿出两只真正喝茶的杯子。",
+  "art_direction": "Translucent gouache washes and delicate pencil over warm cream paper",
+  "character_design": "Uncle Zhou is a Chinese man around sixty with a narrow face, neatly combed gray hair, round dark spectacles, and a patient half smile. He wears a pale blue cotton shirt, a beige knitted vest, dark brown trousers, and simple slippers. His visiting neighbor is a Chinese woman around the same age with a short silver bob and a muted plum cardigan over a cream blouse. The old teapot is round reddish-brown clay, with a slim curved spout and an open lidless mouth.",
+  "panels": [
+    {
+      "caption": "没了盖子的茶壶，还留在柜子最里面。",
+      "scene": "Uncle Zhou opens a low kitchen cabinet and takes out the round reddish-brown clay teapot, holding it so its empty lid opening and slender curved spout are easy to see. A few ordinary ceramic cups remain inside the cabinet. On the sunny windowsill beyond him, tiny seedlings stand in shallow reused cups, and a bulky metal watering can rests beside them. Show his thoughtful gaze moving from the teapot toward the plants. The composition should feel quietly practical, with muted wood tones and fresh green accents."
+    },
+    {
+      "caption": "大水壶刚倾斜，苗边就冲出个小坑。",
+      "scene": "At the windowsill, Uncle Zhou pauses while holding the bulky watering can above a small cup of seedlings. A shallow hollow in the damp soil shows where the broad stream landed, but the little plant remains upright and healthy. His other hand brings the lidless clay teapot into view at table level. Place the big can, tiny seedling, and narrow teapot spout in a clear size comparison. A folded towel beneath the cups catches a few harmless drops, and the daylight stays gentle and reassuring."
+    },
+    {
+      "caption": "旧茶壶的细水，刚好绕开新叶子。",
+      "scene": "Close on Uncle Zhou's steady hands as he tips the clay teapot, sending a thin controlled stream onto soil near the edge of a small pale green cup. Two bright seedling leaves rise safely away from the water. Several other mismatched cups of young plants line the sill, their shapes recalling a casual tea service. The larger metal watering can has been set aside on the floor in soft focus. Render the delicate stream, earthy teapot texture, and open lid hole clearly, without decorative labels or writing."
+    },
+    {
+      "caption": "邻居凑近才发现，杯里的客人都是绿的。",
+      "scene": "The visiting neighbor bends slightly over the windowsill with an amused smile, one hand still holding a small covered bowl she brought from home. Uncle Zhou stands beside the orderly row of planted cups, the lidless teapot resting proudly at their center. Each cup contains a different tiny green seedling rather than a drink. Frame the arrangement like an inviting tea table, with two empty chairs nearby and soft afternoon light on the leaves. Their shared surprise is visible in their relaxed faces and the neighbor's curious forward lean."
+    }
+  ],
+  "palette": [
+    "#EDE3CD",
+    "#A56D4D",
+    "#7B9B69",
+    "#91B6B3",
+    "#645C52"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "没了盖子的茶壶，还留在柜子最里",
+          "面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "大水壶刚倾斜，苗边就冲出个小坑。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "旧茶壶的细水，刚好绕开新叶子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "邻居凑近才发现，杯里的客人都是",
+          "绿的。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "ffe1ef31894be1739e7dcb21fa3e5b92fa74b98fbb0f3bc89866cd45b456ad71",
+  "sha256": "81155c71926ac9404fd694b7abb8cb11bdd199b8bde8616185644c69f2047ab2",
+  "prompt_sha256": "549e9fef0c0adf738fd7a464f96c8a80e0b4c65653129cbe0c79eb190fa0e295",
+  "story_sha256": "cd3b22a3b6acc94c2fdd187036fd2429c4fd91a2fb1425b954f8d5e2dffe5062",
+  "created_at": "2026-10-26T09:45:25.773710+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

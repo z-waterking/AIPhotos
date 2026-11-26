@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-huairou-watercolor-01-yanqi-lake.png",
+  "refined_prompt": "../prompts/beijing-life-huairou-watercolor-01-yanqi-lake.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:57:04.501318+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-huairou-watercolor",
+  "group_number": 13,
+  "series_number": 1,
+  "anthology_index": 61,
+  "title": "雁栖湖边坐一坐",
+  "sha256": "534a229e1ba18f18b84eebe346456349b5e4bd70b0a88c1236d85c6ba7f483b0",
+  "native_sha256": "8a55dde4e3ea5783b601d57ba90257ebfab7c412065ea1a33baf6fd3a569230a",
+  "prompt_sha256": "5a2adc53f7b26f82a8383b5260ade4396ac6a8962ce69de635a3cb4450693718",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2042720,
+  "art_direction": {
+    "style_name": "湿画水彩旅行册",
+    "style_prompt_english": "Luminous wet-on-wet watercolor landscape with granular washes, softly bleeding edges and selective precise pen-free architectural details. Large pools of lake color and atmospheric mountains, human-scale foreground activity, generous layered scene coverage rather than blank paper.",
+    "palette": [
+      "#437D96",
+      "#BFCF8C",
+      "#DE9B73",
+      "#EEE4CB"
+    ],
+    "layout_variant": 2,
+    "activity": "湖畔与阅读",
+    "area": "怀柔区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "yanqi-lake",
+    "title": "雁栖湖边坐一坐",
+    "subtitle": "不赶环湖，把湖风看够",
+    "area_label": "北京·怀柔区",
+    "duration": "约3–4小时",
+    "transport": "怀密线雁栖湖站后步行或接驳；班次提前查",
+    "stops": [
+      {
+        "name": "雁栖湖旅游区",
+        "detail": "按开放岸线看湖面与山形",
+        "lat": 40.3967356,
+        "lon": 116.6759654,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101430",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/756194497"
+      },
+      {
+        "name": "雁栖湖游船码头",
+        "detail": "岸上看游船与湖景，不默认乘船",
+        "lat": 40.3967356,
+        "lon": 116.6759654,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101430",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/756194497"
+      }
+    ],
+    "practical_note": "不默认全湖岸可通行；本条不登西山步道，不包含游船和娱乐设施。",
+    "copy_title": "怀柔区｜雁栖湖边坐一坐",
+    "copy_body": "不赶环湖，把湖风看够。这次只安排一个片区：雁栖湖旅游区 → 雁栖湖游船码头。建议留约3–4小时，把拍照、休息和短时参观一起算进去。不默认全湖岸可通行；本条不登西山步道，不包含游船和娱乐设施。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "怀柔区",
+      "北京小众玩法",
+      "湖畔与阅读"
+    ],
+    "hero_prompt_english": "Yanqi Lake scenic area in Huairou: calm blue water beneath low autumn mountains, a traditional multi-eaved lakeside pagoda seen from the visitor promenade, distant contemporary lakeside buildings secondary. An adult sits on a bench holding a warm drink and looking across the lake. Keep to the tourist area public accessible shore; no invented route through private islands. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "084f5d8a4bfc1472414a9070cc0d149554749f8903747a25f934e1b600b46c5c",
+      "bounds_wgs84": [
+        116.66761106785766,
+        40.39037284694439,
+        116.68431973214233,
+        40.4030977518266
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "雁栖湖旅游区",
+          "lon": 116.6759654,
+          "lat": 40.3967356,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "雁栖湖游船码头",
+          "lon": 116.6759654,
+          "lat": 40.3967356,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:39.759673+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "雁栖湖旅游区",
+          "source_url": "https://www.openstreetmap.org/way/756194497",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "雁栖湖游船码头",
+          "source_url": "https://www.openstreetmap.org/way/756194497",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "雁栖湖旅游区 → 雁栖湖游船码头",
+        "box": [
+          52,
+          43,
+          428,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·怀柔区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "雁栖湖边坐一坐",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "怀柔｜让山水慢一点  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "不赶环湖，把湖风看够",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  雁栖湖旅游区",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "按开放岸线看湖面与山形",
+        "box": [
+          56,
+          1153,
+          276,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  雁栖湖游船码头",
+        "box": [
+          53,
+          1194,
+          286,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "岸上看游船与湖景，不默认乘船",
+        "box": [
+          56,
+          1230,
+          336,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "不默认全湖岸可通行；本条不登西山步道，不包含游船和娱乐设施。",
+        "box": [
+          53,
+          1281,
+          593,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "怀密线雁栖湖站后步行或接驳；班次提前查",
+        "box": [
+          53,
+          1362,
+          433,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "13 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "061",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "output": "../daily-vignette-growing-05-first-camera-small-world.png",
+  "refined_prompt": "../prompts/daily-vignette-growing-05-first-camera-small-world.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-growing-05-first-camera-small-world-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-growing",
+  "group": "growing",
+  "series_number": 5,
+  "anthology_index": 85,
+  "panel_count": 6,
+  "display_title": "镜头低一点",
+  "visible_description": "新相机没有拍到远山，却拍下了鞋边的一座小森林。",
+  "synopsis": "小悠背着新相机去公园，想拍远处的山，试了几次总觉得画面太空。她坐下调整背带时，发现鞋边的苔藓上立着几株小小的芽。她索性蹲下来，把镜头对准这片近得不能再近的绿。回家看照片时，朋友以为那是一处很远的森林，她笑着把那双沾了草屑的鞋摆到桌边。",
+  "story_text": "小悠带着新相机去了公园，准备给远山拍一张漂亮照片。\n\n她换了几处位置，山却总是小小的，天空倒占了很大一片，和她想象中不太一样。\n\n她在长椅上坐下，低头调整背带。鞋尖旁有一团苔藓，里面几株小芽直直站着，阳光照下来，每一片细叶都亮得十分认真。\n\n小悠索性蹲到地上，把相机放低。镜头里，矮小的芽突然有了树的样子，苔藓成了起伏的地面，那片近在鞋边的绿色变得又深又远。\n\n回家后，朋友问照片里的小森林在哪里。小悠没急着回答，只把那双还沾着一点草屑的鞋放到桌边。\n\n朋友低头看鞋，又抬头看照片，两个人同时笑起来。",
+  "art_direction": "Naturalist gouache with close colored pencil moss details",
+  "character_design": "Youyou is an adult woman with a short dark bob, a mustard windbreaker, cream trousers, and olive canvas shoes. She carries a compact black camera on a brown neck strap. Her adult friend wears a soft teal sweater. The central natural subject is a palm sized moss patch with a few tiny upright green shoots. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "她想把远山，装进新相机。",
+      "scene": "Youyou stands on a level park path and raises a compact black camera toward soft distant hills beyond an open lawn. The camera strap rests around her neck. Her posture is cautious and curious, still becoming familiar with the device. The hills look small beneath a wide pale sky, leaving the intended picture visually sparse. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "低头调背带，发现鞋边有片绿。",
+      "scene": "Seated on a low park bench, Youyou adjusts the brown camera strap and notices a tiny bright moss patch beside her olive shoe. Several upright shoots rise from the moss like miniature trees. She tilts her head toward them, suddenly attentive. The distant hills remain faint in the background, much less prominent than before. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "苔藓里站着几棵小小的树。",
+      "scene": "Youyou bends down from the park bench to look more closely at the palm sized moss patch beside her olive shoe. Several fresh upright shoots catch the light, their tiny leaves separated clearly against darker moss. She holds the camera safely in her lap, observing the miniature landscape before lifting the lens to compose a picture. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "这次，她把镜头放得很低。",
+      "scene": "Youyou crouches comfortably on the level path, holding the camera close to the moss patch without touching the plants. Her shoes remain beside the bench, and the neck strap is secure. The low viewpoint makes the small green shoots look like a tiny grove. Her face shows focused delight in the newly discovered subject. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "小屏幕里，这片绿忽然很远。",
+      "scene": "Seated back on the bench, Youyou reviews the camera’s rear screen, which shows a simple close photograph of the moss shoots without interface symbols or readable text. She holds the device with both hands and smiles in surprise at their forestlike scale. The real moss patch remains small beside her shoe, giving a clear comparison. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "原来那片森林，就在鞋尖旁边。",
+      "scene": "At home, Youyou and her friend look at a small printed photograph showing a lush miniature grove of moss shoots. Youyou gestures toward her olive shoes placed on the floor beside the table, with a few harmless grass flecks still clinging to them. The friend smiles in surprise, understanding the unexpectedly small location of the image. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DADDC8",
+    "#7F9A6C",
+    "#587D79",
+    "#BE9B73",
+    "#6D6E67"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        12,
+        16,
+        506,
+        541
+      ],
+      [
+        516,
+        16,
+        1012,
+        541
+      ],
+      [
+        12,
+        551,
+        506,
+        995
+      ],
+      [
+        516,
+        551,
+        1012,
+        995
+      ],
+      [
+        12,
+        1006,
+        506,
+        1523
+      ],
+      [
+        516,
+        1006,
+        1012,
+        1523
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        48,
+        200,
+        488,
+        668
+      ],
+      [
+        535,
+        200,
+        977,
+        668
+      ],
+      [
+        34,
+        833,
+        502,
+        1254
+      ],
+      [
+        522,
+        834,
+        990,
+        1253
+      ],
+      [
+        44,
+        1420,
+        491,
+        1888
+      ],
+      [
+        531,
+        1420,
+        980,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "她想把远山，装进新相机。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "低头调背带，发现鞋边有片绿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "苔藓里站着几棵小小的树。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "这次，她把镜头放得很低。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "小屏幕里，这片绿忽然很远。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "原来那片森林，就在鞋尖旁边。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Visual QA confirmed unequal native panel heights. Numerical row gutters are y=542-549 and y=996-1003; fixed equal-row extraction cuts the first scene and mixes neighboring scenes in the middle row. Confirmed native interiors are proportionally contained in the original slots, with centered ivory padding and unchanged caption positions. Final composition requires visual QA.",
+      "native_sha256": "da4f892ee6d9ec4a5b94f049b92412d1324fb557ce4d623805bfa9b1941b76e8",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          14,
+          0,
+          14,
+          0
+        ],
+        [
+          13,
+          0,
+          13,
+          0
+        ],
+        [
+          0,
+          23,
+          0,
+          24
+        ],
+        [
+          0,
+          24,
+          0,
+          25
+        ],
+        [
+          10,
+          0,
+          11,
+          0
+        ],
+        [
+          9,
+          0,
+          10,
+          0
+        ]
+      ]
+    }
+  },
+  "native_sha256": "da4f892ee6d9ec4a5b94f049b92412d1324fb557ce4d623805bfa9b1941b76e8",
+  "sha256": "4ec3a69338669443f4b63770bc7d84ae19907b2088a2b5b79e72eba878b920b9",
+  "prompt_sha256": "09bcc6261f16459b9ce71cfadf91eab8ee32a081ddcc4bed6e9c25c1f155ed1f",
+  "story_sha256": "d0ae44db4fda753019388e5c645830c76935c34e6c94077e80e04bddf069460e",
+  "created_at": "2026-10-26T10:40:46.071975+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-wonder-08-paper-rabbit-campsite.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-08-paper-rabbit-campsite.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-08-paper-rabbit-campsite-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 8,
+  "anthology_index": 98,
+  "panel_count": 4,
+  "display_title": "书页上的帐篷",
+  "visible_description": "纸兔子的帐篷总被风吹歪，翻起的一页书替它挡住了风。",
+  "synopsis": "在这个原创童话里，一只从空白纸上折出来的小兔子，想在桌边露营。它用一片叶子搭好帐篷，窗缝里的晚风却把帐篷吹得歪歪扭扭。小兔子把桌上厚厚的空白书页折成能自立的V形，挡在帐篷旁。叶子终于安静下来，它把一颗圆纽扣当枕头，在这片新长出的纸山脚下睡得很踏实。",
+  "story_text": "小纸兔从一张空白纸里折出来，决定在桌边住一晚。它搬来两根圆树枝，盖上一片宽叶子，又找了一颗蓝纽扣，当作枕头。\n\n帐篷才搭好，窗缝里的晚风便探进来，叶子一会儿歪左，一会儿歪右。小纸兔用爪子扶住这一边，另一边又翘起，耳朵也跟着忙得直晃。\n\n它看见旁边摊开的空白书，便把一张厚书页折成能自立的V形，两边立稳在桌上，像一座纸山。纸山挡住风，叶子终于稳稳落回树枝上，不再和它玩躲来躲去的游戏。\n\n小纸兔把蓝纽扣搬进去，蜷好腿，长耳朵轻轻贴着帐篷边。睡着前，它又望了一眼那座白山。桌子还是原来的桌子，不过今天晚上，已经足够装下一次很完整的露营。",
+  "art_direction": "Paper gouache collage effect with soft colored pencil fold lines",
+  "character_design": "An original tiny rabbit is folded from warm ivory blank paper, with long angular ears, two pencil dot eyes, and a small triangular nose. It has no printed patterns. Its camping objects are one broad sage leaf, two rounded twigs, a blue round button pillow, and an open thick paged blank cream book on a low wooden table. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "纸兔子，想在桌边住一晚。",
+      "scene": "A tiny ivory paper rabbit stands on a low wooden table beside an open blank book, arranging a broad sage leaf over two rounded twigs as a little tent. A blue button waits nearby like a pillow. The rabbit’s angular ears point eagerly upward. A slightly open window admits soft evening light into the calm room. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "晚风一来，帐篷就歪向一边。",
+      "scene": "A gentle breeze from the window lifts one side of the leaf tent, tilting it away from the two small twig supports. The paper rabbit holds the lower edge with its folded paws, looking concerned but perfectly safe. The open blank book lies close beside the campsite, with one page corner beginning to rise. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "厚书页折成小山，两边稳稳站住。",
+      "scene": "The paper rabbit presses a crease into one thick blank book page, making a freestanding inverted V shaped ridge with both lower edges resting securely on the table. The folded page stands beside the leaf tent as a stable windbreak, still attached at the book spine. Behind this firm paper shelter, the sage leaf has settled evenly over its rounded twig supports. Use old paper gouache and colored pencil, preserving established character and prop designs. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "山脚下的夜晚，一点也不晃。",
+      "scene": "The paper rabbit sleeps beneath the steady sage leaf tent, its head resting against the round blue button pillow. The thick blank page stands as a stable inverted V, both lower edges resting on the table beside the campsite like a pale hill. Soft evening light brushes the rabbit’s folded ears. The open window remains distant, and all the small camp objects are now still. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E8DFC8",
+    "#9FA986",
+    "#BA9B73",
+    "#7F9CA4",
+    "#C7ABA0"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "纸兔子，想在桌边住一晚。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "晚风一来，帐篷就歪向一边。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "厚书页折成小山，两边稳稳站住。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "山脚下的夜晚，一点也不晃。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "8e66f0d6ca11d3be4b59d5f48179469f6481e1c6d25394836179c6a1317d2d5f",
+  "sha256": "8802e32d256117b346f004863fcdc3de2e0c63aba48e3f64c0af58600561fb76",
+  "prompt_sha256": "f92d94d6d6c45db2bab2664e584263c1eedf04765cd44922cb1967d4d3b60c58",
+  "story_sha256": "f1e5fa24403104fe21ecb90abab2cdda247707a076935030539cc834f2b22d33",
+  "created_at": "2026-10-26T10:51:09.141395+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

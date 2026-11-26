@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-neighbors-06-doorway-cat-grocery-inspector.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-06-doorway-cat-grocery-inspector.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-06-doorway-cat-grocery-inspector-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 6,
+  "anthology_index": 26,
+  "panel_count": 4,
+  "display_title": "门口检查员",
+  "visible_description": "两家门口爱闻菜袋的猫，最后得到一只只属于自己的纸袋。",
+  "synopsis": "对门的大橘猫每天坐在走廊，看见阿叔买菜回来，就把鼻子凑进布袋。阿叔以为它惦记着吃的，猫却对蔬菜毫无兴趣，只盯着里面沙沙响的纸袋。主人拿出一只干净空纸袋放在门边，猫立刻钻进去，只露出尾巴。第二天阿叔经过，它又从袋口探出头，认真闻过菜袋，才缩回去继续值班。",
+  "story_text": "阿叔买菜回来，总在对门慢一下。大橘猫早坐在那里，鼻子一伸，就要检查他布袋里的东西。主人笑着说，它今天又来上班了。\n\n阿叔试着拎起一把青菜，猫却把头偏开，眼睛盯住袋底那只沙沙响的纸袋。菜拿走了，它还是看，连尾巴尖都抬得很认真。\n\n主人找来一只干净空纸袋，没有提手，口也宽，放在门内的小垫子上。橘猫立即钻进去，身子慢慢消失，最后只剩粗尾巴在外面晃了一圈。\n\n第二天，阿叔又带菜经过。纸袋口忽然探出一颗橘脑袋，照旧闻一闻他的布袋。检查完，它缩回自己的小地方。阿叔没再找青菜给它看，只朝袋口轻轻点了点头。",
+  "art_direction": "Warm comic gouache with textured pencil fur and crinkled-paper accents",
+  "character_design": "The grocery-carrying neighbor is a Chinese man around sixty with short gray hair, a small mustache, and a broad friendly face. He wears a dusty blue jacket, cream shirt, and brown trousers. The cat's owner is a Chinese woman in her thirties with a short black bob, wearing a sage sweatshirt and charcoal trousers. The large orange tabby has darker stripes, a cream chin, and a thick tail with a dark tip. All paper bags are plain, handleless, wide-mouthed, and large enough for the cat to enter comfortably.",
+  "panels": [
+    {
+      "caption": "阿叔每次买菜，都要经过门口这位检查员。",
+      "scene": "In a clean apartment corridor, the large orange tabby sits upright near its owner's open doorway while the older neighbor returns with a cloth grocery tote. He lowers the bag slightly toward the curious cat, which stretches its nose toward the opening without climbing inside. The cat's owner watches from her doorway with an affectionate smile. Leafy vegetables and the top of a plain paper bag peek from the tote. Keep the corridor wide and unblocked, with the cat positioned safely at the side and both adults relaxed."
+    },
+    {
+      "caption": "青菜不想要，它只盯着沙沙响的纸袋。",
+      "scene": "The older man kneels beside his grocery tote and lifts a leafy vegetable slightly out of it, but the orange cat looks past the greens toward a crinkled plain paper bag inside. Its ears point forward and one paw rests lightly on the tote's edge. The owner bends nearby, following the cat's gaze with growing understanding. Show the vegetable and bag separated clearly enough to reveal the preference. No food is offered to the cat; this is a curious inspection of texture and shape, with gentle humor in the redirected attention."
+    },
+    {
+      "caption": "主人放下一只空袋，只剩尾巴在门外。",
+      "scene": "The owner places a clean wide paper bag without handles on a small mat just inside her open doorway. The orange cat has already entered headfirst, leaving only its thick striped tail and hind paws visible at the broad opening. The older neighbor stands beside his groceries with a delighted grin. Keep the paper bag large, open, and unfastened so it reads as a safe play space. Its folds and warm kraft color provide the tactile center of the composition, with the cat's dark-tipped tail curling lazily toward the corridor."
+    },
+    {
+      "caption": "第二天，它从自己的小办公室探出了头。",
+      "scene": "The following morning, the orange cat peeks out from the same open paper bag on its doorway mat as the older neighbor passes with his cloth grocery tote. He pauses and tilts the tote slightly toward the cat's nose for their familiar inspection. The owner leans against the inner doorframe with a smile, letting the small ritual continue. The cat's head and white chin are visible while its body stays comfortably inside the bag. Keep the corridor clear and the bag entirely within the doorway, making the new arrangement both practical and playful."
+    }
+  ],
+  "palette": [
+    "#EADDC3",
+    "#D09B59",
+    "#8C9A86",
+    "#A4826C",
+    "#7897A4"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "阿叔每次买菜，都要经过门口这位",
+          "检查员。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "青菜不想要，它只盯着沙沙响的纸",
+          "袋。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "主人放下一只空袋，只剩尾巴在门",
+          "外。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "第二天，它从自己的小办公室探出",
+          "了头。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "a327bb8b84b6c46953f1df5f33c16ddda6d8c7ba396b8a2779a0334e0a27af8d",
+  "sha256": "54b0d33fec1d55ef1447d83a8c5557777b1c901b6091ed1948e08f662bfa09d9",
+  "prompt_sha256": "95324c54bf8ce807ff00d8a5a86032449db706d60f24371fdda503b4ea85661c",
+  "story_sha256": "bbebe73ddfefa197854162044a6366db4a86695d1b53f0740ef597a186c951ef",
+  "created_at": "2026-10-26T09:59:22.801413+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

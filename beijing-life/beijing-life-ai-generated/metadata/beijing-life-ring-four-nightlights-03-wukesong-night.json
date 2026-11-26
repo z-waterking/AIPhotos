@@ -1,0 +1,332 @@
+{
+  "output": "../beijing-life-ring-four-nightlights-03-wukesong-night.png",
+  "refined_prompt": "../prompts/beijing-life-ring-four-nightlights-03-wukesong-night.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:07.830359+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-ring-four-nightlights",
+  "group_number": 19,
+  "series_number": 3,
+  "anthology_index": 93,
+  "title": "五棵松的晚饭局",
+  "sha256": "711c66a5cc963404b24deec156c40e3c9a4ee990637aa20d5d95ec62e0a55940",
+  "native_sha256": "a5a80f150b45585b0609059cd8b761c734a6b4be76c3063da998c3a4812ba671",
+  "prompt_sha256": "d9f088931899bef70e237a53987938580e441a37519fbabe4e3331202b8ae79f",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1447842,
+  "art_direction": {
+    "style_name": "电影长曝光夜景",
+    "style_prompt_english": "Original cinematic travel photograph aesthetic at blue hour, realistic recognizable contemporary Beijing architecture, luminous warm windows, tasteful saturated cyan-magenta reflections, subtle long-exposure light trails only on roads, sharply detailed buildings and peaceful adults, rich deep navy shadows, sophisticated optical lens depth. No CGI neon lettering or advertisements.",
+    "palette": [
+      "#102239",
+      "#25BDCD",
+      "#EC669B",
+      "#FFBC54"
+    ],
+    "layout_variant": 3,
+    "activity": "夜景摄影／街区晚饭",
+    "area": "北京四环周边，非严格环间"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "wukesong-night",
+    "title": "五棵松的晚饭局",
+    "subtitle": "下班后也能安排小旅行",
+    "area_label": "西四环周边·五棵松",
+    "duration": "约2–3小时",
+    "transport": "地铁五棵松站；公共街区步行",
+    "stops": [
+      {
+        "name": "华熙LIVE·五棵松",
+        "detail": "开放商业街与餐饮",
+        "lat": 39.9090556,
+        "lon": 116.2716878,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120936",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/631869655"
+      },
+      {
+        "name": "五棵松体育馆外广场",
+        "detail": "现代场馆外观",
+        "lat": 39.9098722,
+        "lon": 116.2747452,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120936",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/107011057"
+      }
+    ],
+    "practical_note": "此处位于西四环周边，部分在环内；演出与场馆入内另计，步行区以现场通行为准。",
+    "copy_title": "五棵松的晚饭局｜北京周末灵感",
+    "copy_body": "下班后也能安排小旅行。华熙LIVE·五棵松 → 五棵松体育馆外广场，安排约2–3小时。从开放商业街与餐饮到现代场馆外观，留点时间给自己。此处位于西四环周边，部分在环内；演出与场馆入内另计，步行区以现场通行为准。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "西四环周边"
+    ],
+    "hero_prompt_english": "Wukesong Beijing evening leisure district, low lively open commercial streets and the recognizable broad rectangular arena wrapped in vertical golden metal strips, warm shopfront glow with blank signs, adult friends walking toward dinner tables. Long exposure road lights far behind, no concert stage or event guarantee. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "3dfbb91aaf1bd2cb850a4e92ffa7cd99a4916ecb58730913c9fb4fb0d2e594f9",
+      "bounds_wgs84": [
+        116.26486216785767,
+        39.90305533423984,
+        116.28157083214234,
+        39.91587186870917
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "华熙LIVE·五棵松",
+          "lon": 116.2716878,
+          "lat": 39.9090556,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "五棵松体育馆外广场",
+          "lon": 116.2747452,
+          "lat": 39.9098722,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:59.511096+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "华熙LIVE·五棵松",
+          "source_url": "https://www.openstreetmap.org/way/631869655",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "五棵松体育馆外广场",
+          "source_url": "https://www.openstreetmap.org/way/107011057",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "华熙LIVE·五棵松 → 五棵松体育馆外广场",
+        "box": [
+          52,
+          43,
+          535,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "西四环周边·五棵松",
+        "box": [
+          52,
+          133,
+          340,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "五棵松的晚饭局",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "四环周边·夜色晚饭  ·  约2–3小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "下班后也能安排小旅行",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  华熙LIVE·五棵松",
+        "box": [
+          413,
+          1117,
+          676,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "开放商业街与餐饮",
+        "box": [
+          416,
+          1153,
+          576,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  五棵松体育馆外广场",
+        "box": [
+          413,
+          1194,
+          700,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "现代场馆外观",
+        "box": [
+          416,
+          1230,
+          536,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "此处位于西四环周边，部分在环内；演出与场馆入内另计，步行区以",
+        "box": [
+          413,
+          1281,
+          954,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "现场通行为准。",
+        "box": [
+          413,
+          1306,
+          539,
+          1324
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁五棵松站；公共街区步行",
+        "box": [
+          413,
+          1362,
+          673,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "19 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "093",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

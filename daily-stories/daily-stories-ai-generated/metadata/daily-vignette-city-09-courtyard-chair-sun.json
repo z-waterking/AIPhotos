@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-09-courtyard-chair-sun.png",
+  "refined_prompt": "../prompts/daily-vignette-city-09-courtyard-chair-sun.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-09-courtyard-chair-sun-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 9,
+  "anthology_index": 79,
+  "panel_count": 4,
+  "display_title": "椅子的半圈",
+  "visible_description": "理发店门口的椅子转了半圈，等候的人便能看见那棵开花的树。",
+  "synopsis": "周末理发店里有些忙，门口只剩一张朝墙的小椅子。阿牧坐下等候，对着墙面发了会儿呆。店主送来一杯水，顺手把椅子往外转了半圈。阿牧这才看见街对面开着花的树，树下一位老人正给花瓣拍照。轮到他时，他竟有一点舍不得离开这张椅子。",
+  "story_text": "周末理发店很忙，阿牧来得有点迟，只好坐到门口等。小椅子朝着砖墙，墙上没有什么可看，他数了一会儿砖缝，就把手重新放回膝盖。\n\n店主送来一杯水，见他直直望着墙，顺手示意他站起来，把椅子往外转了半圈。椅脚落地，面前的景色像刚换了一扇窗。\n\n街对面有棵开花的树，树下的老人正给落在石沿上的花瓣拍照。阿牧捧着水，看老人蹲下又站起，风每吹一次，镜头前的花瓣就换一个位置。\n\n店主拿着毛巾走到门口，终于轮到他。阿牧站起时又回头看了一眼，才把水杯放好。原来一张椅子不用挪远，只转半圈，就能等出一个很舒服的下午。",
+  "art_direction": "Urban gouache with fine colored pencil blossoms and warm masonry",
+  "character_design": "Amu is an adult man with slightly overgrown dark hair, an ivory sweatshirt, olive trousers, and tan shoes. The barber is an adult woman with a short chestnut bob, a blue shirt, and a plain dark apron. A small ochre chair and a clear water glass recur; across the quiet pedestrian lane stands a flowering tree. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "这张椅子，只能看见一堵墙。",
+      "scene": "Amu sits on a small ochre chair just outside a neighborhood barbershop, facing a plain warm brick wall. His hands rest on his knees, and his expression is gently bored. Through the open doorway, the barber is visible arranging a folded towel. The pedestrian lane behind the chair is quiet and broad, without traffic. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "店主送来水，也转来了风景。",
+      "scene": "Amu stands holding a clear glass of water while the barber rotates the empty ochre chair outward toward the lane. Both smile at the simple adjustment. The chair’s legs stay flat on level paving. Beyond them, the flowering tree across the lane begins to enter the composition, its pale blossoms catching warm afternoon light. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "原来街对面，正开着花。",
+      "scene": "Seated in the newly turned chair, Amu looks across the quiet pedestrian lane at a tree covered in pale blossoms. Beneath it, an older adult holds a small camera toward a cluster of fallen petals on a low stone ledge. Amu cradles the water glass loosely, now absorbed in the small scene before him. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "轮到他了，风景还没看够。",
+      "scene": "The barber stands in the doorway with a folded towel, gently gesturing that the chair inside is ready. Amu rises from the ochre waiting chair but keeps his head turned for one last look at the flowering tree. He sets the clear water glass on a small side shelf, smiling at the unexpectedly pleasant wait. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DED5BF",
+    "#A77B6A",
+    "#C2A660",
+    "#79969A",
+    "#A7AC84"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "这张椅子，只能看见一堵墙。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "店主送来水，也转来了风景。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "原来街对面，正开着花。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "轮到他了，风景还没看够。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "a4561b293c543d0dfb083e9823fc837bdc29ed4421b544e72dbab04c0be0663a",
+  "sha256": "dd05a9c5ac59fe1b5dd34dc2341a886937ceaac73fff039ccdfb0fa99353abe5",
+  "prompt_sha256": "b13394cf800d25d8ed7f10c09ac3a17f32e4d9353e0f70d498940fc7b33aa48d",
+  "story_sha256": "f53c664fe44cceaaa2a9072f48923fd1e99a361fd1102a57ed29b9a17037a87a",
+  "created_at": "2026-10-26T10:31:54.444743+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

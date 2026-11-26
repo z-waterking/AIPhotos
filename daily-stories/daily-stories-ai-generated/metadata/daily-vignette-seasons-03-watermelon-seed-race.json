@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-seasons-03-watermelon-seed-race.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-03-watermelon-seed-race.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-03-watermelon-seed-race-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 3,
+  "anthology_index": 63,
+  "panel_count": 4,
+  "display_title": "西瓜籽比赛",
+  "visible_description": "两位邻居把午后的西瓜籽，排成了一场慢吞吞的比赛。",
+  "synopsis": "午后太热，老周和邻居坐在廊下分一只西瓜。老周发现自己的那片籽特别多，便把籽整齐排在空盘边。邻居也排了一列，却故意把最后一颗放得远远的。两人对着这颗落单的籽笑起来，后来又把果皮摆成弯道，让整盘籽都有了赛道。",
+  "story_text": "午后热得很慢，老周和邻居搬着小凳坐在廊下。两把扇子扇了一会儿就搁在桌上，倒是刚切好的西瓜让两个人都有了精神。\n\n老周这一片籽尤其多。他每挑出一颗，就整齐摆在空盘边，摆着摆着竟成了一支小队。邻居瞧见，也在盘子另一边排了一队。\n\n她故意把最后一颗留在远处，像一个走路总慢半拍的队员。老周用手指点了点那颗籽，又看了看她，两人忍不住笑起来。\n\n吃完后，他们把弯弯的瓜皮围成赛道，轻轻拨动里面的瓜籽。院子里的日光挪过了一块砖，两把扇子还躺着，而那位落后的队员已经悄悄追到了最前面。",
+  "art_direction": "Dry brushed gouache with lightly scratched pencil summer texture",
+  "character_design": "Old Zhou is an older adult man with silver hair, square glasses, a pale olive short sleeve shirt, and beige trousers. His adult neighbor is a woman with a gray braid, coral blouse, and indigo skirt. They share watermelon slices, a wide cream plate, and two plain woven fans. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "热得连扇子也想休息。",
+      "scene": "On a shaded veranda, Zhou and his neighbor sit beside a low table holding bright watermelon slices. Two woven fans lie idle beside them. Zhou notices the many dark seeds in his slice and raises one eyebrow. Dappled leaves frame the sunlit courtyard, while the seated pair remain fully in cool shade. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "他给西瓜籽排了队。",
+      "scene": "Zhou uses a fingertip to place several watermelon seeds in a neat line along the edge of the cream plate. The neighbor watches over her own slice, amused by his serious concentration. Their small table has room for both plates and the resting fans. The green rind curls beside the seed line. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "最后一位，走得有点慢。",
+      "scene": "The neighbor points at a single seed placed far behind her own short line of seeds. Zhou looks at the gap and grins, holding his half finished slice above his plate. Her other hand hovers above the solitary seed as if inviting it forward. Their shoulders lean comfortably toward the same small joke. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "赛道一摆，下午就短了。",
+      "scene": "Several curved watermelon rinds now form a loose oval track on the cream plate, with two little lines of seeds inside it. Zhou and his neighbor lean over opposite sides of the table, each gently moving one seed. Their forgotten fans remain nearby as sunlight shifts across the quiet courtyard paving. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E9D8AA",
+    "#C96A66",
+    "#768B62",
+    "#574C42",
+    "#B9D4CE"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "热得连扇子也想休息。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "他给西瓜籽排了队。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "最后一位，走得有点慢。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "赛道一摆，下午就短了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "db603cfc2cf784febecf63787aeee22d1ab2c180f78b43a2fe00675edfe1f933",
+  "sha256": "b497f97e2a90dcd836cc77b6760f944fd66e38e13ed69626e27a78a27948cd8d",
+  "prompt_sha256": "4d006ea154c33275abcb510b90635bbecd4c98cb165ce76059b9e6bed53668ed",
+  "story_sha256": "a718de72d6f24451ddcfaf98fc0ff939965f7bbf4abfd1e4e81c76cf86218daf",
+  "created_at": "2026-10-26T10:21:16.929782+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

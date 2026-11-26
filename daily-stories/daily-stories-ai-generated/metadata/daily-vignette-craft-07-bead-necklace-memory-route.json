@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-craft-07-bead-necklace-memory-route.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-07-bead-necklace-memory-route.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-07-bead-necklace-memory-route-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 7,
+  "anthology_index": 47,
+  "panel_count": 4,
+  "display_title": "珠子的顺序",
+  "visible_description": "串珠的人按颜色摆顺序，朋友却按两人走过的风景重新排了一遍。",
+  "synopsis": "串珠桌上，一串珠子已经按颜色从浅到深排好。朋友来看，先拿走一颗蓝珠，再把绿色、米色和橙色挪到一起，摆成她们昨天散步时见过的河、树、石桥和夕阳。做手链的人想了想，照这个顺序穿好线。朋友伸出手腕，发现还有一颗白珠悬在末尾：那是回程一起分吃的那球冰淇淋。",
+  "story_text": "姑娘把圆珠子按颜色深浅排好，正在犹豫先穿哪一种。朋友坐过来，拿起蓝珠、绿珠、米色珠和橙珠，打乱了那条整齐的队伍。\n\n姑娘抬头看她。朋友指指窗外的河，手指沿树影走到石桥，再比了比昨天落日的方向。原来新的顺序，是两个人散步回家的路线。\n\n姑娘想起来，笑着把线穿过第一颗蓝珠。朋友牵住线的另一端，等河流、树、桥和夕阳逐个站好。\n\n手链系上手腕时，末尾还垂着一颗小白珠。朋友伸指轻轻碰它，想了一下，终于笑出声。桌上正放着一小杯香草冰淇淋，两支木勺并排插着，和昨天回程时一模一样。",
+  "art_direction": "Soft gouache with luminous colored-pencil bead accents on warm paper",
+  "character_design": "An adult jewelry hobbyist with a black braid and round glasses wears a muted rose blouse and cream apron. Her adult friend has short auburn curls, a pale blue shirt and olive trousers. They work with large smooth round beads in river blue, leaf green, pale stone beige, sunset orange and creamy white, plus simple ochre cord. Their finished bracelet uses these colors in a deliberate uneven sequence, ending with one small white bead on a short dangling cord.",
+  "panels": [
+    {
+      "caption": "珠子原本只按深浅排队。",
+      "scene": "On a pale wooden craft table, the braided hobbyist has arranged five small piles of round beads in orderly color rows, with a loose ochre cord beside them. She compares two blue beads while her curly-haired friend leans in from the opposite side. The rows are neat and purely abstract, showing river blue, leaf green, stone beige, sunset orange and cream white. A plain shallow bowl holds spare beads away from the work area. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "朋友把昨天的散步搬了进来。",
+      "scene": "The friend moves four beads into a new uneven line across the table: blue first, then green, then beige, then orange. With her free hand she gestures through the open window toward a visible riverbank tree and a low pale stone bridge beyond it. The hobbyist follows the gesture, recognizing the route. Keep the landscape subtle and ordinary; the bead arrangement remains physical, with no inset memories, arrows or floating pictorial symbols. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "线从河边，一直穿到夕阳里。",
+      "scene": "Close view of the hobbyist threading the blue, green, beige and orange beads onto the ochre cord in their newly chosen sequence. The friend holds the opposite end gently to prevent the beads slipping away. One creamy white bead sits alone beside the cord knot area, clearly reserved for a final detail. Both faces appear partly above the tabletop with absorbed smiles, while the window light gives the colored spheres a soft handmade sheen. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "末尾，还留着昨天的冰淇淋。",
+      "scene": "The friend wears the finished bracelet on her extended wrist, displaying the irregular blue-green-beige-orange sequence and a single small white bead dangling from the knot. The hobbyist lightly touches the white bead with one fingertip and grins. Beside them on the table sits a small plain paper cup containing one round scoop of vanilla ice cream with two wooden spoons, making the private reference visible without any written explanation or imagined scene. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E8DCC4",
+    "#709AAA",
+    "#81966F",
+    "#D89B5B",
+    "#B88A8B"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "珠子原本只按深浅排队。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "朋友把昨天的散步搬了进来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "线从河边，一直穿到夕阳里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "末尾，还留着昨天的冰淇淋。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "c1d64f89eabdf922f5821c6e01db179d5bdf17c1efe25095480cd79d4c9a0f3f",
+  "sha256": "4a227d3a88d397280522a2062cdacc85751149b1b7aa2a0f5ec590157e92150f",
+  "prompt_sha256": "936e3811b3c4b447189f4603007df5310805737aa8435389175b499ee601c272",
+  "story_sha256": "db953ceb2f5c1478a28465000d4be08b4c357124c491ea27cbd36a0df8ba5cf8",
+  "created_at": "2026-10-26T10:15:19.603614+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

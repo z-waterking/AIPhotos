@@ -1,0 +1,217 @@
+{
+  "output": "../daily-vignette-neighbors-10-courtyard-chalk-route-new-friend.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-10-courtyard-chalk-route-new-friend.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-10-courtyard-chalk-route-new-friend-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 10,
+  "anthology_index": 30,
+  "panel_count": 6,
+  "display_title": "粉笔路拐个弯",
+  "visible_description": "孩子画的小路被一盆花占住了终点，邻居帮它拐了个弯，接到另一家门前。",
+  "synopsis": "小院里，女孩用粉笔画一条弯弯的小路，准备从台阶跳到树下。她画到最后才发现，邻居新放的花盆正好占着终点。邻居蹲下来，没有搬走花，而是在旁边添了两个圆，让路绕过花盆，通向刚搬来的小男孩家。男孩站在门边看了很久，终于拿起递来的粉笔，往回添了一小段。下午，小路上多了两双轮流跳过的鞋。",
+  "story_text": "女孩在院里画粉笔小路，从自家台阶一直画向树下。圆格一个接一个，快到最后，她才发现邻居新放的花盆正占着终点。\n\n她停着没画，也没推花盆。邻居蹲下来看看，用另一块粉笔添了两个圆，让路拐过花盆，朝新搬来的男孩家门口去了。\n\n男孩一直站在门边看。女孩把白粉笔递过去，他先握在掌心，过了一会儿才蹲下，认真补了一小段，又弯回来接上原来的路。线有点歪，却没有断。\n\n下午，两双鞋轮流踩过那些圆格。女孩走到男孩添的地方，特意放慢一步，等他跟上。邻居坐在花盆旁边，抬脚给他们让出一点。那条本来只通向树下的小路，现在走一圈才算到头。",
+  "art_direction": "Cheerful courtyard gouache with chalky colored-pencil marks on warm paper",
+  "character_design": "The girl is Chinese, around eight, with two short black braids and a lively round face. She wears a mustard sweatshirt, dark green trousers, and white sneakers. The newly arrived boy is around the same age with a short neat haircut, wearing a pale blue long-sleeved shirt, beige trousers, and rust-colored sneakers. The adult neighbor is a Chinese woman around fifty with short wavy hair, a sage cardigan, cream shirt, and brown trousers. The courtyard has low doorsteps, a potted flowering plant, and thick white and pale blue chalk pieces.",
+  "panels": [
+    {
+      "caption": "她画的小路，差一点就能通到树下。",
+      "scene": "In a small level residential courtyard, the girl crouches with a thick piece of white chalk, drawing a sequence of simple rounded stepping shapes across the paving from her low doorstep toward a leafy tree. The adult neighbor carries a medium flowerpot nearby, while the new boy watches quietly from another open doorway across the courtyard. Keep all chalk marks purely geometric with no numbers or words. The girl's route is playful and unfinished, and generous open space makes the courtyard feel safe, ordinary, and inviting."
+    },
+    {
+      "caption": "最后一格的位置，被新来的花盆坐住了。",
+      "scene": "The girl pauses at the end of her chalk route, looking at the neighbor's newly placed flowerpot where her final stepping shape would have gone. She holds the chalk over the paving without drawing, mildly puzzled. The neighbor crouches beside her, one hand resting near the pot's base, following the planned path with her eyes. The boy remains at his doorway in the background, watching with interest. Show the plant healthy and the conflict tiny, with no displeased faces, emphasizing an ordinary shared-space adjustment rather than a disagreement."
+    },
+    {
+      "caption": "邻居添了两个圆，让小路绕到另一扇门。",
+      "scene": "The neighbor uses a piece of pale blue chalk to add two broad rounded stepping shapes that curve gently around the flowerpot toward the boy's doorway. The girl kneels beside her, watching the new direction with a brightening smile, while holding out her white chalk toward the boy. He has stepped just beyond his threshold and looks at the offered chalk. Keep the route continuous and simple, with no arrows or writing. The flowerpot remains in place, turning the obstacle into a natural bend in their shared courtyard game."
+    },
+    {
+      "caption": "粉笔递过去，他先在掌心里握了一会儿。",
+      "scene": "At the boy's low doorstep, the girl offers the thick white chalk on her open palm. The boy has just taken it and looks down at the pale mark it leaves on his fingertips, still slightly hesitant but interested. The newly curved pale blue route and flowerpot appear behind them, with the adult neighbor watching from a respectful distance. Keep the children at equal height and the invitation gentle, with no pressure or exaggerated emotional expression."
+    },
+    {
+      "caption": "他蹲下来，给弯弯的小路接上一小段。",
+      "scene": "The boy crouches on the level courtyard paving and draws his first short rounded white stepping shape, joining the pale blue curve that reaches his doorstep. The girl kneels nearby with her hands resting on her knees, giving him room to finish. The neighbor and flowerpot remain softly visible behind them. Show one clear new segment being added, slightly uneven but connected, so his contribution becomes a visible choice before both children begin using the completed route."
+    },
+    {
+      "caption": "他接着画回来，下午的路上有了两双鞋。",
+      "scene": "The finished chalk route now curves from one low doorstep around the flowerpot to the other. The boy stands at the far end holding the white chalk after adding his own short return section, while the girl takes one small playful step onto a rounded shape near him. The neighbor sits on a low stool beside the plant, watching with a warm smile. Show the children's white and rust sneakers as distinct accents on the pale chalk path. Their movements are small and balanced, making the new shared game the clear final payoff."
+    }
+  ],
+  "palette": [
+    "#EDE0C3",
+    "#D4A36E",
+    "#89A69A",
+    "#8BA4BD",
+    "#B97C75"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "她画的小路，差一点就能通到树下。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "最后一格的位置，被新来的花盆坐",
+          "住了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "邻居添了两个圆，让小路绕到另一",
+          "扇门。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "粉笔递过去，他先在掌心里握了一",
+          "会儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "他蹲下来，给弯弯的小路接上一小",
+          "段。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "他接着画回来，下午的路上有了两",
+          "双鞋。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "c84d7f70dad90cab407dbf6f84874913a1e9a1ceae8e37f4f24e64f9a0e1c64f",
+  "sha256": "7834c15244a8a2a56d33b1e703c4778899c2e83f8383d3d203fed46c3cad2b7a",
+  "prompt_sha256": "4aa1bacb06293d1ba82565773515456a6f252669e8cdaef6b320506284bb854f",
+  "story_sha256": "bf9bf1fbd4e6aba62a25648a5d686ef6949223d73350b4698fe6b85a71ce7e8e",
+  "created_at": "2026-10-26T10:01:54.624782+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

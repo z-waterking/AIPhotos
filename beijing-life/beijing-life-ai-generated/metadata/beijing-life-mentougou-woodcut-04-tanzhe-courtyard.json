@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-mentougou-woodcut-04-tanzhe-courtyard.png",
+  "refined_prompt": "../prompts/beijing-life-mentougou-woodcut-04-tanzhe-courtyard.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:55:40.631642+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-mentougou-woodcut",
+  "group_number": 11,
+  "series_number": 4,
+  "anthology_index": 54,
+  "title": "潭柘寺院落慢游",
+  "sha256": "082ae9dce7f4a4eeb76d8f2c3ad73deb4ff16d7a5410f94125784a3138e5e11e",
+  "native_sha256": "dad29aba26d233b9221be8e2f0bd10fbf9955cb94d4e17540e2f28bb055ada44",
+  "prompt_sha256": "21aa0feca453769304e1cfdd24aca04ae97c23e1809a874a502436989dc75c30",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2544132,
+  "art_direction": {
+    "style_name": "套色木刻版画",
+    "style_prompt_english": "Original multicolor woodcut print: broad hand-carved contour marks, irregular carved grain, rich dark indigo key blocks, ochre and jade spot colors, strong architectural silhouette with warm positive-negative shapes. Fill the scene with meaningful terrain and building detail, no artist imitation.",
+    "palette": [
+      "#213955",
+      "#E8B044",
+      "#D86643",
+      "#85A48B"
+    ],
+    "layout_variant": 0,
+    "activity": "古建与山城",
+    "area": "门头沟区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "tanzhe-courtyard",
+    "title": "潭柘寺院落慢游",
+    "subtitle": "只看前院的梁柱与古树",
+    "area_label": "北京·门头沟区",
+    "duration": "约3小时",
+    "transport": "地铁6号线苹果园或金安桥后需公交或出租车",
+    "stops": [
+      {
+        "name": "潭柘寺山门",
+        "detail": "沿正式台阶进入古寺",
+        "lat": 39.9021171,
+        "lon": 116.0244514,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117841",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/537178957"
+      },
+      {
+        "name": "潭柘寺大雄宝殿",
+        "detail": "看屋顶、院落与古树关系",
+        "lat": 39.9021171,
+        "lon": 116.0244514,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/117841",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/537178957"
+      }
+    ],
+    "practical_note": "有台阶；本条不登后山，按寺院开放与票务安排，安静参观。",
+    "copy_title": "门头沟区｜潭柘寺院落慢游",
+    "copy_body": "只看前院的梁柱与古树。这次只安排一个片区：潭柘寺山门 → 潭柘寺大雄宝殿。建议留约3小时，把拍照、休息和短时参观一起算进去。有台阶；本条不登后山，按寺院开放与票务安排，安静参观。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "门头沟区",
+      "北京小众玩法",
+      "古建与山城"
+    ],
+    "hero_prompt_english": "Tanzhe Temple in western Beijing: the dignified main hall with broad traditional tiled roof, deep timber eaves and a sequence of stone-paved courtyards beneath giant old gingko trees. Autumn gold leaves frame adults walking calmly on the formal lower temple route. Warm architectural study, no religious spectacle or invented mountain ascent. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "56ec81a39ababe34e0a951432a1cbad4fe7d518be3178761f5101d9841d32caa",
+      "bounds_wgs84": [
+        116.01609706785769,
+        39.89570784580634,
+        116.03280573214235,
+        39.9085257547367
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "潭柘寺山门",
+          "lon": 116.0244514,
+          "lat": 39.9021171,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "潭柘寺大雄宝殿",
+          "lon": 116.0244514,
+          "lat": 39.9021171,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:24.209565+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "潭柘寺山门",
+          "source_url": "https://www.openstreetmap.org/way/537178957",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "潭柘寺大雄宝殿",
+          "source_url": "https://www.openstreetmap.org/way/537178957",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "潭柘寺山门 → 潭柘寺大雄宝殿",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·门头沟区",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "潭柘寺院落慢游",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "门头沟｜京西不赶路  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "只看前院的梁柱与古树",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  潭柘寺山门",
+        "box": [
+          53,
+          1117,
+          232,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿正式台阶进入古寺",
+        "box": [
+          56,
+          1153,
+          236,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  潭柘寺大雄宝殿",
+        "box": [
+          53,
+          1194,
+          286,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看屋顶、院落与古树关系",
+        "box": [
+          56,
+          1230,
+          276,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "有台阶；本条不登后山，按寺院开放与票务安排，安静参观。",
+        "box": [
+          53,
+          1281,
+          539,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁6号线苹果园或金安桥后需公交或出租车",
+        "box": [
+          53,
+          1362,
+          445,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "11 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "054",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

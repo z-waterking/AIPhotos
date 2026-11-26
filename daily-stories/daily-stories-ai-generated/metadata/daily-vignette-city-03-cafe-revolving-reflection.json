@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-city-03-cafe-revolving-reflection.png",
+  "refined_prompt": "../prompts/daily-vignette-city-03-cafe-revolving-reflection.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-03-cafe-revolving-reflection-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 3,
+  "anthology_index": 73,
+  "panel_count": 4,
+  "display_title": "玻璃里的花杯",
+  "visible_description": "花店玻璃上映着咖啡馆的杯子，她挪一步，就给每束花配好了一只杯。",
+  "synopsis": "等外带咖啡时，苏禾站在街边看花店的橱窗。对面咖啡馆的杯子映在玻璃上，恰好落到一束花的下方，像一只新的花瓶。她向左挪一点，杯子就和另一束花重叠。店员递来真正的咖啡时，她把纸杯举到眼前试了试，窗里那束最高的花也终于有了合适的杯子。",
+  "story_text": "苏禾的外带咖啡还没做好，她便走到门边，看看对面花店的橱窗。玻璃里有花，也有街道，还有从咖啡馆映过去的一排杯子。\n\n其中一只杯子恰好在粉花下面，两层影像叠在一起，像那束花忽然有了新花瓶。苏禾往左挪一步，杯子离开粉花，又正好接住了旁边的白花。\n\n她发现，只要换一点位置，就能给不同的花配杯子。她站近，再退开，把高杯留给长枝，把矮杯让给小花，自己玩得十分认真。\n\n店员把咖啡递来时，她才回过神。苏禾举起手里的纸杯，对着玻璃试了试，最高的那束花也有了底座。她笑着放下杯子，花仍在橱窗里，回家路上却多了这个轻轻的画面。",
+  "art_direction": "Buttery gouache with soft colored pencil crumb textures",
+  "character_design": "Suhe is an adult woman with a dark pixie haircut, a sage jacket, cream trousers, and tan loafers. A café worker has short auburn hair, a muted blue shirt, and an ivory apron. The pedestrian lane contains a flower shop window with loose bouquets and a café opposite displaying plain cups, producing gentle layered reflections. Preserve these exact faces, proportions, clothing colors, and recurring props throughout all panels. Keep every figure fully clothed, gently expressive, and grounded in an ordinary peaceful setting. Objects and backgrounds have no legible writing, logos, or commercial designs.",
+  "panels": [
+    {
+      "caption": "等咖啡时，她看见花下面有只杯。",
+      "scene": "Suhe stands outside a small café on a quiet pedestrian lane, looking toward the flower shop window opposite. A reflected plain café cup visually overlaps beneath a pink bouquet inside the window, creating the illusion of a vase. Her eyebrows lift in curiosity. The glass clearly layers soft real blossoms and faint reflected ceramic shapes without any lettering. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "向左一步，白花也有了新花瓶。",
+      "scene": "Suhe has shifted one pace sideways, aligning the reflected cup beneath a different cluster of white flowers in the shop window. She tilts her head to inspect the playful overlap, hands relaxed by her sides. The pink bouquet remains nearby without its temporary reflected base. The quiet café doorway is visible behind her across the lane. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "真的咖啡来了，她又试了一次。",
+      "scene": "The café worker offers Suhe a plain cream takeaway cup from the doorway, and she receives it while still glancing toward the flower window. Her other hand lifts slightly as if measuring the height of a tall bouquet. The exchanged cup has no logo or writing, and the street remains broad, calm, and entirely pedestrian. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "最高的花，也配到了一只合适的杯。",
+      "scene": "Suhe holds her real cream paper cup at chest height in front of the flower shop window, visually aligning its rim with the stems of the tallest bouquet seen through the glass. She smiles at the temporary illusion of flowers filling her coffee. The café worker watches from the distant doorway, amused by the simple optical game. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DDD6BF",
+    "#779CA0",
+    "#BF9B6B",
+    "#A9838A",
+    "#8A9D76"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "等咖啡时，她看见花下面有只杯。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "向左一步，白花也有了新花瓶。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "真的咖啡来了，她又试了一次。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "最高的花，也配到了一只合适的杯。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "1c79c02fe7669b7de8086a12a734452fe02708a030dd5f6cef774da8abe55389",
+  "sha256": "742abe857e450c2d30aa9252990d43433005060bc26a6b47fcd4e629b5abba23",
+  "prompt_sha256": "df4e3bd46a32559df2ce656cc5b149fbe6a5084efcf8c42ba2b981f4c5d179e3",
+  "story_sha256": "41dedb81847cddff2862f70bb6d0429fd72380af7298abec828c2f6a317344e3",
+  "created_at": "2026-10-26T10:27:47.409110+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

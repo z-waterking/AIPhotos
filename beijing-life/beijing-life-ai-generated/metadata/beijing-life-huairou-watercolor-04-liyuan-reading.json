@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-huairou-watercolor-04-liyuan-reading.png",
+  "refined_prompt": "../prompts/beijing-life-huairou-watercolor-04-liyuan-reading.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:57:06.809979+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-huairou-watercolor",
+  "group_number": 13,
+  "series_number": 4,
+  "anthology_index": 64,
+  "title": "山谷里翻几页书",
+  "sha256": "c7d9a41b3bc0e9321f29a3498c948084acbcd5473ba893d3ac870f6792ed1de1",
+  "native_sha256": "23cadeb2696d758548cdc5e5ccf5c5f537e05fc3b52c2f35df7a15f9b2bc2818",
+  "prompt_sha256": "b4c693c87ea1b2974712b813c20a2e29b8236e778991dce105ee34474edb3713",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2157036,
+  "art_direction": {
+    "style_name": "湿画水彩旅行册",
+    "style_prompt_english": "Luminous wet-on-wet watercolor landscape with granular washes, softly bleeding edges and selective precise pen-free architectural details. Large pools of lake color and atmospheric mountains, human-scale foreground activity, generous layered scene coverage rather than blank paper.",
+    "palette": [
+      "#437D96",
+      "#BFCF8C",
+      "#DE9B73",
+      "#EEE4CB"
+    ],
+    "layout_variant": 2,
+    "activity": "湖畔与阅读",
+    "area": "怀柔区"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "liyuan-reading",
+    "title": "山谷里翻几页书",
+    "subtitle": "预约成功再出发的阅读日",
+    "area_label": "北京·怀柔区",
+    "duration": "约3小时",
+    "transport": "怀柔城区后需出租车或当地公交接驳；地铁不直达",
+    "stops": [
+      {
+        "name": "篱苑书屋",
+        "detail": "柴禾外墙与阶梯阅读空间",
+        "lat": 40.457707,
+        "lon": 116.594513,
+        "coordinate_status": "Approximate WGS84 converted from official tourism BD09 pin; specific building not independently resolved in OSM, not verified entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120496",
+        "coordinate_source_url": "https://s.visitbeijing.com.cn/attraction/120496"
+      },
+      {
+        "name": "交界河村",
+        "detail": "沿公开村路看山谷日常",
+        "lat": 40.4661216,
+        "lon": 116.595191,
+        "coordinate_status": "OSM named village representative point; public route and private property boundaries not surveyed",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120496",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/5768712249"
+      }
+    ],
+    "practical_note": "先确认书屋开放与预约；闭馆则改期，不进入关闭书屋或私宅。",
+    "copy_title": "怀柔区｜山谷里翻几页书",
+    "copy_body": "预约成功再出发的阅读日。这次只安排一个片区：篱苑书屋 → 交界河村。建议留约3小时，把拍照、休息和短时参观一起算进去。先确认书屋开放与预约；闭馆则改期，不进入关闭书屋或私宅。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "怀柔区",
+      "北京小众玩法",
+      "湖畔与阅读"
+    ],
+    "hero_prompt_english": "Liyuan Library in Huairou Jiaojiehe village: a long narrow rectangular glass library screened on walls and roof by irregular bundled twigs, timber stepped reading platforms suggested through the glazing, a small pond and quiet mountain village landscape. An adult sits reading in the permitted interior only as an illustrative activity. Exact twig-screen architecture, no generic grand library. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "a580880a2bec899358861a9fe3dcf12b48192c04848e9fa708d9526d85e1d525",
+      "bounds_wgs84": [
+        116.58628076761343,
+        40.455392800215215,
+        116.60342323238656,
+        40.468435430210725
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "篱苑书屋",
+          "lon": 116.594513,
+          "lat": 40.457707,
+          "coordinate_status": "Approximate WGS84 converted from official tourism BD09 pin; specific building not independently resolved in OSM, not verified entrance"
+        },
+        {
+          "name": "交界河村",
+          "lon": 116.595191,
+          "lat": 40.4661216,
+          "coordinate_status": "OSM named village representative point; public route and private property boundaries not surveyed"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:19:55.156775+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "篱苑书屋",
+          "source_url": "https://s.visitbeijing.com.cn/attraction/120496",
+          "status": "Approximate WGS84 converted from official tourism BD09 pin; specific building not independently resolved in OSM, not verified entrance"
+        },
+        {
+          "name": "交界河村",
+          "source_url": "https://www.openstreetmap.org/node/5768712249",
+          "status": "OSM named village representative point; public route and private property boundaries not surveyed"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "篱苑书屋 → 交界河村",
+        "box": [
+          52,
+          43,
+          298,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·怀柔区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "山谷里翻几页书",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "怀柔｜让山水慢一点  ·  约3小时",
+        "box": [
+          52,
+          282,
+          398,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "预约成功再出发的阅读日",
+        "box": [
+          55,
+          1013,
+          297,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  篱苑书屋",
+        "box": [
+          53,
+          1117,
+          205,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "柴禾外墙与阶梯阅读空间",
+        "box": [
+          56,
+          1153,
+          276,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  交界河村",
+        "box": [
+          53,
+          1194,
+          205,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿公开村路看山谷日常",
+        "box": [
+          56,
+          1230,
+          256,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "先确认书屋开放与预约；闭馆则改期，不进入关闭书屋或私宅。",
+        "box": [
+          53,
+          1281,
+          557,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "怀柔城区后需出租车或当地公交接驳；地铁不直达",
+        "box": [
+          53,
+          1362,
+          493,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "13 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "064",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

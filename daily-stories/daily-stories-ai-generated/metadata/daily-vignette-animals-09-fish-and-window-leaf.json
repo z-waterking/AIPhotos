@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-animals-09-fish-and-window-leaf.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-09-fish-and-window-leaf.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-09-fish-and-window-leaf-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 9,
+  "anthology_index": 59,
+  "panel_count": 4,
+  "display_title": "鱼的绿屋顶",
+  "visible_description": "一片移动的叶影，让鱼缸里的一条小鱼找到了新的午睡处。",
+  "synopsis": "午后的窗光照进鱼缸，小鱼在亮处游了一圈，又回到石头旁。主人挪动窗台上的绿植，一片叶影恰好落在水里，小鱼便游到影子下面。她把花盆往左挪一点，鱼也慢慢跟过去。等她把盆摆稳，小鱼停在那片柔和的绿色阴影里。主人这才发现，自己给窗台换位置，也顺手给水里添了个屋顶。",
+  "story_text": "午后的窗光落进鱼缸，小金鱼绕着圆石头游了一圈，又回到原来的地方。主人正整理窗台，双手抱着一盆绿植，不知道该靠左一点，还是靠右一点。\n\n花盆移动时，一片宽叶子的影子落进水里。鱼慢慢游到下面，金色的背变得柔和，透明的鳍轻轻摆着。\n\n她又往左挪了一点，影子跟着走，鱼也跟了一小段。主人低头看看鱼，再看看叶子，终于找到了让盆稳当、光也柔和的位置。\n\n她坐下来，把双手放到膝上。缸里的小鱼停在那片浅浅的阴影里，窗台上的叶子几乎不动。她本来只想给花盆换个地方，最后却多花了一会儿，陪鱼待在新出现的绿屋顶下。",
+  "art_direction": "Transparent gouache layers with fine colored-pencil aquatic details",
+  "character_design": "An adult plant keeper with straight dark hair tied low wears a cream blouse, muted blue trousers and soft brown slippers. A single small healthy pale-gold fish with a rounded body and translucent fins lives in a spacious clean rectangular aquarium with a visible filter, pale gravel and one smooth gray stone. A potted leafy houseplant has broad translucent green leaves and a plain terracotta pot. Soft indirect window light reaches the room without intense glare or heat.",
+  "panels": [
+    {
+      "caption": "午后的光，在水里铺得很亮。",
+      "scene": "The plant keeper stands beside a spacious rectangular aquarium near a softly lit window, watching the pale-gold fish swim above pale gravel near a smooth gray stone. The filter is visible at one side, and the water is clear and calm. On the adjacent windowsill, the broad-leaved plant sits slightly to the right so its shadow has not reached the tank. The keeper lightly grips the terracotta pot, preparing to reposition it. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "花盆一挪，水里多了一片叶影。",
+      "scene": "The keeper has moved the terracotta pot a short distance along the windowsill, and one broad green leaf now casts a soft organic shadow across the upper water near the aquarium center. The gold fish swims toward this shaded area, leaving the gray stone behind. Show the real leaf above and behind the tank together with its gently tinted shadow below, keeping the effect physical and subtle rather than a floating leaf inside the water. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "影子往左走，小鱼也跟了一段。",
+      "scene": "With both hands around the pot, the keeper slides the plant slightly left on the stable sill. The leaf shadow shifts left across the tank, and the gold fish follows at a relaxed swimming pace just beneath it. The gray stone and pale gravel remain in their original positions, providing clear landmarks for the movement. The keeper watches with curious concentration, and the visible filter maintains the realistic domestic aquarium setting. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "盆摆稳了，绿屋顶也安静下来。",
+      "scene": "The terracotta pot is now settled securely on the windowsill with its broad leaf casting one soft patch of shade into the aquarium. The gold fish hovers quietly beneath that patch, translucent fins spread gently. The keeper sits beside the tank with hands resting in the lap, smiling at the small arrangement. Frame the plant, shadow and fish together so the apparent green roof is an ordinary effect of light, not an added structure or fantasy object. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#DFE0CD",
+    "#83AAA2",
+    "#7E986A",
+    "#CB9A69",
+    "#8397B0"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "午后的光，在水里铺得很亮。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "花盆一挪，水里多了一片叶影。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "影子往左走，小鱼也跟了一段。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "盆摆稳了，绿屋顶也安静下来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "a28453fc5af4f75ee62c05c972a156b8452f21a2b3db736273b3355ba0e890de",
+  "sha256": "55dd1b46a375c866e4df0b0316e58ed8f7f0fdf9898b34fc5553be4223bd1284",
+  "prompt_sha256": "897e8978f7dd1f77dfa05798781bd8c760a19b7bbe99834e9cca9731ac5e063e",
+  "story_sha256": "b4300cfccd730ad4d8816ccdb9ac5d7742aa0a58b6aeec4d22fd29bfae771375",
+  "created_at": "2026-10-26T10:19:54.162687+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

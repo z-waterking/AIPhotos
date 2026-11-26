@@ -1,0 +1,325 @@
+{
+  "output": "../beijing-life-chaoyang-art-01-798-concrete.png",
+  "refined_prompt": "../prompts/beijing-life-chaoyang-art-01-798-concrete.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:44.834994+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-chaoyang-art",
+  "group_number": 4,
+  "series_number": 1,
+  "anthology_index": 16,
+  "title": "老厂房的新问题",
+  "sha256": "7b39986c696caf867ed916026556d964307dd287b8deef01509aad45b7bad1dc",
+  "native_sha256": "5a4a4f0cdf0df7f8ed38d420d6f9c4284127664906d3094d9b3fb9da9a3112e6",
+  "prompt_sha256": "a0e7741a075fba5fe69cf806ad4d1b3752a1d13f828664c6b98a30d02b50ce2b",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1914969,
+  "art_direction": {
+    "style_name": "硬边赛璐璐都市",
+    "style_prompt_english": "Original hard-edged cel-animation city illustration, crisp ink contours, angular light and shadow shapes, slightly wide cinematic perspective and energetic diagonal composition. Architecture must remain recognizable; saturated cyan, hot orange and violet, with small adult figures giving scale. No existing anime characters or copied artworks.",
+    "palette": [
+      "#06BED4",
+      "#FF6B35",
+      "#5436A0",
+      "#FFE9B0"
+    ],
+    "layout_variant": 3,
+    "activity": "看展、建筑与书店",
+    "area": "朝阳区"
+  },
+  "outing": {
+    "number": 1,
+    "slug": "798-concrete",
+    "title": "老厂房的新问题",
+    "subtitle": "从UCCA到清水混凝土",
+    "area_label": "朝阳·798艺术区",
+    "duration": "约3–4小时",
+    "transport": "地铁12号线高家园站；步行接驳",
+    "stops": [
+      {
+        "name": "UCCA尤伦斯当代艺术中心",
+        "detail": "挑一个当期展览",
+        "lat": 39.9827566,
+        "lon": 116.489186,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://ucca.org.cn/en/visit/",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/5930548986"
+      },
+      {
+        "name": "798 CUBE",
+        "detail": "看混凝土建筑与展览",
+        "lat": 39.9857536,
+        "lon": 116.4887999,
+        "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance",
+        "source_url": "https://www.798cube.com.cn/index/index/about.html",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/11530187637"
+      }
+    ],
+    "practical_note": "提前查两馆票务；深度看展可只选一馆，院区步行另留时间。",
+    "copy_title": "朝阳·798艺术区｜老厂房的新问题",
+    "copy_body": "在同一个艺术区，看老厂房怎样容纳当代展览，也看清水混凝土怎样制造新空间。选一个真正感兴趣的展慢慢看。 路线：UCCA尤伦斯当代艺术中心 → 798 CUBE。约3–4小时，到首站和返程另计。提前查两馆票务；深度看展可只选一馆，院区步行另留时间。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "朝阳",
+      "老厂房的新问题"
+    ],
+    "hero_prompt_english": "Recognizable 798 industrial art district scene with sawtooth red-brick factory roofs and the folded plain concrete massing of 798 CUBE, an adult looking up at a building corner, vivid blue sky and hard purple shadows. No copyrighted sculptures or recognizable exhibition artworks. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      53,
+      1122,
+      373,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "3e6e11f22199560a9f9ba8cd03084406358273f1df1abe5109e33865fed5723c",
+      "bounds_wgs84": [
+        116.48063861785768,
+        39.977853551390616,
+        116.49734728214234,
+        39.99065608171283
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "UCCA尤伦斯当代艺术中心",
+          "lon": 116.489186,
+          "lat": 39.9827566,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "798 CUBE",
+          "lon": 116.4887999,
+          "lat": 39.9857536,
+          "coordinate_status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:26:03.430449+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "UCCA尤伦斯当代艺术中心",
+          "source_url": "https://www.openstreetmap.org/node/5930548986",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        },
+        {
+          "name": "798 CUBE",
+          "source_url": "https://www.openstreetmap.org/node/11530187637",
+          "status": "OSM named feature representative point from earlier directly verified route research; WGS84; not surveyed entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "UCCA尤伦斯当代艺术中心 → 798 CUBE",
+        "box": [
+          52,
+          43,
+          514,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "朝阳·798艺术区",
+        "box": [
+          52,
+          133,
+          301,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "老厂房的新问题",
+        "box": [
+          49,
+          188,
+          532,
+          256
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "朝阳艺术与新鲜事  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "从UCCA到清水混凝土",
+        "box": [
+          55,
+          1013,
+          267,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          53,
+          1102,
+          221,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  UCCA尤伦斯当代艺术中心",
+        "box": [
+          413,
+          1117,
+          772,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "挑一个当期展览",
+        "box": [
+          416,
+          1153,
+          556,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  798 CUBE",
+        "box": [
+          413,
+          1194,
+          582,
+          1215
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "看混凝土建筑与展览",
+        "box": [
+          416,
+          1230,
+          596,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "提前查两馆票务；深度看展可只选一馆，院区步行另留时间。",
+        "box": [
+          413,
+          1281,
+          899,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁12号线高家园站；步行接驳",
+        "box": [
+          413,
+          1362,
+          697,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "04 / 20  ·  01 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "016",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

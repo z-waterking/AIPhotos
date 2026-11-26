@@ -1,0 +1,218 @@
+{
+  "output": "../daily-vignette-wonder-06-moon-button-sewing.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-06-moon-button-sewing.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-06-moon-button-sewing-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 6,
+  "anthology_index": 96,
+  "panel_count": 6,
+  "display_title": "月亮掉了扣子",
+  "visible_description": "月亮找到掉落的亮扣子，却把它留给了一件旧睡衣。",
+  "synopsis": "在这个原创童话里，圆月穿着一件浅蓝睡衣经过屋顶，袖口的小亮扣子掉进了晾衣篮。它顺着窗边的光找到篮子，发现里面有一件正好缺扣子的旧睡衣。月亮把扣子放到缺口上，扣子便自己缝住了。它卷起没有扣子的袖口离开，第二天晚上，那件旧睡衣的袖子先亮起了一小点温柔的光。",
+  "story_text": "月亮穿着浅蓝睡衣经过屋顶，正想把袖口扣好，一颗亮扣子却轻轻一跳，落进了阳台上的晾衣篮。它只好顺着那一点光，慢慢找下来。\n\n篮里有件洗得柔软的旧睡衣，袖口恰好空着一个扣眼。\n\n亮扣子躺在旁边，像已经给自己找好了位置。月亮看看旧睡衣，又看看自己的松袖子。\n\n它把扣子放到那个缺口上，细细的光绕了一圈，扣子便牢牢待住。月亮替旧睡衣抚平袖口，再把自己的袖子卷起来，轻轻回到窗外。\n\n第二天晚上，旧睡衣挂在房间里。灯还没有打开，袖口就先亮起一点温柔的光。\n\n窗外的月亮也亮着，蓝袖子仍卷了一个小边，看起来一点也不妨碍它舒舒服服地经过夜空。",
+  "art_direction": "Soft nocturnal gouache with muted metallic pencil glow",
+  "character_design": "An original round moon character has a small warm ivory glowing face, sleepy friendly eyes, and a full pale blue pajama suit with rounded cuffs. It is human sized but softly floating above low rooftops. A tiny luminous cream button and a folded lavender adult pajama top in a wicker laundry basket are the recurring objects. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "月亮路过屋顶，少了一颗袖扣。",
+      "scene": "A round friendly moon in pale blue pajamas floats just above a low rooftop at night, looking at one unfastened cuff. A tiny luminous button drifts downward toward a wicker laundry basket on a sheltered balcony. The moon’s expression is surprised but calm. The neighborhood below is softly lit and entirely peaceful, without people near edges. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "亮扣子，落在一件旧睡衣旁。",
+      "scene": "The moon kneels safely on the sheltered balcony beside the laundry basket, locating its glowing button next to a folded lavender pajama top. The old top has one clearly empty button loop at its cuff. The moon holds its own loose sleeve near the basket, comparing the two small gaps with an attentive expression. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "两只袖口，正好少着同样一颗。",
+      "scene": "The moon holds its own loose blue cuff beside the lavender pajama cuff in the basket, comparing their empty button loops. The tiny glowing button rests between them on the folded fabric. Its sleepy eyes soften in thought. Both cuffs are round and simple, making the decision visible through the matching small gaps rather than any spoken explanation. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "这个缺口，似乎更需要它。",
+      "scene": "The moon gently places the luminous button against the empty cuff loop of the lavender pajama top. A tiny soft curl of magical thread joins it in place without any needle or tool. The moon’s own sleeve remains unfastened. The basket’s folded clothes provide a warm resting background for this small deliberate gift. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "它把自己的袖子，轻轻卷了起来。",
+      "scene": "The moon rolls its unfastened pale blue sleeve into a neat comfortable cuff after leaving the luminous button attached to the lavender pajama top. The repaired top lies neatly in the basket, glowing only at the small fastening. The moon smiles as it lifts one rounded arm, testing that the simple rolled sleeve feels pleasant. Use old paper gouache and colored pencil, matching the established character and object designs. Show one clear visible instant with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "从此，袖口也会先说晚安。",
+      "scene": "The lavender pajama top hangs neatly from a broad wooden hanger inside a quiet bedroom, its newly attached cuff button glowing softly. Beyond the open window, the moon floats away with its loose blue sleeve comfortably rolled up. The scene connects the small bedroom glow and distant moonlight through matching warm ivory tones. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#C8D2CF",
+    "#7F95AE",
+    "#D8C67E",
+    "#A49A83",
+    "#64788C"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "月亮路过屋顶，少了一颗袖扣。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "亮扣子，落在一件旧睡衣旁。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "两只袖口，正好少着同样一颗。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "这个缺口，似乎更需要它。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "它把自己的袖子，轻轻卷了起来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "从此，袖口也会先说晚安。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "5bb8299d04f515298983d963ecc333fd7de3f28ecbe2339881154e9413e8389e",
+  "sha256": "9869ed34b6d33c7bd256b4b778d833b2605ec1b78c6b00e624e493878a2fbaea",
+  "prompt_sha256": "12b30328a04e68bfe7755ce711c03f821b044784cf51f1f944f53722c3f19e4d",
+  "story_sha256": "8fa272b416f382341d72ab49cddaff7fb54c3e1c52e9ed82a24d629d1795e3e4",
+  "created_at": "2026-10-26T10:48:38.231366+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

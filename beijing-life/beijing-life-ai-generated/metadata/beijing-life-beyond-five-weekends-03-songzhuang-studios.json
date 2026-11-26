@@ -1,0 +1,333 @@
+{
+  "output": "../beijing-life-beyond-five-weekends-03-songzhuang-studios.png",
+  "refined_prompt": "../prompts/beijing-life-beyond-five-weekends-03-songzhuang-studios.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:09.298347+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-beyond-five-weekends",
+  "group_number": 20,
+  "series_number": 3,
+  "anthology_index": 98,
+  "title": "宋庄看展慢一点",
+  "sha256": "2dbe47cb66250570daa34b6746ad172811db5a944ff2292d498dc46e3197a0c1",
+  "native_sha256": "d5d04f17f5849510b82de252cf2bf5357968fc7516957832bde70cca14aa1788",
+  "prompt_sha256": "745feaa831dc1fe67e3e63f17e8620802d392225c0ce685fce3f861dcdfb6831",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1814552,
+  "art_direction": {
+    "style_name": "像素立体场景",
+    "style_prompt_english": "High-quality original pixel-art isometric diorama, crisp deliberate square pixels with elegant limited palette and detailed architecture, sophisticated game-environment lighting, stepped shadows, densely composed foreground and background, adults at realistic small scale. Do not copy any game world, branded character or existing pixel artwork; no text, HUD or border.",
+    "palette": [
+      "#283B63",
+      "#DF8472",
+      "#8FBF8B",
+      "#E7CD7A",
+      "#87C8CF"
+    ],
+    "layout_variant": 4,
+    "activity": "艺术园庭／创意商街／自然观察",
+    "area": "北京五环外"
+  },
+  "outing": {
+    "number": 3,
+    "slug": "songzhuang-studios",
+    "title": "宋庄看展慢一点",
+    "subtitle": "艺术区里的开放日散步",
+    "area_label": "五环外·通州宋庄",
+    "duration": "约4小时",
+    "transport": "地铁潞城站后接驳小堡片区；两点约2公里，可步行或短程接驳",
+    "stops": [
+      {
+        "name": "宋庄画家村小堡片区",
+        "detail": "艺术街区与工作室外观",
+        "lat": 39.9472323,
+        "lon": 116.7157309,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119677",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/7631906984"
+      },
+      {
+        "name": "宋庄美术馆周边",
+        "detail": "红砖艺术建筑外观",
+        "lat": 39.9629937,
+        "lon": 116.7076469,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/119677",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1245299162"
+      }
+    ],
+    "practical_note": "只进入对公众开放的展馆与店铺；工作室须获邀请，展览营业与票务提前查。",
+    "copy_title": "宋庄看展慢一点｜北京周末灵感",
+    "copy_body": "艺术区里的开放日散步。宋庄画家村小堡片区 → 宋庄美术馆周边，安排约4小时。从艺术街区与工作室外观到红砖艺术建筑外观，留点时间给自己。只进入对公众开放的展馆与店铺；工作室须获邀请，展览营业与票务提前查。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "五环外"
+    ],
+    "hero_prompt_english": "Songzhuang Xiaopu art district Beijing, red brick contemporary gallery blocks with broad blank walls, modest former village lanes and studio courtyards, an adult carrying a rolled blank sketch paper and stopping to view an original simple clay pot in a public window. No unauthorized private studio interiors or copied public artworks. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "10730e35f997820ac9baf6fc623427d54ae9ac86ed437841696c0029de179c54",
+      "bounds_wgs84": [
+        116.69575370934386,
+        39.94289727821723,
+        116.72762409065611,
+        39.96732744818501
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "宋庄画家村小堡片区",
+          "lon": 116.7157309,
+          "lat": 39.9472323,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "宋庄美术馆周边",
+          "lon": 116.7076469,
+          "lat": 39.9629937,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:21:12.711264+00:00",
+      "scale_bar_meters": 500,
+      "coordinate_sources": [
+        {
+          "name": "宋庄画家村小堡片区",
+          "source_url": "https://www.openstreetmap.org/node/7631906984",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "宋庄美术馆周边",
+          "source_url": "https://www.openstreetmap.org/way/1245299162",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "宋庄画家村小堡片区 → 宋庄美术馆周边",
+        "box": [
+          52,
+          43,
+          506,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "五环外·通州宋庄",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "宋庄看展慢一点",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "五环外·创意周末  ·  约4小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "艺术区里的开放日散步",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  宋庄画家村小堡片区",
+        "box": [
+          53,
+          1117,
+          340,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "艺术街区与工作室外观",
+        "box": [
+          56,
+          1153,
+          256,
+          1173
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  宋庄美术馆周边",
+        "box": [
+          53,
+          1194,
+          286,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "红砖艺术建筑外观",
+        "box": [
+          56,
+          1230,
+          216,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "只进入对公众开放的展馆与店铺；工作室须获邀请，展览营业与票务提",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "前查。",
+        "box": [
+          53,
+          1306,
+          107,
+          1323
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁潞城站后接驳小堡片区；两点约2公里，可步行或短程接驳",
+        "box": [
+          53,
+          1362,
+          605,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "20 / 20  ·  03 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "098",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

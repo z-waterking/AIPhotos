@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-neighbors-07-rooftop-quilt-cloud-theater.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-07-rooftop-quilt-cloud-theater.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-07-rooftop-quilt-cloud-theater-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 7,
+  "anthology_index": 27,
+  "panel_count": 4,
+  "display_title": "被子上的云",
+  "visible_description": "晾晒的大白被挡住小朋友看云，邻居用树叶影子临时搭了一座小剧场。",
+  "synopsis": "小朋友跟爸爸上公共晒台看云，发现邻居刚挂的大白被正好挡住常看的那一角天空。她踮了踮脚，又乖乖站回爸爸身边。邻居看见后，拿起地上干净的落叶，在阳光里投出一条大鱼。孩子笑着举起自己的手，鱼旁边又多了一只兔子。等被子收好，大家抬头找云，孩子却说，刚才那条鱼还在白白的地方游。",
+  "story_text": "女孩跟爸爸上公共晒台看云，常看的那角天空今天被大白被子挡住了。她踮踮脚，还是看不全，只好站回爸爸身边，捏住他的衣角。\n\n邻居刚夹好被子，看见她的样子，弯腰捡起一片干净落叶。叶子举到阳光里，被面上便多了一条长长的影子，尾巴一动，竟像条小鱼。\n\n女孩立刻松开衣角，举起两根手指。爸爸帮她稳住手腕，一只小兔子也出现在被子上。邻居慢慢移叶子，鱼从兔子耳朵旁边游了过去。\n\n傍晚被子收好，天空重新露出来。女孩指着一小条白云，请爸爸看看，刚才的鱼是不是游到那里了。邻居抱着白被子站在旁边，干净的叶子还搁在最上面，没有马上拿走。",
+  "art_direction": "Sunlit gouache with broad pale cloth and softly drawn shadow silhouettes",
+  "character_design": "The child is a Chinese girl around seven with a short black bob and two small side clips, wearing a mustard cardigan, cream long-sleeved shirt, brown trousers, and sneakers. Her father has short dark hair and a gentle oval face, wearing a pale blue shirt and olive trousers. Their neighbor is a Chinese woman around fifty with short wavy hair and a rust apron over a cream blouse with navy trousers. The public drying terrace has high protective walls, a wide central clothesline, and a large plain white quilt.",
+  "panels": [
+    {
+      "caption": "常看的那角天空，今天被白被子挡住了。",
+      "scene": "On a spacious shared drying terrace with high protective walls, the girl stands beside her father and looks upward at a large white quilt hanging on a central clothesline. The quilt blocks the familiar view of a small patch of sky above the far wall. She rises briefly onto her toes but remains safely beside him, well away from any edge. Their neighbor adjusts one quilt corner nearby. Soft blue sky is still visible around the cloth, and the girl's curious, mildly disappointed face keeps the situation gentle and ordinary."
+    },
+    {
+      "caption": "邻居举起一片落叶，被子上游来一条鱼。",
+      "scene": "The neighbor holds a clean broad fallen leaf by its stem between the sunlight and the white quilt. Its simple tapered shadow resembles a fish on the fabric, with the leaf tip becoming a tail-like point. The girl turns toward the shadow with delighted attention, and her father crouches slightly beside her to share the view. Keep the actual leaf visible near the neighbor's hand so the effect is clearly natural. The quilt remains firmly clipped on the line, serving as a bright soft screen in the middle of the safe terrace."
+    },
+    {
+      "caption": "她也举起小手，让一只兔子追着鱼跑。",
+      "scene": "The girl raises two fingers of one hand into the sunlight, creating a simple rabbit-ear shadow beside the leaf's fish-like shadow on the quilt. Her father steadies her wrist lightly to help the shape stay clear, while the neighbor holds the leaf a little farther along the cloth. All three focus on the playful shadow meeting, smiling naturally. Use one visible arrangement of shadows rather than multiple motion stages. The broad white fabric should dominate the frame, with warm silhouettes and the real hands remaining visible at its lower edge."
+    },
+    {
+      "caption": "被子收好了，她还在云里找那条小鱼。",
+      "scene": "The neighbor now carries the neatly folded white quilt against her chest while father and daughter stand beside the cleared clothesline. The girl points toward a small elongated white cloud in the open blue sky, and both adults follow her gaze with amused smiles. The leaf rests on the folded quilt's top edge, connecting the earlier shadow play to this final moment. Keep the terrace walls high and the group centered safely within the space. The cloud may gently suggest a fish without becoming a literal animal or magical transformation."
+    }
+  ],
+  "palette": [
+    "#F1E7D3",
+    "#9CB7C4",
+    "#A7AF83",
+    "#C69171",
+    "#807A70"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "常看的那角天空，今天被白被子挡",
+          "住了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "邻居举起一片落叶，被子上游来一",
+          "条鱼。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "她也举起小手，让一只兔子追着鱼",
+          "跑。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "被子收好了，她还在云里找那条小",
+          "鱼。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "e02c116722627a7128b6130a6550bcd9cf5e45e9d0b55e6143e853e78b112bac",
+  "sha256": "af9c3e65f6c74109454ee132efc658207272320cdd022aa7c6108a7e3570e0c2",
+  "prompt_sha256": "1766f4e0890f5aca45825a5ff7ad612cfcdb279172da25137fd3f7d438c066d8",
+  "story_sha256": "047c687d33f5e31f1bc717ad5f0abc7fccb72a3de39f2f04098fc6a1e595e623",
+  "created_at": "2026-10-26T09:59:22.991045+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

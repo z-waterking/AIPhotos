@@ -1,0 +1,323 @@
+{
+  "output": "../beijing-life-mentougou-woodcut-05-tangu-slow.png",
+  "refined_prompt": "../prompts/beijing-life-mentougou-woodcut-05-tangu-slow.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:55:40.920802+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-mentougou-woodcut",
+  "group_number": 11,
+  "series_number": 5,
+  "anthology_index": 55,
+  "title": "在檀谷坐一下午",
+  "sha256": "5865582049f3062f82fef7efaba621195289ad1149ca1d175d6df97a78075ae3",
+  "native_sha256": "65d71b53dbf40c43d3d8008fad15738ba9bdc7b7c72db05557b7fd18876e7e14",
+  "prompt_sha256": "5e54faad70b742650fb20f0c772330a6af8a008217c8729fc93347250c0b4504",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2335747,
+  "art_direction": {
+    "style_name": "套色木刻版画",
+    "style_prompt_english": "Original multicolor woodcut print: broad hand-carved contour marks, irregular carved grain, rich dark indigo key blocks, ochre and jade spot colors, strong architectural silhouette with warm positive-negative shapes. Fill the scene with meaningful terrain and building detail, no artist imitation.",
+    "palette": [
+      "#213955",
+      "#E8B044",
+      "#D86643",
+      "#85A48B"
+    ],
+    "layout_variant": 0,
+    "activity": "古建与山城",
+    "area": "门头沟区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "tangu-slow",
+    "title": "在檀谷坐一下午",
+    "subtitle": "咖啡、书与山脚下的街区",
+    "area_label": "北京·门头沟区",
+    "duration": "约3–4小时",
+    "transport": "地铁S1线或6号线后换公交或出租车",
+    "stops": [
+      {
+        "name": "檀谷慢闪公园",
+        "detail": "山景之间的开放休闲空间",
+        "lat": 39.8768762,
+        "lon": 116.0471376,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/121087",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1213615039"
+      },
+      {
+        "name": "檀谷慢闪广场",
+        "detail": "逛店、阅读或吃一顿饭",
+        "lat": 39.87831,
+        "lon": 116.0464434,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/121087",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1013707318"
+      }
+    ],
+    "practical_note": "店铺营业、展览与活动以当日为准；不把附近山路纳入行程。",
+    "copy_title": "门头沟区｜在檀谷坐一下午",
+    "copy_body": "咖啡、书与山脚下的街区。这次只安排一个片区：檀谷慢闪公园 → 檀谷慢闪广场。建议留约3–4小时，把拍照、休息和短时参观一起算进去。店铺营业、展览与活动以当日为准；不把附近山路纳入行程。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "门头沟区",
+      "北京小众玩法",
+      "古建与山城"
+    ],
+    "hero_prompt_english": "TANKO Tangu in Mentougou: a compact contemporary pedestrian district at the foot of western hills, warm-toned low modern facades, stepped terraces, planters and a public plaza with cafe tables. Two adult friends read and drink coffee below mountain silhouettes. Authentic mountain-foot slow-life atmosphere with compact human-scale urban architecture, no fictional alpine chalets. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "cba9d403e25c06a396a84eb920a14e3ba6fb3ad21e102c5cabb102b28ffeda53",
+      "bounds_wgs84": [
+        116.03843616785767,
+        39.87118155635222,
+        116.05514483214233,
+        39.88400405177744
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "檀谷慢闪公园",
+          "lon": 116.0471376,
+          "lat": 39.8768762,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "檀谷慢闪广场",
+          "lon": 116.0464434,
+          "lat": 39.87831,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:26.791563+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "檀谷慢闪公园",
+          "source_url": "https://www.openstreetmap.org/way/1213615039",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "檀谷慢闪广场",
+          "source_url": "https://www.openstreetmap.org/way/1013707318",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "檀谷慢闪公园 → 檀谷慢闪广场",
+        "box": [
+          52,
+          43,
+          402,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·门头沟区",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "在檀谷坐一下午",
+        "box": [
+          49,
+          188,
+          532,
+          254
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "门头沟｜京西不赶路  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "咖啡、书与山脚下的街区",
+        "box": [
+          55,
+          1013,
+          297,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  檀谷慢闪公园",
+        "box": [
+          53,
+          1117,
+          259,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "山景之间的开放休闲空间",
+        "box": [
+          56,
+          1153,
+          276,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  檀谷慢闪广场",
+        "box": [
+          53,
+          1194,
+          259,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "逛店、阅读或吃一顿饭",
+        "box": [
+          56,
+          1230,
+          256,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "店铺营业、展览与活动以当日为准；不把附近山路纳入行程。",
+        "box": [
+          53,
+          1281,
+          539,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁S1线或6号线后换公交或出租车",
+        "box": [
+          53,
+          1362,
+          370,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "11 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "055",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

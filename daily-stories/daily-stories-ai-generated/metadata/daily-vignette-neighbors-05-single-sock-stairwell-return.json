@@ -1,0 +1,217 @@
+{
+  "output": "../daily-vignette-neighbors-05-single-sock-stairwell-return.png",
+  "refined_prompt": "../prompts/daily-vignette-neighbors-05-single-sock-stairwell-return.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-neighbors-05-single-sock-stairwell-return-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-neighbors",
+  "group": "neighbors",
+  "series_number": 5,
+  "anthology_index": 25,
+  "panel_count": 6,
+  "display_title": "袜子来串门",
+  "visible_description": "被风带走的一只白袜，让住上下楼的邻居认识了彼此阳台上的小日常。",
+  "synopsis": "楼上的白袜落进了楼下阿姨的吊兰盆，她认出那对蓝色袜口，便洗干净晾好，装进小篮子送上去。年轻邻居正举着剩下的一只发愁，见到篮子连忙笑着道谢。她拿出一把更结实的木夹子回赠。第二天，两个阳台都换上木夹子，袜子安安稳稳挂着，楼下阿姨仍抬头挥了挥手，像是在等它们继续来聊天。",
+  "story_text": "楼下阿姨给吊兰转盆，发现叶子上搭着一只白袜，袜口两条蓝线，分明是楼上前两天刚晾的那双。她抬头看一眼，先把袜子轻轻摘下来。\n\n洗过晾干，阿姨把它放进小篮子，送上楼。年轻邻居开门时，手里正拿着另一只。两只袜子一照面，她一下笑了，忙请阿姨进屋坐坐。\n\n临走，年轻邻居找出一把结实的木夹子，放到篮里，说两家都换这个试试。阿姨拎回去，夹好自己的衬衣，也替那盆吊兰留出一点晒太阳的空。\n\n第二天白袜稳稳挂在上面，再没往下串门。阿姨照旧抬头，却看见楼上的姑娘先招了招手。她也举起拿着夹子的手，晾衣服这件事，忽然多了一个短短的停顿。",
+  "art_direction": "Breezy domestic gouache and delicate colored-pencil cloth textures on warm paper",
+  "character_design": "The upstairs neighbor is a Chinese woman in her late twenties with black hair in a loose bun and a bright oval face. She wears a pale blue sweatshirt and cream trousers. The downstairs neighbor is a Chinese woman in her fifties with short dark hair streaked with gray, wearing a muted apricot blouse, olive trousers, and a plain apron. The lost sock is white with two narrow blue bands at its cuff. A small wicker basket, a spider plant, and sturdy wooden laundry pegs recur through the story.",
+  "panels": [
+    {
+      "caption": "白袜没有回屋，落进了楼下的吊兰盆。",
+      "scene": "On the downstairs enclosed balcony, the older woman notices a white sock with two blue cuff bands resting harmlessly across the long leaves of a spider plant. She reaches gently to lift it from the foliage while looking upward toward the balcony above, which is visible only as a safe architectural edge. Her own laundry hangs neatly behind her. Keep the sock dry and lightly draped rather than buried in soil. The leafy plant, pale railing, and soft breeze establish the accidental visit without showing any object falling through the air."
+    },
+    {
+      "caption": "袜子洗过了，先在她的窗前晒一会儿。",
+      "scene": "The single white sock with two blue cuff bands hangs cleanly from a sturdy wooden peg on the older woman's indoor balcony line. She smooths its toe gently with one hand while the spider plant rests unharmed below. A small wicker basket waits on a nearby stool to carry the sock upstairs later. Use fresh window light and the recognizable blue bands to show a careful intermediate act of kindness rather than an immediate return."
+    },
+    {
+      "caption": "她洗净晾干，用小篮子送它回去。",
+      "scene": "In the shared stairwell, the older woman stands at the upstairs doorway holding a small wicker basket with the clean blue-banded sock folded inside. The younger neighbor opens the door while holding the matching single sock in one hand, her expression changing instantly from concern to recognition. Both socks are clearly visible and identical. The older woman's sleeves and apron remain consistent, and the doorway is well lit. Frame this as a simple friendly return, using the basket and matching cuffs to explain the connection without any labels or dialogue lettering."
+    },
+    {
+      "caption": "她送回一把木夹子，请袜子以后站稳些。",
+      "scene": "The younger neighbor places a handful of sturdy plain wooden laundry pegs into the older woman's open wicker basket. Both blue-banded socks now rest together on a nearby entryway stool, reunited. The older woman looks down at the practical return gift with a pleased smile while the younger woman gestures toward her balcony in the background. Keep the handful modest and the pegs recognizable. The scene focuses on one reciprocal offer, with the open door and warm apartment light making the newly comfortable relationship visible through their relaxed posture."
+    },
+    {
+      "caption": "她把新夹子带回去，也给衬衣夹得更稳。",
+      "scene": "Back on her own enclosed balcony, the older woman attaches two of the new sturdy wooden pegs to the shoulders of a clean shirt on the line. The wicker basket sits by the spider plant with the remaining pegs inside. Her hands work calmly at a comfortable height, entirely behind the protective railing. Keep the blue-banded socks absent because they have already returned upstairs, emphasizing her own use of the practical gift before the neighbors wave again."
+    },
+    {
+      "caption": "袜子不再串门，晾衣的人倒开始打招呼了。",
+      "scene": "From the courtyard, show the two adjacent balconies one above the other, both safely enclosed. The white socks with blue cuffs hang firmly from wooden pegs on the upper balcony, where the young woman waves down with one hand. The older woman stands below beside her spider plant and waves back, a small basket of matching wooden pegs at her elbow. Keep both figures naturally scaled within the building and neither leaning beyond the railing. Soft laundry and green leaves connect their ordinary spaces, while the securely hanging socks complete the small practical change."
+    }
+  ],
+  "palette": [
+    "#EEE3CE",
+    "#80A2B8",
+    "#91A77D",
+    "#C99271",
+    "#857568"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "白袜没有回屋，落进了楼下的吊兰",
+          "盆。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "袜子洗过了，先在她的窗前晒一会",
+          "儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "她洗净晾干，用小篮子送它回去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "她送回一把木夹子，请袜子以后站",
+          "稳些。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "她把新夹子带回去，也给衬衣夹得",
+          "更稳。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "袜子不再串门，晾衣的人倒开始打",
+          "招呼了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "0463230866a2ad867e93cc34317eb2368bafa7f57c655476bca1b9f68a06cd79",
+  "sha256": "24b9bfcf459d73faf31a07b56224b7b4015b6d6f02c12a24dfea915c0d1efe09",
+  "prompt_sha256": "08f0b9fea857decc11bac7ac6057d4800eadad34cbf2836e1260dfd4eea3e62c",
+  "story_sha256": "3a5bf94d1e3804d6944eec956a7aabc8294d922635c43db6b5a775548a657314",
+  "created_at": "2026-10-26T09:56:34.330706+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "output": "../daily-vignette-city-02-station-suitcase-wheel.png",
+  "refined_prompt": "../prompts/daily-vignette-city-02-station-suitcase-wheel.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-city-02-station-suitcase-wheel-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-city",
+  "group": "city",
+  "series_number": 2,
+  "anthology_index": 72,
+  "panel_count": 6,
+  "display_title": "箱子的咕噜声",
+  "visible_description": "旅行箱的小轮子夹了一颗石子，清出来以后一路安静得有点不习惯。",
+  "synopsis": "阿南拖着旅行箱走过安静的车站长廊，小轮子却每转一圈就轻轻跳一下。她先换手，再换一条路，声音仍紧紧跟着。坐下检查时，她发现轮纹里卡着一颗小圆石，便用手指轻轻取下。重新出发，箱子终于顺滑安静；走出几步，她又回头，把那颗小石子放进了旁边的花池里。",
+  "story_text": "阿南拖着小旅行箱走进车站长廊。脚步很轻，箱子却总是一转一跳，规律地发出小小的咕噜声，像有个看不见的东西在后面提醒她。\n\n她换到另一只手，走到更平的地面，声音还是跟着。\n\n前面有张空长椅，她坐下来，把箱子侧好，转了转小轮子，终于看到轮纹里的一颗圆石子。\n\n石子卡得不深，阿南用指尖轻轻取出来，轮子马上转得顺畅。她把箱子放正，重新握住拉杆，走了几步，长廊里忽然只剩自己的脚步。\n\n这安静让她回头看了一眼。那颗石子还留在椅边，像刚刚下车的小旅客。\n\n阿南走回去，把它放进花池的碎石里。再出发时，箱子轻轻跟着，已经不需要一路提醒她了。",
+  "art_direction": "Compact gouache interiors with fine pencil botanical lines",
+  "character_design": "Anan is an adult woman with round glasses, a short dark bob, a coral jacket, navy trousers, and cream walking shoes. She pulls a small muted teal suitcase with a tan handle and dark rubber wheels. One tiny round ochre pebble is lodged in a wheel groove; the station has broad benches and a low planted bed. Preserve these exact faces, proportions, clothing colors, and recurring props throughout all panels. Keep every figure fully clothed, gently expressive, and grounded in an ordinary peaceful setting. Objects and backgrounds have no legible writing, logos, or commercial designs.",
+  "panels": [
+    {
+      "caption": "箱子每转一圈，就轻轻跳一下。",
+      "scene": "Anan walks through a quiet station corridor, pulling a small teal suitcase by its tan handle. One dark wheel tilts slightly as it passes over a tiny pebble caught in its groove, creating a visibly uneven roll. She looks back at the case with mild curiosity. Wide benches and a low planted bed frame the open walkway. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "换一只手，声音还是跟着。",
+      "scene": "Anan has moved the suitcase handle to her other hand and pauses on a smooth section of the station floor. The suitcase stands slightly canted on the same troublesome wheel. She studies it with a puzzled expression, realizing the floor is not the cause. An empty bench is clearly visible just beside her. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "坐下来转转轮子，找到一颗小圆石。",
+      "scene": "Seated on the bench, Anan rests the suitcase securely on its broad side and turns one wheel with her fingertips. A tiny ochre pebble is visibly lodged in a shallow rubber groove. She leans close to examine it, keeping the bag stable on the floor. Her glasses catch soft light from the station windows. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "ML"
+    },
+    {
+      "caption": "轻轻取出来，轮子终于顺了。",
+      "scene": "Anan holds the tiny round pebble between two fingertips while the freed suitcase wheel rests beside her other hand. The shallow groove is now clear. Her shoulders relax with the small discovery. The suitcase remains securely on its side by the bench, and the quiet corridor stretches behind her without crowds or readable signs. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "MR"
+    },
+    {
+      "caption": "再走几步，安静得有点不习惯。",
+      "scene": "Anan walks several steps away with the teal suitcase now rolling smoothly and upright behind her. She turns her head back toward the bench, noticing the small ochre pebble she left on its edge. The unobstructed wheel is clearly visible. Her expression mixes relief with a little fond recognition of the former traveling companion. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "小石子的下一站，就在花池里。",
+      "scene": "Anan places the tiny ochre pebble among similar smooth stones in the low station planter. Her teal suitcase stands upright and steady beside her ankle. She uses two fingertips to settle the pebble in a small open spot beneath a green plant. The bench remains nearby, completing the brief stop before her quiet journey continues. Use old paper gouache and colored pencil, with identical character appearances, clothing colors, and recurring objects across panels. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DDD6BF",
+    "#779CA0",
+    "#BF9B6B",
+    "#A9838A",
+    "#8A9D76"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "箱子每转一圈，就轻轻跳一下。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "换一只手，声音还是跟着。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "坐下来转转轮子，找到一颗小圆石。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "轻轻取出来，轮子终于顺了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "再走几步，安静得有点不习惯。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "小石子的下一站，就在花池里。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "0f48942ec02a08f520c3994ba35bd962c2f45ca4532e67dedf6e747730ab1874",
+  "sha256": "46b087ab4b45bd67d6161b579782d9b078746216b1110628439284810824cbf9",
+  "prompt_sha256": "d1b4bd1015d6af2473c5f6151644377b0daf0b52db79925678deb3cb4d8992a9",
+  "story_sha256": "2654b4a5508976fa1e5a4dc050057416870a0b69d72b499f1ef91216f017d732",
+  "created_at": "2026-10-26T10:27:47.160199+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

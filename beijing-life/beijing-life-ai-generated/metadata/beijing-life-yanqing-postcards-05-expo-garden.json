@@ -1,0 +1,329 @@
+{
+  "output": "../beijing-life-yanqing-postcards-05-expo-garden.png",
+  "refined_prompt": "../prompts/beijing-life-yanqing-postcards-05-expo-garden.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:58:26.272180+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-yanqing-postcards",
+  "group_number": 15,
+  "series_number": 5,
+  "anthology_index": 75,
+  "title": "世园建筑与秋色",
+  "sha256": "76d59aa5b3288bfe85f67bdc663535697d70a4c8a22b55b9a437e9c865185288",
+  "native_sha256": "4a23fc89c5090b16bad19843c43a78018de778d0645dcfb6f3cd42e69fe7fdd6",
+  "prompt_sha256": "1a868926c2a61ae58870463a2df95c96b02176c94f6a7349476ec78223c0c7df",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2516820,
+  "art_direction": {
+    "style_name": "复古旅行邮票",
+    "style_prompt_english": "Original vintage engraved travel-postage illustration, intricate cross-hatching, saturated spot inks, large monumental framing, tiny scenic vignettes, fine perforation-inspired edge rhythm integrated into a full-bleed design, no lettering or numerals. Architectural features remain realistic. Not a recreation of any actual stamp.",
+    "palette": [
+      "#173B50",
+      "#E46338",
+      "#E9B951",
+      "#C9DDD2"
+    ],
+    "layout_variant": 4,
+    "activity": "湖岸散步／古城／园艺",
+    "area": "延庆区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "expo-garden",
+    "title": "世园建筑与秋色",
+    "subtitle": "园艺风景里的两座地标",
+    "area_label": "延庆·世园片区",
+    "duration": "约4–5小时",
+    "transport": "到延庆站后公交或出租车接驳；园内步行",
+    "stops": [
+      {
+        "name": "北京世园公园中国馆",
+        "detail": "如意形屋顶建筑",
+        "lat": 40.439677,
+        "lon": 115.9437004,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120984",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/1019709130"
+      },
+      {
+        "name": "北京世园公园永宁阁",
+        "detail": "山顶楼阁与园林远眺",
+        "lat": 40.441881,
+        "lon": 115.9399211,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120984",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/687879788"
+      }
+    ],
+    "practical_note": "公园票务、建筑入内及上山园路开放情况提前确认；不含往返交通。",
+    "copy_title": "世园建筑与秋色｜北京周末灵感",
+    "copy_body": "园艺风景里的两座地标。北京世园公园中国馆 → 北京世园公园永宁阁，安排约4–5小时。从如意形屋顶建筑到山顶楼阁与园林远眺，留点时间给自己。公园票务、建筑入内及上山园路开放情况提前确认；不含往返交通。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "延庆"
+    ],
+    "hero_prompt_english": "Beijing Expo Park China Pavilion with its long elegant curved ruyi-inspired roof integrated into terraced green earth, rich autumn planting, a smaller traditional Yongning Pavilion on the wooded hill in the distance, one adult sketching the roofline from a public garden bench. Accurate low sweeping roof, no imaginary skyscrapers. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "5001b23b785df025655b74a78e2b81acb0063afd05d3dbbee4186b51b279516e",
+      "bounds_wgs84": [
+        115.93345641785767,
+        40.4344204197263,
+        115.95016508214233,
+        40.44713699696026
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京世园公园中国馆",
+          "lon": 115.9437004,
+          "lat": 40.439677,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "北京世园公园永宁阁",
+          "lon": 115.9399211,
+          "lat": 40.441881,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:09.755485+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京世园公园中国馆",
+          "source_url": "https://www.openstreetmap.org/way/1019709130",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "北京世园公园永宁阁",
+          "source_url": "https://www.openstreetmap.org/way/687879788",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京世园公园中国馆 → 北京世园公园永宁阁",
+        "box": [
+          52,
+          43,
+          558,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "延庆·世园片区",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "世园建筑与秋色",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "延庆·山水慢假日  ·  约4–5小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "园艺风景里的两座地标",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京世园公园中国馆",
+        "box": [
+          53,
+          1117,
+          340,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "如意形屋顶建筑",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  北京世园公园永宁阁",
+        "box": [
+          53,
+          1194,
+          340,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "山顶楼阁与园林远眺",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "公园票务、建筑入内及上山园路开放情况提前确认；不含往返交通。",
+        "box": [
+          53,
+          1281,
+          593,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "到延庆站后公交或出租车接驳；园内步行",
+        "box": [
+          53,
+          1362,
+          413,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "15 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "075",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "art_repair": {
+    "reason": "Prior China Pavilion too narrow and curled like a single leaf; actual building has a broad long low ruyi roof integrated with terraced ground.",
+    "superseded_native_sha256": "921bf5ad953fc425e183e3d3472e1b4fe0356f67835c71213a8fa35f729ff678",
+    "repaired_at": "2026-10-29T04:58:06.216302+00:00"
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "art_repair.repair_native",
+    "art_repair.superseded_native",
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

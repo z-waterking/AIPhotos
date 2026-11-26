@@ -1,0 +1,332 @@
+{
+  "output": "../daily-vignette-craft-01-cups-fit-the-other-hand.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-01-cups-fit-the-other-hand.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-01-cups-fit-the-other-hand-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 1,
+  "anthology_index": 41,
+  "panel_count": 6,
+  "display_title": "杯子的耳朵",
+  "visible_description": "两只亲手做的杯子，最后在对方手里找到了合适的耳朵。",
+  "synopsis": "陶艺课上，瘦小的学员给杯子做了一个很大的把手，手掌宽的学员却捏出一个紧凑的小圈。杯子烧好后，两个人端起来都觉得别扭，一只手藏不住，另一只手伸不进。他们把杯子往桌子中间推了推，忽然换着试了一下。茶倒进去时，杯子没有重做，只是各自换了一个主人。",
+  "story_text": "陶艺课上，两只杯子并排成形。戴眼镜的学员给自己的杯子接了一个大大的椭圆把手，手掌宽的学员却捏出一个很小的圆圈。大家都觉得各有各的可爱。\n\n烧好那天，两人坐在桌前试着端杯。小手伸进大圈里，抓哪一边都觉得空；大手碰上小圈，又只能勉强用指尖拎着。\n\n她们把杯子放回桌面，安静看了一会儿，忽然同时伸手去试对方那只。大把手终于被稳稳握住，小把手也正好容下两根手指。\n\n茶壶送过来时，杯子已经换了主人。两个人举起各自的新杯子，轻轻碰了一下。杯口还是有一点不齐，喝茶却再没有觉得哪里别扭。",
+  "art_direction": "Matte gouache and soft graphite on warm, subtly fibrous paper",
+  "character_design": "A petite adult ceramic learner with a short dark bob and round glasses wears a pale ochre shirt, cream apron, navy trousers and brown shoes. A broad-handed adult learner with short silver hair wears a muted blue shirt, rust apron and charcoal trousers. The first makes a sage mug with an oversized oval handle. The second makes a warm cream mug with a small round handle. Both mugs have simple cylindrical bodies and no decoration.",
+  "panels": [
+    {
+      "caption": "一个耳朵太大，一个又太小。",
+      "scene": "At a shared pottery worktable, the two adult learners sit side by side shaping the handles on separate unfired clay mugs. The petite learner attaches a broad oval handle to the sage-colored clay body, while the broad-handed learner presses a small round handle onto a cream body. Their different hand sizes and handle proportions are clearly visible. Small harmless lumps of spare clay and a damp sponge sit between them on a plain wooden board. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "烧好了，端起来却各有难处。",
+      "scene": "Show a later session at the same table, now clean, with the glazed and fired mugs retaining their distinct shapes and colors. The petite learner holds the sage mug by its oversized loop with an awkward spread of fingers. The broad-handed learner tries to place two fingers through the cream mug tiny handle but cannot fit comfortably, resting the mug base on the table. Both inspect the situation with amused surprise rather than frustration. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她们把两只杯子，摆到一起看。",
+      "scene": "The learners have set both finished mugs side by side at the center of the clean worktable. The petite learner rests her small hand near the oversized sage handle, while the broad-handed learner holds an open hand near the tiny cream handle. Both lean forward, comparing the mismatched proportions with thoughtful smiles. The mugs remain empty and stable. This quiet pause must clearly separate the awkward first attempt from the idea of exchanging cups. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她们把杯子往中间推了推。",
+      "scene": "The learners exchange the two finished mugs across the table in one clear moment. The petite learner reaches for the small-handled cream mug, while the broad-handed learner grips the generous oval of the sage mug. Their free hands support the bases so the cups remain steady. Both immediately relax their fingers into the new handles and look toward each other, recognizing that the opposite cup fits much more comfortably. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "把手合适以后，茶也可以来了。",
+      "scene": "The petite learner now comfortably holds the cream mug by its small round handle, and the broad-handed learner securely grips the sage mug generous oval handle. Both keep the mug bases close to the table. A plain brown teapot stands between them, ready to pour, and the broad-handed learner reaches toward its handle with the free hand. Their relaxed fingers make the successful fit visible before the final shared tea moment. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "这一回，茶和手都坐稳了。",
+      "scene": "The two learners sit facing one another across the same worktable during a relaxed tea break. The petite learner holds the cream mug easily by its small round handle, and the broad-handed learner lifts the sage mug by the oversized oval handle. A plain brown teapot rests between them with gentle steam rising from the cups. Their original aprons hang loosely at their knees, and the simple exchange remains the entire visual resolution. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E1D2BB",
+    "#92A4A1",
+    "#B78268",
+    "#C6A05E",
+    "#6B747F"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        18,
+        18,
+        506,
+        515
+      ],
+      [
+        519,
+        18,
+        1007,
+        515
+      ],
+      [
+        18,
+        528,
+        506,
+        985
+      ],
+      [
+        519,
+        528,
+        1007,
+        985
+      ],
+      [
+        18,
+        999,
+        506,
+        1519
+      ],
+      [
+        519,
+        999,
+        1007,
+        1519
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        38,
+        200,
+        498,
+        668
+      ],
+      [
+        526,
+        200,
+        986,
+        668
+      ],
+      [
+        34,
+        825,
+        502,
+        1263
+      ],
+      [
+        522,
+        825,
+        990,
+        1263
+      ],
+      [
+        48,
+        1420,
+        487,
+        1888
+      ],
+      [
+        536,
+        1420,
+        975,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "一个耳朵太大，一个又太小。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          200,
+          502,
+          668
+        ]
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "烧好了，端起来却各有难处。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          200,
+          990,
+          668
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "她们把两只杯子，摆到一起看。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          810,
+          502,
+          1278
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "她们把杯子往中间推了推。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          810,
+          990,
+          1278
+        ]
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "把手合适以后，茶也可以来了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          34,
+          1420,
+          502,
+          1888
+        ]
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "这一回，茶和手都坐稳了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40,
+        "slot_geometry": [
+          522,
+          1420,
+          990,
+          1888
+        ]
+      }
+    ],
+    "layout_slot_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "adaptive_extraction": {
+      "method": "confirmed-native-gutters",
+      "confirmed": true,
+      "reason": "Native row gutters were measured at y=515-526 and y=985-997, rather than the nominal 512/1024 boundaries. The fixed middle-row crop included the next scene below its real gutter. Confirmed inner-panel crops exclude the neighboring scene; proportional contain with ivory padding preserves each full panel without enlargement. Final recomposition still requires visual QA.",
+      "native_sha256": "8c21aacef9cf2580397bc152dd3f39f76532cb529177409b7e47b671ad502aca",
+      "fit": "contain-center",
+      "aspect_ratio_preserved": true,
+      "panel_padding": [
+        [
+          4,
+          0,
+          4,
+          0
+        ],
+        [
+          4,
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          15,
+          0,
+          15
+        ],
+        [
+          0,
+          15,
+          0,
+          15
+        ],
+        [
+          14,
+          0,
+          15,
+          0
+        ],
+        [
+          14,
+          0,
+          15,
+          0
+        ]
+      ]
+    }
+  },
+  "native_sha256": "8c21aacef9cf2580397bc152dd3f39f76532cb529177409b7e47b671ad502aca",
+  "sha256": "1df07354462489a6e1437ba76a265cb99cf9ab4e4cc9e1e6ea4fc4dd49ee887b",
+  "prompt_sha256": "09329231c626217f6a99aa967ccf4235f9d1f937e7a323915e9ef5493ebb9266",
+  "story_sha256": "a58568d61c301e1382bc866a3b70370fb61ebfaecdc836faed13b9029435ffd2",
+  "created_at": "2026-10-26T10:17:35.208547+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

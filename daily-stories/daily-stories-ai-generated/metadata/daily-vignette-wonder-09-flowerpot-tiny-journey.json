@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-wonder-09-flowerpot-tiny-journey.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-09-flowerpot-tiny-journey.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-09-flowerpot-tiny-journey-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 9,
+  "anthology_index": 99,
+  "panel_count": 4,
+  "display_title": "花盆走一格",
+  "visible_description": "会走路的花盆每天挪一块地砖，只为看见窗外的一朵同色花。",
+  "synopsis": "在这个原创童话里，窗边一只花盆悄悄长出了两只小脚。它每天只往左走一块地砖，主人以为自己总是记错位置，便用一只空碟子留在原地。几天后，花盆终于站到窗角，和院里同样颜色的花遥遥相对。主人看懂了，把空碟子也搬到这里；花盆收起小脚，像终于找到了一张合适的椅子。",
+  "story_text": "窗边的花盆忽然长出两只小脚，每天趁屋里安静时，只向左走一块地砖。主人起先以为是自己记错了，后来便在原位放下一只空碟子。\n\n第二天，花盆离碟子更远了一点。它停着不动时，小脚缩在底下，看起来十分老实。主人没有搬回去，只想看看这一小盆粉花究竟准备去哪儿。\n\n几天后，花盆走到窗角，终于避开厚窗框。外面的院子里，也开着一丛相同颜色的花，两片粉色隔着玻璃遥遥相对，里面这一朵轻轻朝外倾了倾。\n\n主人看懂了，把空碟子端来，稳稳放到它脚下。花盆收起小脚，安心坐好。以后主人擦地，只擦完周围再轻轻绕过去，让那两片粉色可以继续隔窗见面。",
+  "art_direction": "Botanical gouache with softly modeled colored pencil pottery",
+  "character_design": "An original terracotta flowerpot has two tiny rounded clay feet and small friendly eyes near its rim, holding one dusty pink blossom with three green leaves. Its adult caretaker has a dark bob, a cream sweater, and teal trousers. A plain ivory saucer, square muted green floor tiles, and matching pink courtyard flowers recur. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "花盆每天，只走一块地砖。",
+      "scene": "A friendly terracotta flowerpot with two tiny clay feet takes one careful step left across a square green tile near the window. Its single dusty pink blossom leans eagerly toward the light. The adult caretaker stands in the doorway, noticing the pot’s changed position with puzzled curiosity. A plain ivory saucer sits at its previous location. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "主人放下空碟，想看看它去哪儿。",
+      "scene": "The caretaker kneels beside the empty ivory saucer and aligns it neatly with a tile corner, using it as a silent marker. The flowerpot stands one tile farther left, trying to look perfectly ordinary with its tiny feet tucked close. The window stretches across the wall, but a thick frame still blocks the pot’s view of the courtyard. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "走到窗角，终于看见同色的花。",
+      "scene": "The little pot reaches the clear lower corner of the window and extends its dusty pink blossom toward a cluster of matching flowers growing in the courtyard outside. Its clay feet are visible beneath the pot base. The caretaker watches from a short distance with sudden understanding. The empty saucer remains several tiles behind, showing the completed small journey. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "碟子也搬过来，它就安心坐下。",
+      "scene": "The caretaker sets the ivory saucer beneath the flowerpot at the chosen window corner. The pot has tucked away its tiny feet and rests contentedly, its blossom facing the matching courtyard flowers. The caretaker sits nearby with hands relaxed on knees. Repeating pink shapes inside and outside explain the destination without any words. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DED8C0",
+    "#A97460",
+    "#879F76",
+    "#C4909A",
+    "#7F9BA6"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "花盆每天，只走一块地砖。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "主人放下空碟，想看看它去哪儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "走到窗角，终于看见同色的花。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "碟子也搬过来，它就安心坐下。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "37a083fd05e996a1687549db6e079cb2b39360fd878fb7a19b553fa9a0b1c836",
+  "sha256": "573557259e835a30fcee81b9520a7110396e61b8c40a2ca23d336df37a30d7fe",
+  "prompt_sha256": "bf2b257fba2d41e6d66fa350589c985b8a91ca8a2d003b0789607a1ecc6f007a",
+  "story_sha256": "70e18ea89784b4d0f9b0f787bd3ace7cdf20114cd27fe09b501932c097f65aa8",
+  "created_at": "2026-10-26T10:51:10.579774+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

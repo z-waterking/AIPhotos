@@ -1,0 +1,355 @@
+{
+  "output": "../beijing-life-dongcheng-hutong-05-legation-quarter.png",
+  "refined_prompt": "../prompts/beijing-life-dongcheng-hutong-05-legation-quarter.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:41.556512+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-dongcheng-hutong",
+  "group_number": 1,
+  "series_number": 5,
+  "anthology_index": 5,
+  "title": "抬头看东交民巷",
+  "sha256": "203e8b44c6c3c93aaec41ee9d4bba7364d6dad9222c284338aac73e125d574be",
+  "native_sha256": "99cdaf8208962e30e27090e8f07b98d2579dd42497623f033aec1dc157986887",
+  "prompt_sha256": "346c71f3855fcc45baf733f3f96b99c3edddeeb71d22536a453c5b53dd8875ff",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2154223,
+  "art_direction": {
+    "style_name": "不透明水粉街景",
+    "style_prompt_english": "Opaque gouache travel painting with visible broad brush marks, flat light shapes, irregular architectural contours and luminous dark doorways. Slightly elevated street-level view; layered street foreground, brick courtyard middle distance and autumn tree canopy. A complete lived-in scene rather than isolated stickers.",
+    "palette": [
+      "#FFC857",
+      "#DC5938",
+      "#295F6B",
+      "#F7EACD"
+    ],
+    "layout_variant": 0,
+    "activity": "胡同散步与院落观察",
+    "area": "东城区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "legation-quarter",
+    "title": "抬头看东交民巷",
+    "subtitle": "砖石立面与街树阴影",
+    "area_label": "东城·东交民巷",
+    "duration": "约2小时",
+    "transport": "地铁5号线崇文门站；步行接驳",
+    "stops": [
+      {
+        "name": "东交民巷",
+        "detail": "沿公共道路看近代建筑",
+        "lat": 39.9015,
+        "lon": 116.4051,
+        "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120959",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/442394488"
+      },
+      {
+        "name": "法国邮政局旧址",
+        "detail": "砖石细部与旧址外观",
+        "lat": 39.9012829,
+        "lon": 116.4030863,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120959",
+        "coordinate_source_url": "https://www.openstreetmap.org/node/6531655885"
+      },
+      {
+        "name": "圣弥厄尔教堂",
+        "detail": "哥特式双尖塔外观",
+        "lat": 39.90173168888889,
+        "lon": 116.40581103333332,
+        "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120959",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/442394488"
+      }
+    ],
+    "practical_note": "旧址和教堂按外观安排；宗教活动与院门开放以现场规定为准。",
+    "copy_title": "东城·东交民巷｜抬头看东交民巷",
+    "copy_body": "把这条街当作一本立面的图册：先看门窗比例，再看尖塔与树影。无需赶场，适合练习建筑观察。 路线：东交民巷 → 法国邮政局旧址 → 圣弥厄尔教堂。约2小时，到首站和返程另计。旧址和教堂按外观安排；宗教活动与院门开放以现场规定为准。",
+    "hashtags": [
+      "北京周末",
+      "北京小众路线",
+      "东城",
+      "抬头看东交民巷"
+    ],
+    "hero_prompt_english": "Street-level Beijing Dongjiaominxiang scene with Saint Michael church recognizable as compact gray Gothic church with twin slender spires and pointed arch windows behind a low boundary, plane trees and mottled sun, adult visitor looking upward from public pavement. Foreground brick-and-stone building corner suggests the old French post-office street, no flags or political imagery. Original peaceful composition; any people are adults in everyday opaque clothing. Rich full-bleed vertical 1024x1536 scene with specific architecture and concrete activity, no text, labels, logo, watermark, fake map, or reproduced artwork.",
+    "source_checked_on": "2026-10-29",
+    "navigation_verified": false
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "871e6ed4b99ca44896602e0925ec1ba0ad84551334a6516d4b62938a7cdc577b",
+      "bounds_wgs84": [
+        116.39609433452432,
+        39.895097983582,
+        116.41280299880898,
+        39.90791600658702
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "东交民巷",
+          "lon": 116.4051,
+          "lat": 39.9015,
+          "coordinate_status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "法国邮政局旧址",
+          "lon": 116.4030863,
+          "lat": 39.9012829,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "圣弥厄尔教堂",
+          "lon": 116.40581103333332,
+          "lat": 39.90173168888889,
+          "coordinate_status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:25:37.665001+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "东交民巷",
+          "source_url": "https://www.openstreetmap.org/way/442394488",
+          "status": "Approximate activity point anchored to cited OSM venue/road; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "法国邮政局旧址",
+          "source_url": "https://www.openstreetmap.org/node/6531655885",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a surveyed entrance or verified walking route"
+        },
+        {
+          "name": "圣弥厄尔教堂",
+          "source_url": "https://www.openstreetmap.org/way/442394488",
+          "status": "OSM named feature geometry representative point; WGS84; not a surveyed entrance or verified walking route"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "东交民巷 → 法国邮政局旧址 → 圣弥厄尔教堂",
+        "box": [
+          52,
+          43,
+          570,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "东城·东交民巷",
+        "box": [
+          52,
+          133,
+          276,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "抬头看东交民巷",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "东城胡同慢镜头  ·  约2小时",
+        "box": [
+          52,
+          282,
+          350,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "砖石立面与街树阴影",
+        "box": [
+          55,
+          1013,
+          253,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  东交民巷",
+        "box": [
+          53,
+          1117,
+          205,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿公共道路看近代建筑",
+        "box": [
+          56,
+          1153,
+          256,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  法国邮政局旧址",
+        "box": [
+          53,
+          1194,
+          286,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "砖石细部与旧址外观",
+        "box": [
+          56,
+          1230,
+          236,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "03  圣弥厄尔教堂",
+        "box": [
+          53,
+          1271,
+          259,
+          1298
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "哥特式双尖塔外观",
+        "box": [
+          56,
+          1307,
+          216,
+          1327
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地铁5号线崇文门站；步行接驳",
+        "box": [
+          53,
+          1362,
+          325,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "01 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "005",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_a",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

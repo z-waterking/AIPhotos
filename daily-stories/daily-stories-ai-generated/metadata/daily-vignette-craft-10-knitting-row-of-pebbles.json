@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-craft-10-knitting-row-of-pebbles.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-10-knitting-row-of-pebbles.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-10-knitting-row-of-pebbles-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 10,
+  "anthology_index": 50,
+  "panel_count": 4,
+  "display_title": "织到第几行",
+  "visible_description": "两位朋友约好每人都织完一行，再送一颗圆石头过河。",
+  "synopsis": "两位朋友织同款围巾，聊天时总忘记行数。她们核对好共同起点，把八颗圆石头摆进左碟：等两人这一行都织完，才轮流搬一颗到右碟，先完成的人稍等。聊天继续，石头慢慢过河。最后两人都织到换色处，却一起伸手去搬最后一颗，又笑了起来，七颗石头仍在右碟替她们记着。",
+  "story_text": "两位朋友织同款围巾，边织边聊天，说到好笑的地方便停针大笑。再拿起来，谁也记不起刚才织到哪一行。她们把针脚仔细核对，终于回到同一个起点。\n\n窗台上有八颗圆石头，她们把它们全放进左碟，右边留一只空碟。约好两人这一行都织完，才轮流搬一颗；先织好的人，停针等一等。\n\n聊天照常继续。有时这人先停，有时那人先停。两双针都歇下来，一颗石头便过河，围巾也一起长出一行。\n\n傍晚，两人都织到换色处，左碟只剩最后一颗。她们却同时伸手，指尖碰在一起，又笑了半天。谁忘了轮次已经不重要，右碟的七颗石头仍然替她们记着数。",
+  "art_direction": "Soft colored-pencil knit texture beneath quiet gouache washes",
+  "character_design": "Two adult knitting friends sit at a low table. One has a dark braid, dusty plum sweater and cream trousers; the other has short silver hair, a sage cardigan and brown trousers. They knit matching cream scarves with moss-green end bands using bamboo needles, starting at the same row. Exactly eight gray pebbles move between two ochre saucers. One stone counts only after both complete the current row; whoever finishes first waits. They alternate moving stones. Spare green yarn rests in a wicker bowl.",
+  "panels": [
+    {
+      "caption": "一聊天，围巾就藏起了行数。",
+      "scene": "The friends sit across a low table with unfinished cream scarves on smooth bamboo needles. Both have paused mid-conversation and now study their knitting with matching uncertain expressions, one counting visible rows with a fingertip. A small cluster of eight rounded gray pebbles sits on the nearby windowsill, and two empty ochre saucers stand on the table. Soft afternoon light makes the cream stitches visible while the green yarn waits unused in a wicker bowl. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "核对起点，八颗石头先坐左边。",
+      "scene": "After checking that both scarves have reached the same starting row, the friends rest their knitting on idle bamboo needles across their laps. The braided friend places all eight gray pebbles into the left ochre saucer while the silver-haired friend points to the empty right saucer. Their matching cream scarf edges lie side by side briefly for comparison. Both are paused, agreeing to move one stone only after both finish each new row, taking turns with that task. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "两人都织好一行，才送一颗过河。",
+      "scene": "Both friends have finished the same current row and stopped knitting, with both sets of bamboo needles resting securely across their laps. The silver-haired friend moves one gray pebble with thumb and forefinger from the left saucer toward the right: four stones remain left, three already sit right, and the eighth is in her hand. The braided friend waits with relaxed empty hands resting beside her completed scarf. Neither is knitting during this shared counting step. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "最后一颗，又让两双手碰了面。",
+      "scene": "Both friends have completed the eighth shared row and laid their bamboo needles still across their laps, ready to change to green yarn. They reach together toward the single final pebble in the left saucer, fingertips meeting gently above it. The right saucer contains seven stones. Their matching cream scarves are at the same stage, and both laugh at forgetting whose turn it was to move the counter. Keep all eight stones and both idle sets of needles visible. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E5D7C2",
+    "#9C869A",
+    "#77948B",
+    "#C7AB76",
+    "#82786A"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "一聊天，围巾就藏起了行数。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "核对起点，八颗石头先坐左边。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "两人都织好一行，才送一颗过河。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "最后一颗，又让两双手碰了面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "79f4f7b3c10cdeba98c3a209f084f298ad5d29afe3ac76783ddaf91f55297fec",
+  "sha256": "370ee54b5a79adf2cd822b370daf37ea6c558d55c343a25003d5c7a2dc5bd7b2",
+  "prompt_sha256": "8c7d5d089cfa03db8d1680e3fcb8145a4cfd7ae492ffb0086fb5a8b72f77d05f",
+  "story_sha256": "d0b94b605573908582c4697b7e3a7971e7d580f6f64b3b96d8b3e4dabea45c3f",
+  "created_at": "2026-10-26T10:15:51.817573+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

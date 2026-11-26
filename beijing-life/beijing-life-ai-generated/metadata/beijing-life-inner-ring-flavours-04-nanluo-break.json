@@ -1,0 +1,321 @@
+{
+  "output": "../beijing-life-inner-ring-flavours-04-nanluo-break.png",
+  "refined_prompt": "../prompts/beijing-life-inner-ring-flavours-04-nanluo-break.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:03.775756+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-inner-ring-flavours",
+  "group_number": 16,
+  "series_number": 4,
+  "anthology_index": 79,
+  "title": "南锣走吃小回路",
+  "sha256": "7aa682beef938d05196f1a95f7d9b8ad71ffaacbf0342937753067984f274331",
+  "native_sha256": "5b6f5d976895c96945927573dadec4da0525c3236ab81bd044200e5f58f85f67",
+  "prompt_sha256": "ace6d5e85664b6149d489ee3a9f986b66c3cd8c879c0c2163f810d900e9ce132",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2349518,
+  "art_direction": {
+    "style_name": "套色孔版印刷",
+    "style_prompt_english": "Original tactile risograph food-and-street illustration, deliberately offset layers of vivid coral, dark teal and turmeric spot inks, visible soy-ink grain, bold rounded shapes, close-up food foreground fused with an accurately recognizable street scene. Lively dense composition, no text or brand marks.",
+    "palette": [
+      "#F45C40",
+      "#153E49",
+      "#EDB83B",
+      "#F5E7C6"
+    ],
+    "layout_variant": 0,
+    "activity": "老城街巷／轻食／晚饭",
+    "area": "北京二环内"
+  },
+  "outing": {
+    "number": 4,
+    "slug": "nanluo-break",
+    "title": "南锣走吃小回路",
+    "subtitle": "热闹主街配安静岔路",
+    "area_label": "二环内·东城",
+    "duration": "约3小时",
+    "transport": "地铁南锣鼓巷站；全程步行",
+    "stops": [
+      {
+        "name": "南锣鼓巷",
+        "detail": "老街小店与轻食",
+        "lat": 39.9357674,
+        "lon": 116.3969002,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101328",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/4922662"
+      },
+      {
+        "name": "帽儿胡同",
+        "detail": "灰瓦院墙与树影",
+        "lat": 39.9349349,
+        "lon": 116.3946033,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/101328",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/523523958"
+      }
+    ],
+    "practical_note": "点心与饮品按现场选择；胡同居民院门不入内。",
+    "copy_title": "南锣走吃小回路｜北京周末灵感",
+    "copy_body": "热闹主街配安静岔路。南锣鼓巷 → 帽儿胡同，安排约3小时。从老街小店与轻食到灰瓦院墙与树影，留点时间给自己。点心与饮品按现场选择；胡同居民院门不入内。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "二环内"
+    ],
+    "hero_prompt_english": "Nanluoguxiang Beijing with a narrow gray-brick lane, rows of tiled eaves, old tree canopies, small ordinary unbranded cafe windows; foreground a golden baked pastry and a takeaway warm drink, an adult turning into a quieter side alley. Do not copy a specific cafe interior or logo. Full-bleed vertical 1024x1536 composition. Peaceful original scene, no text, no logos, no map, no real person likeness; any people are adults in ordinary opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "061d1b6ad4fd01518bada90bf9599de4a8aa63e54acda5a7833deae6c3271a2b",
+      "bounds_wgs84": [
+        116.38739741785768,
+        39.928945006611166,
+        116.40410608214235,
+        39.941756696338814
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "南锣鼓巷",
+          "lon": 116.3969002,
+          "lat": 39.9357674,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "帽儿胡同",
+          "lon": 116.3946033,
+          "lat": 39.9349349,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:20:19.886317+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "南锣鼓巷",
+          "source_url": "https://www.openstreetmap.org/way/4922662",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "帽儿胡同",
+          "source_url": "https://www.openstreetmap.org/way/523523958",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "南锣鼓巷 → 帽儿胡同",
+        "box": [
+          52,
+          43,
+          298,
+          70
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "二环内·东城",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "南锣走吃小回路",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "二环内·边走边吃  ·  约3小时",
+        "box": [
+          52,
+          282,
+          374,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "热闹主街配安静岔路",
+        "box": [
+          55,
+          1013,
+          253,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  南锣鼓巷",
+        "box": [
+          53,
+          1117,
+          205,
+          1143
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "老街小店与轻食",
+        "box": [
+          56,
+          1153,
+          196,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  帽儿胡同",
+        "box": [
+          53,
+          1194,
+          205,
+          1220
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "灰瓦院墙与树影",
+        "box": [
+          56,
+          1230,
+          196,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "点心与饮品按现场选择；胡同居民院门不入内。",
+        "box": [
+          53,
+          1281,
+          431,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁南锣鼓巷站；全程步行",
+        "box": [
+          53,
+          1362,
+          293,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "16 / 20  ·  04 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "079",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "checked": [
+      "Recognizable peaceful location illustration",
+      "Distinct group medium and visual treatment",
+      "Readable Chinese headings and activity details",
+      "True OSM inset with stop-order arrows",
+      "No clipping or unfilled background"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

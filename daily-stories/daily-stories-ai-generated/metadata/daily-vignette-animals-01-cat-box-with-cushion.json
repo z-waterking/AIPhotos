@@ -1,0 +1,212 @@
+{
+  "output": "../daily-vignette-animals-01-cat-box-with-cushion.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-01-cat-box-with-cushion.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-01-cat-box-with-cushion-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 1,
+  "anthology_index": 51,
+  "panel_count": 6,
+  "display_title": "新床的盒子",
+  "visible_description": "猫没有选错新床，只是把说明书写成了纸箱的形状。",
+  "synopsis": "主人给猫买了一张柔软的新垫子，刚铺在地上，猫却钻进旁边的空纸箱。主人把垫子挪近一点，猫把下巴搁在箱边，仍然不动。想了想，主人把垫子折出一个浅弧，塞进纸箱底部。猫站起来转了两圈，终于在里面团成一团。主人坐在旁边看着，收走的只剩那张包装纸。",
+  "story_text": "新垫子拆出来，主人先用手按了按，觉得软硬正好，便放在地毯上叫猫来看。猫闻了两下，转身钻进旁边的纸箱，头恰好从箱沿露出来。\n\n主人把垫子往近处挪，直到它碰到箱壁。猫把下巴搁得更舒服了，眯着眼睛看她，完全没有搬家的打算。\n\n她想了一会儿，等猫自己走出来，便把垫子弯成一个浅浅的窝，放进箱底。纸箱仍是原来的纸箱，里面却有了柔软的绿色。\n\n猫先绕着箱子闻了一圈，再踏进去，转身，踩两下，团成一团。主人坐到旁边，拿起地上的包装纸。纸张刚响，猫睁开一只眼；见她没有收走纸箱，便又闭上了。",
+  "art_direction": "Soft gouache with warm pencil fur accents on lightly aged paper",
+  "character_design": "A small adult tabby cat has warm gray-brown fur, dark forehead stripes, cream muzzle and chest, green eyes and a short white tip on its tail. Its adult owner has chin-length black hair, round glasses, a pale blue cardigan, cream trousers and brown house slippers. The new cushion is thick, oval and muted sage green. Its plain brown cardboard shipping box is broad and low, with folded outward flaps and no printing or tape left inside.",
+  "panels": [
+    {
+      "caption": "新垫子在这里，猫却住进了盒子。",
+      "scene": "In a quiet living room, the owner kneels beside the newly unpacked sage cushion laid flat on a cream rug. Immediately beside it, the tabby cat sits inside the empty low cardboard box with only its head and shoulders above the rim. The owner looks from the inviting cushion to the occupied packaging with gentle puzzlement. A single sheet of plain packing paper lies nearby, and all box flaps fold outward safely. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "垫子挪近了，猫仍不打算搬家。",
+      "scene": "The owner slides the sage cushion until its rounded edge touches the outside wall of the cardboard box. The tabby remains inside, resting its cream chin comfortably on the low rim and watching the owner with half-closed green eyes. The owner pauses with both palms still on the cushion. Frame the cushion and box side by side at floor level so the cat preference is unmistakable and no imagined speech or comic symbols are needed. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "等猫自己出来，箱子先借她一下。",
+      "scene": "The tabby has stepped out of the low cardboard box and stands beside the owner knee, stretching one foreleg on the cream rug. The owner keeps both hands away from the cat and lightly steadies the now-empty box with one hand. The unused sage cushion lies immediately beside it. Show the cat outside and the box empty in one unambiguous moment, creating a natural transition before the cushion can be placed inside. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "主人决定，把两件东西合在一起。",
+      "scene": "The cat stands just outside the box, having stepped aside naturally, while the owner lowers the flexible sage cushion into the empty cardboard base with both hands. The cushion bends into a shallow nest that fits within the low sides, and every flap remains folded outward. The tabby watches from beside the owner knee with its white-tipped tail upright. The plain packing paper stays on the rug, clearly separate from the new bed arrangement. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "它进去转一圈，再踩两下。",
+      "scene": "The tabby stands inside the cardboard box on the newly fitted sage cushion, making a small natural turn with its white-tipped tail curved along the low rim. Both front paws press into the soft fabric, testing the surface. The owner sits back on the cream rug with hands resting in the lap, watching without touching the animal. Keep every outward-folded flap visible and the cushion clearly contained by the original brown box. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "这回，新床终于长对了模样。",
+      "scene": "The tabby lies curled comfortably on the sage cushion inside the brown cardboard box, nose tucked near its cream chest and white tail tip visible along its flank. The owner sits cross-legged on the rug beside the box, gathering the single packing sheet into a loose fold with a satisfied smile. Keep the full box and cushion relationship visible. The soft living room light falls across the low rim, making the practical compromise feel naturally complete. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E6D9C0",
+    "#B38A64",
+    "#8EA4A0",
+    "#C89C83",
+    "#6D7380"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "新垫子在这里，猫却住进了盒子。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "垫子挪近了，猫仍不打算搬家。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "等猫自己出来，箱子先借她一下。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "主人决定，把两件东西合在一起。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "它进去转一圈，再踩两下。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "这回，新床终于长对了模样。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "f9d03021edeb84337b73c131421bca2de26e1c09666eaa5f4ee7b0fc15e44dcc",
+  "sha256": "ecbaa7086d4f21d5ae5079617afc03a21bb990466dd82f7a839c0f140bb50228",
+  "prompt_sha256": "b03968b11ab87b56c0cdcea9a041eb04b318449114fd843bbf3d75bb15b9a47f",
+  "story_sha256": "28ec53f5fbe5f511a554c4bca00792b4de3cd94276c2168276a94116531b836b",
+  "created_at": "2026-10-26T10:18:26.406401+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

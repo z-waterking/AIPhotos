@@ -1,0 +1,163 @@
+{
+  "output": "../daily-vignette-family-09-father-daughter-shared-lunch-box.png",
+  "refined_prompt": "../prompts/daily-vignette-family-09-father-daughter-shared-lunch-box.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-family-09-father-daughter-shared-lunch-box-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-family",
+  "group": "family",
+  "series_number": 9,
+  "anthology_index": 19,
+  "panel_count": 4,
+  "display_title": "饭盒错了层",
+  "visible_description": "父女装错了双层饭盒，午餐时在家门口完成了一次笑着交换的接头。",
+  "synopsis": "爸爸和女儿各带一只同款双层饭盒上班，早晨并排装好便匆匆出门。中午，爸爸打开两层都是米饭，女儿那边却满满都是菜。两人住得离单位都近，便各拎饭盒回到楼下小花园，坐在同一条长椅上交换一层。吃完才发现，妈妈给他们各放的那颗小番茄，恰好都藏在米饭的角落里。",
+  "story_text": "父女俩的饭盒买成同一款，浅绿盒身，米白盖子。妈妈早晨把饭菜分别装好，两个人一边找包，一边各自扣上两层，匆匆出了门。\n\n中午爸爸打开饭盒，上一层白米饭，下一层还是白米饭。女儿那边则刚好相反，青菜、豆腐摆得满满的，一粒饭也没有。两人在电话里同时笑了。\n\n单位离家都近，他们约到楼下花园，各拎着饭盒坐上长椅。你递一层，我还一层，不一会儿，两份午饭就重新像样了。\n\n吃到米饭角落，爸爸发现一颗小番茄。女儿也用筷子举起一颗，亮红的两点在阳光里碰了个面。原来妈妈准备的那一点小颜色，绕了半天，还是各自回到了他们手边。",
+  "art_direction": "Warm midday gouache with crisp colored-pencil lunch details on cream paper",
+  "character_design": "The father is a Chinese man in his early fifties with short graying hair, a square chin, and thin rectangular glasses. He wears a pale blue work shirt and dark trousers. His adult daughter has a short black ponytail and wears a cream blouse, a muted green cardigan, and rust trousers. Her mother has a soft dark bob and a beige apron over a plum shirt. The matching lunch boxes are two-tier pale teal containers with cream lids and rounded corners, without labels or logos.",
+  "panels": [
+    {
+      "caption": "两只一样的饭盒，早晨排在一起。",
+      "scene": "In the family kitchen, two identical pale teal two-tier lunch boxes sit open side by side while mother finishes placing a small cherry tomato beside white rice in one compartment. Father and his adult daughter stand on opposite sides, each reaching for a cream lid as they prepare to leave. Several tiers of rice and colorful cooked vegetables are arranged close together, making the potential mix-up visible. Keep their movements ordinary and unhurried enough to follow, with work bags near the doorway and no labels to distinguish the matching containers."
+    },
+    {
+      "caption": "爸爸开出两层饭，女儿开出两层菜。",
+      "scene": "Use one coherent garden-bench scene at lunchtime: father and daughter have just met and each holds their opened lunch-box tiers for the other to see. Father's two containers show mostly white rice, while the daughter's two containers hold colorful vegetables. They exchange amused puzzled looks, standing beside a simple bench in the small courtyard near home. Their work bags hang from their shoulders. The four open tiers should be distinct and prominent, showing the complementary mistake without a split screen, speech bubbles, or any readable phone interface."
+    },
+    {
+      "caption": "楼下见个面，一人换回一层就好。",
+      "scene": "Now seated side by side on the courtyard bench, father passes one rice tier toward his daughter while she offers one vegetable tier back to him. Their hands meet above the space between them, and the remaining tiers rest securely on their knees. Small trees and apartment windows establish a familiar lunch spot without crowding the frame. Both smile at the simple exchange. Keep the pale teal containers and cream lids consistent, with no spilled food, and emphasize the easy cooperative motion that turns the mix-up into a shared meal."
+    },
+    {
+      "caption": "吃到角落，两颗小番茄又凑到了一起。",
+      "scene": "Father and daughter continue their lunch on the bench with correctly balanced rice and vegetables in front of them. Each has uncovered one bright cherry tomato tucked into a corner of the rice, and both raise the tomatoes slightly on their chopsticks at the same time, noticing the match. Their half-eaten meals and relaxed postures show an ordinary lunch nearly finished. The cream lids are stacked safely beside them. Use the two small red accents as the visual payoff, surrounded by soft garden greens and warm midday shadows."
+    }
+  ],
+  "palette": [
+    "#EEE2C9",
+    "#9EAE8A",
+    "#C97857",
+    "#7D9BA5",
+    "#D0B677"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "两只一样的饭盒，早晨排在一起。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "爸爸开出两层饭，女儿开出两层菜。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "楼下见个面，一人换回一层就好。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "吃到角落，两颗小番茄又凑到了一",
+          "起。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "2cdc95c9c1f68bf42493346e0891cbf91a3e5342a297d44d3ff7b9f3c2f18292",
+  "sha256": "3e9a7f3cee2a234796e3624be101c544de01b557be755c568633f1f12a46bff8",
+  "prompt_sha256": "c7b9ec165570a596cf5473415a96a8caf4b6d217a75082bd79a0a98282a80949",
+  "story_sha256": "29d4ec82f4510972e0cb6e7e1ffbe6ff34be336020d9ce4c909551a37d66f9ee",
+  "created_at": "2026-10-26T09:52:53.815321+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

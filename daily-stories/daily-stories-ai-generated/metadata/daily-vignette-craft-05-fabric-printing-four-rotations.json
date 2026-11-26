@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-craft-05-fabric-printing-four-rotations.png",
+  "refined_prompt": "../prompts/daily-vignette-craft-05-fabric-printing-four-rotations.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-craft-05-fabric-printing-four-rotations-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-craft",
+  "group": "craft",
+  "series_number": 5,
+  "anthology_index": 45,
+  "panel_count": 4,
+  "display_title": "四次转身",
+  "visible_description": "一枚简单的叶形印章，在一块布上转出了不同的花。",
+  "synopsis": "朋友们印布时，只带了一枚叶形印章。一个人先直着印，另一个把布转了四分之一圈，再接着印第二片叶。她们继续轮流转布，四片叶就在中间围成一朵小花。印完几组以后，两人停下来比较：有的花紧，有的花松。晾起布时，每一朵都有点不同，却没有哪一朵需要被擦掉重来。",
+  "story_text": "工作台上只有一枚叶子印章。两位朋友想印一块桌布，先商量要不要再做些别的形状。说着说着，其中一人已经把第一片绿叶印了下去。\n\n另一人把布转了四分之一圈。印章再落下，第二片叶就和第一片靠在一起。她们继续转布、蘸色、按下，第四片叶出现时，中间围成了一朵小花。\n\n后面的花，有的贴得紧，有的中间留着空隙。有人按得重一点，有人转得多一点，绿色的深浅也随之不同。\n\n桌布晾起来，两人仰头逐朵看过去。最初那朵稍微歪着，后面的一朵张得特别开。她们端着剩下的颜料站了很久，还是没有找出哪一朵应该补印。",
+  "art_direction": "Block-print inspired gouache with soft pencil outlines on warm paper",
+  "character_design": "Two adult textile makers work at a square table. One is tall with dark hair in a high bun, wearing a lilac shirt, cream apron and brown trousers. The other has short silver curls, a rust blouse, sage apron and navy trousers. They share one palm-sized wooden stamp with a simple teardrop-shaped leaf face, one shallow tray of muted green fabric paint and one plain cream cotton cloth. Finished patterns are four-leaf rosettes with visible handmade irregularities.",
+  "panels": [
+    {
+      "caption": "一枚叶子印章，摆在两人中间。",
+      "scene": "At the square studio table, the tall maker lifts the wooden leaf stamp after printing one muted green leaf near the center of a cream cotton cloth. The silver-haired maker leans forward to inspect the simple shape, hands resting at the cloth edges. A shallow paint tray sits to the side with only the single stamp in use. The rest of the cloth is blank, and soft daylight makes its woven texture visible. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "布转一下，叶子又见了面。",
+      "scene": "The silver-haired maker holds two corners of the cloth and turns it a quarter rotation on the tabletop, while the tall maker raises the inked leaf stamp above the first print without yet pressing. The first leaf now points sideways, making the physical rotation clear. Their eyes follow the empty position for the next impression. Keep the table, paint tray and single wooden stamp unchanged, with no diagrams, arrows or extra tools. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "四次转身，围成一朵花。",
+      "scene": "The tall maker lifts the stamp from the fourth green impression, revealing a simple four-leaf rosette whose tapered ends meet near the center. The silver-haired maker steadies the cloth and smiles at the completed form. Nearby, a second rosette has begun with only two leaves, suggesting continued shared work without a montage. The four printed leaves vary slightly in pressure and alignment, preserving the warm physical texture of fabric printing. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "晾起来时，每朵都站得不同。",
+      "scene": "The completed cream cloth hangs from a low indoor drying line held by plain wooden clips. It displays several green four-leaf rosettes with slight differences in spacing and rotation, arranged with generous breathing room. Both makers stand below, one holding the unused stamp and the other the shallow tray, comparing two neighboring motifs with amused concentration. Their aprons carry only tiny color smudges, and the simple cloth is clearly the outcome of their repeated turns. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E4D8BE",
+    "#688B7A",
+    "#B6756F",
+    "#D0AC69",
+    "#8E83A0"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "一枚叶子印章，摆在两人中间。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "布转一下，叶子又见了面。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "四次转身，围成一朵花。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "晾起来时，每朵都站得不同。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "4ae34829b39f4026190f39f7019f19a2e326dc3ff37d5a6d160532b3915c74bb",
+  "sha256": "774f760b13092af75d155044b95716c82ba609b2dd5038b8782ae1a2b04bd19e",
+  "prompt_sha256": "d00f78aa4af883c4f13f4bb47139dcadd99b5c99dda045e80bcc3066fce23e72",
+  "story_sha256": "0729a3b0cfdf0b65ce5b93f4b942caf709a10839a8aa04c4126d29e52a8df38d",
+  "created_at": "2026-10-26T10:13:13.906077+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

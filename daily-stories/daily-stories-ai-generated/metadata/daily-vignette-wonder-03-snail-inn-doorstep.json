@@ -1,0 +1,166 @@
+{
+  "output": "../daily-vignette-wonder-03-snail-inn-doorstep.png",
+  "refined_prompt": "../prompts/daily-vignette-wonder-03-snail-inn-doorstep.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-wonder-03-snail-inn-doorstep-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-wonder",
+  "group": "wonder",
+  "series_number": 3,
+  "anthology_index": 93,
+  "panel_count": 4,
+  "display_title": "旅馆挪半步",
+  "visible_description": "蜗牛旅馆的门口太晒，老板把整座房子挪到了叶影下面。",
+  "synopsis": "在这个原创童话里，蜗牛把自己的大壳开成一间小旅馆，瓢虫客人却一直站在门外。原来午后的阳光刚好照着门口，客人想等阴凉再进去。蜗牛老板想了想，没有请谁搬椅子，而是慢慢把整座旅馆挪了半步。门口终于落进叶影，两位客人挤在小台阶上，觉得这家旅馆的服务确实很特别。",
+  "story_text": "蜗牛把大壳收拾成一间旅馆，门口挂着柔软的小帘子。傍晚前，两只瓢虫提着圆种子箱来到门外，却一直没有进去。\n\n蜗牛探过头，看见客人用翅膀挡着眼睛。原来阳光正好落在门口，台阶晒得暖暖的，而她们走了半天，只想先在阴凉里坐一小会儿。\n\n蜗牛没有搬椅子，也没有催客人进屋。它伸长身体，慢慢把整座旅馆向旁边挪。大叶子的影子一点点盖住门口，最后连台阶也凉快下来。\n\n两只瓢虫坐在门口，把种子箱放在脚边，舒服地晃着小脚。蜗牛回头看了看，安安稳稳停住。旅馆明天可能还会挪位置，不过今天这个门口，正好适合大家一起歇歇。",
+  "art_direction": "Rounded gouache miniature architecture with colored pencil shell spirals",
+  "character_design": "An original friendly innkeeper snail has a large warm brown spiral shell with one tiny oval wooden doorway and a cream curtain, all integrated into its shell. Two small red ladybird guests wear simple sage scarves and carry round tan seed cases. A broad leaf casts shade nearby; every creature remains cheerful and entirely nonthreatening. Keep these original fictional appearances, clothing colors, proportions, and recurring objects identical throughout every panel. The atmosphere is gentle and playful, all figures are nonthreatening, and objects carry no legible lettering or recognizable commercial designs.",
+  "panels": [
+    {
+      "caption": "蜗牛的小旅馆，今天迎来客人。",
+      "scene": "A friendly snail innkeeper rests on a smooth garden stone, its large spiral shell holding a tiny oval doorway with a cream curtain. Two red ladybird travelers approach with round seed cases and sage scarves. Warm afternoon light touches the doorway, while a broad green leaf casts a cool shadow a short distance to the side. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "客人到了，却在门口等阴凉。",
+      "scene": "The two ladybird guests stand beside their seed cases just outside the brightly sunlit doorway, each shading their eyes with a small wing. The snail turns its gentle face back toward them, noticing their discomfort. A narrow shaded patch begins only a little beyond the tiny doorstep, beneath the arching broad green leaf. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "老板把整座旅馆，慢慢挪过去。",
+      "scene": "The snail has extended its body forward and moved the shell partway toward the leaf shadow. The tiny doorway now crosses the boundary between warm sunlight and cool shade. The two ladybirds wait on the smooth stone with their seed cases, watching with delighted surprise. The innkeeper’s expression is calmly practical rather than strained. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "这家旅馆，连阴凉也送到门口。",
+      "scene": "The snail inn rests comfortably beneath the broad leaf, its tiny doorway fully shaded. The two ladybird guests sit together on the small doorstep beside their seed cases, enjoying the cool patch. The snail curls its head back with a satisfied smile. Dappled sunlight surrounds the little moving home without disturbing its newly restful corner. This is an original fictional gentle fantasy, shown as one clear visible instant. Use old paper gouache and colored pencil, consistent character and object design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#DED2B9",
+    "#A18466",
+    "#87A078",
+    "#B56F61",
+    "#A5BAC0"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "蜗牛的小旅馆，今天迎来客人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "客人到了，却在门口等阴凉。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "老板把整座旅馆，慢慢挪过去。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "这家旅馆，连阴凉也送到门口。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "6efc5ab2761e3a36ff8598a3229f4f019e1bc18d938d47621adb71fbe8b34664",
+  "sha256": "c1e4a9bc1b2acc21f3bc1a228bcdc98f5bee0063440fd14b0e051f57fa8463b8",
+  "prompt_sha256": "51bc5eb61b93991db03676c306cc3d6177070325d47a4c5c366a905095cc86d4",
+  "story_sha256": "b06954d18bb40b8bb023af842521773ead642bccb2c75f8d8ecce58c999eaca2",
+  "created_at": "2026-10-26T10:42:51.120813+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

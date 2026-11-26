@@ -1,0 +1,333 @@
+{
+  "output": "../beijing-life-daxing-screenprint-05-zoo-walk.png",
+  "refined_prompt": "../prompts/beijing-life-daxing-screenprint-05-zoo-walk.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:51:54.988529+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-daxing-screenprint",
+  "group_number": 10,
+  "series_number": 5,
+  "anthology_index": 50,
+  "title": "森林里的动物课",
+  "sha256": "e83b2ba120fae501e6c4784c909347c85a38e963b88a06a81dfa54d2a35df777",
+  "native_sha256": "fb2ace5c5b8f985919d85ef2e03d67447c5ce36595ee6c0bcdae40c7db91ad72",
+  "prompt_sha256": "bcf545dfa3f567c6195af49a793ca5f905d3eb5c09e209f9e523c8cacbd3d29f",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 2219376,
+  "art_direction": {
+    "style_name": "等距几何丝网印",
+    "style_prompt_english": "Architectural isometric screen print with crisp offset layers, visible ink grain, simple extruded geometric volumes and bold diagonals. Build a lively continuous scene, with saturated turquoise, orange and ultramarine, not a cut-paper relief.",
+    "palette": [
+      "#1665A7",
+      "#F36935",
+      "#28B8A9",
+      "#F4E5BB"
+    ],
+    "layout_variant": 4,
+    "activity": "公园与知识",
+    "area": "大兴区"
+  },
+  "outing": {
+    "number": 5,
+    "slug": "zoo-walk",
+    "title": "森林里的动物课",
+    "subtitle": "只选步行区也能认真逛",
+    "area_label": "北京·大兴区",
+    "duration": "约4–5小时",
+    "transport": "地铁大兴线后换乘公交或出租车至榆垡；接驳另计",
+    "stops": [
+      {
+        "name": "北京野生动物园步行区",
+        "detail": "沿园方开放线路看动物",
+        "lat": 39.4947605,
+        "lon": 116.328321,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120560",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/542184568"
+      },
+      {
+        "name": "北京野生动物园科普展区",
+        "detail": "结合标识了解栖息地与习性",
+        "lat": 39.4947605,
+        "lon": 116.328321,
+        "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120560",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/542184568"
+      }
+    ],
+    "practical_note": "购票与步行区开放提前查；本条不包含自驾区和猛兽体验，不接触或擅自投喂。",
+    "copy_title": "大兴区｜森林里的动物课",
+    "copy_body": "只选步行区也能认真逛。这次只安排一个片区：北京野生动物园步行区 → 北京野生动物园科普展区。建议留约4–5小时，把拍照、休息和短时参观一起算进去。购票与步行区开放提前查；本条不包含自驾区和猛兽体验，不接触或擅自投喂。 到达与返程交通另计。",
+    "hashtags": [
+      "北京周末去哪儿",
+      "大兴区",
+      "北京小众玩法",
+      "公园与知识"
+    ],
+    "hero_prompt_english": "Beijing Wildlife Park in Yufa Daxing: a peaceful visitor walking path through a spacious tree-lined zoo, giraffes behind clear habitat fencing and a distant wetland bird enclosure. Two adult visitors study a blank information panel while standing on the public path. Only gentle nonthreatening animals, appropriate separated enclosures, no feeding or handling, no vehicles among animals. Original peaceful full-bleed vertical artwork, layered filled background. No text, letters, logos, copied artwork, or invented maps. Adults in opaque everyday clothes only if people appear."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "e299e5241c6b2f8df6695dba208fd919c2f6506f9599d8831f4f83d92995c7d9",
+      "bounds_wgs84": [
+        116.31996666785767,
+        39.48831330709317,
+        116.33667533214233,
+        39.50120709504342
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "北京野生动物园步行区",
+          "lon": 116.328321,
+          "lat": 39.4947605,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "北京野生动物园科普展区",
+          "lon": 116.328321,
+          "lat": 39.4947605,
+          "coordinate_status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:18:14.502155+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "北京野生动物园步行区",
+          "source_url": "https://www.openstreetmap.org/way/542184568",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        },
+        {
+          "name": "北京野生动物园科普展区",
+          "source_url": "https://www.openstreetmap.org/way/542184568",
+          "status": "OSM named venue representative point, verified against named feature; internal sub-stops use common venue location, not surveyed entrance or walking navigation"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "北京野生动物园步行区 → 北京野生动物园科普展区",
+        "box": [
+          52,
+          43,
+          636,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "北京·大兴区",
+        "box": [
+          52,
+          133,
+          244,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "森林里的动物课",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "大兴｜向南找点新鲜  ·  约4–5小时",
+        "box": [
+          52,
+          282,
+          425,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "只选步行区也能认真逛",
+        "box": [
+          55,
+          1013,
+          275,
+          1035
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  北京野生动物园步行区",
+        "box": [
+          53,
+          1117,
+          367,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "沿园方开放线路看动物",
+        "box": [
+          56,
+          1153,
+          256,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  北京野生动物园科普展区",
+        "box": [
+          53,
+          1194,
+          394,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "结合标识了解栖息地与习性",
+        "box": [
+          56,
+          1230,
+          296,
+          1251
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "购票与步行区开放提前查；本条不包含自驾区和猛兽体验，不接触或擅",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "自投喂。",
+        "box": [
+          53,
+          1306,
+          125,
+          1324
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁大兴线后换乘公交或出租车至榆垡；接驳另计",
+        "box": [
+          53,
+          1362,
+          493,
+          1384
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "10 / 20  ·  05 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "050",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_b",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

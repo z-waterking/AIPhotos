@@ -1,0 +1,167 @@
+{
+  "output": "../daily-vignette-seasons-08-winter-window-circle.png",
+  "refined_prompt": "../prompts/daily-vignette-seasons-08-winter-window-circle.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-seasons-08-winter-window-circle-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-seasons",
+  "group": "seasons",
+  "series_number": 8,
+  "anthology_index": 68,
+  "panel_count": 4,
+  "display_title": "擦开的两个圆",
+  "visible_description": "她擦开雾窗上的两个小圆，一个看猫脸，一个看雪边的白爪。",
+  "synopsis": "清早，厨房的窗子蒙着薄雾，阿宁端着牛奶看不清外面的院子。她把杯子放下，用毛巾角擦开一个小圆，里面忽然出现一双灰色猫耳朵。她笑着擦出旁边第二个圆，这回看见猫的一只白爪。几个细小的雪片落在爪边，一人一猫隔着两个清亮的小窗，安静分享了片刻冬天。",
+  "story_text": "清晨的厨房暖暖的，窗玻璃却蒙着一层雾。阿宁端起牛奶走过去，想看看昨晚的雪，外面只剩模模糊糊的一片白。\n\n她把杯子放到柜台，拿起折好的毛巾，用一角擦开一个清亮的小圆。正要凑近，圆圈下方忽然升起两只灰耳朵，随后露出一双眼睛。\n\n邻家的猫坐在宽窗台上，也正在往屋里看。阿宁忍着笑，在旁边又擦了一个小圆。第二个圆透亮起来，显出猫的一只白爪，端端正正放在窗沿。\n\n几片细雪落在爪边，猫低头看了一眼，阿宁也跟着看了一眼。牛奶还热，她却先把毛巾放下，让这两个小窗多开一会儿，好看清窗外那位安静的客人。",
+  "art_direction": "Pale winter gouache with soft smudged pencil and translucent edges",
+  "character_design": "Aning is an adult woman with cropped dark hair, a cream knitted sweater, blue house trousers, and wool slippers. She holds a rounded mustard ceramic mug. A folded cream towel rests on the counter. A neighbor’s plump gray cat with white forepaws sits outside on a sheltered wide windowsill. The kitchen window has misted glass above a low wooden counter. Keep these appearances, clothing colors, proportions, and carried objects identical throughout every panel. Faces are gently expressive, bodies fully clothed, and all objects remain free of legible writing or decorative lettering.",
+  "panels": [
+    {
+      "caption": "窗外只剩一层白茫茫。",
+      "scene": "Aning stands inside a warm kitchen holding a mustard mug with both hands and peers at the misted window above the counter. The outdoor courtyard is hidden by soft condensation. Her sweater sleeves bunch at her wrists, and a thin curl of steam rises from the drink. A small folded towel lies on the counter. The panel is a single quiet instant, with clear physical gestures and readable objects. Use old paper gouache and colored pencil, consistent character design, and no lettering, speech balloons, signage, or watermark.",
+      "position": "TL"
+    },
+    {
+      "caption": "毛巾擦出一个清亮的小圆。",
+      "scene": "Aning has set the mustard mug on the kitchen counter and uses one corner of a folded towel to wipe a small round clear patch in the misted window. She leans toward the newly transparent opening with quiet curiosity. The rest of the glass stays softly opaque, and a pale winter sky is faintly visible through the wiped circle. Use old paper gouache and colored pencil, preserving established character and prop designs. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "TR"
+    },
+    {
+      "caption": "猫耳朵出现了，她又擦开旁边一小块。",
+      "scene": "Two gray cat ears and bright attentive eyes appear in the first clear circle of the misted window. Aning smiles and uses the towel corner to wipe a second nearby circle a little lower. The mustard mug stands safely on the counter, while the cat remains on the broad sheltered exterior sill, looking inward through the first opening. Use old paper gouache and colored pencil, preserving established character and prop designs. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BL"
+    },
+    {
+      "caption": "两个小窗，一个看脸，一个看白爪。",
+      "scene": "Aning smiles through two adjacent wiped circles in the window. One frames the gray cat’s peaceful face, while the other reveals its white forepaw beside a few tiny fresh snowflakes on the sheltered sill. The folded towel and mustard mug rest together on the counter. Cat and woman look comfortably toward each other through the clear glass. Use old paper gouache and colored pencil, preserving established character and prop designs. Show one clear visible instant, with no lettering, signage, speech balloons, or watermark.",
+      "position": "BR"
+    }
+  ],
+  "palette": [
+    "#E3E6DE",
+    "#9FB8BE",
+    "#BCA78D",
+    "#776D66",
+    "#D9B777"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "窗外只剩一层白茫茫。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "毛巾擦出一个清亮的小圆。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "猫耳朵出现了，她又擦开旁边一小",
+          "块。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "两个小窗，一个看脸，一个看白爪。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "f7e6f1171f09ec3dae4d14a92bcad73bb46046a435647b1941509b4a020b11af",
+  "sha256": "7e6abb8efcab790fd185b50029088667655e60974d147f5e22102cc142061bd0",
+  "prompt_sha256": "490803040f7a9095e05d4079e3e54f8196dfc05758eeb0d969a37ad86250a895",
+  "story_sha256": "62bf26e5acbd9218d424415ac48be7f8e304302fab60428765d4cead75dcc890",
+  "created_at": "2026-10-26T10:25:06.674566+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

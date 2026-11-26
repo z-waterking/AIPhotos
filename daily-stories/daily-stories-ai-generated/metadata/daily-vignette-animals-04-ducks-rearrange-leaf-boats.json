@@ -1,0 +1,212 @@
+{
+  "output": "../daily-vignette-animals-04-ducks-rearrange-leaf-boats.png",
+  "refined_prompt": "../prompts/daily-vignette-animals-04-ducks-rearrange-leaf-boats.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-animals-04-ducks-rearrange-leaf-boats-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-animals",
+  "group": "animals",
+  "series_number": 4,
+  "anthology_index": 54,
+  "panel_count": 6,
+  "display_title": "鸭子的水路",
+  "visible_description": "摆好的叶子小船被鸭群搅散，孩子反而看清了水的方向。",
+  "synopsis": "池边的孩子把三片落叶轻放到水面，想让它们排成一行。两只鸭子游过来，水纹一圈圈推开，三片叶子很快各走各的。孩子伸出去的手停住了，转而看着它们绕过鸭子，漂向同一处浅湾。他沿岸走到浅湾等候，三片叶子先后靠在一起，两只鸭子也慢慢游来了。",
+  "story_text": "孩子在池边捡了三片落叶，一片金黄，一片细红，还有一片宽宽的绿色。他蹲在干草地上，把它们轻放到水面，想让三只小船排得整整齐齐。\n\n两只鸭子游过来了。它们没碰叶子，身后的水纹却一圈圈推过去。黄叶转向左边，红叶转了半圈，绿叶慢慢落到后面。\n\n孩子伸手想重新摆，忽然停住。三片叶子虽然散开，却都绕着同一段岸线漂走。他收回手，沿岸跟了过去。\n\n浅湾里没有大水纹，叶子先后靠到一块圆石头边。孩子坐在岸上数了数，三片都在。鸭子也游进湾里，在它们旁边停下，像比小船晚了一会儿的客人。",
+  "art_direction": "Airy gouache with fine pencil ripples and soft paper grain",
+  "character_design": "A child about ten with straight dark hair under a plain cream sunhat wears an ochre shirt, sage trousers and brown shoes. Two healthy ducks have soft brown mottled bodies, cream cheeks, dark bills and matching natural proportions; one has a slightly darker back. Three distinct fallen leaves float on the pond: one golden oval, one red narrow leaf and one green broad leaf. The pond has a low safe grassy bank and a visible shallow sheltered cove.",
+  "panels": [
+    {
+      "caption": "三片叶子，先排成一列。",
+      "scene": "The child kneels well back on a low grassy pond bank and gently places the third broad green leaf onto the still surface using an extended arm. A golden oval leaf and a narrow red leaf already float nearby in a short loose line within easy reach of the shore. The two brown ducks approach from farther out on calm water. Keep the child knees firmly on dry grass, with no steep edge or hazardous depth emphasized. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "鸭子经过，队伍就散了。",
+      "scene": "The two ducks swim across the middle distance in front of the three floating leaves, creating broad natural ripples. The golden, red and green leaves have separated and rotated in different directions. The child holds one hand paused above the shore, about to correct the arrangement but noticing the expanding waves instead. The ducks remain relaxed and uninterested in the child, with their bodies creating the visible movement that reorganizes the little fleet. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "先别摆回去，看看它们去哪儿。",
+      "scene": "The child settles both hands onto the dry grassy bank, withdrawing the earlier reaching hand. On the pond, the golden oval leaf, narrow red leaf and broad green leaf drift separately but begin following the same curve of shoreline. The two ducks continue slowly beyond them. The child leans forward slightly with an observant expression, keeping knees and feet securely on land. Emphasize the deliberate pause before the child chooses to follow their route. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他收回手，跟着水路往前走。",
+      "scene": "The child now walks slowly along the dry grassy bank toward the shallow cove, holding the sunhat brim with one hand and watching the three colored leaves drift ahead on the water. The leaves remain separated but follow the same curved shoreline, guided by the fading duck ripples. Both brown ducks paddle calmly behind them. Show the clear relationship between bank, drifting objects and sheltered destination without arrows or a diagrammatic aerial view. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "他先到浅湾，等三片叶子过来。",
+      "scene": "The child arrives at the sheltered cove and sits on dry grass beside a smooth shore stone, hands folded in the lap. The golden leaf approaches the stone first, while the red and green leaves remain a short distance behind on the same quiet current. Both ducks are farther back, paddling leisurely along the curved bank. Show the waiting child and the approaching leaves together, making the destination clear before they finally collect. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "浅湾到了，三片叶子自己靠了岸。",
+      "scene": "At the sheltered cove, the child sits on dry grass with hands folded in the lap and watches the golden, red and green leaves collect gently together against a smooth shore stone. The two brown ducks float just beyond the gathered leaves, relaxed in the now nearly still water. The arrangement is irregular but complete, unlike the original straight line. Soft reflected greenery and the broad quiet cove frame the small discovery about the pond natural movement. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#E0DCC6",
+    "#83A6A3",
+    "#B88B55",
+    "#7F8E69",
+    "#C9B26E"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        504
+      ],
+      [
+        520,
+        8,
+        1016,
+        504
+      ],
+      [
+        8,
+        520,
+        504,
+        1016
+      ],
+      [
+        520,
+        520,
+        1016,
+        1016
+      ],
+      [
+        8,
+        1032,
+        504,
+        1528
+      ],
+      [
+        520,
+        1032,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        200,
+        502,
+        668
+      ],
+      [
+        522,
+        200,
+        990,
+        668
+      ],
+      [
+        34,
+        810,
+        502,
+        1278
+      ],
+      [
+        522,
+        810,
+        990,
+        1278
+      ],
+      [
+        34,
+        1420,
+        502,
+        1888
+      ],
+      [
+        522,
+        1420,
+        990,
+        1888
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 687,
+        "lines": [
+          "三片叶子，先排成一列。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 687,
+        "lines": [
+          "鸭子经过，队伍就散了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1297,
+        "lines": [
+          "先别摆回去，看看它们去哪儿。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1297,
+        "lines": [
+          "他收回手，跟着水路往前走。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1907,
+        "lines": [
+          "他先到浅湾，等三片叶子过来。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1907,
+        "lines": [
+          "浅湾到了，三片叶子自己靠了岸。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "f2f5e5584d3e686a3ab4312e191a68f74fce3e9dd50123ad3d32bac223dddc4c",
+  "sha256": "f0db87c57c402cd5f9625eccf75e14f7b174bdb8f33b026e4a35a7cdc0c734c4",
+  "prompt_sha256": "8ba21d32a90a29a733f8a4cac8885976e9928f9db843e078ecfad1fe58ce7547",
+  "story_sha256": "6f45b68439b74031a6455229e27c8c289999ca927f75ede84bae8cc8ed814979",
+  "created_at": "2026-10-26T10:18:53.746433+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "output": "../daily-vignette-strangers-02-vertical-bench-belongings.png",
+  "refined_prompt": "../prompts/daily-vignette-strangers-02-vertical-bench-belongings.txt",
+  "source_prompt": "../prompts/daily-vignette-art-direction.txt",
+  "source_story": "../prompts/daily-vignette-strangers-02-vertical-bench-belongings-story.txt",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "execution": "azure-multipanel-with-local-typesetting",
+  "size": "1024x2048",
+  "generation_size": "1024x1536",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "fictional": true,
+  "series": "daily-vignette-strangers",
+  "group": "strangers",
+  "series_number": 2,
+  "anthology_index": 32,
+  "panel_count": 4,
+  "display_title": "长凳的角度",
+  "visible_description": "两件太长的行李转了方向，一张长凳便有了余地。",
+  "synopsis": "长凳上只坐着一个人，横着的地毯卷却占去了大半座位。抱长面包的姑娘想坐下，自己的面包也伸出老远。两人对着彼此的长东西比了比，同时把它们竖起来。长凳一下空了，地毯和面包像两根奇怪的小柱子。后来一只鸽子走到中间，他们还给它留出了位置。",
+  "story_text": "长凳上坐着一个男人，身旁横放着卷好的地毯。地毯卷得很结实，也很长，把空座位占去了大半。姑娘抱着一根长面包走过来，先看长凳，再看自己的面包。\n\n她试着坐下，面包头碰到了地毯的绑带。男人往旁边让，她又把面包往另一边转，空位反而更少了。两个人停下来，看着彼此怀里的长东西笑了。\n\n男人先把地毯竖在腿边。姑娘也竖起面包，把包着纸的那端稳稳拿住。一张本来显得窄小的长凳，忽然空出了中间。\n\n一只鸽子飞落到凳面上，沿着空位走了两步。他们各挪开一点膝盖，给这位不用带行李的客人留出地方。",
+  "art_direction": "Dry-brush gouache with quiet pencil contours on aged cream paper",
+  "character_design": "An adult man with a soft square face, short curly brown hair and a small mustache wears an oatmeal sweater, teal trousers and brown boots. He carries a tightly rolled muted rust rug secured by two plain cream straps. An adult woman with a long dark braid wears a pale blue jacket, ochre skirt and white sneakers. Her very long golden baguette is wrapped only around its bottom in plain brown paper. A small gray pigeon has a mauve neck.",
+  "panels": [
+    {
+      "caption": "他和地毯，占了两个位置。",
+      "scene": "The man sits at the left end of an ordinary green park bench with his long rolled rust rug laid horizontally across the empty slats beside him. The woman stands at the right end, holding her long baguette sideways and considering the narrow remaining space. Neither looks annoyed. Autumn leaves lie on the broad path, and the bench shape remains completely visible so the awkward geometry of both belongings reads immediately. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "她的面包，也不肯拐弯。",
+      "scene": "The woman begins to lower herself toward the bench, but the long baguette overlaps the end of the horizontal rug, making the objects compete for the same space. Both adults lean back slightly and look down at the harmless tangle. The man raises one open hand as a new idea occurs. Keep the rug tightly rolled, the bread intact, and all feet safely resting beside the empty park path. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "换个方向，事情就宽了。",
+      "scene": "Both people now hold their long belongings vertically. The rug stands on the paving beside the left knee of the man, supported by his hand; the wrapped base of the baguette rests beside the right knee of the woman, with her hand holding it securely. They sit comfortably at opposite ends of the same bench, leaving a generous empty middle section. Their expressions combine relief with amusement at the two tall pillars. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    },
+    {
+      "caption": "中间还能接待一位客人。",
+      "scene": "A small gray pigeon stands on the middle of the bench between the two seated strangers, who have each angled one knee outward to give it room. They glance toward their new visitor with quiet amusement. The rust rug and golden baguette remain upright at opposite outer ends, forming an odd but balanced frame around the scene. Soft branches arch above, and the formerly crowded bench now feels spacious and welcoming. Wordless illustration; no letters, signs, logos, captions, speech balloons or interface text."
+    }
+  ],
+  "palette": [
+    "#DDD2BB",
+    "#A76F53",
+    "#527F7C",
+    "#E1B96A",
+    "#77767D"
+  ],
+  "postprocessing": {
+    "method": "local-chinese-multipanel-layout",
+    "native_size": "1024x1536",
+    "output_size": "1024x2048",
+    "resampling": "Lanczos",
+    "artwork_upscaled": false,
+    "source_panel_boxes": [
+      [
+        8,
+        8,
+        504,
+        760
+      ],
+      [
+        520,
+        8,
+        1016,
+        760
+      ],
+      [
+        8,
+        776,
+        504,
+        1528
+      ],
+      [
+        520,
+        776,
+        1016,
+        1528
+      ]
+    ],
+    "target_panel_boxes": [
+      [
+        34,
+        245,
+        502,
+        955
+      ],
+      [
+        522,
+        245,
+        990,
+        955
+      ],
+      [
+        34,
+        1110,
+        502,
+        1820
+      ],
+      [
+        522,
+        1110,
+        990,
+        1820
+      ]
+    ],
+    "margin_fill": "#F4EFE4",
+    "caption_layout": [
+      {
+        "x": 42,
+        "y": 974,
+        "lines": [
+          "他和地毯，占了两个位置。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 974,
+        "lines": [
+          "她的面包，也不肯拐弯。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 42,
+        "y": 1839,
+        "lines": [
+          "换个方向，事情就宽了。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      },
+      {
+        "x": 530,
+        "y": 1839,
+        "lines": [
+          "中间还能接待一位客人。"
+        ],
+        "font_size": 29,
+        "line_spacing": 40
+      }
+    ]
+  },
+  "native_sha256": "a30ddb9ff16dae8ca4575cdd3bc37b73fd91bfeadd4b4c987193e2eb99ce6e1f",
+  "sha256": "9d456839d03b9f125f7682ce4379365d441d6119aeb0241d36ce44313e5a95bb",
+  "prompt_sha256": "14ebe9bc98133725c6a01600be096854384fcc5ac1546b5fcfa9f8df8f5cf113",
+  "story_sha256": "e45c2e260445f2aea806dd958f2fc5ad40d06d2cd89ed64007e3dc8c0ed87980",
+  "created_at": "2026-10-26T10:01:54.831594+00:00",
+  "visual_review": "passed: native and final compressed previews inspected for distinct readable story events, character and object continuity, coherent anatomy, correct Chinese captions and clean layout",
+  "publication_redactions": [
+    "postprocessing.font_path",
+    "postprocessing.title_font_path"
+  ]
+}

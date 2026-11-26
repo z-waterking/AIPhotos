@@ -1,0 +1,333 @@
+{
+  "output": "../beijing-life-beyond-five-weekends-02-luohong-garden.png",
+  "refined_prompt": "../prompts/beijing-life-beyond-five-weekends-02-luohong-garden.txt",
+  "source_prompt": "../prompts/beijing-life-anthology-brief.txt",
+  "created_at": "2026-10-29T04:52:09.004745+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-life-beyond-five-weekends",
+  "group_number": 20,
+  "series_number": 2,
+  "anthology_index": 97,
+  "title": "摄影馆与一杯茶",
+  "sha256": "ac1ce481c2a459403e2d36f89abfa1e047e2811bced98c4ae9b9623f133f324b",
+  "native_sha256": "0453b9f626d4d66060ac897eef7efa024ba713249c18cc4abe8483cce1b50b41",
+  "prompt_sha256": "31d2f7c2d845bcd08f9695e1a3d578587ae0167a18bca56662cb134e9c2cbf8b",
+  "source_prompt_sha256": "5b1f264e8d17e3521a8a465cead714c0f9e795463436e1e7a9db59b3260862c3",
+  "file_size_bytes": 1766903,
+  "art_direction": {
+    "style_name": "像素立体场景",
+    "style_prompt_english": "High-quality original pixel-art isometric diorama, crisp deliberate square pixels with elegant limited palette and detailed architecture, sophisticated game-environment lighting, stepped shadows, densely composed foreground and background, adults at realistic small scale. Do not copy any game world, branded character or existing pixel artwork; no text, HUD or border.",
+    "palette": [
+      "#283B63",
+      "#DF8472",
+      "#8FBF8B",
+      "#E7CD7A",
+      "#87C8CF"
+    ],
+    "layout_variant": 4,
+    "activity": "艺术园庭／创意商街／自然观察",
+    "area": "北京五环外"
+  },
+  "outing": {
+    "number": 2,
+    "slug": "luohong-garden",
+    "title": "摄影馆与一杯茶",
+    "subtitle": "把风景从展墙看到庭园",
+    "area_label": "五环外·顺义天竺",
+    "duration": "约3–4小时",
+    "transport": "地铁孙河站或机场片区公交后接驳",
+    "stops": [
+      {
+        "name": "罗红摄影艺术馆",
+        "detail": "摄影展与现代展馆",
+        "lat": 40.0419129,
+        "lon": 116.568126,
+        "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120977",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/202286684"
+      },
+      {
+        "name": "罗红艺术馆庭园",
+        "detail": "松石水景与庭园",
+        "lat": 40.0415,
+        "lon": 116.5685,
+        "coordinate_status": "Approximate garden representative beside verified museum footprint; WGS84; not exact entrance",
+        "source_url": "https://s.visitbeijing.com.cn/attraction/120977",
+        "coordinate_source_url": "https://www.openstreetmap.org/way/202286684"
+      }
+    ],
+    "practical_note": "摄影展与餐饮消费规则按官方公告；庭园开放及预约提前确认，接驳另计。",
+    "copy_title": "摄影馆与一杯茶｜北京周末灵感",
+    "copy_body": "把风景从展墙看到庭园。罗红摄影艺术馆 → 罗红艺术馆庭园，安排约3–4小时。从摄影展与现代展馆到松石水景与庭园，留点时间给自己。摄影展与餐饮消费规则按官方公告；庭园开放及预约提前确认，接驳另计。",
+    "hashtags": [
+      "北京周末",
+      "北京旅行",
+      "五环外"
+    ],
+    "hero_prompt_english": "Luo Hong Art Museum near Beijing airport, elegant low contemporary dark-and-white gallery building framed by sculptural pines, ornamental rockwork and a quiet pond, an adult seated with a cup of tea looking into the garden. Museum wall images remain indistinct original abstract tones rather than reproducing photographs. Full-bleed vertical 1024x1536 peaceful original composition. No readable text, logos, maps, or copied works. People if any are ordinary adults in opaque clothing."
+  },
+  "postprocessing": {
+    "method": "local-chinese-typesetting-and-osm-map-inset",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "map_canvas_box": [
+      650,
+      1122,
+      970,
+      1442
+    ],
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "data_sha256": "950d365277feb9fb02f76a7dcc83902a7752fb2cc8f51420cc184b4030df26df",
+      "bounds_wgs84": [
+        116.55995866785767,
+        40.03531027125786,
+        116.57666733214234,
+        40.04810202939207
+      ],
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "north_up": true,
+      "navigation_verified": false,
+      "route_geometry": "dashed-stop-order-not-navigation",
+      "location_pins": [
+        {
+          "name": "罗红摄影艺术馆",
+          "lon": 116.568126,
+          "lat": 40.0419129,
+          "coordinate_status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "罗红艺术馆庭园",
+          "lon": 116.5685,
+          "lat": 40.0415,
+          "coordinate_status": "Approximate garden representative beside verified museum footprint; WGS84; not exact entrance"
+        }
+      ],
+      "data_retrieved_at": "2026-10-29T04:21:09.895841+00:00",
+      "scale_bar_meters": 100,
+      "coordinate_sources": [
+        {
+          "name": "罗红摄影艺术馆",
+          "source_url": "https://www.openstreetmap.org/way/202286684",
+          "status": "OSM named feature representative point from Nominatim; WGS84; not a verified public entrance"
+        },
+        {
+          "name": "罗红艺术馆庭园",
+          "source_url": "https://www.openstreetmap.org/way/202286684",
+          "status": "Approximate garden representative beside verified museum footprint; WGS84; not exact entrance"
+        }
+      ]
+    },
+    "text_boxes": [
+      {
+        "text": "罗红摄影艺术馆 → 罗红艺术馆庭园",
+        "box": [
+          52,
+          43,
+          454,
+          69
+        ],
+        "font_size": 26
+      },
+      {
+        "text": "五环外·顺义天竺",
+        "box": [
+          52,
+          133,
+          308,
+          165
+        ],
+        "font_size": 32
+      },
+      {
+        "text": "摄影馆与一杯茶",
+        "box": [
+          49,
+          188,
+          532,
+          255
+        ],
+        "font_size": 69
+      },
+      {
+        "text": "五环外·创意周末  ·  约3–4小时",
+        "box": [
+          52,
+          282,
+          401,
+          306
+        ],
+        "font_size": 24
+      },
+      {
+        "text": "把风景从展墙看到庭园",
+        "box": [
+          55,
+          1013,
+          275,
+          1036
+        ],
+        "font_size": 22
+      },
+      {
+        "text": "位置地图 · 虚线为顺序",
+        "box": [
+          650,
+          1102,
+          818,
+          1118
+        ],
+        "font_size": 16
+      },
+      {
+        "text": "01  罗红摄影艺术馆",
+        "box": [
+          53,
+          1117,
+          286,
+          1144
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "摄影展与现代展馆",
+        "box": [
+          56,
+          1153,
+          216,
+          1174
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "02  罗红艺术馆庭园",
+        "box": [
+          53,
+          1194,
+          286,
+          1221
+        ],
+        "font_size": 27
+      },
+      {
+        "text": "松石水景与庭园",
+        "box": [
+          56,
+          1230,
+          196,
+          1250
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "摄影展与餐饮消费规则按官方公告；庭园开放及预约提前确认，接驳另",
+        "box": [
+          53,
+          1281,
+          611,
+          1301
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "计。",
+        "box": [
+          53,
+          1306,
+          89,
+          1322
+        ],
+        "font_size": 18
+      },
+      {
+        "text": "地铁孙河站或机场片区公交后接驳",
+        "box": [
+          53,
+          1362,
+          353,
+          1383
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "AI艺术示意 · 实景以现场为准；接驳另计。",
+        "box": [
+          53,
+          1459,
+          421,
+          1480
+        ],
+        "font_size": 19
+      },
+      {
+        "text": "20 / 20  ·  02 / 05",
+        "box": [
+          650,
+          1456,
+          822,
+          1477
+        ],
+        "font_size": 20
+      },
+      {
+        "text": "地图 © OpenStreetMap contributors · ODbL · openstreetmap.org/copyright",
+        "box": [
+          24,
+          1510,
+          585,
+          1527
+        ],
+        "font_size": 15
+      },
+      {
+        "text": "097",
+        "box": [
+          904,
+          1510,
+          934,
+          1523
+        ],
+        "font_size": 17
+      }
+    ]
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "reviewer": "beijing_anthology_plan_c",
+    "checked": [
+      "Legible Chinese headings and practical outing details",
+      "Source-backed OSM inset and truthful location/sequence labels",
+      "Distinct group medium and peaceful composition",
+      "Corrected major landmark silhouettes",
+      "No unintended text clipping"
+    ]
+  },
+  "research_record": "../prompts/beijing-life-research.txt",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}
