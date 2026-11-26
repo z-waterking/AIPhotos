@@ -1,0 +1,56 @@
+{
+  "output": "../one-love-02-summer-sea-promise.png",
+  "source_prompt": "../prompts/one-love-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-02-summer-sea-promise.txt",
+  "created_at": "2026-10-27T02:28:05.775013+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love",
+  "series_number": 2,
+  "title": "把未来交给海风",
+  "art_direction": "A spacious summer sunset by a quiet Japanese coastal village. The same fictional adult couple sit side by side on a low broad stone seawall, viewed from a relaxed rear three-quarter angle. Their silhouettes are clearly distinct; the woman's head rests gently on the man's near shoulder, and their two adjacent hands meet loosely on top of the stone between them. Woman wears an opaque ivory short-sleeve cotton blouse and a muted terracotta midi skirt; man wears a slate-blue linen shirt and dark trousers. A small ochre scarf tied to her canvas bag lifts slightly in the ocean breeze. The couple occupy the lower-center third, large enough to feel present, with unbroken luminous sea and an expansive pale apricot sky around them. Fine waves, a distant tiny lighthouse at far left, one warm path of reflected sunlight, a few windblown grasses in a near corner. The horizon sits slightly above mid-height. Convey a quiet unspoken decision to share a future through closeness and a wide open view. Safe seated posture, no precipice, no dramatic cliff.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "use": "Abstract themes of lasting commitment and everyday companionship; original composition and fictional characters, no lyrics rendered."
+  },
+  "sha256": "ed63170579f3f88cb8e717a9aea6f5f4b8dea83899ec8f471c99d445dda09be2",
+  "native_sha256": "ed63170579f3f88cb8e717a9aea6f5f4b8dea83899ec8f471c99d445dda09be2",
+  "prompt_sha256": "8ac9178401be4eb7046141810292699574b8d7c92c602bfe2a73df0af53a808d",
+  "source_prompt_sha256": "6639a6730638f1ef27634f01523b6b00019de21b6fce4a8b02448fe00236a79a",
+  "file_size_bytes": 2681931,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "1280x936",
+    "checked": [
+      "Four distinct original compositions",
+      "Readable caring gestures and adult characters",
+      "Natural integration and plausible visible anatomy",
+      "No visible text, logo or watermark",
+      "Native PNG unchanged"
+    ]
+  }
+}

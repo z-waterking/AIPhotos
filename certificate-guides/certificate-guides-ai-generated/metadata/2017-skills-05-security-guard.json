@@ -1,0 +1,52 @@
+{
+  "output": "../2017-skills-05-security-guard.png",
+  "refined_prompt": "../prompts/2017-skills-05-security-guard.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-skills",
+  "series_number": 5,
+  "contains_text": true,
+  "art_direction": "A fictional adult security attendant in plain dark civilian-style work clothing calmly welcomes an ordinary visitor at a modern building entrance. Distinct architecture, soft dusk light, practical reception desk and an unbranded cityscape outside establish a dignified public-service atmosphere. No weapons, conflict, shield symbols, police resemblance, badges, official insignia or readable text; deep blue and warm gold palette.",
+  "historical_year": 2017,
+  "source_urls": [
+    "http://www.lianzhou.gov.cn/bmxz/zfxt/lzsgaj/bmwj/content/post_328378.html",
+    "https://www.gov.cn/zhengce/zhengceku/2009-09/19/content_6167.htm"
+  ],
+  "poster_copy": {
+    "title": "保安员证",
+    "keyword": "场所安全  /  服务秩序",
+    "facts": [
+      "2017年连州组织保安员资格考试",
+      "依当时条例须年满18岁、初中以上等",
+      "公安机关考试、审查后核发保安员证"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "8ca217c2f4cc993dd7dc146f17e27f62cbb147eb6724aec7dcd2e34d29e3af16",
+  "native_sha256": "c85d68d8e65afbb4351b1c919befb112009f98f424ca2abbfe53253045520b8d",
+  "sha256": "b728343552c1a78d0c9632a41ff54325021eb3fab1aff69f0d493a2790a56a36",
+  "created_at_utc": "2026-11-03T05:18:21.948390+00:00",
+  "postprocessing": {
+    "method": "local-gradient-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "gradient_start_y": 610,
+    "gradient_max_alpha": 232
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "output": "../one-love-sharp-07-only-you-pause-in-the-crowd.png",
+  "source_prompt": "../prompts/one-love-cinematic-pair-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-sharp-07-only-you-pause-in-the-crowd.txt",
+  "created_at": "2026-10-28T04:01:50.936178+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love-sharp",
+  "series_number": 7,
+  "pair": "one-love-cinematic-pair",
+  "pair_number": 2,
+  "pair_count": 2,
+  "title": "整座城在赶路，只有你在等我",
+  "art_direction": "A busy Japanese city pedestrian crossing at blue hour just after rain. Shot from the man's shoulder at close conversational distance; a small cropped part of his black shoulder and a little back-of-head silhouette occupy only the lower-left foreground, establishing that we are with him. Across a gap of about one step, the woman has deliberately STOPPED while everyone else moves across the zebra stripes. She has turned back toward him with a small spontaneous knowing smile, eyebrows relaxed, as if to say 'here you are.' Her attention is entirely on him.\n\nTHE STORY ACTION: she holds TWO plain takeaway hot-drink cups, one in each hand. One cup remains close to her own chest, while she offers the second gently into the small empty space BESIDE her, toward his approach. Her elbow is naturally bent, no extreme hand foreshortening. Keep both cups clearly separate and ordinary-sized, with unmarked ivory paper and black lids. A very small wisp of steam. She has angled her body and stepped a half-step sideways to make a place for him next to her. The open space is about one person's width and belongs naturally in the flow of people, not a glowing circle or empty island. Her vermilion scarf lifts in the breeze.\n\nCAMERA AND CROWD: a slightly low medium shot from thighs upward, the woman at center-right, the diagonal zebra stripes directing the eye toward her and the offered cup. Eight to twelve ordinary adult commuters move across the foreground edges and background, rendered as desaturated charcoal and cold-cyan anime silhouettes with controlled horizontal line smears that show motion. Their bodies are recognizable and they have clean separated shapes, but their faces are low-detail. They must read as busy passersby, not threatening figures and not repeated clones. The woman, the two cups, and the small place she has made for him are the ONLY motionless sharply resolved area. This is a cinematic attention effect inside a normal street scene.\n\nBACKGROUND: convincing Japanese city proportions, a corner convenience-shop glow, a few overhead cables, glass storefront reflections and rainy pavement, all simplified and desaturated without erasing the world. Plenty of graphic charcoal shapes and cool blue light. Keep the environment lively and legible, with no readable signage. She has the full natural skin colors and restrained red accent, fine expression and vivid eyes. The coat is ordinary and her hair is long black with an ivory ribbon. No posing for a fashion shoot, no direct gaze into the camera lens: her gaze lands on her waiting partner at the lower-left.\n\nThe emotional idea is instantly readable: everyone is hurrying onward, but this person has stopped, saved a drink, and made room just for me. A small scene that makes one person the center of the whole world.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "selected_line_number": 2,
+    "meaning": "In a rushing world, the beloved is the one who sees me and makes room for me.",
+    "use": "Separate original wordless interpretation of one selected short lyric line; no existing visual copied."
+  },
+  "sha256": "b7f32b71fe332c9a396ae7a780c533f2f6166f2ab376fb64fb01b168fc7bebf6",
+  "native_sha256": "b7f32b71fe332c9a396ae7a780c533f2f6166f2ab376fb64fb01b168fc7bebf6",
+  "prompt_sha256": "dff1b5485bbcb4490f14cddeafd2610f7f80bfcd8a3d09883847a7e5f84e9568",
+  "source_prompt_sha256": "210f9a670f2b7ef175b9f394a5ee50799c090864e73d0e94a4e06197a58714a2",
+  "file_size_bytes": 2297892,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "924x1280",
+    "checked": [
+      "Two legible narrative scenes with distinct lyric themes",
+      "Clearly adult original anime characters",
+      "Visible cinematic focal action",
+      "No visible lettering or watermark",
+      "Native PNG retained without pixel editing"
+    ]
+  }
+}

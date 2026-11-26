@@ -1,0 +1,57 @@
+{
+  "output": "../martial-reflection-01-gift-and-joy.png",
+  "refined_prompt": "../prompts/martial-reflection-01-gift-and-joy.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "martial-reflection",
+  "series_number": 1,
+  "title": "天资与乐趣",
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第十六回《九阴真经》",
+  "source_url": "https://book.douban.com/annotation/43340577/",
+  "quote_lines": [
+    "师哥当年说，我学武的天资聪明，",
+    "又是乐此而不疲，"
+  ],
+  "quote_context": "周伯通转述师兄王重阳之言",
+  "art_direction": "In an ancient mountain temple courtyard in clear morning light, the young adult Taoist Zhou Botong smiles with genuine pleasure while gently practicing a simple unarmed stance on the ground, not fighting. His slightly older senior brother Wang Chongyang stands nearby at the edge of the courtyard, attentively watching with quiet approval. Both men are clearly distinguishable, full or three-quarter body, with an old stone wall and restrained greenery. A candid, warm cinematic mid-wide shot establishes their friendly mentorship.",
+  "sha256": "0412400ae5cf8a2ea93e5445ac194afa496b70c1d925784c98968a52f3ae0de4",
+  "native_sha256": "3c02d289166c202ac12af95760ebc51f14fb9e69f9360c38af140cf67f26b063",
+  "prompt_sha256": "c5182b7a790d52debeb1b6f70186a85f6faf4a5d09a7441cb141cae7149bf745",
+  "created_at_utc": "2026-11-11T02:43:00.690149+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "font_size": 48,
+    "label_font_size": 24,
+    "gradient_start_y": 650,
+    "gradient_max_alpha": 220,
+    "quote_position": [
+      82,
+      808
+    ],
+    "quote_line_spacing": 69,
+    "attribution_position": [
+      84,
+      748
+    ]
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

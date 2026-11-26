@@ -1,0 +1,42 @@
+{
+  "output": "../yala-jamba-03-qiangba-comes-close.png",
+  "refined_prompt": "../prompts/yala-jamba-03-qiangba-comes-close.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "yala-jamba",
+  "series_number": 3,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "Medium two-shot inside the same stone hall, Qiangba in dark olive travel jacket kneels beside the reclining Master Yala among many rolled scrolls. Qiangba leans forward with compassionate concern, looking into the master’s eyes; the master looks gently back, still alive. Keep both faces and hands clear and natural, no injuries, no crowd.",
+  "visible_description": "卓木强巴穿过经卷堆，跪在亚拉法师身边。",
+  "display_title": "来到身旁",
+  "poster_text": "强巴来到法师身边，轻声唤他。",
+  "text_is_original_paraphrase": true,
+  "source_work": "何马《藏地密码10》",
+  "source_section": "《以命相搏》",
+  "source_url": "https://luoxiadushu.com/zangdi/67035.htm",
+  "native_sha256": "48af81065563323e7e0294b9abb273bd7df153f3d510eabc5e764780d4c23560",
+  "sha256": "3884389e8ed945af286efdfd17006d2422ad8dfac272fbbafcb3810acd38485d",
+  "prompt_sha256": "ec616a24abe5649da276e52a190459692d9ae917d4167e53a2c59cf7297f5665",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

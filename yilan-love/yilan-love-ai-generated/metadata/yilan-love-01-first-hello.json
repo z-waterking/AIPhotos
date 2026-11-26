@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-love-01-first-hello.png",
+  "refined_prompt": "../prompts/yilan-love-01-first-hello.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-love",
+  "series_number": 1,
+  "art_direction": "小城街边，他骑着单车鼓起勇气向她打招呼。",
+  "sha256": "b256f436a26955a32b7e73b5632a09a86b2ee659c1b141998c8df7870d0c6730",
+  "native_sha256": "b256f436a26955a32b7e73b5632a09a86b2ee659c1b141998c8df7870d0c6730",
+  "prompt_sha256": "f5c2ed3a759d80e25aa0c2274ef8a79ccece1708ecb204bdd20cb842fbfaff72",
+  "created_at_utc": "2026-11-12T01:36:21.582230+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

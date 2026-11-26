@@ -1,0 +1,42 @@
+{
+  "output": "../yala-jamba-02-a-lifetime-of-reading.png",
+  "refined_prompt": "../prompts/yala-jamba-02-a-lifetime-of-reading.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "yala-jamba",
+  "series_number": 2,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "Close mid-shot of Master Yala reclining amid scrolls. A single unfurled, plain, unlettered parchment scroll rests across his lap and both hands; he gently closes it while looking at it with a faint appreciative smile. Piles of rolled scrolls frame the scene, butter-lamp warmth on his calm elderly face. The focus is respectful reading, no second person, no inscriptions or text.",
+  "visible_description": "法师在经卷中安静阅读，将手中的一卷合起。",
+  "display_title": "最后的阅读",
+  "poster_text": "法师一卷卷读过，又小心合拢。",
+  "text_is_original_paraphrase": true,
+  "source_work": "何马《藏地密码10》",
+  "source_section": "《以命相搏》",
+  "source_url": "https://luoxiadushu.com/zangdi/67035.htm",
+  "native_sha256": "a23d8797074f5983f214b6a7cce377ee91ce954a3411d36acd47b9b28fda2b5e",
+  "sha256": "86cee0fdc14bef67ae31c3b7898b9b6abc1318ab4c456d1cd8ffbc429feab2c5",
+  "prompt_sha256": "b28337f0f7e940032c5caa60da540b9f38b1724ac449faa1a1d249c3492a605d",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

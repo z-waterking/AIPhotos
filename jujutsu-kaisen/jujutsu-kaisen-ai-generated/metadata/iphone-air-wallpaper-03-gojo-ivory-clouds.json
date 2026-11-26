@@ -1,0 +1,40 @@
+{
+  "output": "../iphone-air-wallpaper-03-gojo-ivory-clouds.png",
+  "refined_prompt": "../prompts/iphone-air-wallpaper-03-gojo-ivory-clouds.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "Airy ivory and pale-blue ink-and-gouache illustration, elegant blindfold portrait.",
+  "composition_variation": "Satoru Gojo, distinctive spiky white hair, neat plain black blindfold covering both eyes, relaxed amused closed-mouth smile, dark high-collar uniform, hands in pockets. Graceful waist-up three-quarter portrait central lower half. Sophisticated ink-and-gouache anime illustration: warm ivory ground, one airy pale-celadon and soft blue cloud curving behind lower torso, restrained charcoal ink coat edge. Elegant recognizable face, no exaggerated grin. Hair clear against ivory through fine cool-gray line and faint blue shadows. Spacious luminous high-end editorial art. Upper 30 percent subtle ivory gradation only. No calligraphy or red seal. Subtle soft texture, clean line weight, not a manga page.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T18:25:39.812060+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "9d5b43139a461c009368a84f7e44221e55406508e096541e0cc7e4668158848d",
+    "note": "Native 1024x1536 PNG preserved in this Codex task artifact directory, native-wallpapers; final wallpaper is center-cropped and resized, not generated natively at 1260x2736."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "group": "B",
+    "title": "五条悟 · 白昼浮云",
+    "clock_negative_space": "upper 28 percent",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed 1200x1080 contact sheet inspected: one recognizable requested character; clear upper clock area; no text, UI, unwanted people or obvious anatomy defects; hands in pockets or sleeves."
+  },
+  "visible_description": "戴黑色眼罩的五条悟置于米白背景中，淡蓝云雾和细致衣褶组成轻盈竖屏构图。"
+}

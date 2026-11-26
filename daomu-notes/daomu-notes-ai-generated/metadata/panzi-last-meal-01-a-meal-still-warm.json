@@ -1,0 +1,43 @@
+{
+  "output": "../panzi-last-meal-01-a-meal-still-warm.png",
+  "refined_prompt": "../prompts/panzi-last-meal-01-a-meal-still-warm.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "panzi-last-meal",
+  "series_number": 1,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A warm intimate medium shot of Pan Zi alone seated at his old wooden table in his modest rented room, eating from the blue-rimmed white bowl of noodles with bamboo chopsticks; half remains in the bowl. A pale enamel kettle stands nearby, soft amber daylight from the green-framed window. He has a relaxed ordinary expression, a small moment of daily life before the journey. Only Pan Zi is present; realistic hand holding chopsticks, no writing.",
+  "visible_description": "潘子在出租屋木桌前吃面，碗中尚余半碗。",
+  "display_title": "那顿饭",
+  "poster_text": "潘子正吃着面，屋里还亮着暖灯。",
+  "text_is_original_paraphrase": true,
+  "source_work": "南派三叔《盗墓笔记》",
+  "source_chapter": "《盗墓笔记8》大结局第七十四章（二）",
+  "source_url": "http://www.daomubiji.com/dajieju-7402.html",
+  "adaptation_note": "小三爷到门口叫人、出发前回望和离开路上的画面为基于用户叙述的虚构改编；潘子是否预感归期为吴邪的猜测。",
+  "native_sha256": "8925e931f7e450789314a4151bbb9ef8a35a26f25284b441111d864c62c138b6",
+  "sha256": "cbf5ba75cc34e3f9401409ed22fb7ca7637faef0c8effa3c335568779fa3216a",
+  "prompt_sha256": "901ab09ff0749e6a3db4fd05939847c26cae2606cacfe00570ffe4030dec30d9",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

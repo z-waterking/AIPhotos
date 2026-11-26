@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-04-blue-thunder-abyss.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "城市深渊上方悬浮骸骨神龛，宿傩从右上断楼俯视，五条悟立于左下蓝色雷暴之中。",
+  "composition_variation": "倾斜都市透视与蓝雷上冲，题名置于神龛中央暗部。"
+}

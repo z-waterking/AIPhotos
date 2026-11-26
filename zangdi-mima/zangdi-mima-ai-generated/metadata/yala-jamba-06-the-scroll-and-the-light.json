@@ -1,0 +1,42 @@
+{
+  "output": "../yala-jamba-06-the-scroll-and-the-light.png",
+  "refined_prompt": "../prompts/yala-jamba-06-the-scroll-and-the-light.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "yala-jamba",
+  "series_number": 6,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A quiet medium-wide final view of the same hall after the master has died. His body is NOT visible: folded maroon cloth rests discreetly in shadow beside a simple lamp. Qiangba kneels alone amid the scrolls, holding one rolled scroll carefully in both hands and bowing his head. A soft shaft of cool light meets the warm light of an oil lamp; stillness and respect, no spirits or hallucinations. Do not show violence, injury or visible body.",
+  "visible_description": "大殿天光下，强巴握着经卷，静静守在法师身旁。",
+  "display_title": "未完的路",
+  "poster_text": "强巴握紧经卷，将这句话带向往后的路。",
+  "text_is_original_paraphrase": true,
+  "source_work": "何马《藏地密码10》",
+  "source_section": "《以命相搏》",
+  "source_url": "https://luoxiadushu.com/zangdi/67035.htm",
+  "native_sha256": "316fab28fa0f028d24e3c8b40d889c4bf38901e321bededbf8cae88094dca1f0",
+  "sha256": "8296c8cf67d99da8fe7b129823665f0beee7307605d9087b08d3bc09e80cd137",
+  "prompt_sha256": "d9bba0a4dca3a96b5d4e507859352da056344b98f2eb556b790526c6e42257be",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

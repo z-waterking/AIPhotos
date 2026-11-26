@@ -1,0 +1,56 @@
+{
+  "output": "../one-love-04-silver-hair-spring-tree.png",
+  "source_prompt": "../prompts/one-love-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-04-silver-hair-spring-tree.txt",
+  "created_at": "2026-10-27T02:29:52.960163+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love",
+  "series_number": 4,
+  "title": "白发以后，仍然是你",
+  "art_direction": "Many decades later, the same fictional couple are now healthy, lively adults in their late seventies, sitting close together on a wooden park bench under a flowering spring tree. The woman retains her rounded chin-length bob, now softly silver; the man retains his familiar softly tousled side-parted hair, now silver-gray, with gentle smile lines. They still resemble the described younger couple rather than entirely new characters. Woman wears an ivory cardigan and muted terracotta skirt, man a slate-blue casual coat and charcoal trousers. The woman is gently straightening the end of his small ochre scarf near his shoulder, one simple caring gesture, while they exchange amused affectionate smiles. A canvas grocery tote rests beside the bench, with the top of a baguette and a few green leaves visible. Medium view from the knees upward, eye level, complete heads and natural hands clearly framed. Fresh pale blossoms overhead form an airy arch; a few petals drift across warm sunlit grass. Keep the mood full of life and spring warmth, soft late-afternoon gold, no melancholy. The bench and its two occupants are the sole strong subject, against a spacious painterly park background.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "use": "Abstract themes of lasting commitment and everyday companionship; original composition and fictional characters, no lyrics rendered."
+  },
+  "sha256": "4b829de3b7c8d2c7b1c32bfa3ba87616740375a62ce9ff6144c7edae11c8ffab",
+  "native_sha256": "4b829de3b7c8d2c7b1c32bfa3ba87616740375a62ce9ff6144c7edae11c8ffab",
+  "prompt_sha256": "d29e2fdcdce3e3510db6e8604e8b745ab7a640f2ea355e1e515cfcd49f6da26d",
+  "source_prompt_sha256": "6639a6730638f1ef27634f01523b6b00019de21b6fce4a8b02448fe00236a79a",
+  "file_size_bytes": 3112657,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "1280x936",
+    "checked": [
+      "Four distinct original compositions",
+      "Readable caring gestures and adult characters",
+      "Natural integration and plausible visible anatomy",
+      "No visible text, logo or watermark",
+      "Native PNG unchanged"
+    ]
+  }
+}

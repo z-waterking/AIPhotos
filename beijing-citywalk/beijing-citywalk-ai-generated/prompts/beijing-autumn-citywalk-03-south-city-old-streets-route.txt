@@ -1,0 +1,60 @@
+{
+  "number": 3,
+  "stem": "beijing-autumn-citywalk-03-south-city-old-streets",
+  "title": "城南旧时光",
+  "background": "#FCF7F0",
+  "accent": "#B47F67",
+  "secondary": "#9EAB7D",
+  "top_lines": [
+    "前门 → 大栅栏 → 杨梅竹斜街",
+    "琉璃厂 → 陶然亭公园"
+  ],
+  "distance": "约7–8公里",
+  "metro_start": "2/8号线 前门",
+  "metro_end": "4号线 陶然亭",
+  "start_note": "前门步行街北口",
+  "lunch": "11:55 杨梅竹午餐",
+  "caution": "前门城楼按外观安排；陶然亭公园需购票",
+  "stops": [
+    {
+      "name": "前门",
+      "time": "10:00",
+      "minutes": 40,
+      "walk_after": 10,
+      "detail": "正阳门箭楼 · 京城门面",
+      "art": "Qianmen: Zhengyangmen Arrow Tower as seen from Qianmen pedestrian street, the unmistakable massive rectangular GRAY BRICK bastion with rows of small arched arrow windows in the high upper masonry, broad dark-gray tiled multi-eave roof above, large arched gateway in the lower base. Very solid, broad, imposing proportions; NOT Tiananmen, no yellow glazed palace roof, no portrait. A few small front-street shops supply scale."
+    },
+    {
+      "name": "大栅栏",
+      "time": "10:50",
+      "minutes": 55,
+      "walk_after": 10,
+      "detail": "雕花老铺 · 老字号烟火",
+      "art": "Dashilan pedestrian street: a dense old Beijing commercial street with ornate two-storey historic shopfronts, carved dark wooden doors, layered gray tiled eaves, restrained blue-green painted brackets, small decorative hanging shop boards kept blank, and red lanterns. The lively traditional commercial facades are the landmark, not a single invented gate. Distinct from narrow quiet hutongs: slightly broader street and taller elaborate storefronts."
+    },
+    {
+      "name": "杨梅竹斜街",
+      "time": "11:55",
+      "minutes": 70,
+      "walk_after": 15,
+      "detail": "斜街书店 · 小院里午餐",
+      "art": "Yangmeizhu Xiejie: a gently bending narrow Beijing lane, gray brick low residences with restrained charcoal tiled eaves, an intimate bookshop with books visibly shelved behind a wooden window and a warm small cafe doorway, several simple potted plants. Scholarly intimate adaptive-reuse neighborhood, tactile old brick and muted doors, no huge signboards, no dramatic monuments."
+    },
+    {
+      "name": "琉璃厂",
+      "time": "13:20",
+      "minutes": 40,
+      "walk_after": 40,
+      "detail": "彩绘檐口 · 文房四宝",
+      "art": "Liulichang cultural street: distinguished traditional calligraphy and antiques storefronts with orderly rows of dark-gray Chinese tiled roofs, blue-green painted ornamental eaves, red wooden window lattice and a shop-window display of upright ink brushes, rolled blank scrolls and small inkstones. Detailed crafted facades with a quiet scholarly mood. Do not generate writing on scrolls or signs."
+    },
+    {
+      "name": "陶然亭公园",
+      "time": "14:40",
+      "minutes": 80,
+      "walk_after": 0,
+      "detail": "湖畔秋色 · 慈悲庵古亭",
+      "art": "Taoranting Park: a calm turquoise lake and the wooded island in the foreground, with Cibei Nunnery courtyard on the raised southwestern part of the island. Within the courtyard show the modest historic Taoran Pavilion, three-bay open rectangular hall with red wooden columns and a sober gray hip-and-gable roof on a white stone terrace. It belongs INSIDE this low temple courtyard, not a lone pavilion standing over water. Golden willow trees, the lake and one white stone island approach provide the surrounding park identity. Human-scale sober architecture, no Temple of Heaven or Summer Palace."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "output": "../one-love-sharp-02-vow-across-a-century.png",
+  "source_prompt": "../prompts/one-love-sharp-lyric-pair-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-sharp-02-vow-across-a-century.txt",
+  "created_at": "2026-10-27T02:55:59.865701+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love-sharp",
+  "series_number": 2,
+  "pair": "one-love-sharp-lyric-pair",
+  "pair_number": 1,
+  "pair_count": 2,
+  "title": "百年之后，誓言如初",
+  "art_direction": "THEME: an enduring vow of romantic love across a hundred years. Show TWO adult lovers making one small solemn promise together, while seasons move around them. Their bond is the fixed point in time.\n\nCOMPOSITION: a dynamic medium-wide three-quarter side view, both people from mid-thigh up, facing each other beneath the sweeping single branch of an ancient Japanese cherry tree. The adult man is on the left and the woman is on the right. They occupy the middle two-thirds, with their faces large enough to read clearly. Their near hands meet at the exact center in a natural, anatomically clear little-finger promise gesture, hands modest in size and drawn cleanly. Their other hands rest quietly beside their bodies. They look directly into each other's eyes with calm, unwavering devotion and a very small smile. No reaching toward the camera. An elegant thin vermilion thread loosely links the two little fingers, continues unbroken behind the joined hands, and draws one clean sweeping arc through the open background.\n\nTIME METAPHOR: sparse spring cherry petals, a few pointed summer leaves, two distinct autumn maple leaves and tiny white winter snow flecks follow the same arc. They are a lyrical suggestion of years passing in a single continuous space, not four different landscapes. The tree's graceful weathered black trunk at the left and its overarching branch suggest a century of life. Keep the seasonal shapes secondary, only a few of each, never a chaotic swarm. A quiet stone path and a low Japanese wooden railing recede behind the couple. Leave an expansive cold ivory and pale-cyan sky through the branch. NO clocks, calendars, numerals, hourglasses, gears, quadrants, or montage.\n\nDIAGONAL ENERGY: one clean gust lifts her long black hair and both jacket hems toward the left; a few sharp black hair strands cross the luminous sky. The camera tilts only very slightly, keeping the lovers stable. Strong angular cel shadows, fine white edge light on the hair, vermilion thread as the only very saturated accent. The emotional subject is their shared vow, with no giant objects or extra people.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "selected_line_number": 1,
+    "meaning": "Even a century from now, I will still pledge my love to you.",
+    "use": "Separate original wordless interpretation of one selected short lyric line; no existing visual copied."
+  },
+  "sha256": "209a2899c391af294ddbad5e42485a3b9a01c77b361d31274e93426b85cde767",
+  "native_sha256": "209a2899c391af294ddbad5e42485a3b9a01c77b361d31274e93426b85cde767",
+  "prompt_sha256": "03f9ebd4636b858065d13d77095c2c8faf7c75e444c447414531c963510ee177",
+  "source_prompt_sha256": "1cc91bc797f71279ad1f3cd7baf689e74e6ee70afb19aa8d08b22bc030572c9a",
+  "file_size_bytes": 2610857,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "924x1276",
+    "checked": [
+      "Two distinct individual lyric compositions",
+      "Sharp Japanese anime style and coherent palette",
+      "Readable adult romantic expressions and anatomy",
+      "No visible lettering or watermark in canonical artwork",
+      "Native PNG retained without pixel edits"
+    ]
+  }
+}

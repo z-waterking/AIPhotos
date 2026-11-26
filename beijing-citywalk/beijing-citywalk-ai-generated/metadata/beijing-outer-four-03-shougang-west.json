@@ -1,0 +1,1112 @@
+{
+  "output": "../beijing-outer-four-03-shougang-west.png",
+  "refined_prompt": "../prompts/beijing-outer-four-03-shougang-west.txt",
+  "source_prompt": "../prompts/beijing-outer-four-art-direction.txt",
+  "created_at": "2026-10-29T03:41:30.833646+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "output_format": "png",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-outer-four",
+  "series_number": 3,
+  "title": "首钢工业奇遇",
+  "sha256": "ee085e46a89862c2b29cab943692ce41b4f4fbb9168b74b2719162aea2438153",
+  "native_sha256": "c18f8aab621a3614fac30957fafc96ecf575ca16651b7b17a5beb2eff2a6c779",
+  "prompt_sha256": "1faa1352fd10ea7fadbf0b8b977f51983cb6787e355ed924ebbfba7adeeb9142",
+  "source_prompt_sha256": "5ef1835ed9486235c1ce6fef18348ec729197019c9c70f45ed7f79e4eaadf689",
+  "file_size_bytes": 981479,
+  "route": {
+    "key": "shougang",
+    "title": "首钢工业奇遇",
+    "ring_label": "西四环外",
+    "bbox": [
+      116.138,
+      39.905,
+      116.156,
+      39.923
+    ],
+    "distance": "约5–6公里",
+    "metro_start": "6号线 金安桥",
+    "metro_end": "11号线 北辛安",
+    "start_note": "秀池北侧集合；地铁接驳另留时间",
+    "lunch": "12:30 六工汇午餐",
+    "caution": "园区外观漫游；展馆、大跳台入内另查票务与活动",
+    "boundary_note": "All stops 116.145–116.150 E, west of West Fourth Ring 116.268 E by roughly10km at this latitude. No need to cross fourth ring inside itinerary.",
+    "ring_reference": "https://www.openstreetmap.org/way/121651116",
+    "stops": [
+      {
+        "name": "秀池",
+        "lon": 116.1470532,
+        "lat": 39.9191555,
+        "osm": "way/118554595",
+        "source_url": "https://www.openstreetmap.org/way/118554595",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Xiuchi Lake in Shougang Park: a small calm rounded industrial reservoir with a low stone-and-steel promenade, reflections of reddish-brown preserved steel frames and tall pipes beyond the bank. A restrained planted urban waterfront, vivid turquoise water and gold autumn foliage. Not a natural mountain lake and no imperial pavilions.",
+        "minutes": 35,
+        "walk_after": 10,
+        "detail": "工业水池 · 湖面倒影",
+        "time": "10:00"
+      },
+      {
+        "name": "三高炉",
+        "lon": 116.1493752,
+        "lat": 39.9190967,
+        "osm": "way/943176364",
+        "source_url": "https://www.openstreetmap.org/way/943176364",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Shougang No.3 Blast Furnace: colossal real decommissioned steelmaking structure, dark rust-red and charcoal steel cylindrical furnace body surrounded by dense steel trusses, exterior stairs, bulky industrial pipes and an inclined conveyor bridge. Distinctive heavy irregular industrial silhouette, blue-gray metal and warm rust hues, plaza below. No fire, sparks, smoke or fictional factory fantasy.",
+        "minutes": 80,
+        "walk_after": 15,
+        "detail": "钢铁巨构 · 高炉外观",
+        "time": "10:45"
+      },
+      {
+        "name": "六工汇",
+        "lon": 116.1477589,
+        "lat": 39.9156364,
+        "osm": "way/996804869",
+        "source_url": "https://www.openstreetmap.org/way/996804869",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Liugonghui adaptive-reuse shopping district in Shougang: low red-brick and gray concrete former industrial workshops, long pitched and sawtooth factory roof silhouettes combined with crisp contemporary large glass storefronts, open pedestrian plaza with cafe seats and a few trees. Express preserved factory scale and modern glass additions, not European ornate storefronts. Blank unlettered signs.",
+        "minutes": 85,
+        "walk_after": 20,
+        "detail": "旧厂房更新 · 午餐休息",
+        "time": "12:20"
+      },
+      {
+        "name": "群明湖",
+        "lon": 116.1477347,
+        "lat": 39.9110195,
+        "osm": "way/118554601",
+        "source_url": "https://www.openstreetmap.org/way/118554601",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Qunming Lake in Shougang: elongated clear open lake with spacious urban waterside walkway, golden poplar foliage, characteristic huge pale gray hyperboloid cooling towers beyond the shore. Preserve authentic cooling-tower waist and flared upper rim; they are steelworks heritage, with no radiation symbols, no smoke. Wide lakeside view, electric turquoise water and warm autumn color.",
+        "minutes": 50,
+        "walk_after": 10,
+        "detail": "冷却塔群 · 湖岸漫步",
+        "time": "14:05"
+      },
+      {
+        "name": "首钢大跳台",
+        "lon": 116.1452963,
+        "lat": 39.9101041,
+        "osm": "way/976963312",
+        "source_url": "https://www.openstreetmap.org/way/976963312",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Big Air Shougang: unmistakable tall sculptural ski-jump ramp with a long steep silver-white chute flowing into a broad gently rising launch curve, elevated on exposed concrete supports, multicolored flowing side panels inspired by a flying ribbon. Several enormous gray cooling towers in the background. Autumn dry urban scene without snow; no skiers, no activity or branded Olympic logos.",
+        "minutes": 55,
+        "walk_after": 0,
+        "detail": "飞天曲线 · 冬奥地标",
+        "time": "15:05"
+      }
+    ],
+    "source_urls": [
+      "https://www.openstreetmap.org/way/118554595",
+      "https://www.openstreetmap.org/way/943176364",
+      "https://www.openstreetmap.org/way/996804869",
+      "https://www.openstreetmap.org/way/118554601",
+      "https://www.openstreetmap.org/way/976963312",
+      "https://www.openstreetmap.org/way/121651116"
+    ],
+    "coordinate_system": "WGS84 / EPSG:4326",
+    "checked_on": "2026-10-29",
+    "waypoints_wgs84": [
+      [
+        116.1475,
+        39.92013
+      ],
+      [
+        116.14959,
+        39.91971
+      ],
+      [
+        116.14986,
+        39.91816
+      ],
+      [
+        116.14864,
+        39.91813
+      ],
+      [
+        116.14865,
+        39.91634
+      ],
+      [
+        116.1475,
+        39.9155
+      ],
+      [
+        116.14638,
+        39.91337
+      ],
+      [
+        116.1479,
+        39.91329
+      ],
+      [
+        116.14955,
+        39.9118
+      ],
+      [
+        116.14975,
+        39.9094
+      ],
+      [
+        116.14569,
+        39.90881
+      ],
+      [
+        116.1453,
+        39.90975
+      ]
+    ],
+    "waypoint_note": "Approximate on-road entrance/plaza guide points based on named OSM street geometry. Do not route to lake center or climb industrial equipment. Actual route must follow public ground-level pathways; avoid private and elevated catwalks if closed.",
+    "all_stops_outside_fourth_ring": true,
+    "navigation_verified": false,
+    "number": 3,
+    "stem": "beijing-outer-four-03-shougang-west",
+    "palette": [
+      "#FF7A36",
+      "#1255A0",
+      "#D5E748"
+    ],
+    "top_lines": [
+      "秀池 → 三高炉 → 六工汇",
+      "群明湖 → 首钢大跳台"
+    ],
+    "research_record": "../prompts/beijing-outer-four-research.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        15,
+        63,
+        507,
+        521
+      ],
+      [
+        526,
+        14,
+        1009,
+        522
+      ],
+      [
+        16,
+        622,
+        510,
+        1020
+      ],
+      [
+        526,
+        620,
+        1010,
+        1020
+      ],
+      [
+        15,
+        1100,
+        1010,
+        1505
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        66,
+        311,
+        249,
+        481
+      ],
+      [
+        753,
+        402,
+        915,
+        572
+      ],
+      [
+        62,
+        694,
+        273,
+        864
+      ],
+      [
+        729,
+        840,
+        935,
+        1010
+      ],
+      [
+        5,
+        1086,
+        310,
+        1210
+      ]
+    ],
+    "landmark_labels": [
+      {
+        "stop": "秀池",
+        "position": [
+          0,
+          482
+        ],
+        "stop_number": 1,
+        "landmark_arrow": [
+          [
+            156,
+            491
+          ],
+          [
+            492,
+            547
+          ]
+        ],
+        "pin_wgs84": [
+          116.1470532,
+          39.9191555
+        ]
+      },
+      {
+        "stop": "三高炉",
+        "position": [
+          677,
+          573
+        ],
+        "stop_number": 2,
+        "landmark_arrow": [
+          [
+            833,
+            582
+          ],
+          [
+            595,
+            550
+          ]
+        ],
+        "pin_wgs84": [
+          116.1493752,
+          39.9190967
+        ]
+      },
+      {
+        "stop": "六工汇",
+        "position": [
+          10,
+          865
+        ],
+        "stop_number": 3,
+        "landmark_arrow": [
+          [
+            166,
+            874
+          ],
+          [
+            523,
+            749
+          ]
+        ],
+        "pin_wgs84": [
+          116.1477589,
+          39.9156364
+        ]
+      },
+      {
+        "stop": "群明湖",
+        "position": [
+          675,
+          1011
+        ],
+        "stop_number": 4,
+        "landmark_arrow": [
+          [
+            831,
+            1020
+          ],
+          [
+            522,
+            1014
+          ]
+        ],
+        "pin_wgs84": [
+          116.1477347,
+          39.9110195
+        ]
+      },
+      {
+        "stop": "首钢大跳台",
+        "position": [
+          0,
+          1211
+        ],
+        "stop_number": 5,
+        "landmark_arrow": [
+          [
+            156,
+            1220
+          ],
+          [
+            415,
+            1066
+          ]
+        ],
+        "pin_wgs84": [
+          116.1452963,
+          39.9101041
+        ]
+      }
+    ],
+    "route_arrow_count": 22,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.13586933926732,
+        39.901915021708405,
+        116.15913066073267,
+        39.92867695791863
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "23fe434a6e8ee8a0f724dabfe6cbbc4be05cc41eca090911825838020d02c87a",
+      "data_retrieved_at": "2026-10-29T03:33:12.419191+00:00",
+      "element_count": 1593,
+      "feature_counts": {
+        "landuse": 46,
+        "buildings": 285,
+        "water": 3,
+        "roads": 370
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "OSM public road/path graph shortest paths between researched waypoints; gate access not live verified",
+      "route_wgs84": [
+        [
+          116.1474584,
+          39.9199853
+        ],
+        [
+          116.1473812,
+          39.9199162
+        ],
+        [
+          116.1472146,
+          39.9198553
+        ],
+        [
+          116.1468413,
+          39.919852
+        ],
+        [
+          116.1468674,
+          39.9199261
+        ],
+        [
+          116.146916,
+          39.9199866
+        ],
+        [
+          116.1469204,
+          39.9200279
+        ],
+        [
+          116.146922,
+          39.9200425
+        ],
+        [
+          116.1468797,
+          39.9200893
+        ],
+        [
+          116.147139,
+          39.9200938
+        ],
+        [
+          116.1487181,
+          39.9201211
+        ],
+        [
+          116.1487817,
+          39.9201222
+        ],
+        [
+          116.1497216,
+          39.9201304
+        ],
+        [
+          116.1499026,
+          39.9201544
+        ],
+        [
+          116.1500305,
+          39.9196831
+        ],
+        [
+          116.1504285,
+          39.9182734
+        ],
+        [
+          116.1504853,
+          39.9181392
+        ],
+        [
+          116.1502743,
+          39.9181821
+        ],
+        [
+          116.1494442,
+          39.9181705
+        ],
+        [
+          116.1489935,
+          39.9181725
+        ],
+        [
+          116.1486367,
+          39.9181291
+        ],
+        [
+          116.1486422,
+          39.918038
+        ],
+        [
+          116.1486593,
+          39.9171907
+        ],
+        [
+          116.1486756,
+          39.9163864
+        ],
+        [
+          116.1488604,
+          39.9163182
+        ],
+        [
+          116.1491026,
+          39.9162185
+        ],
+        [
+          116.1490668,
+          39.9161815
+        ],
+        [
+          116.1490666,
+          39.9161442
+        ],
+        [
+          116.1488026,
+          39.9162145
+        ],
+        [
+          116.1487225,
+          39.9161677
+        ],
+        [
+          116.1488026,
+          39.9162145
+        ],
+        [
+          116.1490666,
+          39.9161442
+        ],
+        [
+          116.1490668,
+          39.9161815
+        ],
+        [
+          116.1491026,
+          39.9162185
+        ],
+        [
+          116.1488604,
+          39.9163182
+        ],
+        [
+          116.1486756,
+          39.9163864
+        ],
+        [
+          116.148642,
+          39.9146032
+        ],
+        [
+          116.1463724,
+          39.9145971
+        ],
+        [
+          116.1463813,
+          39.9133688
+        ],
+        [
+          116.1463189,
+          39.9133688
+        ],
+        [
+          116.144035,
+          39.9133703
+        ],
+        [
+          116.1440439,
+          39.9129279
+        ],
+        [
+          116.144173,
+          39.9129251
+        ],
+        [
+          116.1442125,
+          39.9129243
+        ],
+        [
+          116.1442992,
+          39.9127286
+        ],
+        [
+          116.1443247,
+          39.9124076
+        ],
+        [
+          116.1443503,
+          39.9120827
+        ],
+        [
+          116.144518,
+          39.9119117
+        ],
+        [
+          116.1446846,
+          39.9122903
+        ],
+        [
+          116.1446513,
+          39.9125184
+        ],
+        [
+          116.144539,
+          39.9127116
+        ],
+        [
+          116.1444358,
+          39.9128652
+        ],
+        [
+          116.1444844,
+          39.9130002
+        ],
+        [
+          116.1446634,
+          39.9130258
+        ],
+        [
+          116.1449151,
+          39.9129785
+        ],
+        [
+          116.1452185,
+          39.912925
+        ],
+        [
+          116.1456562,
+          39.9128726
+        ],
+        [
+          116.1459518,
+          39.9129335
+        ],
+        [
+          116.1463912,
+          39.9129776
+        ],
+        [
+          116.146767,
+          39.9129046
+        ],
+        [
+          116.1472605,
+          39.9128365
+        ],
+        [
+          116.1474913,
+          39.9128741
+        ],
+        [
+          116.1476336,
+          39.9129151
+        ],
+        [
+          116.1477706,
+          39.9129545
+        ],
+        [
+          116.1486461,
+          39.9129875
+        ],
+        [
+          116.1490033,
+          39.9129394
+        ],
+        [
+          116.149244,
+          39.9129478
+        ],
+        [
+          116.1495187,
+          39.9129774
+        ],
+        [
+          116.1496431,
+          39.9128852
+        ],
+        [
+          116.1497182,
+          39.9127943
+        ],
+        [
+          116.1498911,
+          39.9125266
+        ],
+        [
+          116.1501066,
+          39.9124102
+        ],
+        [
+          116.1502978,
+          39.9124149
+        ],
+        [
+          116.1505254,
+          39.9124777
+        ],
+        [
+          116.1506498,
+          39.9125778
+        ],
+        [
+          116.1508197,
+          39.9126011
+        ],
+        [
+          116.1510048,
+          39.912487
+        ],
+        [
+          116.1511605,
+          39.9122039
+        ],
+        [
+          116.1511374,
+          39.9120842
+        ],
+        [
+          116.1512785,
+          39.9119939
+        ],
+        [
+          116.1512879,
+          39.9117153
+        ],
+        [
+          116.1500519,
+          39.9117237
+        ],
+        [
+          116.1512879,
+          39.9117153
+        ],
+        [
+          116.1512967,
+          39.9114521
+        ],
+        [
+          116.151197,
+          39.9114905
+        ],
+        [
+          116.1510802,
+          39.9114221
+        ],
+        [
+          116.1510676,
+          39.9112484
+        ],
+        [
+          116.1512362,
+          39.9111042
+        ],
+        [
+          116.1512973,
+          39.910986
+        ],
+        [
+          116.1511689,
+          39.9106749
+        ],
+        [
+          116.1511286,
+          39.910513
+        ],
+        [
+          116.1512111,
+          39.9103617
+        ],
+        [
+          116.1512089,
+          39.9101967
+        ],
+        [
+          116.1508758,
+          39.9101947
+        ],
+        [
+          116.1508642,
+          39.9096405
+        ],
+        [
+          116.1509105,
+          39.90964
+        ],
+        [
+          116.1509108,
+          39.9095646
+        ],
+        [
+          116.1511254,
+          39.909565
+        ],
+        [
+          116.1511214,
+          39.9093911
+        ],
+        [
+          116.1508572,
+          39.909297
+        ],
+        [
+          116.1507534,
+          39.909212
+        ],
+        [
+          116.1507361,
+          39.9091134
+        ],
+        [
+          116.1506695,
+          39.9090378
+        ],
+        [
+          116.1505941,
+          39.9090186
+        ],
+        [
+          116.150477,
+          39.9090612
+        ],
+        [
+          116.150317,
+          39.9091014
+        ],
+        [
+          116.1501009,
+          39.9091178
+        ],
+        [
+          116.150317,
+          39.9091014
+        ],
+        [
+          116.150477,
+          39.9090612
+        ],
+        [
+          116.1505941,
+          39.9090186
+        ],
+        [
+          116.1506695,
+          39.9090378
+        ],
+        [
+          116.1507361,
+          39.9091134
+        ],
+        [
+          116.1507534,
+          39.909212
+        ],
+        [
+          116.1508572,
+          39.909297
+        ],
+        [
+          116.1511214,
+          39.9093911
+        ],
+        [
+          116.1511254,
+          39.909565
+        ],
+        [
+          116.1509108,
+          39.9095646
+        ],
+        [
+          116.1509105,
+          39.90964
+        ],
+        [
+          116.1508642,
+          39.9096405
+        ],
+        [
+          116.1508758,
+          39.9101947
+        ],
+        [
+          116.1512089,
+          39.9101967
+        ],
+        [
+          116.1512111,
+          39.9103617
+        ],
+        [
+          116.1511286,
+          39.910513
+        ],
+        [
+          116.1511689,
+          39.9106749
+        ],
+        [
+          116.1512973,
+          39.910986
+        ],
+        [
+          116.1512362,
+          39.9111042
+        ],
+        [
+          116.1510676,
+          39.9112484
+        ],
+        [
+          116.1510802,
+          39.9114221
+        ],
+        [
+          116.151197,
+          39.9114905
+        ],
+        [
+          116.1512967,
+          39.9114521
+        ],
+        [
+          116.1512879,
+          39.9117153
+        ],
+        [
+          116.1514925,
+          39.9117175
+        ],
+        [
+          116.1515046,
+          39.9090583
+        ],
+        [
+          116.1515028,
+          39.9089001
+        ],
+        [
+          116.1515295,
+          39.9087659
+        ],
+        [
+          116.1513701,
+          39.9087877
+        ],
+        [
+          116.1506964,
+          39.9088265
+        ],
+        [
+          116.1485033,
+          39.9088033
+        ],
+        [
+          116.1465616,
+          39.9088271
+        ],
+        [
+          116.1462628,
+          39.908833
+        ],
+        [
+          116.1460859,
+          39.9088575
+        ],
+        [
+          116.1456888,
+          39.908809
+        ],
+        [
+          116.1451036,
+          39.9093298
+        ],
+        [
+          116.1447322,
+          39.909723
+        ],
+        [
+          116.1451192,
+          39.9099814
+        ],
+        [
+          116.1452278,
+          39.9099823
+        ]
+      ],
+      "route_way_ids": [
+        976177318,
+        976177320,
+        838104608,
+        997142194,
+        997142195,
+        50823141,
+        838104600,
+        1035917587,
+        1035917588,
+        838203799,
+        997870479,
+        838203803,
+        838203806,
+        976177316,
+        976177315,
+        943176359,
+        943420492,
+        943176361,
+        672630948,
+        976325975,
+        997857695
+      ],
+      "true_location_pins": [
+        {
+          "name": "秀池",
+          "lon": 116.1470532,
+          "lat": 39.9191555,
+          "osm": "way/118554595",
+          "source_url": "https://www.openstreetmap.org/way/118554595",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Xiuchi Lake in Shougang Park: a small calm rounded industrial reservoir with a low stone-and-steel promenade, reflections of reddish-brown preserved steel frames and tall pipes beyond the bank. A restrained planted urban waterfront, vivid turquoise water and gold autumn foliage. Not a natural mountain lake and no imperial pavilions.",
+          "minutes": 35,
+          "walk_after": 10,
+          "detail": "工业水池 · 湖面倒影",
+          "time": "10:00"
+        },
+        {
+          "name": "三高炉",
+          "lon": 116.1493752,
+          "lat": 39.9190967,
+          "osm": "way/943176364",
+          "source_url": "https://www.openstreetmap.org/way/943176364",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Shougang No.3 Blast Furnace: colossal real decommissioned steelmaking structure, dark rust-red and charcoal steel cylindrical furnace body surrounded by dense steel trusses, exterior stairs, bulky industrial pipes and an inclined conveyor bridge. Distinctive heavy irregular industrial silhouette, blue-gray metal and warm rust hues, plaza below. No fire, sparks, smoke or fictional factory fantasy.",
+          "minutes": 80,
+          "walk_after": 15,
+          "detail": "钢铁巨构 · 高炉外观",
+          "time": "10:45"
+        },
+        {
+          "name": "六工汇",
+          "lon": 116.1477589,
+          "lat": 39.9156364,
+          "osm": "way/996804869",
+          "source_url": "https://www.openstreetmap.org/way/996804869",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Liugonghui adaptive-reuse shopping district in Shougang: low red-brick and gray concrete former industrial workshops, long pitched and sawtooth factory roof silhouettes combined with crisp contemporary large glass storefronts, open pedestrian plaza with cafe seats and a few trees. Express preserved factory scale and modern glass additions, not European ornate storefronts. Blank unlettered signs.",
+          "minutes": 85,
+          "walk_after": 20,
+          "detail": "旧厂房更新 · 午餐休息",
+          "time": "12:20"
+        },
+        {
+          "name": "群明湖",
+          "lon": 116.1477347,
+          "lat": 39.9110195,
+          "osm": "way/118554601",
+          "source_url": "https://www.openstreetmap.org/way/118554601",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Qunming Lake in Shougang: elongated clear open lake with spacious urban waterside walkway, golden poplar foliage, characteristic huge pale gray hyperboloid cooling towers beyond the shore. Preserve authentic cooling-tower waist and flared upper rim; they are steelworks heritage, with no radiation symbols, no smoke. Wide lakeside view, electric turquoise water and warm autumn color.",
+          "minutes": 50,
+          "walk_after": 10,
+          "detail": "冷却塔群 · 湖岸漫步",
+          "time": "14:05"
+        },
+        {
+          "name": "首钢大跳台",
+          "lon": 116.1452963,
+          "lat": 39.9101041,
+          "osm": "way/976963312",
+          "source_url": "https://www.openstreetmap.org/way/976963312",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Big Air Shougang: unmistakable tall sculptural ski-jump ramp with a long steep silver-white chute flowing into a broad gently rising launch curve, elevated on exposed concrete supports, multicolored flowing side panels inspired by a flying ribbon. Several enormous gray cooling towers in the background. Autumn dry urban scene without snow; no skiers, no activity or branded Olympic logos.",
+          "minutes": 55,
+          "walk_after": 0,
+          "detail": "飞天曲线 · 冬奥地标",
+          "time": "15:05"
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 200
+    },
+    "edge_blending": "contiguous white-paper removal plus a small luminous edge"
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheets",
+    "checked": [
+      "Five beyond-Fourth-Ring routes with sourced coordinates",
+      "Bold saturated palettes and prominent 四环外 heading",
+      "True OSM basemap, north arrow, scale, route and landmark arrows",
+      "Five recognizable detailed landmarks per poster",
+      "Readable local Chinese typography",
+      "Native artwork retained and zero image uploads"
+    ]
+  },
+  "art_direction": {
+    "style": "Bold saturated architectural travel illustration with locally typeset Chinese labels",
+    "composition": "Full-canvas north-up OSM map, prominent Beijing beyond-Fourth-Ring headline, five landmark callouts, location pins and directional arrows",
+    "route_focus": "首钢工业奇遇",
+    "geographic_emphasis": "西四环外",
+    "reference_policy": "Text-only landmark artwork; no binary model references"
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

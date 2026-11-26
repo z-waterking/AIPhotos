@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-03-crimson-eclipse.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "赤红日蚀笼罩开放领域，宿傩从左上俯瞰右下方的五条悟，巨大神龛与湿地倒影强化末日尺度。",
+  "composition_variation": "红月远景与陡峭斜向人物关系，竖排题名置于神龛右柱。"
+}

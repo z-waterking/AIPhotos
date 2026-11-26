@@ -1,0 +1,14 @@
+2027 信息海报本地排版文字；不调用图片生成模型。
+
+标题：保安员证
+副标题：场所安全  /  服务秩序
+01：公安机关组织考试并核发保安员证
+02：关注当地公安机关的报名条件
+03：与保安职业技能等级证书不同
+底注：2027具体安排与条件以官方公告为准
+
+画面沿用：2017-skills-05-security-guard 原始无字插画。
+
+来源：
+https://www.sg.gov.cn/bmpdlm/pasg/tzgg/content/post_2807410.html
+https://gdga.gd.gov.cn/bsfw/zsk/za/content/post_3078949.html

@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-sunlit-03-new-family.png",
+  "refined_prompt": "../prompts/yilan-sunlit-03-new-family.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-sunlit",
+  "series_number": 3,
+  "art_direction": "小家里，两人准备婴儿床与叠好的衣物。",
+  "sha256": "be60142837426c3b240fad7679c512bb7cc015fa551853c55427e2cbe4562913",
+  "native_sha256": "be60142837426c3b240fad7679c512bb7cc015fa551853c55427e2cbe4562913",
+  "prompt_sha256": "8cd66af83a3e6768abdb15fc86eaf233816c2b94927b459d1a54a37db251e684",
+  "created_at_utc": "2026-11-12T02:05:57.128517+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

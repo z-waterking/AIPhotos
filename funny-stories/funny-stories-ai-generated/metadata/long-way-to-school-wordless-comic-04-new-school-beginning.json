@@ -1,0 +1,24 @@
+{
+  "output": "../long-way-to-school-wordless-comic-04-new-school-beginning.png",
+  "refined_prompt": "../prompts/long-way-to-school-wordless-comic.txt",
+  "source_story": "../../STORY.md",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "reference_count": 0,
+  "references": [],
+  "generated_anchor": {
+    "canonical_output": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+    "actual_input": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+    "persisted": true,
+    "role": "Fictional boy identity, clothing, child proportions, palette, and comic-style continuity."
+  },
+  "fictional_characters": true,
+  "contains_text": false,
+  "art_direction": "Warm wordless school-arrival ending focused on belonging, forward motion, and a hopeful new beginning.",
+  "composition_variation": "Morning school courtyard with the boy entering through a plain gate while the teacher and two classmates welcome him from the steps."
+}

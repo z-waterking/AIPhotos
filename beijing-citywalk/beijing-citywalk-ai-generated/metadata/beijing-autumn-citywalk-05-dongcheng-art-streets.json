@@ -1,0 +1,1240 @@
+{
+  "output": "../beijing-autumn-citywalk-05-dongcheng-art-streets.png",
+  "refined_prompt": "../prompts/beijing-autumn-citywalk-05-dongcheng-art-streets.txt",
+  "source_prompt": "../prompts/beijing-autumn-citywalk-art-direction.txt",
+  "created_at": "2026-10-29T02:08:11.266587+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-autumn-citywalk",
+  "series_number": 5,
+  "title": "东城文艺漫步",
+  "art_direction": "Full-bleed locally rendered geographic OpenStreetMap roads, buildings, parks and water; north-up and scale-correct; original detailed landmark illustrations placed as callouts with leaders to actual WGS84 pins; readable Chinese stop list at top.",
+  "sha256": "77563a0ff590333e121934c2938b755c5613ca82d773b0846f226a764ad0faf2",
+  "native_sha256": "33ee349a18d9a23b2511122ac74f6ca990e789f0b43ccd9bb3de632192de769a",
+  "prompt_sha256": "fa9d1885d804e2d5cb3cbaa009af931c3de717981d319585e02be6e31dd6ba6c",
+  "source_prompt_sha256": "8d15729c18cbd03fe7016b755beca524306e0894ce7801f4fb86470a20909dcd",
+  "file_size_bytes": 1441842,
+  "route": {
+    "day_duration_hours": 6,
+    "total_minutes": 360,
+    "stops": [
+      {
+        "name": "东交民巷",
+        "time": "10:00",
+        "minutes": 50,
+        "walk_after": 25,
+        "detail": "圣米厄尔教堂 · 双尖塔",
+        "art": "Dongjiaominxiang former legation quarter: Saint Michael's Church, a compact Gothic church facade with TWO slender pointed bell-tower spires, pointed arch windows and blue-GRAY brick walls with pale gray-white stone trim. The facade is cool gray masonry, NEVER orange/red brick. Plane trees with golden leaves along a quiet diplomatic street. Faithful pointed Gothic silhouette, not the rounded Romanesque triple towers of Wangfujing Cathedral."
+      },
+      {
+        "name": "王府井",
+        "time": "11:15",
+        "minutes": 70,
+        "walk_after": 25,
+        "detail": "东堂三塔楼 · 城市广场",
+        "art": "Wangfujing: Saint Joseph's Cathedral, Dongtang, a GRAY stone Romanesque-Baroque facade with THREE broad tower-like sections, the center slightly taller, rounded arches, symmetrical sculpted columns and a central rose/arched window, standing behind an open paved plaza. Rounded modest domed tops and cross finials rather than very tall Gothic needle spires. Keep its three-part gray facade distinct from Saint Michael's."
+      },
+      {
+        "name": "中国美术馆",
+        "time": "12:50",
+        "minutes": 35,
+        "walk_after": 10,
+        "detail": "中式楼阁屋顶 · 艺术地标",
+        "art": "National Art Museum of China, Zhongguo Meishuguan: the recognizable symmetrical large pale cream modern Chinese museum building, long low horizontal gallery wings and a central elevated traditional multi-tier pavilion roof with YELLOW glazed tiles. Front entrance colonnade and broad paved approach, detailed restrained modernist windows, blue-green brackets on the central roof. Do not confuse it with the National Museum at Tiananmen or a generic temple."
+      },
+      {
+        "name": "隆福寺",
+        "time": "13:35",
+        "minutes": 50,
+        "walk_after": 15,
+        "detail": "新旧建筑叠景 · 文艺小憩",
+        "art": "Longfusi cultural district: a contemporary low gray-white former commercial/industrial block, clean wide glass windows, small creative-street courtyard, with a restrained cluster of traditional gray-tiled RED-COLUMN rooftop pavilions visible above the modern block, inspired by Longfu cultural center. Clear contrast of modern base and traditional roof terrace. Do not invent a surviving massive ancient temple or yellow imperial palace."
+      },
+      {
+        "name": "东四胡同",
+        "time": "14:40",
+        "minutes": 80,
+        "walk_after": 0,
+        "detail": "四条至八条 · 红门银杏",
+        "art": "Dongsi hutong preservation district: an intimate straight north-Beijing grid lane with tidy low gray-brick siheyuan walls, evenly repeated charcoal barrel-tiled eaves, one welcoming vermilion courtyard door and well-ordered overhead wires. Tall golden ginkgo trees rise behind the roofs; a parked old bicycle and small potted chrysanthemums provide scale. Recognizable quiet living hutong fabric, no towering monument or invented grand arch."
+      }
+    ],
+    "ordered_route": [
+      "东交民巷",
+      "王府井",
+      "中国美术馆",
+      "隆福寺",
+      "东四胡同"
+    ],
+    "walking_distance_estimate": "约6–7公里",
+    "distance_includes_internal_wandering": true,
+    "schematic_not_to_scale": false,
+    "start_metro": "2/5号线 崇文门",
+    "end_metro": "5号线 张自忠路",
+    "lunch": "11:15 王府井午餐",
+    "schedule_includes_meals_and_rest": true,
+    "source_record": "../prompts/beijing-autumn-citywalk-05-dongcheng-art-streets-route.txt",
+    "information_checked_on": "2026-10-29",
+    "sources": [
+      "https://www.visitbeijing.com.cn/article/4TMfuHLV6gj",
+      "https://www.visitbeijing.com.cn/article/4OfjVwIRufr",
+      "https://www.visitbeijing.com.cn/article/4KD1E30MKSS",
+      "https://www.visitbeijing.com.cn/article/47QsWbTYgKx",
+      "https://www.visitbeijing.com.cn/article/4QCmT9pA4LX",
+      "https://www.visitbeijing.com.cn/article/4T273Qs1MYI",
+      "https://www.visitbeijing.com.cn/article/4TfKTSiv4Me",
+      "https://www.visitbeijing.com.cn/article/4TmWL7fuJqu",
+      "https://www.visitbeijing.com.cn/topic/zhongzhoumanbu",
+      "https://www.visitbeijing.com.cn/article/47QrUZLEGvD",
+      "https://www.visitbeijing.com.cn/article/4OcPCG3cxBz",
+      "https://www.visitbeijing.com.cn/article/4QGS0KM0U3c",
+      "https://www.visitbeijing.com.cn/article/4LQjQ6EZsKi",
+      "https://www.visitbeijing.com.cn/article/4Mz2p8Bb3Ne"
+    ],
+    "research_record": "../prompts/beijing-autumn-citywalk-sources.txt",
+    "geographic_basemap": true,
+    "navigation_verified": false,
+    "map_research_record": "../prompts/beijing-autumn-citywalk-map-route-research.txt",
+    "poi_record": "../prompts/beijing-autumn-citywalk-map-stop-points.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        26,
+        50,
+        588,
+        553
+      ],
+      [
+        464,
+        393,
+        1017,
+        831
+      ],
+      [
+        19,
+        734,
+        592,
+        1050
+      ],
+      [
+        448,
+        948,
+        1018,
+        1280
+      ],
+      [
+        23,
+        1117,
+        650,
+        1511
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        708,
+        1035,
+        893,
+        1201
+      ],
+      [
+        59,
+        865,
+        269,
+        1031
+      ],
+      [
+        9,
+        375,
+        299,
+        535
+      ],
+      [
+        690,
+        483,
+        975,
+        649
+      ],
+      [
+        670,
+        256,
+        934,
+        422
+      ]
+    ],
+    "source_landmark_polygons": [
+      null,
+      [
+        [
+          603,
+          393
+        ],
+        [
+          1017,
+          393
+        ],
+        [
+          1017,
+          831
+        ],
+        [
+          570,
+          831
+        ],
+        [
+          464,
+          785
+        ],
+        [
+          464,
+          553
+        ],
+        [
+          581,
+          526
+        ]
+      ],
+      [
+        [
+          19,
+          734
+        ],
+        [
+          403,
+          734
+        ],
+        [
+          443,
+          841
+        ],
+        [
+          575,
+          895
+        ],
+        [
+          592,
+          960
+        ],
+        [
+          528,
+          985
+        ],
+        [
+          438,
+          1002
+        ],
+        [
+          377,
+          1050
+        ],
+        [
+          19,
+          1050
+        ]
+      ],
+      [
+        [
+          670,
+          948
+        ],
+        [
+          935,
+          948
+        ],
+        [
+          1018,
+          1054
+        ],
+        [
+          1018,
+          1280
+        ],
+        [
+          700,
+          1280
+        ],
+        [
+          548,
+          1204
+        ],
+        [
+          448,
+          1192
+        ],
+        [
+          448,
+          1065
+        ],
+        [
+          541,
+          1040
+        ],
+        [
+          541,
+          1009
+        ],
+        [
+          647,
+          981
+        ]
+      ],
+      [
+        [
+          23,
+          1135
+        ],
+        [
+          337,
+          1135
+        ],
+        [
+          396,
+          1210
+        ],
+        [
+          435,
+          1245
+        ],
+        [
+          553,
+          1258
+        ],
+        [
+          650,
+          1300
+        ],
+        [
+          650,
+          1511
+        ],
+        [
+          23,
+          1511
+        ]
+      ]
+    ],
+    "edge_blending": "local selection polygons and contiguous paper removal; subtle glow over real geographic map",
+    "landmark_labels": [
+      {
+        "stop": "东交民巷",
+        "position": [
+          650,
+          1203
+        ],
+        "landmark_arrow": [
+          [
+            800,
+            1192
+          ],
+          [
+            448,
+            1157
+          ]
+        ],
+        "stop_number": 1,
+        "pin_wgs84": [
+          116.4058219,
+          39.9016216
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/442394488"
+      },
+      {
+        "stop": "王府井",
+        "position": [
+          14,
+          1033
+        ],
+        "landmark_arrow": [
+          [
+            164,
+            885
+          ],
+          [
+            451,
+            783
+          ]
+        ],
+        "stop_number": 2,
+        "pin_wgs84": [
+          116.4059366,
+          39.9159425
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/85902975"
+      },
+      {
+        "stop": "中国美术馆",
+        "position": [
+          4,
+          537
+        ],
+        "landmark_arrow": [
+          [
+            154,
+            526
+          ],
+          [
+            386,
+            577
+          ]
+        ],
+        "stop_number": 3,
+        "pin_wgs84": [
+          116.4027108,
+          39.9238348
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/131710744"
+      },
+      {
+        "stop": "隆福寺",
+        "position": [
+          682,
+          651
+        ],
+        "landmark_arrow": [
+          [
+            832,
+            503
+          ],
+          [
+            485,
+            558
+          ]
+        ],
+        "stop_number": 4,
+        "pin_wgs84": [
+          116.407645,
+          39.9245431
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/723288386"
+      },
+      {
+        "stop": "东四胡同",
+        "position": [
+          652,
+          424
+        ],
+        "landmark_arrow": [
+          [
+            802,
+            413
+          ],
+          [
+            642,
+            523
+          ]
+        ],
+        "stop_number": 5,
+        "pin_wgs84": [
+          116.4155042,
+          39.9259047
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/30748997"
+      }
+    ],
+    "route_arrow_count": 14,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.38342313968343,
+        39.88708015440888,
+        116.43457686031657,
+        39.945930994754555
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "54f78e343c1ffc38cef2b32389dfbeda1b14515da71329fc5af8fc86be1e4fbe",
+      "data_retrieved_at": "2026-10-29T02:32:36.029683+00:00",
+      "element_count": 37099,
+      "feature_counts": {
+        "landuse": 543,
+        "areas": 14,
+        "water": 33,
+        "buildings": 8010,
+        "roads": 5067
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "Dijkstra over OSM public road/path graph between selected entrance and street waypoints; no live gate or turn validation",
+      "route_way_ids": [
+        1106375166,
+        24804550,
+        127843506,
+        1364427803,
+        33612208,
+        838488328,
+        229704915,
+        33612197,
+        24476438,
+        1058613507,
+        59174522,
+        59174470,
+        1354141144,
+        131710754,
+        1251625974,
+        838504135,
+        838569636,
+        838504133,
+        838569635,
+        30843384,
+        164560705,
+        1386116550,
+        187204224,
+        727614585,
+        816131710,
+        816131709,
+        187204223,
+        131710750,
+        30748997,
+        398694726,
+        190060081,
+        398694722,
+        297689339,
+        104685869,
+        34104250,
+        59174595,
+        398694725
+      ],
+      "route_wgs84": [
+        [
+          116.405578,
+          39.901146
+        ],
+        [
+          116.4055809,
+          39.9011853
+        ],
+        [
+          116.4054538,
+          39.9011983
+        ],
+        [
+          116.4054515,
+          39.9013026
+        ],
+        [
+          116.4054628,
+          39.9018086
+        ],
+        [
+          116.4054553,
+          39.9021276
+        ],
+        [
+          116.4054462,
+          39.9022878
+        ],
+        [
+          116.4053789,
+          39.9034286
+        ],
+        [
+          116.4053669,
+          39.9035845
+        ],
+        [
+          116.405327,
+          39.9043182
+        ],
+        [
+          116.4052869,
+          39.9052217
+        ],
+        [
+          116.4052286,
+          39.9063767
+        ],
+        [
+          116.4052258,
+          39.9064326
+        ],
+        [
+          116.405223,
+          39.9064833
+        ],
+        [
+          116.4052181,
+          39.906571
+        ],
+        [
+          116.4053102,
+          39.9067589
+        ],
+        [
+          116.4053092,
+          39.9067924
+        ],
+        [
+          116.405307,
+          39.9068379
+        ],
+        [
+          116.405304,
+          39.9069019
+        ],
+        [
+          116.4054262,
+          39.9069042
+        ],
+        [
+          116.4053784,
+          39.9069717
+        ],
+        [
+          116.4053719,
+          39.9070243
+        ],
+        [
+          116.4053601,
+          39.907254
+        ],
+        [
+          116.4053719,
+          39.9070243
+        ],
+        [
+          116.4053784,
+          39.9069717
+        ],
+        [
+          116.4054262,
+          39.9069042
+        ],
+        [
+          116.405304,
+          39.9069019
+        ],
+        [
+          116.4052686,
+          39.9075893
+        ],
+        [
+          116.4052436,
+          39.9080815
+        ],
+        [
+          116.405228,
+          39.9083885
+        ],
+        [
+          116.4051979,
+          39.9090333
+        ],
+        [
+          116.4051978,
+          39.9090358
+        ],
+        [
+          116.4051533,
+          39.9091456
+        ],
+        [
+          116.405147,
+          39.9092342
+        ],
+        [
+          116.4051453,
+          39.9092631
+        ],
+        [
+          116.4051127,
+          39.9098379
+        ],
+        [
+          116.4050796,
+          39.9105152
+        ],
+        [
+          116.4050771,
+          39.9106221
+        ],
+        [
+          116.4050734,
+          39.9107044
+        ],
+        [
+          116.4050337,
+          39.9117884
+        ],
+        [
+          116.4050294,
+          39.912275
+        ],
+        [
+          116.4050303,
+          39.9123554
+        ],
+        [
+          116.4050141,
+          39.912957
+        ],
+        [
+          116.404961,
+          39.9140711
+        ],
+        [
+          116.4049537,
+          39.914205
+        ],
+        [
+          116.4049128,
+          39.9149532
+        ],
+        [
+          116.4048839,
+          39.9154819
+        ],
+        [
+          116.4051169,
+          39.9154853
+        ],
+        [
+          116.4058676,
+          39.9154972
+        ],
+        [
+          116.4051169,
+          39.9154853
+        ],
+        [
+          116.4048839,
+          39.9154819
+        ],
+        [
+          116.4048449,
+          39.9161946
+        ],
+        [
+          116.4048058,
+          39.9169102
+        ],
+        [
+          116.4048026,
+          39.9169674
+        ],
+        [
+          116.4047965,
+          39.9170792
+        ],
+        [
+          116.4047932,
+          39.9171401
+        ],
+        [
+          116.4047805,
+          39.9173193
+        ],
+        [
+          116.4047768,
+          39.9173744
+        ],
+        [
+          116.4047529,
+          39.9178289
+        ],
+        [
+          116.4047424,
+          39.9180208
+        ],
+        [
+          116.4047141,
+          39.918627
+        ],
+        [
+          116.4046999,
+          39.9189156
+        ],
+        [
+          116.4046903,
+          39.9191345
+        ],
+        [
+          116.4046769,
+          39.9194428
+        ],
+        [
+          116.4046468,
+          39.920163
+        ],
+        [
+          116.4046427,
+          39.920267
+        ],
+        [
+          116.4046392,
+          39.9203553
+        ],
+        [
+          116.4046366,
+          39.9204516
+        ],
+        [
+          116.4046262,
+          39.9208768
+        ],
+        [
+          116.4046041,
+          39.9216649
+        ],
+        [
+          116.404726,
+          39.9216214
+        ],
+        [
+          116.4049169,
+          39.9216459
+        ],
+        [
+          116.4048742,
+          39.9224981
+        ],
+        [
+          116.4056423,
+          39.9225468
+        ],
+        [
+          116.4056261,
+          39.9227247
+        ],
+        [
+          116.4048883,
+          39.9227137
+        ],
+        [
+          116.4048654,
+          39.9227397
+        ],
+        [
+          116.4048405,
+          39.922768
+        ],
+        [
+          116.4045861,
+          39.9229115
+        ],
+        [
+          116.4044392,
+          39.9229093
+        ],
+        [
+          116.4044394,
+          39.9229677
+        ],
+        [
+          116.4044218,
+          39.9230231
+        ],
+        [
+          116.4044072,
+          39.923071
+        ],
+        [
+          116.4044094,
+          39.9231195
+        ],
+        [
+          116.40441,
+          39.9231328
+        ],
+        [
+          116.404383,
+          39.9231132
+        ],
+        [
+          116.4038431,
+          39.9230951
+        ],
+        [
+          116.4037481,
+          39.9231003
+        ],
+        [
+          116.4033638,
+          39.9230994
+        ],
+        [
+          116.4032911,
+          39.9230992
+        ],
+        [
+          116.4031446,
+          39.9230909
+        ],
+        [
+          116.4030958,
+          39.9231169
+        ],
+        [
+          116.4030623,
+          39.9231174
+        ],
+        [
+          116.402661,
+          39.9230786
+        ],
+        [
+          116.4030623,
+          39.9231174
+        ],
+        [
+          116.4030958,
+          39.9231169
+        ],
+        [
+          116.4031446,
+          39.9230909
+        ],
+        [
+          116.4032911,
+          39.9230992
+        ],
+        [
+          116.4033638,
+          39.9230994
+        ],
+        [
+          116.4037481,
+          39.9231003
+        ],
+        [
+          116.4038431,
+          39.9230951
+        ],
+        [
+          116.404383,
+          39.9231132
+        ],
+        [
+          116.40441,
+          39.9231328
+        ],
+        [
+          116.4043828,
+          39.9231949
+        ],
+        [
+          116.4043828,
+          39.9234321
+        ],
+        [
+          116.404376,
+          39.9238398
+        ],
+        [
+          116.4045492,
+          39.9238173
+        ],
+        [
+          116.4045441,
+          39.9238901
+        ],
+        [
+          116.405778,
+          39.9238928
+        ],
+        [
+          116.406014,
+          39.9238963
+        ],
+        [
+          116.4071996,
+          39.9238947
+        ],
+        [
+          116.4076339,
+          39.9238959
+        ],
+        [
+          116.4081482,
+          39.9238974
+        ],
+        [
+          116.4089085,
+          39.9238995
+        ],
+        [
+          116.4089093,
+          39.9238812
+        ],
+        [
+          116.4093794,
+          39.9238763
+        ],
+        [
+          116.409932,
+          39.9238455
+        ],
+        [
+          116.4111026,
+          39.923854
+        ],
+        [
+          116.4112442,
+          39.923811
+        ],
+        [
+          116.4111026,
+          39.923854
+        ],
+        [
+          116.4111219,
+          39.9241931
+        ],
+        [
+          116.411068,
+          39.9251455
+        ],
+        [
+          116.4111505,
+          39.9251494
+        ],
+        [
+          116.4111507,
+          39.9251893
+        ],
+        [
+          116.4111192,
+          39.9258803
+        ],
+        [
+          116.4144886,
+          39.9259009
+        ],
+        [
+          116.4159948,
+          39.9259066
+        ],
+        [
+          116.4172565,
+          39.9259258
+        ],
+        [
+          116.4172736,
+          39.9265338
+        ],
+        [
+          116.4172135,
+          39.9265997
+        ],
+        [
+          116.4160164,
+          39.9266555
+        ],
+        [
+          116.4159845,
+          39.9275227
+        ],
+        [
+          116.4160989,
+          39.9278616
+        ],
+        [
+          116.4159031,
+          39.9278904
+        ],
+        [
+          116.4157838,
+          39.9278647
+        ],
+        [
+          116.4155947,
+          39.927839
+        ],
+        [
+          116.4156054,
+          39.9276734
+        ],
+        [
+          116.4155611,
+          39.9276343
+        ],
+        [
+          116.4149737,
+          39.9276313
+        ],
+        [
+          116.4148959,
+          39.9275922
+        ],
+        [
+          116.4148959,
+          39.9274914
+        ],
+        [
+          116.4143836,
+          39.9274523
+        ],
+        [
+          116.4140055,
+          39.9273824
+        ],
+        [
+          116.4137233,
+          39.9272466
+        ],
+        [
+          116.413438,
+          39.927296
+        ],
+        [
+          116.4133339,
+          39.9272744
+        ],
+        [
+          116.4125118,
+          39.9272718
+        ],
+        [
+          116.4111012,
+          39.9272925
+        ],
+        [
+          116.4110804,
+          39.9278538
+        ],
+        [
+          116.4110467,
+          39.9287002
+        ],
+        [
+          116.4109873,
+          39.9300902
+        ],
+        [
+          116.4109737,
+          39.9304505
+        ],
+        [
+          116.4109582,
+          39.9308621
+        ],
+        [
+          116.4139632,
+          39.930885
+        ],
+        [
+          116.4139976,
+          39.9315103
+        ],
+        [
+          116.4154448,
+          39.9315412
+        ]
+      ],
+      "true_location_pins": [
+        {
+          "route": 5,
+          "stop": 1,
+          "name": "东交民巷（圣米厄尔教堂）",
+          "lat": 39.9016216,
+          "lon": 116.4058219,
+          "osm": "way/442394488",
+          "source": "https://www.openstreetmap.org/way/442394488",
+          "coordinate_status": "OSM church bounding-box center; OSM spelling 圣弥额尔天主堂",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 5,
+          "stop": 2,
+          "name": "王府井（东堂）",
+          "lat": 39.9159425,
+          "lon": 116.4059366,
+          "osm": "way/85902975",
+          "source": "https://www.openstreetmap.org/way/85902975",
+          "coordinate_status": "OSM cathedral representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 5,
+          "stop": 3,
+          "name": "中国美术馆",
+          "lat": 39.9238348,
+          "lon": 116.4027108,
+          "osm": "way/131710744",
+          "source": "https://www.openstreetmap.org/way/131710744",
+          "coordinate_status": "OSM museum building representative point; not subway station",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 5,
+          "stop": 4,
+          "name": "隆福寺（隆福大厦）",
+          "lat": 39.9245431,
+          "lon": 116.407645,
+          "osm": "way/723288386",
+          "source": "https://www.openstreetmap.org/way/723288386",
+          "coordinate_status": "OSM Longfu Building bounding-box center; rooftop landmark site",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 5,
+          "stop": 5,
+          "name": "东四胡同（东四四条）",
+          "lat": 39.9259047,
+          "lon": 116.4155042,
+          "osm": "way/30748997",
+          "source": "https://www.openstreetmap.org/way/30748997",
+          "coordinate_status": "OSM street representative point; optional continue north to 东四八条",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 500
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-previews-and-contact-sheet",
+    "checked": [
+      "Full-bleed real OSM geography",
+      "North-up map with scale bar",
+      "Five detailed landmarks and actual location pins",
+      "Readable Chinese text",
+      "Route arrows and guide caveat",
+      "Visible OSM attribution, ODbL and copyright URL",
+      "Native AI artwork preserved"
+    ]
+  },
+  "modified_at": "2026-10-29T02:39:54.426498+00:00",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file",
+    "postprocessing.title_font_path"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "output": "../one-love-sharp-05-coat-shadow-entire-world.png",
+  "source_prompt": "../prompts/one-love-visual-poem-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-sharp-05-coat-shadow-entire-world.txt",
+  "created_at": "2026-10-27T03:02:33.743380+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love-sharp",
+  "series_number": 5,
+  "pair": "one-love-visual-poem",
+  "pair_number": 2,
+  "pair_count": 2,
+  "title": "你留下的，长成整个世界",
+  "art_direction": "THE IMPOSSIBILITY: one ordinary vermilion coat draped over a simple chair casts a shadow that rises from the ground into an ENTIRE world. The physical coat stays small and tangible; its shadow becomes impossibly immense and three-dimensional while retaining the graphic flat-black language of a shadow.\n\nCOMPOSITION: lots of luminous ivory empty ground, viewed from an elevated three-quarter angle. Place a simple black wooden chair in the lower-left third, about one quarter of image height, with one beautiful ordinary long vermilion coat naturally draped across its back and sleeves hanging softly. The coat, not a human figure, is the only intense red object. A little ivory inner lining and sharply drawn fabric folds make it recognizable. It is an affectionate trace of someone who has just come home, not a discarded or abandoned garment. No other foreground objects.\n\nOne unbroken dense black cast-shadow shape starts visibly at the chair feet and the draped coat, sweeps diagonally toward the upper-right, then folds upward into a vast living Japanese city. Show this transformation with an unmistakable CONTINUOUS contact point and clean ascending shadow edges: a broad flat shadow on the floor becomes the low shadow plane from which dark rooftops and towers emerge. The city grows from the shadow, not printed inside the coat and not a separate floating city. It should occupy nearly the entire right two-thirds, far larger than the originating chair. Detailed enough to recognize tiled neighborhood roofs, a distant slender elevated railway and clean modern towers, all designed as beautiful ink-black cut silhouettes with tiny ivory window-lights.\n\nWithin the farthest curve of that same dark shadow-world, one calm icy-cyan bay is carved as a luminous negative shape between roofs; above the far skyline the shadow's tall dark upper plane holds a few tiny ivory stars. The city, sea and miniature night sky form ONE unified shadow-world, not three props or a collage. The surrounding actual room-space stays white and sunlit, creating the quiet paradox of a whole night world being cast by a coat in daylight. The city feels luminous and lived-in, not empty, decayed or ominous.\n\nKeep the coat-to-shadow connection the clearest visual sentence. Strong scale contrast: a modest personal object generates an enormous complete world. Very limited imagery, masterful negative space, ultra-clean angular anime linework and hard cel shadows. No silhouetted person inside the coat, no human-shaped shadow, no extra moon, planet or magical portal.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "selected_line_number": 2,
+    "meaning": "One small trace of the beloved is enough to contain the entire world.",
+    "use": "Separate original wordless interpretation of one selected short lyric line; no existing visual copied."
+  },
+  "sha256": "00ea1bbbf89e2c35f222c7fc46c7aeed0e5090c830ae020b11c99bce722e1d7b",
+  "native_sha256": "00ea1bbbf89e2c35f222c7fc46c7aeed0e5090c830ae020b11c99bce722e1d7b",
+  "prompt_sha256": "72c612380568af3fb65a8c21ef41503d993dff4388bbbc138b040aeeba91a31a",
+  "source_prompt_sha256": "d0aa26bbc941a36f54a028bd413bb7354be37c417f6a8770c1372e9559b68180",
+  "file_size_bytes": 2220362,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "924x1280",
+    "checked": [
+      "Two distinct surreal spatial concepts",
+      "Sharp Japanese architectural anime graphic treatment",
+      "Central conceptual relationship readable",
+      "No people, lettering or watermark",
+      "Unmodified native PNG retained"
+    ]
+  },
+  "concept": "surreal spatial visual poem, no figures or literal romantic gestures"
+}

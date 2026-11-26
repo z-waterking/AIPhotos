@@ -1,0 +1,43 @@
+{
+  "output": "../panzi-last-meal-02-the-unfinished-bowl.png",
+  "refined_prompt": "../prompts/panzi-last-meal-02-the-unfinished-bowl.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "panzi-last-meal",
+  "series_number": 2,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A graceful wide shot inside the same room: Wu Xie stands at the open doorway, speaking quietly and urgently to Pan Zi. Pan Zi rises from the stool by the wooden table, the blue-rimmed bowl of half-eaten noodles clearly still on the table and bamboo chopsticks set beside the bowl. Give the men a natural attentive gaze, no gestures of threat, no uniformed people. Warm indoor light and a cooler corridor beyond the door make the imminent journey felt.",
+  "visible_description": "吴邪在门口找潘子，潘子搁下筷子准备出门。",
+  "display_title": "匆匆出门",
+  "poster_text": "小三爷来了，潘子放下筷子便起身。",
+  "text_is_original_paraphrase": true,
+  "source_work": "南派三叔《盗墓笔记》",
+  "source_chapter": "《盗墓笔记8》大结局第七十四章（二）",
+  "source_url": "http://www.daomubiji.com/dajieju-7402.html",
+  "adaptation_note": "小三爷到门口叫人、出发前回望和离开路上的画面为基于用户叙述的虚构改编；潘子是否预感归期为吴邪的猜测。",
+  "native_sha256": "96212fe54d74f74a7fdd813f3a313311c49af3d2379576dd1cba67c90fbd4b6a",
+  "sha256": "bb71b4fb9606cbc23ebaada38f4c85bc1bd789955ca1c8e4345368716a4e36d0",
+  "prompt_sha256": "d684abc78ac26222494ef54938661d0e265af2cc8e5a525ea9973ab95ad2ac64",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

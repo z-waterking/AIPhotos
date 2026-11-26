@@ -1,0 +1,57 @@
+{
+  "output": "../martial-reflection-04-beyond-diligence.png",
+  "refined_prompt": "../prompts/martial-reflection-04-beyond-diligence.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "martial-reflection",
+  "series_number": 4,
+  "title": "更远之处",
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第十六回《九阴真经》",
+  "source_url": "https://book.douban.com/annotation/43340577/",
+  "quote_lines": [
+    "就算毕生勤修苦练，",
+    "终究达不到绝顶之境。"
+  ],
+  "quote_context": "周伯通转述师兄王重阳之言",
+  "art_direction": "At the open courtyard gate, the same two Taoists stand together. The senior brother speaks quietly while the younger Zhou Botong turns his gaze toward an ordinary small mountain village and the road below, thoughtful and listening. Show both men in natural three-quarter view, their teacher-and-student relationship clear; no mountain-top meditation or solitary silhouette. Soft late afternoon light, layered hills and homes beyond, grounded and peaceful, open but not abstract.",
+  "sha256": "fb0bacc76b6928d1ca37896c6c70a79d5b8003db9d1e813b99a9f3a52abf4047",
+  "native_sha256": "f4be5c68d181d7f240d809ba5af74bd95d1be03c3ae51b0edce8073731162f17",
+  "prompt_sha256": "76dc7bfc59bc05c87691f5ac05d2a2f53235f615aa01a855754f2d82163e6360",
+  "created_at_utc": "2026-11-11T02:45:02.660865+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "font_size": 48,
+    "label_font_size": 24,
+    "gradient_start_y": 650,
+    "gradient_max_alpha": 220,
+    "quote_position": [
+      82,
+      808
+    ],
+    "quote_line_spacing": 69,
+    "attribution_position": [
+      84,
+      748
+    ]
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

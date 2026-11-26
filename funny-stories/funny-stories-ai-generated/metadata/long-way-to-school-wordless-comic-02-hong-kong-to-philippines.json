@@ -1,0 +1,24 @@
+{
+  "output": "../long-way-to-school-wordless-comic-02-hong-kong-to-philippines.png",
+  "refined_prompt": "../prompts/long-way-to-school-wordless-comic.txt",
+  "source_story": "../../STORY.md",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "reference_count": 0,
+  "references": [],
+  "generated_anchor": {
+    "canonical_output": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+    "actual_input": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+    "persisted": true,
+    "role": "Fictional boy identity, clothing, child proportions, palette, and comic-style continuity only."
+  },
+  "fictional_characters": true,
+  "contains_text": false,
+  "art_direction": "Wordless cinematic memory montage joining a compact warm Hong Kong home to a hopeful Philippine aquaculture setting.",
+  "composition_variation": "Flowing diagonal transition from the family packing unmarked boxes among space-saving furniture to their arrival beside tropical fish ponds."
+}

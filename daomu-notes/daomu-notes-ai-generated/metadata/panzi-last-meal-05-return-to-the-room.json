@@ -1,0 +1,43 @@
+{
+  "output": "../panzi-last-meal-05-return-to-the-room.png",
+  "refined_prompt": "../prompts/panzi-last-meal-05-return-to-the-room.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "panzi-last-meal",
+  "series_number": 5,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "Wu Xie alone stands quietly just inside the familiar rented room, lit by cool overcast window light. He looks at the same white blue-rimmed bowl of now-long-untouched noodles and the chopsticks on the old wooden table. Convey elapsed time through a thin layer of dust and slightly faded food, no close-up of mold, no grotesque decay. The pale enamel kettle and unoccupied stool remain in their places. His posture is still, grief restrained; do not show Pan Zi or another person.",
+  "visible_description": "吴邪独自走入潘子的出租屋，望见放久的面。",
+  "display_title": "空屋重逢",
+  "poster_text": "很久以后，吴邪回来，看见那碗面已坏了。",
+  "text_is_original_paraphrase": true,
+  "source_work": "南派三叔《盗墓笔记》",
+  "source_chapter": "《盗墓笔记8》大结局第七十四章（二）",
+  "source_url": "http://www.daomubiji.com/dajieju-7402.html",
+  "adaptation_note": "小三爷到门口叫人、出发前回望和离开路上的画面为基于用户叙述的虚构改编；潘子是否预感归期为吴邪的猜测。",
+  "native_sha256": "e47f6c2ee187925c229735adff86a754d0d9acd722a932ba2b60bde13aa6309c",
+  "sha256": "ca7ac116e2a4fe8bb9b766f8a9cfdd5b6f5dc02eae4664ca3e915b9d633d74b2",
+  "prompt_sha256": "483923c30eb7223f5c2c4ee6bbb1c10c55d833077444bb5e5fcd36aa35bdfebb",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

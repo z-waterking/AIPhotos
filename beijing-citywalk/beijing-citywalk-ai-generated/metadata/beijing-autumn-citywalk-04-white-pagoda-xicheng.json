@@ -1,0 +1,722 @@
+{
+  "output": "../beijing-autumn-citywalk-04-white-pagoda-xicheng.png",
+  "refined_prompt": "../prompts/beijing-autumn-citywalk-04-white-pagoda-xicheng.txt",
+  "source_prompt": "../prompts/beijing-autumn-citywalk-art-direction.txt",
+  "created_at": "2026-10-29T02:08:11.031746+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-autumn-citywalk",
+  "series_number": 4,
+  "title": "白塔慢生活",
+  "art_direction": "Full-bleed locally rendered geographic OpenStreetMap roads, buildings, parks and water; north-up and scale-correct; original detailed landmark illustrations placed as callouts with leaders to actual WGS84 pins; readable Chinese stop list at top.",
+  "sha256": "ed6267c01c56684bdf56bab6e321ae8224f39834c5b9d88e69e74b6e068f796f",
+  "native_sha256": "9b62126262f7d4c41c60ded2c6749d4a9fc590993be1f6cae96f75869a6771da",
+  "prompt_sha256": "ec77ad1b9659d4c25afdfecb2498bc1ef84c298cdf4b15b89a50c8fe1b446460",
+  "source_prompt_sha256": "8d15729c18cbd03fe7016b755beca524306e0894ce7801f4fb86470a20909dcd",
+  "file_size_bytes": 1295973,
+  "route": {
+    "day_duration_hours": 6,
+    "total_minutes": 360,
+    "stops": [
+      {
+        "name": "白塔寺",
+        "time": "10:00",
+        "minutes": 55,
+        "walk_after": 10,
+        "detail": "妙应寺白塔 · 灰瓦映塔影",
+        "art": "Baitasi, Miaoying Temple White Dagoba: the enormous distinctive Nepalese-style white inverted-bowl stupa with a broad terraced lower base, a RED band near its upper base, a tall tapering multi-ring spire and broad bronze umbrella crown. It rises behind a foreground cluster of low gray Beijing hutong roofs and red temple walls. The white tower dominates and is recognizably Baitasi rather than Beihai on an island. No lake in this scene."
+      },
+      {
+        "name": "历代帝王庙",
+        "time": "11:05",
+        "minutes": 55,
+        "walk_after": 15,
+        "detail": "九间大殿 · 黄瓦重檐",
+        "art": "Temple of Successive Emperors, Lidai Diwang Miao: the grand Jingde Chongsheng Hall, exceptionally WIDE NINE-BAY imperial hall with a broad yellow-glazed DOUBLE-EAVE HIP roof, red doors and columns, richly painted green-blue brackets, white stone terrace and straight steps. Emphasize its horizontal width and ceremonial proportions. Mature cypress trees frame it. Not a tall pagoda or a small square pavilion."
+      },
+      {
+        "name": "广济寺",
+        "time": "12:15",
+        "minutes": 40,
+        "walk_after": 30,
+        "detail": "灰瓦红墙 · 古寺静院",
+        "art": "Guangji Temple in Xicheng: a modest quiet Buddhist courtyard with traditional GRAY-tiled halls, red masonry boundary walls, dark timber doors, white-gray stone steps and one old leafy tree. Unadorned respectful traditional Buddhist temple architecture, lower and much quieter than the grand yellow-roof imperial hall preceding it. No giant statue, no tall pagoda or yellow palace roof."
+      },
+      {
+        "name": "护国寺街",
+        "time": "13:25",
+        "minutes": 100,
+        "walk_after": 5,
+        "detail": "京味小吃 · 胡同慢午餐",
+        "art": "Huguosi Street: a friendly low gray-brick Beijing snack street, charcoal tiled roof shops, red-brown wooden doorframes, a simple traditional snack counter and tiny bamboo steamer baskets beside a tea table. A few restrained red hanging sign-shaped boards WITHOUT letters. This is the living food street, DO NOT invent a large Huguosi temple hall because the old temple is largely gone."
+      },
+      {
+        "name": "梅兰芳纪念馆",
+        "time": "15:10",
+        "minutes": 50,
+        "walk_after": 0,
+        "detail": "灰砖四合院 · 京剧旧居",
+        "art": "Mei Lanfang Memorial Museum at Huguosi Street: a humble intact Beijing siheyuan courtyard residence, low gray-brick walls and gray-tiled roof, simple courtyard entrance with RED lacquered double doors, leafy tree canopy inside. A very small bronze bust on a low plinth may be visible through the entrance. It is a quiet home, not a lavish theater, no opera masks floating in the sky, no huge painted gate."
+      }
+    ],
+    "ordered_route": [
+      "白塔寺",
+      "历代帝王庙",
+      "广济寺",
+      "护国寺街",
+      "梅兰芳纪念馆"
+    ],
+    "walking_distance_estimate": "约5–6公里",
+    "distance_includes_internal_wandering": true,
+    "schematic_not_to_scale": false,
+    "start_metro": "2号线 阜成门",
+    "end_metro": "4/6/19号线 平安里",
+    "lunch": "13:25 护国寺午餐",
+    "schedule_includes_meals_and_rest": true,
+    "source_record": "../prompts/beijing-autumn-citywalk-04-white-pagoda-xicheng-route.txt",
+    "information_checked_on": "2026-10-29",
+    "sources": [
+      "https://www.visitbeijing.com.cn/article/4TMfuHLV6gj",
+      "https://www.visitbeijing.com.cn/article/4OfjVwIRufr",
+      "https://www.visitbeijing.com.cn/article/4KD1E30MKSS",
+      "https://www.visitbeijing.com.cn/article/47QsWbTYgKx",
+      "https://www.visitbeijing.com.cn/article/4QCmT9pA4LX",
+      "https://www.visitbeijing.com.cn/article/4T273Qs1MYI",
+      "https://www.visitbeijing.com.cn/article/4TfKTSiv4Me",
+      "https://www.visitbeijing.com.cn/article/4TmWL7fuJqu",
+      "https://www.visitbeijing.com.cn/topic/zhongzhoumanbu",
+      "https://www.visitbeijing.com.cn/article/47QrUZLEGvD",
+      "https://www.visitbeijing.com.cn/article/4OcPCG3cxBz",
+      "https://www.visitbeijing.com.cn/article/4QGS0KM0U3c",
+      "https://www.visitbeijing.com.cn/article/4LQjQ6EZsKi",
+      "https://www.visitbeijing.com.cn/article/4Mz2p8Bb3Ne"
+    ],
+    "research_record": "../prompts/beijing-autumn-citywalk-sources.txt",
+    "geographic_basemap": true,
+    "navigation_verified": false,
+    "map_research_record": "../prompts/beijing-autumn-citywalk-map-route-research.txt",
+    "poi_record": "../prompts/beijing-autumn-citywalk-map-stop-points.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        35,
+        54,
+        590,
+        548
+      ],
+      [
+        468,
+        475,
+        1020,
+        775
+      ],
+      [
+        23,
+        686,
+        490,
+        1014
+      ],
+      [
+        478,
+        909,
+        1020,
+        1240
+      ],
+      [
+        24,
+        1119,
+        548,
+        1490
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        61,
+        853,
+        247,
+        1019
+      ],
+      [
+        315,
+        1058,
+        605,
+        1216
+      ],
+      [
+        706,
+        855,
+        942,
+        1021
+      ],
+      [
+        34,
+        410,
+        306,
+        576
+      ],
+      [
+        691,
+        285,
+        925,
+        451
+      ]
+    ],
+    "source_landmark_polygons": [
+      null,
+      [
+        [
+          642,
+          475
+        ],
+        [
+          1020,
+          475
+        ],
+        [
+          1020,
+          775
+        ],
+        [
+          468,
+          775
+        ],
+        [
+          468,
+          622
+        ],
+        [
+          533,
+          561
+        ]
+      ],
+      [
+        [
+          23,
+          686
+        ],
+        [
+          295,
+          686
+        ],
+        [
+          417,
+          770
+        ],
+        [
+          490,
+          850
+        ],
+        [
+          490,
+          1014
+        ],
+        [
+          23,
+          1014
+        ]
+      ],
+      [
+        [
+          612,
+          909
+        ],
+        [
+          1020,
+          1020
+        ],
+        [
+          1020,
+          1240
+        ],
+        [
+          478,
+          1240
+        ],
+        [
+          478,
+          1034
+        ]
+      ],
+      [
+        [
+          24,
+          1119
+        ],
+        [
+          340,
+          1119
+        ],
+        [
+          450,
+          1258
+        ],
+        [
+          548,
+          1320
+        ],
+        [
+          548,
+          1490
+        ],
+        [
+          24,
+          1490
+        ]
+      ]
+    ],
+    "edge_blending": "local selection polygons and contiguous paper removal; subtle glow over real geographic map",
+    "landmark_labels": [
+      {
+        "stop": "白塔寺",
+        "position": [
+          4,
+          1021
+        ],
+        "landmark_arrow": [
+          [
+            154,
+            1010
+          ],
+          [
+            297,
+            958
+          ]
+        ],
+        "stop_number": 1,
+        "pin_wgs84": [
+          116.3570374,
+          39.9235561
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/33614641"
+      },
+      {
+        "stop": "历代帝王庙",
+        "position": [
+          310,
+          1218
+        ],
+        "landmark_arrow": [
+          [
+            460,
+            1070
+          ],
+          [
+            409,
+            952
+          ]
+        ],
+        "stop_number": 2,
+        "pin_wgs84": [
+          116.3611957,
+          39.9237175
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/30834653"
+      },
+      {
+        "stop": "广济寺",
+        "position": [
+          674,
+          1023
+        ],
+        "landmark_arrow": [
+          [
+            824,
+            1012
+          ],
+          [
+            542,
+            969
+          ]
+        ],
+        "stop_number": 3,
+        "pin_wgs84": [
+          116.3661537,
+          39.923229
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/233219116"
+      },
+      {
+        "stop": "护国寺街",
+        "position": [
+          20,
+          578
+        ],
+        "landmark_arrow": [
+          [
+            170,
+            567
+          ],
+          [
+            648,
+            603
+          ]
+        ],
+        "stop_number": 4,
+        "pin_wgs84": [
+          116.3701421,
+          39.933726
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/30748909"
+      },
+      {
+        "stop": "梅兰芳纪念馆",
+        "position": [
+          658,
+          453
+        ],
+        "landmark_arrow": [
+          [
+            808,
+            442
+          ],
+          [
+            731,
+            588
+          ]
+        ],
+        "stop_number": 5,
+        "pin_wgs84": [
+          116.3732229,
+          39.934152
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/162379494"
+      }
+    ],
+    "route_arrow_count": 8,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.34594014084506,
+        39.90700915685485,
+        116.3841598591549,
+        39.950971795735626
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "54f78e343c1ffc38cef2b32389dfbeda1b14515da71329fc5af8fc86be1e4fbe",
+      "data_retrieved_at": "2026-10-29T02:32:36.029683+00:00",
+      "element_count": 37099,
+      "feature_counts": {
+        "landuse": 238,
+        "areas": 10,
+        "buildings": 3872,
+        "water": 10,
+        "roads": 2178
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "Dijkstra over OSM public road/path graph between selected entrance and street waypoints; no live gate or turn validation",
+      "route_way_ids": [
+        1021068631,
+        162395732,
+        1061414792,
+        160093312,
+        162395724,
+        162395709,
+        99695994,
+        162973920,
+        156465481,
+        162368418,
+        30748909
+      ],
+      "route_wgs84": [
+        [
+          116.3571852,
+          39.9226399
+        ],
+        [
+          116.357193,
+          39.9224891
+        ],
+        [
+          116.3571982,
+          39.9224015
+        ],
+        [
+          116.3585062,
+          39.92243
+        ],
+        [
+          116.3586692,
+          39.9224335
+        ],
+        [
+          116.3588321,
+          39.9224392
+        ],
+        [
+          116.3591892,
+          39.9224436
+        ],
+        [
+          116.3599981,
+          39.9224557
+        ],
+        [
+          116.3610045,
+          39.9224707
+        ],
+        [
+          116.3628998,
+          39.922499
+        ],
+        [
+          116.3643327,
+          39.9225203
+        ],
+        [
+          116.3643274,
+          39.9226167
+        ],
+        [
+          116.365049,
+          39.9226258
+        ],
+        [
+          116.3651029,
+          39.9226264
+        ],
+        [
+          116.3655396,
+          39.9226319
+        ],
+        [
+          116.3661328,
+          39.9226393
+        ],
+        [
+          116.3670414,
+          39.9226289
+        ],
+        [
+          116.3672421,
+          39.9226588
+        ],
+        [
+          116.3671731,
+          39.9227369
+        ],
+        [
+          116.3671024,
+          39.9227825
+        ],
+        [
+          116.3670676,
+          39.9243116
+        ],
+        [
+          116.3670513,
+          39.9250501
+        ],
+        [
+          116.3669854,
+          39.9264359
+        ],
+        [
+          116.3669502,
+          39.9271723
+        ],
+        [
+          116.366918,
+          39.9278558
+        ],
+        [
+          116.36687,
+          39.928552
+        ],
+        [
+          116.3668328,
+          39.929252
+        ],
+        [
+          116.3667986,
+          39.9298957
+        ],
+        [
+          116.3668957,
+          39.9299766
+        ],
+        [
+          116.3668246,
+          39.9306424
+        ],
+        [
+          116.3667944,
+          39.9310476
+        ],
+        [
+          116.3667815,
+          39.9312202
+        ],
+        [
+          116.3669376,
+          39.931357
+        ],
+        [
+          116.3669446,
+          39.9319767
+        ],
+        [
+          116.3669347,
+          39.9323748
+        ],
+        [
+          116.3668992,
+          39.9325947
+        ],
+        [
+          116.3668548,
+          39.9333515
+        ],
+        [
+          116.36671,
+          39.9334632
+        ],
+        [
+          116.3684463,
+          39.9336024
+        ],
+        [
+          116.368774,
+          39.933629
+        ],
+        [
+          116.3695469,
+          39.9336876
+        ],
+        [
+          116.3703327,
+          39.9337383
+        ],
+        [
+          116.3710958,
+          39.9337602
+        ],
+        [
+          116.3721199,
+          39.933833
+        ],
+        [
+          116.3735777,
+          39.9339324
+        ]
+      ],
+      "true_location_pins": [
+        {
+          "route": 4,
+          "stop": 1,
+          "name": "白塔寺（妙应寺）",
+          "lat": 39.9235561,
+          "lon": 116.3570374,
+          "osm": "way/33614641",
+          "source": "https://www.openstreetmap.org/way/33614641",
+          "coordinate_status": "OSM temple precinct representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 4,
+          "stop": 2,
+          "name": "历代帝王庙",
+          "lat": 39.9237175,
+          "lon": 116.3611957,
+          "osm": "way/30834653",
+          "source": "https://www.openstreetmap.org/way/30834653",
+          "coordinate_status": "OSM temple precinct representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 4,
+          "stop": 3,
+          "name": "广济寺",
+          "lat": 39.923229,
+          "lon": 116.3661537,
+          "osm": "way/233219116",
+          "source": "https://www.openstreetmap.org/way/233219116",
+          "coordinate_status": "OSM temple precinct representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 4,
+          "stop": 4,
+          "name": "护国寺街",
+          "lat": 39.933726,
+          "lon": 116.3701421,
+          "osm": "way/30748909",
+          "source": "https://www.openstreetmap.org/way/30748909",
+          "coordinate_status": "OSM street representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 4,
+          "stop": 5,
+          "name": "梅兰芳纪念馆",
+          "lat": 39.934152,
+          "lon": 116.3732229,
+          "osm": "way/162379494",
+          "source": "https://www.openstreetmap.org/way/162379494",
+          "coordinate_status": "OSM museum representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 500
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-previews-and-contact-sheet",
+    "checked": [
+      "Full-bleed real OSM geography",
+      "North-up map with scale bar",
+      "Five detailed landmarks and actual location pins",
+      "Readable Chinese text",
+      "Route arrows and guide caveat",
+      "Visible OSM attribution, ODbL and copyright URL",
+      "Native AI artwork preserved"
+    ]
+  },
+  "modified_at": "2026-10-29T02:39:52.767126+00:00",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file",
+    "postprocessing.title_font_path"
+  ]
+}

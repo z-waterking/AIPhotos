@@ -1,0 +1,42 @@
+{
+  "output": "../heroic-dialogue-01-empire-across-the-steppe.png",
+  "refined_prompt": "../prompts/heroic-dialogue-01-empire-across-the-steppe.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-dialogue",
+  "series_number": 1,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A sweeping cinematic establishing shot on the Mongolian steppe at dusk. Two mounted men paused atop a gentle rise; the elderly Khan in indigo on a black horse looks toward the immense open plains with a proud, quiet gesture, Guo Jing in ochre on his dark bay horse listens beside him. A thin cloud-break gilds the distant hills. Convey the scale of territory through landscape rather than flags or armies. Show the faces clearly enough to distinguish them, with two coherent horses only.",
+  "visible_description": "大汗与郭靖勒马草原，远望无边疆土。",
+  "display_title": "万里疆土",
+  "poster_text": "大汗：这辽阔天地，谁曾与我相比？",
+  "text_is_original_paraphrase": true,
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "native_sha256": "fd98adfc2d34eb7230c074a9ad02d62711465064fcbcd5b7ba704a64366e9bc6",
+  "sha256": "ccbfddb4b468308f0ea6d63ae02dc22c4e1b448e94f22331e5745d48e0db3fef",
+  "prompt_sha256": "6080a0cb2ef205c8a986477f1afb5622125c406b81c23bd871590a9c3c181920",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

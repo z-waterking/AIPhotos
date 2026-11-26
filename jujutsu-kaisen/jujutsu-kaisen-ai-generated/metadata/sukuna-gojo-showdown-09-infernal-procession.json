@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-09-infernal-procession.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "近景宿傩占据左上，五条悟在右下以蓝色雾光迎战，层叠骨门如地狱仪仗延伸至城市深处。",
+  "composition_variation": "长焦压缩与大小人物反差增强压迫感。"
+}

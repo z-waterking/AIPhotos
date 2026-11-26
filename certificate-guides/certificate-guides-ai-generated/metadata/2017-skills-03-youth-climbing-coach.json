@@ -1,0 +1,51 @@
+{
+  "output": "../2017-skills-03-youth-climbing-coach.png",
+  "refined_prompt": "../prompts/2017-skills-03-youth-climbing-coach.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-skills",
+  "series_number": 3,
+  "contains_text": true,
+  "art_direction": "A fictional adult climbing coach demonstrates an easy low wall movement to a group of adult trainee coaches, in an airy training gym. The group observes from a broad continuous mat; there are no children in the scene. The framing is cinematic and professional, emphasizing teaching and teamwork rather than a portrait. Pale climbing volumes against blue and burnt-orange accents, atmospheric directional light; no close-up rope system, dangerous height or text.",
+  "historical_year": 2017,
+  "source_urls": [
+    "https://www.sport.gov.cn/n315/n20001395/c20035941/content.html"
+  ],
+  "poster_copy": {
+    "title": "青少年攀岩教练培训",
+    "keyword": "教学方法  /  安全示范",
+    "facts": [
+      "2017年中登协面向相关人员开班",
+      "该期要求18—55岁、身体健康等",
+      "理论实践考核通过获得培训结业证"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "6fd22fd481bd6c9a74ec4651a132ea75cb2a574e3c4cc42e10c1deb41a01c5b5",
+  "native_sha256": "c1cf5a0424a66565919c98568c055d0e9b273424f7d25844a088312d74274c9c",
+  "sha256": "f587623102ed331e1caf4e06b75177ba4338cacd38beac34ab7cf2c0db2017e0",
+  "created_at_utc": "2026-11-03T05:17:03.531815+00:00",
+  "postprocessing": {
+    "method": "local-gradient-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "gradient_start_y": 610,
+    "gradient_max_alpha": 232
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

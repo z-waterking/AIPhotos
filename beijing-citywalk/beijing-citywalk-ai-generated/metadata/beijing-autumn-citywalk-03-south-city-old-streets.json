@@ -1,0 +1,975 @@
+{
+  "output": "../beijing-autumn-citywalk-03-south-city-old-streets.png",
+  "refined_prompt": "../prompts/beijing-autumn-citywalk-03-south-city-old-streets.txt",
+  "source_prompt": "../prompts/beijing-autumn-citywalk-art-direction.txt",
+  "created_at": "2026-10-29T02:08:10.781568+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-autumn-citywalk",
+  "series_number": 3,
+  "title": "城南旧时光",
+  "art_direction": "Full-bleed locally rendered geographic OpenStreetMap roads, buildings, parks and water; north-up and scale-correct; original detailed landmark illustrations placed as callouts with leaders to actual WGS84 pins; readable Chinese stop list at top.",
+  "sha256": "98d91ae724be1b2e0310e3a023f9416c95fa670aa708686cb0e7cd6047370e0a",
+  "native_sha256": "3b1f73e9a7b28d2fe115deabe8a18feff16e1e150fe38b25a508f3c8db024f40",
+  "prompt_sha256": "b0783d8085a6c8f97b6686aad1591890742532c2a5ecf2e19a53015ce1bb7aec",
+  "source_prompt_sha256": "8d15729c18cbd03fe7016b755beca524306e0894ce7801f4fb86470a20909dcd",
+  "file_size_bytes": 1420864,
+  "route": {
+    "day_duration_hours": 6,
+    "total_minutes": 360,
+    "stops": [
+      {
+        "name": "前门",
+        "time": "10:00",
+        "minutes": 40,
+        "walk_after": 10,
+        "detail": "正阳门箭楼 · 京城门面",
+        "art": "Qianmen: Zhengyangmen Arrow Tower as seen from Qianmen pedestrian street, the unmistakable massive rectangular GRAY BRICK bastion with rows of small arched arrow windows in the high upper masonry, broad dark-gray tiled multi-eave roof above, large arched gateway in the lower base. Very solid, broad, imposing proportions; NOT Tiananmen, no yellow glazed palace roof, no portrait. A few small front-street shops supply scale."
+      },
+      {
+        "name": "大栅栏",
+        "time": "10:50",
+        "minutes": 55,
+        "walk_after": 10,
+        "detail": "雕花老铺 · 老字号烟火",
+        "art": "Dashilan pedestrian street: a dense old Beijing commercial street with ornate two-storey historic shopfronts, carved dark wooden doors, layered gray tiled eaves, restrained blue-green painted brackets, small decorative hanging shop boards kept blank, and red lanterns. The lively traditional commercial facades are the landmark, not a single invented gate. Distinct from narrow quiet hutongs: slightly broader street and taller elaborate storefronts."
+      },
+      {
+        "name": "杨梅竹斜街",
+        "time": "11:55",
+        "minutes": 70,
+        "walk_after": 15,
+        "detail": "斜街书店 · 小院里午餐",
+        "art": "Yangmeizhu Xiejie: a gently bending narrow Beijing lane, gray brick low residences with restrained charcoal tiled eaves, an intimate bookshop with books visibly shelved behind a wooden window and a warm small cafe doorway, several simple potted plants. Scholarly intimate adaptive-reuse neighborhood, tactile old brick and muted doors, no huge signboards, no dramatic monuments."
+      },
+      {
+        "name": "琉璃厂",
+        "time": "13:20",
+        "minutes": 40,
+        "walk_after": 40,
+        "detail": "彩绘檐口 · 文房四宝",
+        "art": "Liulichang cultural street: distinguished traditional calligraphy and antiques storefronts with orderly rows of dark-gray Chinese tiled roofs, blue-green painted ornamental eaves, red wooden window lattice and a shop-window display of upright ink brushes, rolled blank scrolls and small inkstones. Detailed crafted facades with a quiet scholarly mood. Do not generate writing on scrolls or signs."
+      },
+      {
+        "name": "陶然亭公园",
+        "time": "14:40",
+        "minutes": 80,
+        "walk_after": 0,
+        "detail": "湖畔秋色 · 慈悲庵古亭",
+        "art": "Taoranting Park: a calm turquoise lake and the wooded island in the foreground, with Cibei Nunnery courtyard on the raised southwestern part of the island. Within the courtyard show the modest historic Taoran Pavilion, three-bay open rectangular hall with red wooden columns and a sober gray hip-and-gable roof on a white stone terrace. It belongs INSIDE this low temple courtyard, not a lone pavilion standing over water. Golden willow trees, the lake and one white stone island approach provide the surrounding park identity. Human-scale sober architecture, no Temple of Heaven or Summer Palace."
+      }
+    ],
+    "ordered_route": [
+      "前门",
+      "大栅栏",
+      "杨梅竹斜街",
+      "琉璃厂",
+      "陶然亭公园"
+    ],
+    "walking_distance_estimate": "约7–8公里",
+    "distance_includes_internal_wandering": true,
+    "schematic_not_to_scale": false,
+    "start_metro": "2/8号线 前门",
+    "end_metro": "4号线 陶然亭",
+    "lunch": "11:55 杨梅竹午餐",
+    "schedule_includes_meals_and_rest": true,
+    "source_record": "../prompts/beijing-autumn-citywalk-03-south-city-old-streets-route.txt",
+    "information_checked_on": "2026-10-29",
+    "sources": [
+      "https://www.visitbeijing.com.cn/article/4TMfuHLV6gj",
+      "https://www.visitbeijing.com.cn/article/4OfjVwIRufr",
+      "https://www.visitbeijing.com.cn/article/4KD1E30MKSS",
+      "https://www.visitbeijing.com.cn/article/47QsWbTYgKx",
+      "https://www.visitbeijing.com.cn/article/4QCmT9pA4LX",
+      "https://www.visitbeijing.com.cn/article/4T273Qs1MYI",
+      "https://www.visitbeijing.com.cn/article/4TfKTSiv4Me",
+      "https://www.visitbeijing.com.cn/article/4TmWL7fuJqu",
+      "https://www.visitbeijing.com.cn/topic/zhongzhoumanbu",
+      "https://www.visitbeijing.com.cn/article/47QrUZLEGvD",
+      "https://www.visitbeijing.com.cn/article/4OcPCG3cxBz",
+      "https://www.visitbeijing.com.cn/article/4QGS0KM0U3c",
+      "https://www.visitbeijing.com.cn/article/4LQjQ6EZsKi",
+      "https://www.visitbeijing.com.cn/article/4Mz2p8Bb3Ne"
+    ],
+    "research_record": "../prompts/beijing-autumn-citywalk-sources.txt",
+    "geographic_basemap": true,
+    "navigation_verified": false,
+    "map_research_record": "../prompts/beijing-autumn-citywalk-map-route-research.txt",
+    "poi_record": "../prompts/beijing-autumn-citywalk-map-stop-points.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        27,
+        99,
+        573,
+        544
+      ],
+      [
+        483,
+        362,
+        1020,
+        713
+      ],
+      [
+        26,
+        678,
+        490,
+        1015
+      ],
+      [
+        483,
+        814,
+        1020,
+        1177
+      ],
+      [
+        24,
+        1081,
+        700,
+        1488
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        752,
+        276,
+        956,
+        442
+      ],
+      [
+        723,
+        536,
+        977,
+        702
+      ],
+      [
+        46,
+        388,
+        275,
+        554
+      ],
+      [
+        35,
+        648,
+        281,
+        814
+      ],
+      [
+        44,
+        1000,
+        320,
+        1166
+      ]
+    ],
+    "source_landmark_polygons": [
+      null,
+      [
+        [
+          766,
+          362
+        ],
+        [
+          1020,
+          362
+        ],
+        [
+          1020,
+          713
+        ],
+        [
+          483,
+          713
+        ],
+        [
+          483,
+          543
+        ],
+        [
+          633,
+          449
+        ]
+      ],
+      null,
+      [
+        [
+          732,
+          814
+        ],
+        [
+          1020,
+          814
+        ],
+        [
+          1020,
+          1177
+        ],
+        [
+          620,
+          1177
+        ],
+        [
+          483,
+          1083
+        ],
+        [
+          483,
+          995
+        ],
+        [
+          583,
+          906
+        ]
+      ],
+      [
+        [
+          24,
+          1081
+        ],
+        [
+          438,
+          1081
+        ],
+        [
+          560,
+          1144
+        ],
+        [
+          700,
+          1268
+        ],
+        [
+          700,
+          1488
+        ],
+        [
+          24,
+          1488
+        ]
+      ]
+    ],
+    "edge_blending": "local selection polygons and contiguous paper removal; subtle glow over real geographic map",
+    "landmark_labels": [
+      {
+        "stop": "前门",
+        "position": [
+          704,
+          444
+        ],
+        "landmark_arrow": [
+          [
+            854,
+            433
+          ],
+          [
+            691,
+            396
+          ]
+        ],
+        "stop_number": 1,
+        "pin_wgs84": [
+          116.3916579,
+          39.8979594
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/439956436"
+      },
+      {
+        "stop": "大栅栏",
+        "position": [
+          700,
+          704
+        ],
+        "landmark_arrow": [
+          [
+            850,
+            556
+          ],
+          [
+            659,
+            495
+          ]
+        ],
+        "stop_number": 2,
+        "pin_wgs84": [
+          116.390172,
+          39.8944985
+        ],
+        "pin_source": "https://www.openstreetmap.org/node/4454758090"
+      },
+      {
+        "stop": "杨梅竹斜街",
+        "position": [
+          10,
+          556
+        ],
+        "landmark_arrow": [
+          [
+            160,
+            545
+          ],
+          [
+            564,
+            504
+          ]
+        ],
+        "stop_number": 3,
+        "pin_wgs84": [
+          116.3858538,
+          39.8941926
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/30749235"
+      },
+      {
+        "stop": "琉璃厂",
+        "position": [
+          8,
+          816
+        ],
+        "landmark_arrow": [
+          [
+            158,
+            668
+          ],
+          [
+            452,
+            514
+          ]
+        ],
+        "stop_number": 4,
+        "pin_wgs84": [
+          116.3807813,
+          39.8938381
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/30752927"
+      },
+      {
+        "stop": "陶然亭公园",
+        "position": [
+          32,
+          1168
+        ],
+        "landmark_arrow": [
+          [
+            182,
+            1157
+          ],
+          [
+            321,
+            1147
+          ]
+        ],
+        "stop_number": 5,
+        "pin_wgs84": [
+          116.3747944,
+          39.8717327
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/1507764566"
+      }
+    ],
+    "route_arrow_count": 12,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.36018402410194,
+        39.858129146056534,
+        116.40681597589807,
+        39.91180252526172
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "54f78e343c1ffc38cef2b32389dfbeda1b14515da71329fc5af8fc86be1e4fbe",
+      "data_retrieved_at": "2026-10-29T02:32:36.029683+00:00",
+      "element_count": 37099,
+      "feature_counts": {
+        "landuse": 502,
+        "areas": 19,
+        "water": 20,
+        "buildings": 5202,
+        "roads": 3900
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "Dijkstra over OSM public road/path graph between selected entrance and street waypoints; no live gate or turn validation",
+      "route_way_ids": [
+        1007889370,
+        9779112,
+        30680703,
+        1559098609,
+        1017340957,
+        28947684,
+        30749235,
+        107116216,
+        107116221,
+        30752927,
+        986647853,
+        986647854,
+        986647855,
+        986647856,
+        4493469,
+        33616333,
+        59198081,
+        59198154,
+        375137620,
+        59198139,
+        30025281,
+        146581680,
+        164954109,
+        141524709,
+        141524690,
+        146581679,
+        30766000,
+        59210699,
+        59210724,
+        164955452,
+        237621371,
+        117709113,
+        117709092,
+        117709089,
+        117709086,
+        991457413,
+        117709091
+      ],
+      "route_wgs84": [
+        [
+          116.3917206,
+          39.8975023
+        ],
+        [
+          116.3917329,
+          39.897418
+        ],
+        [
+          116.3917436,
+          39.8972597
+        ],
+        [
+          116.3917721,
+          39.8970098
+        ],
+        [
+          116.3917916,
+          39.8966257
+        ],
+        [
+          116.3918722,
+          39.895037
+        ],
+        [
+          116.3918912,
+          39.8946634
+        ],
+        [
+          116.391926,
+          39.8946545
+        ],
+        [
+          116.3918912,
+          39.8946634
+        ],
+        [
+          116.3918194,
+          39.8946665
+        ],
+        [
+          116.3917601,
+          39.8946691
+        ],
+        [
+          116.3916328,
+          39.8946774
+        ],
+        [
+          116.391486,
+          39.8946589
+        ],
+        [
+          116.3906989,
+          39.8945756
+        ],
+        [
+          116.3898089,
+          39.8944975
+        ],
+        [
+          116.3886002,
+          39.8943806
+        ],
+        [
+          116.3885624,
+          39.8943753
+        ],
+        [
+          116.3885515,
+          39.8944083
+        ],
+        [
+          116.3884408,
+          39.8943865
+        ],
+        [
+          116.3883843,
+          39.8946129
+        ],
+        [
+          116.3883107,
+          39.8949192
+        ],
+        [
+          116.3882022,
+          39.8948957
+        ],
+        [
+          116.3881938,
+          39.8948928
+        ],
+        [
+          116.3881508,
+          39.894879
+        ],
+        [
+          116.3880301,
+          39.8948509
+        ],
+        [
+          116.3858262,
+          39.8941843
+        ],
+        [
+          116.3856806,
+          39.8941398
+        ],
+        [
+          116.384984,
+          39.8939549
+        ],
+        [
+          116.3845038,
+          39.89386
+        ],
+        [
+          116.3840318,
+          39.8937314
+        ],
+        [
+          116.383498,
+          39.89356
+        ],
+        [
+          116.3833766,
+          39.8935533
+        ],
+        [
+          116.3829338,
+          39.8936226
+        ],
+        [
+          116.3829601,
+          39.8937833
+        ],
+        [
+          116.3821667,
+          39.8938244
+        ],
+        [
+          116.3816896,
+          39.893808
+        ],
+        [
+          116.3812522,
+          39.893835
+        ],
+        [
+          116.3807813,
+          39.8938381
+        ],
+        [
+          116.3789856,
+          39.8938542
+        ],
+        [
+          116.37889,
+          39.8939212
+        ],
+        [
+          116.3785172,
+          39.8939123
+        ],
+        [
+          116.3785734,
+          39.893752
+        ],
+        [
+          116.3782138,
+          39.8937381
+        ],
+        [
+          116.3781713,
+          39.8939383
+        ],
+        [
+          116.3782642,
+          39.8939401
+        ],
+        [
+          116.3782554,
+          39.8940987
+        ],
+        [
+          116.3776563,
+          39.8940858
+        ],
+        [
+          116.3755249,
+          39.8940138
+        ],
+        [
+          116.3755698,
+          39.8933116
+        ],
+        [
+          116.3755628,
+          39.8931973
+        ],
+        [
+          116.3748616,
+          39.8931264
+        ],
+        [
+          116.3748726,
+          39.8928781
+        ],
+        [
+          116.3749793,
+          39.892884
+        ],
+        [
+          116.3750615,
+          39.8928269
+        ],
+        [
+          116.3750766,
+          39.8910338
+        ],
+        [
+          116.3752121,
+          39.8900526
+        ],
+        [
+          116.3753038,
+          39.8895927
+        ],
+        [
+          116.3753042,
+          39.8892363
+        ],
+        [
+          116.3761009,
+          39.8891834
+        ],
+        [
+          116.3764941,
+          39.889173
+        ],
+        [
+          116.3776576,
+          39.8891791
+        ],
+        [
+          116.377868,
+          39.8891918
+        ],
+        [
+          116.3779357,
+          39.8882771
+        ],
+        [
+          116.3781175,
+          39.8882859
+        ],
+        [
+          116.3783808,
+          39.8882987
+        ],
+        [
+          116.3783811,
+          39.8881644
+        ],
+        [
+          116.3783674,
+          39.8880221
+        ],
+        [
+          116.3783623,
+          39.8878927
+        ],
+        [
+          116.3781024,
+          39.8878884
+        ],
+        [
+          116.3762745,
+          39.8878578
+        ],
+        [
+          116.3753492,
+          39.8878215
+        ],
+        [
+          116.375357,
+          39.8862731
+        ],
+        [
+          116.3754933,
+          39.8838863
+        ],
+        [
+          116.3755644,
+          39.883741
+        ],
+        [
+          116.3755446,
+          39.8819151
+        ],
+        [
+          116.3755318,
+          39.8818122
+        ],
+        [
+          116.3755001,
+          39.8811742
+        ],
+        [
+          116.3754933,
+          39.8804516
+        ],
+        [
+          116.3755072,
+          39.8800594
+        ],
+        [
+          116.3755116,
+          39.8796326
+        ],
+        [
+          116.3755155,
+          39.8793766
+        ],
+        [
+          116.3756602,
+          39.8789066
+        ],
+        [
+          116.3757443,
+          39.8785578
+        ],
+        [
+          116.3758445,
+          39.8774645
+        ],
+        [
+          116.3757105,
+          39.8774594
+        ],
+        [
+          116.3757383,
+          39.8771224
+        ],
+        [
+          116.3757645,
+          39.8765485
+        ],
+        [
+          116.3761971,
+          39.8762997
+        ],
+        [
+          116.376594,
+          39.8758531
+        ],
+        [
+          116.3766129,
+          39.8753888
+        ],
+        [
+          116.3766797,
+          39.8750049
+        ],
+        [
+          116.3769957,
+          39.8747252
+        ],
+        [
+          116.3768754,
+          39.8745298
+        ],
+        [
+          116.3765118,
+          39.8739512
+        ],
+        [
+          116.3764067,
+          39.8738104
+        ],
+        [
+          116.3762602,
+          39.8735599
+        ],
+        [
+          116.3761848,
+          39.8733925
+        ],
+        [
+          116.375706,
+          39.8734943
+        ],
+        [
+          116.3754453,
+          39.8734201
+        ],
+        [
+          116.3752998,
+          39.8733505
+        ],
+        [
+          116.3752309,
+          39.873282
+        ],
+        [
+          116.3751475,
+          39.8731178
+        ],
+        [
+          116.3750924,
+          39.8729109
+        ],
+        [
+          116.3750731,
+          39.8726725
+        ],
+        [
+          116.3750773,
+          39.8721568
+        ],
+        [
+          116.3747017,
+          39.8720257
+        ]
+      ],
+      "true_location_pins": [
+        {
+          "route": 3,
+          "stop": 1,
+          "name": "前门（正阳门箭楼）",
+          "lat": 39.8979594,
+          "lon": 116.3916579,
+          "osm": "way/439956436",
+          "source": "https://www.openstreetmap.org/way/439956436",
+          "coordinate_status": "OSM named Arrow Tower representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 3,
+          "stop": 2,
+          "name": "大栅栏",
+          "lat": 39.8944985,
+          "lon": 116.390172,
+          "osm": "node/4454758090",
+          "source": "https://www.openstreetmap.org/node/4454758090",
+          "coordinate_status": "OSM tourism attraction node; not bus stop",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 3,
+          "stop": 3,
+          "name": "杨梅竹斜街",
+          "lat": 39.8941926,
+          "lon": 116.3858538,
+          "osm": "way/30749235",
+          "source": "https://www.openstreetmap.org/way/30749235",
+          "coordinate_status": "OSM street representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 3,
+          "stop": 4,
+          "name": "琉璃厂（琉璃厂东街）",
+          "lat": 39.8938381,
+          "lon": 116.3807813,
+          "osm": "way/30752927",
+          "source": "https://www.openstreetmap.org/way/30752927",
+          "coordinate_status": "Actual OSM road geometry vertex on cultural street; not bus stop",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 3,
+          "stop": 5,
+          "name": "陶然亭公园（陶然亭）",
+          "lat": 39.8717327,
+          "lon": 116.3747944,
+          "osm": "way/1507764566",
+          "source": "https://www.openstreetmap.org/way/1507764566",
+          "coordinate_status": "OSM named Taoran pavilion bounding-box center; add southern OSM vector coverage",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 500
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-previews-and-contact-sheet",
+    "checked": [
+      "Full-bleed real OSM geography",
+      "North-up map with scale bar",
+      "Five detailed landmarks and actual location pins",
+      "Readable Chinese text",
+      "Route arrows and guide caveat",
+      "Visible OSM attribution, ODbL and copyright URL",
+      "Native AI artwork preserved"
+    ]
+  },
+  "modified_at": "2026-10-29T02:40:58.072249+00:00",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file",
+    "postprocessing.title_font_path"
+  ]
+}

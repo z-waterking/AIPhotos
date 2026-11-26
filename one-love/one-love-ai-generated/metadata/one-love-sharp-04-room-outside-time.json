@@ -1,0 +1,62 @@
+{
+  "output": "../one-love-sharp-04-room-outside-time.png",
+  "source_prompt": "../prompts/one-love-visual-poem-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-sharp-04-room-outside-time.txt",
+  "created_at": "2026-10-27T03:02:30.131319+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love-sharp",
+  "series_number": 4,
+  "pair": "one-love-visual-poem",
+  "pair_number": 1,
+  "pair_count": 2,
+  "title": "时间绕开的房间",
+  "art_direction": "THE IMPOSSIBILITY: an entire living Japanese city folds and turns like enormous accordion pages of time, but every fold carefully bends around ONE small illuminated room, leaving it level, intact and unchanged.\n\nCOMPOSITION: an oblique aerial view with a daring diagonal from bottom-right toward top-left. Four enormous continuous architectural planes rise and fold away into open ivory space: nearest, elegant traditional Japanese tiled eaves and narrow wooden facades; next, restrained contemporary city blocks; furthest, graceful clean futuristic elevated streets. These are successive surfaces of ONE connected accordion-fold city, with clear physical fold edges, not a collage, no panels and no isolated floating islands. Each plane has precise blue-black anime architectural lines, ivory flat roofs, pale cyan shadows and ample clean simplified space. No destruction or abandoned buildings; the city feels inhabited and alive, with a few warm illuminated windows.\n\nTHE IMMUTABLE CORE: in the lower-middle/right, about one fifth of the whole image width, a single open-roof room remains horizontally level as the huge folding city passes around it. The folds visibly DETOUR around the room as if time refuses to touch this particular place. Its square deep-vermilion floor and one vermilion inner wall are the dominant saturated shape. Within it, an ivory small round table, TWO well-separated ordinary black chairs facing each other across it, and one warm pendant light on a simple slender support. The tabletop is empty and immaculate. The room is welcoming, intimate, and ready to be used, with an open doorway toward the viewer. The warm light pool must feel continuously alive while the larger world changes. Furniture clear and large enough to read.\n\nKeep the room, two chairs and the geometry of folds instantly legible; the surrounding city is supporting rhythm, not an architecture-detail contest. Large ivory wedges of negative space between the accordion planes, forceful black edges and cold cyan undersides. No literal torn paper texture: the city itself bends in impossible but cleanly drawn planes. This image embodies a promise that still holds after a century, without depicting people making that promise.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "selected_line_number": 1,
+    "meaning": "An intimate place held for the beloved endures while a century passes around it.",
+    "use": "Separate original wordless interpretation of one selected short lyric line; no existing visual copied."
+  },
+  "sha256": "218b53642395f2b399632b76edfb9df116c93e87cd4d187fe2ffe1e879dc20ba",
+  "native_sha256": "218b53642395f2b399632b76edfb9df116c93e87cd4d187fe2ffe1e879dc20ba",
+  "prompt_sha256": "db304d02c6622c01782dbf823ddb003d587974a3c40cdba4d06415194bb3d2c3",
+  "source_prompt_sha256": "d0aa26bbc941a36f54a028bd413bb7354be37c417f6a8770c1372e9559b68180",
+  "file_size_bytes": 2503834,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "924x1280",
+    "checked": [
+      "Two distinct surreal spatial concepts",
+      "Sharp Japanese architectural anime graphic treatment",
+      "Central conceptual relationship readable",
+      "No people, lettering or watermark",
+      "Unmodified native PNG retained"
+    ]
+  },
+  "concept": "surreal spatial visual poem, no figures or literal romantic gestures"
+}

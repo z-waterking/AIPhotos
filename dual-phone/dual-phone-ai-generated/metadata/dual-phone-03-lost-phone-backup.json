@@ -1,0 +1,43 @@
+{
+  "output": "../dual-phone-03-lost-phone-backup.png",
+  "refined_prompt": "../prompts/dual-phone-03-lost-phone-backup.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "dual-phone",
+  "series_number": 3,
+  "art_direction": "A fictional adult on a calm daytime city street pats an empty coat pocket with one hand, a mild surprised expression; with the other hand the person holds a single deep green phone and calmly checks it. An EMPTY ordinary pocket signifies the other phone is missing; do not show thieves, stolen objects, danger, traffic hazards, or text. The green device screen shows soft abstract color only. Everyday gentle humor, warm light and a spacious pale lower area. No phantom third phone.",
+  "poster_copy": {
+    "title": "丢了一台，还有一台",
+    "subtitle": "备用机在手，还能继续联系",
+    "small": "账号与数据记得提前备份"
+  },
+  "sha256": "157adec4fddfaeee24ffe5c69cfb4b17120ef4076a8757dfe9ae5208d9aaa76b",
+  "native_sha256": "dff3372bb9301109f3844bad658cf32e3f53bb0c43b16fd99c12b62d4f8c2ec4",
+  "prompt_sha256": "0e8504d18658e7bfd4a34a72deef4b272f73d5411aae777d587135ebd35f2ded",
+  "created_at_utc": "2026-11-08T04:46:55.384661+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "gradient_start_y": 970,
+    "gradient_max_alpha": 235
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

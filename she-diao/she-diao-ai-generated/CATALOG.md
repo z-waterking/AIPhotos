@@ -1,0 +1,17 @@
+# 作品目录
+
+- heroic-dialogue-01-empire-across-the-steppe · [原图](heroic-dialogue-01-empire-across-the-steppe.png) · [生成记录](metadata/heroic-dialogue-01-empire-across-the-steppe.json) · [提示词](prompts/heroic-dialogue-01-empire-across-the-steppe.txt)
+- heroic-dialogue-02-the-people-beneath-the-sky · [原图](heroic-dialogue-02-the-people-beneath-the-sky.png) · [生成记录](metadata/heroic-dialogue-02-the-people-beneath-the-sky.json) · [提示词](prompts/heroic-dialogue-02-the-people-beneath-the-sky.txt)
+- heroic-dialogue-03-the-question-of-earth · [原图](heroic-dialogue-03-the-question-of-earth.png) · [生成记录](metadata/heroic-dialogue-03-the-question-of-earth.json) · [提示词](prompts/heroic-dialogue-03-the-question-of-earth.txt)
+- heroic-dialogue-04-a-whip-circle-of-earth · [原图](heroic-dialogue-04-a-whip-circle-of-earth.png) · [生成记录](metadata/heroic-dialogue-04-a-whip-circle-of-earth.json) · [提示词](prompts/heroic-dialogue-04-a-whip-circle-of-earth.txt)
+- heroic-dialogue-05-what-makes-a-hero · [原图](heroic-dialogue-05-what-makes-a-hero.png) · [生成记录](metadata/heroic-dialogue-05-what-makes-a-hero.json) · [提示词](prompts/heroic-dialogue-05-what-makes-a-hero.txt)
+- heroic-dialogue-06-the-silent-golden-tent · [原图](heroic-dialogue-06-the-silent-golden-tent.png) · [生成记录](metadata/heroic-dialogue-06-the-silent-golden-tent.json) · [提示词](prompts/heroic-dialogue-06-the-silent-golden-tent.txt)
+- heroic-reflection-01-grassland-last-dialogue · [原图](heroic-reflection-01-grassland-last-dialogue.png) · [生成记录](metadata/heroic-reflection-01-grassland-last-dialogue.json) · [提示词](prompts/heroic-reflection-01-grassland-last-dialogue.txt)
+- martial-reflection-01-gift-and-joy · [原图](martial-reflection-01-gift-and-joy.png) · [生成记录](metadata/martial-reflection-01-gift-and-joy.json) · [提示词](prompts/martial-reflection-01-gift-and-joy.txt)
+- martial-reflection-02-absorbed · [原图](martial-reflection-02-absorbed.png) · [生成记录](metadata/martial-reflection-02-absorbed.json) · [提示词](prompts/martial-reflection-02-absorbed.txt)
+- martial-reflection-03-heart-for-people · [原图](martial-reflection-03-heart-for-people.png) · [生成记录](metadata/martial-reflection-03-heart-for-people.json) · [提示词](prompts/martial-reflection-03-heart-for-people.txt)
+- martial-reflection-04-beyond-diligence · [原图](martial-reflection-04-beyond-diligence.png) · [生成记录](metadata/martial-reflection-04-beyond-diligence.json) · [提示词](prompts/martial-reflection-04-beyond-diligence.txt)
+- tao-of-the-mountain-01-obsession · [原图](tao-of-the-mountain-01-obsession.png) · [生成记录](metadata/tao-of-the-mountain-01-obsession.json) · [提示词](prompts/tao-of-the-mountain-01-obsession.txt)
+- tao-of-the-mountain-02-looking-back · [原图](tao-of-the-mountain-02-looking-back.png) · [生成记录](metadata/tao-of-the-mountain-02-looking-back.json) · [提示词](prompts/tao-of-the-mountain-02-looking-back.txt)
+- tao-of-the-mountain-03-helping-villager · [原图](tao-of-the-mountain-03-helping-villager.png) · [生成记录](metadata/tao-of-the-mountain-03-helping-villager.json) · [提示词](prompts/tao-of-the-mountain-03-helping-villager.txt)
+- tao-of-the-mountain-04-open-horizon · [原图](tao-of-the-mountain-04-open-horizon.png) · [生成记录](metadata/tao-of-the-mountain-04-open-horizon.json) · [提示词](prompts/tao-of-the-mountain-04-open-horizon.txt)

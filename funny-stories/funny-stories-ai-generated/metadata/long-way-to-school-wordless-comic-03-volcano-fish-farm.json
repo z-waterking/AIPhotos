@@ -1,0 +1,24 @@
+{
+  "output": "../long-way-to-school-wordless-comic-03-volcano-fish-farm.png",
+  "refined_prompt": "../prompts/long-way-to-school-wordless-comic.txt",
+  "source_story": "../../STORY.md",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "generated-anchor",
+  "binary_reference_input": true,
+  "reference_count": 0,
+  "references": [],
+  "generated_anchor": {
+    "canonical_output": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+    "actual_input": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+    "persisted": true,
+    "role": "Fictional boy identity, clothing, child proportions, palette, and comic-style continuity only."
+  },
+  "fictional_characters": true,
+  "contains_text": false,
+  "art_direction": "Respectful wordless disaster scene with restrained firelight, a distant ash plume, and non-graphic aquaculture loss.",
+  "composition_variation": "Wide dusk view with the safe family grouped at left, active volcano beyond the ponds, and motionless fish communicating the loss without gore."
+}

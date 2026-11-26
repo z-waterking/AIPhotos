@@ -1,0 +1,16 @@
+{
+  "output": "../sukuna-gojo-showdown-01-malevolent-shrine.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "原创横向暗黑动漫关键视觉：宿傩与五条悟分别位于左右前景，中央巨大的骸骨神龛占据主要画幅，以猩红开放式领域、废墟都市和少量蓝白空间能量表现伏魔御厨子的压倒性存在感。",
+  "composition_variation": "低机位对称三角构图；人物轮廓框住中央神龛，环形诅咒能量扩展至天空与整片城市。"
+}

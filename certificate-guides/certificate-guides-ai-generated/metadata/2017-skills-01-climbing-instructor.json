@@ -1,0 +1,51 @@
+{
+  "output": "../2017-skills-01-climbing-instructor.png",
+  "refined_prompt": "../prompts/2017-skills-01-climbing-instructor.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-skills",
+  "series_number": 1,
+  "contains_text": true,
+  "art_direction": "Inside a well-designed contemporary indoor climbing gym, a fictional adult instructor in simple sportswear supervises another adult practicing low on a wall over a continuous thick mat. Show a clear broad environment, colorful holds and textured climbing volumes, nuanced mountain-amber light, slate blue and deep copper shadows. Belay rope and equipment are peripheral and not shown in close-up; participants are calm, near the ground, and safely situated. No dramatic falls, heights, visible text or branding.",
+  "historical_year": 2017,
+  "source_urls": [
+    "https://www.sport.gov.cn/n315/n20001395/c20033152/content.html"
+  ],
+  "poster_copy": {
+    "title": "攀岩指导员 初级",
+    "keyword": "攀岩教学  /  安全指导",
+    "facts": [
+      "2017年：山东、北京、云南、陕西开班",
+      "该期要求18—55岁、高中以上，有攀登经验",
+      "理论与实践考核合格后获当时职业资格证"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "cda02ec2dcb891c015c34ef5a8280549c36de5cacb5e7610541bb56ebfc272e0",
+  "native_sha256": "1204fe738bade426a85cc67ae0f94631fc3888ae02db00774d67674a9f8b611f",
+  "sha256": "457af2d395458df6649a780b885bad5a5412e033e54c9d3bc337b73706d041cc",
+  "created_at_utc": "2026-11-03T05:17:06.660877+00:00",
+  "postprocessing": {
+    "method": "local-gradient-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "gradient_start_y": 610,
+    "gradient_max_alpha": 232
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

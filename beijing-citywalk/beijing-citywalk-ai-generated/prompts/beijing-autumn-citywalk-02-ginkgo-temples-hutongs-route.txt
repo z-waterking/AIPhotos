@@ -1,0 +1,60 @@
+{
+  "number": 2,
+  "stem": "beijing-autumn-citywalk-02-ginkgo-temples-hutongs",
+  "title": "银杏与书香",
+  "background": "#F5F8F0",
+  "accent": "#6D957C",
+  "secondary": "#D4AE47",
+  "top_lines": [
+    "地坛公园 → 五道营胡同 → 雍和宫",
+    "孔庙国子监 → 方家胡同"
+  ],
+  "distance": "约5–6公里",
+  "metro_start": "2号线 安定门",
+  "metro_end": "2号线 安定门",
+  "start_note": "地坛西门集合",
+  "lunch": "11:25 五道营早午餐",
+  "caution": "地坛、雍和宫需购票；孔庙国子监入馆另查预约",
+  "stops": [
+    {
+      "name": "地坛公园",
+      "time": "10:00",
+      "minutes": 70,
+      "walk_after": 15,
+      "detail": "方泽坛外观 · 银杏大道",
+      "art": "Ditan Park: the Fangze Altar is an OPEN-AIR DOUBLE-TIER SQUARE pale stone altar platform with repeated white stone balustrades and broad stairways. Surround it with straight rows of golden ginkgo trees and a small red boundary wall. No roof on the altar. It is square, NOT the round Temple of Heaven and not a temple pavilion. Show the square layered stone geometry legibly."
+    },
+    {
+      "name": "五道营胡同",
+      "time": "11:25",
+      "minutes": 80,
+      "walk_after": 10,
+      "detail": "灰砖绿窗 · 咖啡慢午餐",
+      "art": "Wudaoying Hutong: a low intimate Beijing lane with gray brick single-storey courtyard facades and dark gray tiled eaves, tasteful small cafe with muted forest-green wooden window frames and a little pale awning, a bicycle and a few outdoor stools. Fresh quiet leafy atmosphere and yellow ginkgo foliage. No big monument, no modern tower, no European cathedral. All signs empty."
+    },
+    {
+      "name": "雍和宫",
+      "time": "12:55",
+      "minutes": 70,
+      "walk_after": 10,
+      "detail": "黄瓦红墙 · 宫殿式古建",
+      "art": "Yonghegong Lama Temple: a recognizably grand axial palace-temple grouping, richly detailed yellow-glazed upturned roofs, vermilion walls and pillars, green and blue painted bracket sets, several successive halls with the taller Wanfu Pavilion behind. One restrained decorative gateway near front. Traditional Han and Tibetan palace atmosphere, accurate layered yellow roof shapes, not a generic gray-roof hutong temple."
+    },
+    {
+      "name": "孔庙国子监",
+      "time": "14:15",
+      "minutes": 40,
+      "walk_after": 15,
+      "detail": "琉璃牌坊 · 古柏与书香",
+      "art": "Confucius Temple and Imperial College street: foreground the distinctive Beijing Guozijian glazed ceremonial archway, three openings, yellow glazed rooflets and glazed pale ornamental pillars with blue-green detailing; behind it a calm scholarly courtyard, ancient cypress trees and gray perimeter walls. A small inset-depth glimpse of the Biyong hall: square pavilion with yellow double-eave pyramidal roof, white stone bridges over a circular water ring. Keep the glazed archway the main identifiable feature, not another Lama Temple complex."
+    },
+    {
+      "name": "方家胡同",
+      "time": "15:10",
+      "minutes": 50,
+      "walk_after": 0,
+      "detail": "旧院落更新 · 文创小空间",
+      "art": "Fangjia Hutong: a gray-brick old courtyard entrance opening to an understated adaptive-reuse arts courtyard with a small red-brick former industrial workshop, large simple steel-framed windows, gray tiled walls and a few planted trees. A quiet local creative compound, not a palace. Distinguish it from Wudaoying by the modest red-brick workshop and the deeper courtyard. No painted number or shop lettering."
+    }
+  ]
+}

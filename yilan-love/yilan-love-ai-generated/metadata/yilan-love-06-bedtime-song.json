@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-love-06-bedtime-song.png",
+  "refined_prompt": "../prompts/yilan-love-06-bedtime-song.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-love",
+  "series_number": 6,
+  "art_direction": "月光下，父亲在床边安抚熟睡的女儿。",
+  "sha256": "9fac7daf3960420c302e0be03bafe98c03a2553c9d4956452e816159ceddd9e4",
+  "native_sha256": "9fac7daf3960420c302e0be03bafe98c03a2553c9d4956452e816159ceddd9e4",
+  "prompt_sha256": "ed83c80e2de048383a35a8e56ac697299bc4ee8487bf04a58481f4d78a9bd26b",
+  "created_at_utc": "2026-11-12T01:38:10.947544+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

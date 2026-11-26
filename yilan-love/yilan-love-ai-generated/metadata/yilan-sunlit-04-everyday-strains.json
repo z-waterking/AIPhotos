@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-sunlit-04-everyday-strains.png",
+  "refined_prompt": "../prompts/yilan-sunlit-04-everyday-strains.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-sunlit",
+  "series_number": 4,
+  "art_direction": "他收拾厨房，她和朋友在客厅打麻将，孩子在旁边玩耍。",
+  "sha256": "5e15cab5efd4d5c91af632d42e93e17d4b4d27a8abce2006e14785489ca995fa",
+  "native_sha256": "5e15cab5efd4d5c91af632d42e93e17d4b4d27a8abce2006e14785489ca995fa",
+  "prompt_sha256": "329b3e02b470e139cc87773e31efbe0b66412ecda05afeb0fc1dae69fd6ec171",
+  "created_at_utc": "2026-11-12T02:07:28.418500+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

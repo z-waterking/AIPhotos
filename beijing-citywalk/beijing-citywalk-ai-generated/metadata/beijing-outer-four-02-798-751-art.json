@@ -1,0 +1,658 @@
+{
+  "output": "../beijing-outer-four-02-798-751-art.png",
+  "refined_prompt": "../prompts/beijing-outer-four-02-798-751-art.txt",
+  "source_prompt": "../prompts/beijing-outer-four-art-direction.txt",
+  "created_at": "2026-10-29T03:41:30.107165+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "output_format": "png",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-outer-four",
+  "series_number": 2,
+  "title": "798与751工业艺术",
+  "sha256": "04799b12f2e1a97b24e0a7ed35abe9bf32eb5b80b76842f33fe42fecbd6a0f10",
+  "native_sha256": "062c08f2c0bfbed4e023b23a109e3e944d69c401f1944abdedc21b821a36b3e6",
+  "prompt_sha256": "f84233632cd94f28dc3f444d76e78d6cf60ef21854744f77c7909ded28ae4ba1",
+  "source_prompt_sha256": "5ef1835ed9486235c1ce6fef18348ec729197019c9c70f45ed7f79e4eaadf689",
+  "file_size_bytes": 867242,
+  "route": {
+    "number": 2,
+    "stem": "beijing-outer-four-02-798-751-art",
+    "title": "798与751工业艺术",
+    "ring_label": "东北四环外",
+    "bbox": [
+      116.477,
+      39.978,
+      116.5,
+      39.99
+    ],
+    "distance": "约3–4公里",
+    "metro_start": "12号线 高家园",
+    "metro_end": "12号线 高家园",
+    "start_note": "UCCA外集合；地铁步行接驳另计",
+    "caution": "建议周二至周日；展览另购票，广场可能因活动调整",
+    "stops": [
+      {
+        "name": "UCCA尤伦斯",
+        "lon": 116.489186,
+        "lat": 39.9827566,
+        "osm": "node/5930548986",
+        "source": "https://www.openstreetmap.org/node/5930548986",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "UCCA Beijing exterior in the 798 Art District: reuse of a 1950s East German-designed industrial factory, long low gray concrete and weathered RED BRICK factory halls, tall steel-grid industrial windows, and a refined modern glass visitor entrance under a broad flat overhang. Keep the industrial sawtooth/arched factory-roof heritage visible behind the entrance, human-scale quiet paved courtyard. The Beijing factory museum, NOT the seaside UCCA Dune or ceramic UCCA Clay. No readable sign, no replica of any exhibited artwork.",
+        "minutes": 75,
+        "walk_after": 10,
+        "detail": "旧厂房美术馆 · 当代艺术",
+        "time": "10:00"
+      },
+      {
+        "name": "798艺术中心",
+        "lon": 116.4897086,
+        "lat": 39.9837018,
+        "osm": "way/1131425418",
+        "source": "https://www.openstreetmap.org/way/1131425418",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "798 Art Center exterior: distinctive old Bauhaus-influenced red-brick and gray industrial factory with a rhythmic profile of north-facing SAWTOOTH SHED ROOFS and tall many-paned steel-framed windows, a broad high-bay hall and weathered brick walls, modest trees and paved pedestrian lane. Show the architectural roof rhythm as the main identity, no European pitched church roof, no generic skyscraper, no copied murals or sculptures.",
+        "minutes": 75,
+        "walk_after": 10,
+        "detail": "锯齿形屋顶 · 午餐逛店",
+        "time": "11:25"
+      },
+      {
+        "name": "798 CUBE",
+        "lon": 116.4887999,
+        "lat": 39.9857536,
+        "osm": "node/11530187637",
+        "source": "https://www.openstreetmap.org/node/11530187637",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "798 CUBE art institution designed by Zhu Pei: a tall thin FLAT RAW LIGHT-GRAY CONCRETE SCREEN WALL with narrow horizontal slit windows and visible formwork joints, a generous rectangular opening at the left leading into a contained courtyard, warm reddish old factory brick beside it. The concrete screen stands along a simple pedestrian lane with low rounded stone bollards. Sophisticated severe concrete planes and industrial heritage, NOT a white cubic tower, NOT a glass skyscraper. No sign text.",
+        "minutes": 90,
+        "walk_after": 15,
+        "detail": "清水混凝土 · 科技艺术",
+        "time": "12:50"
+      },
+      {
+        "name": "751车站广场",
+        "lon": 116.4916414,
+        "lat": 39.9820181,
+        "osm": "way/1187799456",
+        "source": "https://www.openstreetmap.org/way/1187799456",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "751 Station Square, Beijing former gasworks arts park: a preserved stationary black vintage STEAM LOCOMOTIVE with large dark wheels and restrained red accents, on a short real rail segment beside low red-brick industrial sheds; rail lines run diagonally through the paved square, a little signal or platform fixture. A calm repurposed industrial public space, recognizable locomotive focal point, no moving train, no accident, no invented monumental station hall, no lettering.",
+        "minutes": 45,
+        "walk_after": 10,
+        "detail": "老火车头 · 铁轨广场",
+        "time": "14:35"
+      },
+      {
+        "name": "751炉区广场",
+        "lon": 116.493272,
+        "lat": 39.9819064,
+        "osm": "node/11523967377",
+        "source": "https://www.openstreetmap.org/node/11523967377",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "751 Furnace Area Square in Beijing: a retained tall rust-red/orange steel industrial GASWORKS FURNACE structure with a dense framework of open metal columns, horizontal pipes, stairways and catwalks, thick cylindrical furnace volumes and a high narrow chimney stack, all now a peaceful adaptive-reuse design district. Broad paved foreground with tiny visitors for scale and a few autumn trees. Show authentic gritty former gasworks infrastructure, no active smoke or flames, no giant white gas storage balloon, no sci-fi factory. No text.",
+        "minutes": 30,
+        "walk_after": 0,
+        "detail": "钢架炉区 · 工业遗产",
+        "time": "15:30"
+      }
+    ],
+    "waypoints": [
+      {
+        "lon": 116.489186,
+        "lat": 39.98295,
+        "note": "798路 UCCA frontage, approximate public street anchor"
+      },
+      {
+        "lon": 116.4897086,
+        "lat": 39.9835,
+        "note": "798艺术中心前街; avoid routing through factory building"
+      },
+      {
+        "lon": 116.4887999,
+        "lat": 39.9856,
+        "note": "798 CUBE south courtyard approach; use public lanes"
+      },
+      {
+        "lon": 116.4912,
+        "lat": 39.98304,
+        "note": "798路 east toward751; actual road between districts"
+      },
+      {
+        "lon": 116.4916414,
+        "lat": 39.9820181,
+        "note": "751 Station Square polygon representative point"
+      },
+      {
+        "lon": 116.493272,
+        "lat": 39.9819064,
+        "note": "751 Furnace Square named point"
+      }
+    ],
+    "ring_verification": {
+      "summary": "798/751 are northeast/outside the Fourth Ring, east of Jiuxianqiao and well east/northeast of Siyuan Bridge. Fourth Ring bends southwest of these sites (北四环东路 near116.461,39.972); do not infer outside-ring status from latitude alone.",
+      "osm_ring_ways": [
+        "way/29258170",
+        "way/34150653"
+      ],
+      "source_file": "osm-ne-route-geometry.json"
+    },
+    "total_minutes": 360,
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "navigation_verified": false,
+    "coordinate_system": "EPSG:4326",
+    "source_checked_on": "2026-10-29",
+    "sources": [
+      "https://www.openstreetmap.org/node/5930548986",
+      "https://www.openstreetmap.org/way/1131425418",
+      "https://www.openstreetmap.org/node/11530187637",
+      "https://www.openstreetmap.org/way/1187799456",
+      "https://www.openstreetmap.org/node/11523967377",
+      "https://ucca.org.cn/en/about/",
+      "https://ucca.org.cn/en/visit/",
+      "https://www.798cube.com.cn/index/index/about.html",
+      "https://en.wikipedia.org/wiki/Ling_Long_Pagoda",
+      "https://en.wikipedia.org/wiki/Beijing_Olympic_Tower",
+      "https://www.openstreetmap.org/copyright"
+    ],
+    "palette": [
+      "#F35B8D",
+      "#533CAC",
+      "#E8E44E"
+    ],
+    "top_lines": [
+      "UCCA尤伦斯 → 798艺术中心 → 798 CUBE",
+      "751车站广场 → 751炉区广场"
+    ],
+    "research_record": "../prompts/beijing-outer-four-research.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        17,
+        89,
+        501,
+        478
+      ],
+      [
+        525,
+        48,
+        1010,
+        477
+      ],
+      [
+        18,
+        535,
+        498,
+        956
+      ],
+      [
+        525,
+        532,
+        1012,
+        956
+      ],
+      [
+        16,
+        1002,
+        1009,
+        1513
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        55,
+        883,
+        267,
+        1053
+      ],
+      [
+        720,
+        692,
+        912,
+        862
+      ],
+      [
+        70,
+        310,
+        264,
+        480
+      ],
+      [
+        378,
+        1040,
+        573,
+        1210
+      ],
+      [
+        685,
+        1014,
+        990,
+        1171
+      ]
+    ],
+    "landmark_labels": [
+      {
+        "stop": "UCCA尤伦斯",
+        "position": [
+          3,
+          1054
+        ],
+        "stop_number": 1,
+        "landmark_arrow": [
+          [
+            159,
+            1063
+          ],
+          [
+            415,
+            903
+          ]
+        ],
+        "pin_wgs84": [
+          116.489186,
+          39.9827566
+        ]
+      },
+      {
+        "stop": "798艺术中心",
+        "position": [
+          658,
+          863
+        ],
+        "stop_number": 2,
+        "landmark_arrow": [
+          [
+            814,
+            872
+          ],
+          [
+            445,
+            831
+          ]
+        ],
+        "pin_wgs84": [
+          116.4897086,
+          39.9837018
+        ]
+      },
+      {
+        "stop": "798 CUBE",
+        "position": [
+          10,
+          481
+        ],
+        "stop_number": 3,
+        "landmark_arrow": [
+          [
+            166,
+            490
+          ],
+          [
+            392,
+            674
+          ]
+        ],
+        "pin_wgs84": [
+          116.4887999,
+          39.9857536
+        ]
+      },
+      {
+        "stop": "751车站广场",
+        "position": [
+          318,
+          1211
+        ],
+        "stop_number": 4,
+        "landmark_arrow": [
+          [
+            474,
+            1220
+          ],
+          [
+            558,
+            959
+          ]
+        ],
+        "pin_wgs84": [
+          116.4916414,
+          39.9820181
+        ]
+      },
+      {
+        "stop": "751炉区广场",
+        "position": [
+          680,
+          1172
+        ],
+        "stop_number": 5,
+        "landmark_arrow": [
+          [
+            836,
+            1181
+          ],
+          [
+            654,
+            968
+          ]
+        ],
+        "pin_wgs84": [
+          116.493272,
+          39.9819064
+        ]
+      }
+    ],
+    "route_arrow_count": 6,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.48210333333334,
+        39.9744701811606,
+        116.49959666666665,
+        39.99457574250093
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "e1fdbc03ca8d29e4aa4703c006b01f7bd4f397b298ec21ac54dfc07c62145ad0",
+      "data_retrieved_at": "2026-10-29T03:35:11.864633+00:00",
+      "element_count": 2093,
+      "feature_counts": {
+        "landuse": 27,
+        "buildings": 541,
+        "roads": 324
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "OSM public road/path graph shortest paths between researched waypoints; gate access not live verified",
+      "route_wgs84": [
+        [
+          116.4894238,
+          39.9830086
+        ],
+        [
+          116.4894149,
+          39.9834586
+        ],
+        [
+          116.4893992,
+          39.983935
+        ],
+        [
+          116.4893983,
+          39.9840486
+        ],
+        [
+          116.4893962,
+          39.9841965
+        ],
+        [
+          116.489385,
+          39.9845906
+        ],
+        [
+          116.4893727,
+          39.9849883
+        ],
+        [
+          116.4888365,
+          39.9849833
+        ],
+        [
+          116.4888334,
+          39.9850658
+        ],
+        [
+          116.4888284,
+          39.9852005
+        ],
+        [
+          116.4888246,
+          39.9852636
+        ],
+        [
+          116.4887326,
+          39.9852637
+        ],
+        [
+          116.4887302,
+          39.9857088
+        ],
+        [
+          116.4889009,
+          39.9857095
+        ],
+        [
+          116.490294,
+          39.9857156
+        ],
+        [
+          116.4903039,
+          39.9850496
+        ],
+        [
+          116.4903551,
+          39.984996
+        ],
+        [
+          116.4903557,
+          39.9849529
+        ],
+        [
+          116.4903839,
+          39.9830191
+        ],
+        [
+          116.4908824,
+          39.9830245
+        ],
+        [
+          116.4909608,
+          39.9830254
+        ],
+        [
+          116.4917082,
+          39.9830336
+        ],
+        [
+          116.4918247,
+          39.9830348
+        ],
+        [
+          116.4918278,
+          39.9825621
+        ],
+        [
+          116.4918665,
+          39.9825535
+        ],
+        [
+          116.4918665,
+          39.9825358
+        ],
+        [
+          116.4918663,
+          39.982218
+        ],
+        [
+          116.4918636,
+          39.982218
+        ],
+        [
+          116.4918663,
+          39.982218
+        ],
+        [
+          116.492173,
+          39.9822224
+        ],
+        [
+          116.4921734,
+          39.9822022
+        ],
+        [
+          116.4929978,
+          39.9822107
+        ],
+        [
+          116.4930963,
+          39.9821672
+        ],
+        [
+          116.4930727,
+          39.9821387
+        ],
+        [
+          116.4930796,
+          39.9817292
+        ],
+        [
+          116.4932496,
+          39.9817328
+        ]
+      ],
+      "route_way_ids": [
+        57885666,
+        115536558,
+        1240949215,
+        442378341,
+        1240343916,
+        1240343915,
+        442378342,
+        33656210,
+        57885665,
+        115536559,
+        1193918120,
+        497400275,
+        497400291,
+        497400304,
+        1187799450,
+        1187799448
+      ],
+      "true_location_pins": [
+        {
+          "name": "UCCA尤伦斯",
+          "lon": 116.489186,
+          "lat": 39.9827566,
+          "osm": "node/5930548986",
+          "source": "https://www.openstreetmap.org/node/5930548986",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "UCCA Beijing exterior in the 798 Art District: reuse of a 1950s East German-designed industrial factory, long low gray concrete and weathered RED BRICK factory halls, tall steel-grid industrial windows, and a refined modern glass visitor entrance under a broad flat overhang. Keep the industrial sawtooth/arched factory-roof heritage visible behind the entrance, human-scale quiet paved courtyard. The Beijing factory museum, NOT the seaside UCCA Dune or ceramic UCCA Clay. No readable sign, no replica of any exhibited artwork.",
+          "minutes": 75,
+          "walk_after": 10,
+          "detail": "旧厂房美术馆 · 当代艺术",
+          "time": "10:00"
+        },
+        {
+          "name": "798艺术中心",
+          "lon": 116.4897086,
+          "lat": 39.9837018,
+          "osm": "way/1131425418",
+          "source": "https://www.openstreetmap.org/way/1131425418",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "798 Art Center exterior: distinctive old Bauhaus-influenced red-brick and gray industrial factory with a rhythmic profile of north-facing SAWTOOTH SHED ROOFS and tall many-paned steel-framed windows, a broad high-bay hall and weathered brick walls, modest trees and paved pedestrian lane. Show the architectural roof rhythm as the main identity, no European pitched church roof, no generic skyscraper, no copied murals or sculptures.",
+          "minutes": 75,
+          "walk_after": 10,
+          "detail": "锯齿形屋顶 · 午餐逛店",
+          "time": "11:25"
+        },
+        {
+          "name": "798 CUBE",
+          "lon": 116.4887999,
+          "lat": 39.9857536,
+          "osm": "node/11530187637",
+          "source": "https://www.openstreetmap.org/node/11530187637",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "798 CUBE art institution designed by Zhu Pei: a tall thin FLAT RAW LIGHT-GRAY CONCRETE SCREEN WALL with narrow horizontal slit windows and visible formwork joints, a generous rectangular opening at the left leading into a contained courtyard, warm reddish old factory brick beside it. The concrete screen stands along a simple pedestrian lane with low rounded stone bollards. Sophisticated severe concrete planes and industrial heritage, NOT a white cubic tower, NOT a glass skyscraper. No sign text.",
+          "minutes": 90,
+          "walk_after": 15,
+          "detail": "清水混凝土 · 科技艺术",
+          "time": "12:50"
+        },
+        {
+          "name": "751车站广场",
+          "lon": 116.4916414,
+          "lat": 39.9820181,
+          "osm": "way/1187799456",
+          "source": "https://www.openstreetmap.org/way/1187799456",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "751 Station Square, Beijing former gasworks arts park: a preserved stationary black vintage STEAM LOCOMOTIVE with large dark wheels and restrained red accents, on a short real rail segment beside low red-brick industrial sheds; rail lines run diagonally through the paved square, a little signal or platform fixture. A calm repurposed industrial public space, recognizable locomotive focal point, no moving train, no accident, no invented monumental station hall, no lettering.",
+          "minutes": 45,
+          "walk_after": 10,
+          "detail": "老火车头 · 铁轨广场",
+          "time": "14:35"
+        },
+        {
+          "name": "751炉区广场",
+          "lon": 116.493272,
+          "lat": 39.9819064,
+          "osm": "node/11523967377",
+          "source": "https://www.openstreetmap.org/node/11523967377",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "751 Furnace Area Square in Beijing: a retained tall rust-red/orange steel industrial GASWORKS FURNACE structure with a dense framework of open metal columns, horizontal pipes, stairways and catwalks, thick cylindrical furnace volumes and a high narrow chimney stack, all now a peaceful adaptive-reuse design district. Broad paved foreground with tiny visitors for scale and a few autumn trees. Show authentic gritty former gasworks infrastructure, no active smoke or flames, no giant white gas storage balloon, no sci-fi factory. No text.",
+          "minutes": 30,
+          "walk_after": 0,
+          "detail": "钢架炉区 · 工业遗产",
+          "time": "15:30"
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 200
+    },
+    "edge_blending": "contiguous white-paper removal plus a small luminous edge"
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheets",
+    "checked": [
+      "Five beyond-Fourth-Ring routes with sourced coordinates",
+      "Bold saturated palettes and prominent 四环外 heading",
+      "True OSM basemap, north arrow, scale, route and landmark arrows",
+      "Five recognizable detailed landmarks per poster",
+      "Readable local Chinese typography",
+      "Native artwork retained and zero image uploads"
+    ]
+  },
+  "art_direction": {
+    "style": "Bold saturated architectural travel illustration with locally typeset Chinese labels",
+    "composition": "Full-canvas north-up OSM map, prominent Beijing beyond-Fourth-Ring headline, five landmark callouts, location pins and directional arrows",
+    "route_focus": "798与751工业艺术",
+    "geographic_emphasis": "东北四环外",
+    "reference_policy": "Text-only landmark artwork; no binary model references"
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

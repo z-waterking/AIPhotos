@@ -1,0 +1,60 @@
+{
+  "number": 4,
+  "stem": "beijing-autumn-citywalk-04-white-pagoda-xicheng",
+  "title": "白塔慢生活",
+  "background": "#F5F7F8",
+  "accent": "#738B9A",
+  "secondary": "#CBAD70",
+  "top_lines": [
+    "白塔寺 → 历代帝王庙 → 广济寺",
+    "护国寺街 → 梅兰芳纪念馆"
+  ],
+  "distance": "约5–6公里",
+  "metro_start": "2号线 阜成门",
+  "metro_end": "4/6/19号线 平安里",
+  "start_note": "白塔寺南门街区",
+  "lunch": "13:25 护国寺午餐",
+  "caution": "街巷与建筑外观为主；入馆请查开放预约",
+  "stops": [
+    {
+      "name": "白塔寺",
+      "time": "10:00",
+      "minutes": 55,
+      "walk_after": 10,
+      "detail": "妙应寺白塔 · 灰瓦映塔影",
+      "art": "Baitasi, Miaoying Temple White Dagoba: the enormous distinctive Nepalese-style white inverted-bowl stupa with a broad terraced lower base, a RED band near its upper base, a tall tapering multi-ring spire and broad bronze umbrella crown. It rises behind a foreground cluster of low gray Beijing hutong roofs and red temple walls. The white tower dominates and is recognizably Baitasi rather than Beihai on an island. No lake in this scene."
+    },
+    {
+      "name": "历代帝王庙",
+      "time": "11:05",
+      "minutes": 55,
+      "walk_after": 15,
+      "detail": "九间大殿 · 黄瓦重檐",
+      "art": "Temple of Successive Emperors, Lidai Diwang Miao: the grand Jingde Chongsheng Hall, exceptionally WIDE NINE-BAY imperial hall with a broad yellow-glazed DOUBLE-EAVE HIP roof, red doors and columns, richly painted green-blue brackets, white stone terrace and straight steps. Emphasize its horizontal width and ceremonial proportions. Mature cypress trees frame it. Not a tall pagoda or a small square pavilion."
+    },
+    {
+      "name": "广济寺",
+      "time": "12:15",
+      "minutes": 40,
+      "walk_after": 30,
+      "detail": "灰瓦红墙 · 古寺静院",
+      "art": "Guangji Temple in Xicheng: a modest quiet Buddhist courtyard with traditional GRAY-tiled halls, red masonry boundary walls, dark timber doors, white-gray stone steps and one old leafy tree. Unadorned respectful traditional Buddhist temple architecture, lower and much quieter than the grand yellow-roof imperial hall preceding it. No giant statue, no tall pagoda or yellow palace roof."
+    },
+    {
+      "name": "护国寺街",
+      "time": "13:25",
+      "minutes": 100,
+      "walk_after": 5,
+      "detail": "京味小吃 · 胡同慢午餐",
+      "art": "Huguosi Street: a friendly low gray-brick Beijing snack street, charcoal tiled roof shops, red-brown wooden doorframes, a simple traditional snack counter and tiny bamboo steamer baskets beside a tea table. A few restrained red hanging sign-shaped boards WITHOUT letters. This is the living food street, DO NOT invent a large Huguosi temple hall because the old temple is largely gone."
+    },
+    {
+      "name": "梅兰芳纪念馆",
+      "time": "15:10",
+      "minutes": 50,
+      "walk_after": 0,
+      "detail": "灰砖四合院 · 京剧旧居",
+      "art": "Mei Lanfang Memorial Museum at Huguosi Street: a humble intact Beijing siheyuan courtyard residence, low gray-brick walls and gray-tiled roof, simple courtyard entrance with RED lacquered double doors, leafy tree canopy inside. A very small bronze bust on a low plinth may be visible through the entrance. It is a quiet home, not a lavish theater, no opera masks floating in the sky, no huge painted gate."
+    }
+  ]
+}

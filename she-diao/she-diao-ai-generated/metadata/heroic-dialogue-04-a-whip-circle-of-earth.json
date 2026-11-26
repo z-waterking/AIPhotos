@@ -1,0 +1,42 @@
+{
+  "output": "../heroic-dialogue-04-a-whip-circle-of-earth.png",
+  "refined_prompt": "../prompts/heroic-dialogue-04-a-whip-circle-of-earth.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-dialogue",
+  "series_number": 4,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A poetic medium-close scene from slightly below: the Khan remains mounted on his black horse and lifts his riding whip by hand in a small looping gesture to illustrate a small area, the long whip line loosely curving through air; his elderly contemplative face and the motion of the hand must remain visible and plausible, not a glowing circle or oversized object. Guo Jing watches him from the left on his bay horse. Through their quiet gesture the vast steppe continues all the way to the distant hills, juxtaposing a small human motion with the boundless land.",
+  "visible_description": "大汗以马鞭画圈，辽阔天地化为身后方寸。",
+  "display_title": "不过一尺见方",
+  "poster_text": "大汗抬起马鞭，轻轻圈示出一小块地方。",
+  "text_is_original_paraphrase": true,
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "native_sha256": "651ebeb1039f9e86ca9eb4e9591d8437f12b29221872dc6d9aef479e368a4aa5",
+  "sha256": "55ecaa928e9518323f0761004ae7f3126e0408a398101603332bf98f676d3abc",
+  "prompt_sha256": "e21e38778d5ddc6f289cf8f2e25cffaaa88bdcd092ff4f2112397e8926cddb1f",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

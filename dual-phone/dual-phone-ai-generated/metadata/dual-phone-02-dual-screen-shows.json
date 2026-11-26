@@ -1,0 +1,43 @@
+{
+  "output": "../dual-phone-02-dual-screen-shows.png",
+  "refined_prompt": "../prompts/dual-phone-02-dual-screen-shows.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "dual-phone",
+  "series_number": 2,
+  "art_direction": "An inviting couch on a quiet evening. A fictional adult relaxes in the background while two independent normal phones stand side by side in the foreground on a small side table, both screen faces turned toward the viewer and recognizably separate. One shows a tiny ORIGINAL cartoon landscape with a cheerful orange sun, the other a DIFFERENT ORIGINAL cartoon of a blue cat in a green garden. Both screens are visual only: no text, labels, controls, brand or existing copyrighted characters. Silver and deep green cases. Warm lamplight, quiet lived-in room, clear visual hierarchy, light uncluttered lower area.",
+  "poster_copy": {
+    "title": "两块屏幕，一起追剧",
+    "subtitle": "一台看一部，快乐不打架",
+    "small": ""
+  },
+  "sha256": "f52322282d533dc34d12d93c48d7555043d24c0642f22486b75a19c49669aa93",
+  "native_sha256": "090d3f3dadee9fc2f141cf1f23a34af08a804d7fb3214683aaf71809e2503d2a",
+  "prompt_sha256": "6d5768846fba55703297cf568a70a14af877f03344b3871f2172f1fe397fe0bd",
+  "created_at_utc": "2026-11-08T04:46:55.475929+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "gradient_start_y": 970,
+    "gradient_max_alpha": 235
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

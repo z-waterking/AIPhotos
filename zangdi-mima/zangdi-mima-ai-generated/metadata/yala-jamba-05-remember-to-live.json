@@ -1,0 +1,42 @@
+{
+  "output": "../yala-jamba-05-remember-to-live.png",
+  "refined_prompt": "../prompts/yala-jamba-05-remember-to-live.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "yala-jamba",
+  "series_number": 5,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A quiet face-level close two-shot, compassionate elderly Master Yala reclines and smiles with his eyes open toward Qiangba; Qiangba kneels very close and listens, deeply moved, holding the single rolled scroll securely in his own hands near his chest. Both faces visible, warm amber light crossing cool shadow, sincere expression, no theatrical gesture and no injuries. No letters, no readable marks on scroll.",
+  "visible_description": "法师微笑着叮嘱强巴，强巴紧握着经卷。",
+  "display_title": "活着，要努力",
+  "poster_text": "强巴少爷，活着……要努力……",
+  "text_is_original_paraphrase": false,
+  "source_work": "何马《藏地密码10》",
+  "source_section": "《以命相搏》",
+  "source_url": "https://luoxiadushu.com/zangdi/67035.htm",
+  "native_sha256": "ff1340df4cabb5e0b88de9be55b9c03ecf064eb9e6915731b6e3e82a7700d9d5",
+  "sha256": "9145205d3151bf2fd0fac07b4f951dec8a4bf0bb60d08384fa9bc711f75ba910",
+  "prompt_sha256": "d7a5a696f8a7adf3c5d19bbbd58111e7dc22c0c48ecaa4eaf1b8f4e8045003f4",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

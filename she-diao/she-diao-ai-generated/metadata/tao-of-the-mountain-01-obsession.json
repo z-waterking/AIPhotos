@@ -1,0 +1,33 @@
+{
+  "output": "../tao-of-the-mountain-01-obsession.png",
+  "refined_prompt": "../prompts/tao-of-the-mountain-01-obsession.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "tao-of-the-mountain",
+  "series_number": 1,
+  "title": "晨练",
+  "source_work": "金庸《射雕英雄传》",
+  "art_direction": "At early morning on a simple earthen mountain courtyard, the old Taoist practices a gentle unarmed movement alone, fully clothed and with feet close to the earth. Repeated overlapping footprints on damp ground form a modest circular path around the place where he practices. His concentration is sincere rather than aggressive. Distant trees and mist are quiet; no other people or dramatic supernatural effects. Wide scene, clear silhouette, blue-gray and warm earth tones.",
+  "sha256": "4cf72dd3d0ac564543eb3da69b9a3fbc4efc551538bdd376f4d5752cb9b888e5",
+  "native_sha256": "4cf72dd3d0ac564543eb3da69b9a3fbc4efc551538bdd376f4d5752cb9b888e5",
+  "prompt_sha256": "d3892b453100fb9ee25a4c08a31478354b8b3fc5d4edb103ef9c9550d85b1f8b",
+  "created_at_utc": "2026-11-11T02:11:57.163890+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

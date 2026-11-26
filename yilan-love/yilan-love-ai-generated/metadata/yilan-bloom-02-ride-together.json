@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-bloom-02-ride-together.png",
+  "refined_prompt": "../prompts/yilan-bloom-02-ride-together.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-bloom",
+  "series_number": 2,
+  "art_direction": "两人骑车穿过开满花的街道。",
+  "sha256": "c3cd3abe681d7fc4ba14806592cbb412024158021f942116d154e4c2b6eb6146",
+  "native_sha256": "c3cd3abe681d7fc4ba14806592cbb412024158021f942116d154e4c2b6eb6146",
+  "prompt_sha256": "7aabe55fa719411d024d324ab1a9121ea365b333c354986b018e75ad0f6437c5",
+  "created_at_utc": "2026-11-12T03:17:09.275038+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-05-bone-gate-tempest.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "骸骨巨门贯穿风暴中心，宿傩位于左上红色漩涡，五条悟从右下蓝色空间浪潮中迎击。",
+  "composition_variation": "骨门中轴与红蓝旋风构成强烈斜向动势。"
+}

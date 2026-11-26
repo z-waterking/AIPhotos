@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-love-02-walking-home.png",
+  "refined_prompt": "../prompts/yilan-love-02-walking-home.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-love",
+  "series_number": 2,
+  "art_direction": "两人买菜后结伴回家，一路闲聊说笑。",
+  "sha256": "e2844c853195d33fb2d134fc1a043c4acc8641ae396fd15512ebab9b68557e10",
+  "native_sha256": "e2844c853195d33fb2d134fc1a043c4acc8641ae396fd15512ebab9b68557e10",
+  "prompt_sha256": "c5310abe3bf991f70fb27848ca9d5325b50c033afaec8e5ab01b34f69588d506",
+  "created_at_utc": "2026-11-12T01:36:35.462333+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

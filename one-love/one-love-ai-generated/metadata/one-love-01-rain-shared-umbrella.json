@@ -1,0 +1,56 @@
+{
+  "output": "../one-love-01-rain-shared-umbrella.png",
+  "source_prompt": "../prompts/one-love-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-01-rain-shared-umbrella.txt",
+  "created_at": "2026-10-27T02:28:06.144409+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love",
+  "series_number": 1,
+  "title": "把伞偏向你",
+  "art_direction": "An intimate rainy evening at a quiet residential street corner in Japan. The adult man, on the left in a slate-blue casual coat, holds a single ochre umbrella slightly toward the adult woman on the right, sheltering her while a few rain droplets darken his own outer shoulder. She wears an ivory cardigan and looks up at him with a small spontaneous smile; he meets her gaze tenderly. A candid waist-up three-quarter view with both complete heads, shoulders, umbrella handle and naturally shaped hands clearly readable. One umbrella only. Their heads and the small caring gesture are the focal point, faces large enough to read. A warmly lit unmarked neighborhood bakery window behind them, softly blurred amber reflections on blue-gray wet paving, just a few rain streaks beyond the umbrella. The canopy makes a beautiful diagonal in the upper half. Avoid excessive rain and excessive bokeh. Composition grounded in real shared space, not a posed fashion photograph.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "use": "Abstract themes of lasting commitment and everyday companionship; original composition and fictional characters, no lyrics rendered."
+  },
+  "sha256": "f2ac5ccc7b0d79b405cd6bb9a9de2a6486ba7c19b4415562da5debaea14c15ae",
+  "native_sha256": "f2ac5ccc7b0d79b405cd6bb9a9de2a6486ba7c19b4415562da5debaea14c15ae",
+  "prompt_sha256": "757a6dbb9cad94a7f28eaa93d8bd4736e8b54a3570014141fbc1bb2a48cbca15",
+  "source_prompt_sha256": "6639a6730638f1ef27634f01523b6b00019de21b6fce4a8b02448fe00236a79a",
+  "file_size_bytes": 3101244,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "1280x936",
+    "checked": [
+      "Four distinct original compositions",
+      "Readable caring gestures and adult characters",
+      "Natural integration and plausible visible anatomy",
+      "No visible text, logo or watermark",
+      "Native PNG unchanged"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-12-final-judgment.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "宿傩高踞神龛冠部，五条悟立于右下巨坑，赤红仪式环与蓝色空间环在城市上空互锁。",
+  "composition_variation": "终局式宏大远景，以建筑中轴衬托人物斜向对峙。"
+}

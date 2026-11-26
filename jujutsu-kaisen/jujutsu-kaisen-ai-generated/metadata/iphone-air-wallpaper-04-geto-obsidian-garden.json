@@ -1,0 +1,40 @@
+{
+  "output": "../iphone-air-wallpaper-04-geto-obsidian-garden.png",
+  "refined_prompt": "../prompts/iphone-air-wallpaper-04-geto-obsidian-garden.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "Minimal obsidian and muted-gold ink illustration, quiet ginkgo garden.",
+  "composition_variation": "Suguru Geto, adult anime man with recognizable long jet-black hair half tied in high bun, one curved loose forelock framing face, narrow calm dark eyes, round dark ear plugs, NO forehead stitches. Fully clothed dark flowing traditional robes and muted mustard-gold stole. Quiet waist-up three-quarter portrait, relaxed shoulders, serene faint closed-mouth smile, hands in sleeves. Sophisticated ink-and-gouache on charcoal black, controlled edges, muted gold light grazing cheek and hair. Single ginkgo branch and sparse golden leaves at lower shoulder and bottom only, faint stone garden behind waist. Upper 30 percent unmarked soft black. Important details inside central crop. No creatures, symbols, writing or seals. High-end dark companion to ivory Gojo.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T18:27:08.754008+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "e5a14046983f14cef15d58531a4d970c185fce1b05b97b0ec0eb94517759179a",
+    "note": "Native 1024x1536 PNG preserved in this Codex task artifact directory, native-wallpapers; final wallpaper is center-cropped and resized, not generated natively at 1260x2736."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "group": "B",
+    "title": "夏油杰 · 墨金庭院",
+    "clock_negative_space": "upper 28 percent",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed 1200x1080 contact sheet inspected: one recognizable requested character; clear upper clock area; no text, UI, unwanted people or obvious anatomy defects; hands in pockets or sleeves."
+  },
+  "visible_description": "夏油杰的长发、深色衣袍和金色披肩融入墨色庭院，银杏叶与暖光点亮下方轮廓。"
+}

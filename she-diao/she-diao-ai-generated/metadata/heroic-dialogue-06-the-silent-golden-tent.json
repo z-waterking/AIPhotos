@@ -1,0 +1,42 @@
+{
+  "output": "../heroic-dialogue-06-the-silent-golden-tent.png",
+  "refined_prompt": "../prompts/heroic-dialogue-06-the-silent-golden-tent.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-dialogue",
+  "series_number": 6,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A quiet night view from the threshold of a large Mongolian golden tent. Inside in warm low lamplight, an empty folded dark-indigo cloak, a resting riding whip and an unoccupied seat convey the Khan has passed without showing a body, a deathbed or medical scene. Through the tent opening, the dark blue grassland stretches to the horizon; no human present. A subtle deep blue and golden contrast, reflective restrained visual epilogue. Do not imply anyone witnessed the death.",
+  "visible_description": "夜色中寂静的金帐与旷野，留下一句未尽的追问。",
+  "display_title": "英雄余音",
+  "poster_text": "当夜，金帐归于寂静；英雄之问，留在风中。",
+  "text_is_original_paraphrase": true,
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "native_sha256": "d811f1f1a6a57826e61778256be6efb42751e4eab9263e251ee26d59801793af",
+  "sha256": "6b1f7d1a61a05a190066202a2259d49ae234957b222fca822fedc6357aa5a001",
+  "prompt_sha256": "ec54e0b2129dd23950a50a2c094ace014bf91e07ecd6955e5d21ce619eb59d85",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

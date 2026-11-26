@@ -1,0 +1,899 @@
+{
+  "output": "../beijing-outer-four-01-olympic-north.png",
+  "refined_prompt": "../prompts/beijing-outer-four-01-olympic-north.txt",
+  "source_prompt": "../prompts/beijing-outer-four-art-direction.txt",
+  "created_at": "2026-10-29T03:41:29.403782+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "output_format": "png",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-outer-four",
+  "series_number": 1,
+  "title": "奥运地标与金色森林",
+  "sha256": "d4ef1da52b4380f337ed8998a6dd1d7cc21f74d2442265c24b4974ecbb6b9aa6",
+  "native_sha256": "a22282a8bd589e67be7a71ced18e7305596ec8a5aec5078d295568d7dd0e0326",
+  "prompt_sha256": "6f9c25c451ad0d9a4cf9fee72907230079585da1c0545f5a77133a5fa71d3081",
+  "source_prompt_sha256": "5ef1835ed9486235c1ce6fef18348ec729197019c9c70f45ed7f79e4eaadf689",
+  "file_size_bytes": 1258231,
+  "route": {
+    "number": 1,
+    "stem": "beijing-outer-four-01-olympic-north",
+    "title": "奥运地标与金色森林",
+    "ring_label": "北四环外",
+    "bbox": [
+      116.375,
+      39.983,
+      116.4,
+      40.018
+    ],
+    "distance": "约6–8公里",
+    "metro_start": "8号线 奥体中心",
+    "metro_end": "8号线 森林公园南门",
+    "start_note": "鸟巢外广场集合，地铁接驳另计",
+    "caution": "场馆与塔按外观安排；入内请查票务和活动限制",
+    "stops": [
+      {
+        "name": "鸟巢",
+        "lon": 116.3902864,
+        "lat": 39.9914041,
+        "osm": "way/152301551",
+        "source": "https://www.openstreetmap.org/way/152301551",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "Beijing National Stadium, Bird Nest: broad oval stadium bowl with a complex open interwoven silver-gray steel lattice wrapping its exterior, irregular diagonal structural ribbons and an open central roof aperture; red inner stadium wall may be visible. Low broad proportions and a large paved plaza. A faithful recognizable Bird Nest exterior, not a woven basket with a handle, no sealed dome, no text or logos.",
+        "minutes": 45,
+        "walk_after": 10,
+        "detail": "钢网鸟巢 · 奥运广场",
+        "time": "10:00"
+      },
+      {
+        "name": "水立方",
+        "lon": 116.3841726,
+        "lat": 39.9915785,
+        "osm": "way/29201257",
+        "source": "https://www.openstreetmap.org/way/29201257",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "Beijing National Aquatics Center, Water Cube: a low broad rectangular cuboid clad in translucent pale-blue ETFE bubble cushions with irregular rounded-cell polygon outlines; flat rectangular roof and distinctive blue soap-bubble facade; wide paved forecourt. Do not turn into a swimming pool seen from above or a blue spherical dome. No brand or text.",
+        "minutes": 55,
+        "walk_after": 15,
+        "detail": "蓝色气泡 · 双奥场馆",
+        "time": "10:55"
+      },
+      {
+        "name": "玲珑塔",
+        "lon": 116.3877635,
+        "lat": 39.9959678,
+        "osm": "way/161460527",
+        "source": "https://www.openstreetmap.org/way/161460527",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "Ling Long Olympic Broadcast Tower: a slender permanent three-sided steel and glass tower with THREE upright support ribs at the corners and SIX separated glass-walled triangular pods stacked vertically with open-air gaps; crisp triangular platforms, metallic silver structure, 128-metre tower proportions. It is NOT the cluster of five circular observation towers. Peaceful exterior, no text or Olympic ring logo.",
+        "minutes": 70,
+        "walk_after": 30,
+        "detail": "三角玻璃舱 · 中轴午餐",
+        "time": "12:05"
+      },
+      {
+        "name": "奥林匹克塔",
+        "lon": 116.387873,
+        "lat": 40.0065506,
+        "osm": "way/962658730",
+        "source": "https://www.openstreetmap.org/way/962658730",
+        "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+        "art_english": "Beijing Olympic Tower: FIVE slender connected observation towers of staggered heights grouped tightly together, each topped by a wide circular disk-shaped observation crown; highest tower noticeably taller, silver-gray structural trunks and dark glazing beneath the disk rims, sculptural five-tree skyline. Not one needle tower, not the nearby triangular-pod Ling Long broadcast tower. No logos or text.",
+        "minutes": 45,
+        "walk_after": 15,
+        "detail": "五塔树冠 · 城市天际线",
+        "time": "13:45"
+      },
+      {
+        "name": "奥森南园",
+        "lon": 116.3862938,
+        "lat": 40.0098628,
+        "osm": "way/270377155",
+        "source": "https://www.openstreetmap.org/way/270377155",
+        "coordinate_status": "OSM South Garden South Gate line midpoint; real gate, not subway-station point",
+        "art_english": "Olympic Forest Park South Garden: a broad blue lake named Aohai with gently curving landscaped banks, gold ginkgo and warm-orange deciduous woodland, a low wooded artificial hill in the distance and a clean sinuous lakeside walking path; open lawn and reeds as accents. Show an expansive recognizable urban forest park setting rather than an invented palace, pagoda, red gate or generic temple. Do not reproduce copyrighted park sculptures.",
+        "minutes": 75,
+        "walk_after": 0,
+        "detail": "奥海湖岸 · 金色步道",
+        "time": "14:45"
+      }
+    ],
+    "waypoints": [
+      {
+        "lon": 116.39027,
+        "lat": 39.99,
+        "note": "approximate public forecourt south of Bird Nest; snap to public plaza paths"
+      },
+      {
+        "lon": 116.38655,
+        "lat": 39.99158,
+        "note": "central pedestrian promenade between Bird Nest and Water Cube"
+      },
+      {
+        "lon": 116.38559,
+        "lat": 39.99157,
+        "note": "Water Cube east-side public forecourt"
+      },
+      {
+        "lon": 116.38738,
+        "lat": 39.9958,
+        "note": "Linglong tower exterior public plaza"
+      },
+      {
+        "lon": 116.38643,
+        "lat": 40.0,
+        "note": "north along Olympic central pedestrian promenade; lunch nearby"
+      },
+      {
+        "lon": 116.38743,
+        "lat": 40.00644,
+        "note": "Olympic tower west-side exterior; ticket gates not assumed open"
+      },
+      {
+        "lon": 116.3862938,
+        "lat": 40.0098628,
+        "note": "confirmed South Garden South Gate way270377155"
+      },
+      {
+        "lon": 116.3863658,
+        "lat": 40.0101929,
+        "note": "景观大道 actual OSM vertex way60064574"
+      },
+      {
+        "lon": 116.3879707,
+        "lat": 40.0116758,
+        "note": "actual OSM park footway/step junction near Aohai; never draw across lake"
+      }
+    ],
+    "ring_verification": {
+      "summary": "All five stops north of North Fourth Ring. At Olympic axis the actual ring road is near39.9865–39.9871N; southernmost stop Bird Nest39.9914N. Do not substitute National Olympic Sports Center (奥体中心体育场) south of Fourth Ring for Bird Nest.",
+      "osm_ring_ways": [
+        "way/42354950",
+        "way/865466548",
+        "way/29201273"
+      ],
+      "source_file": "osm-ne-route-geometry.json"
+    },
+    "total_minutes": 360,
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "navigation_verified": false,
+    "coordinate_system": "EPSG:4326",
+    "source_checked_on": "2026-10-29",
+    "sources": [
+      "https://www.openstreetmap.org/way/152301551",
+      "https://www.openstreetmap.org/way/29201257",
+      "https://www.openstreetmap.org/way/161460527",
+      "https://www.openstreetmap.org/way/962658730",
+      "https://www.openstreetmap.org/way/270377155",
+      "https://ucca.org.cn/en/about/",
+      "https://ucca.org.cn/en/visit/",
+      "https://www.798cube.com.cn/index/index/about.html",
+      "https://en.wikipedia.org/wiki/Ling_Long_Pagoda",
+      "https://en.wikipedia.org/wiki/Beijing_Olympic_Tower",
+      "https://www.openstreetmap.org/copyright"
+    ],
+    "palette": [
+      "#F6D83E",
+      "#E44163",
+      "#1746A2"
+    ],
+    "top_lines": [
+      "鸟巢 → 水立方 → 玲珑塔",
+      "奥林匹克塔 → 奥森南园"
+    ],
+    "research_record": "../prompts/beijing-outer-four-research.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        10,
+        95,
+        510,
+        400
+      ],
+      [
+        524,
+        100,
+        1010,
+        407
+      ],
+      [
+        65,
+        420,
+        438,
+        1013
+      ],
+      [
+        575,
+        432,
+        960,
+        1013
+      ],
+      [
+        8,
+        1045,
+        1010,
+        1506
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        708,
+        1033,
+        987,
+        1203
+      ],
+      [
+        28,
+        1010,
+        297,
+        1180
+      ],
+      [
+        120,
+        747,
+        227,
+        917
+      ],
+      [
+        760,
+        457,
+        873,
+        627
+      ],
+      [
+        18,
+        339,
+        323,
+        479
+      ]
+    ],
+    "landmark_labels": [
+      {
+        "stop": "鸟巢",
+        "position": [
+          690,
+          1204
+        ],
+        "stop_number": 1,
+        "landmark_arrow": [
+          [
+            846,
+            1213
+          ],
+          [
+            579,
+            1109
+          ]
+        ],
+        "pin_wgs84": [
+          116.3902864,
+          39.9914041
+        ]
+      },
+      {
+        "stop": "水立方",
+        "position": [
+          5,
+          1181
+        ],
+        "stop_number": 2,
+        "landmark_arrow": [
+          [
+            161,
+            1190
+          ],
+          [
+            432,
+            1103
+          ]
+        ],
+        "pin_wgs84": [
+          116.3841726,
+          39.9915785
+        ]
+      },
+      {
+        "stop": "玲珑塔",
+        "position": [
+          16,
+          918
+        ],
+        "stop_number": 3,
+        "landmark_arrow": [
+          [
+            172,
+            927
+          ],
+          [
+            518,
+            966
+          ]
+        ],
+        "pin_wgs84": [
+          116.3877635,
+          39.9959678
+        ]
+      },
+      {
+        "stop": "奥林匹克塔",
+        "position": [
+          659,
+          628
+        ],
+        "stop_number": 4,
+        "landmark_arrow": [
+          [
+            815,
+            637
+          ],
+          [
+            521,
+            634
+          ]
+        ],
+        "pin_wgs84": [
+          116.387873,
+          40.0065506
+        ]
+      },
+      {
+        "stop": "奥森南园",
+        "position": [
+          13,
+          480
+        ],
+        "stop_number": 5,
+        "landmark_arrow": [
+          [
+            169,
+            489
+          ],
+          [
+            483,
+            530
+          ]
+        ],
+        "pin_wgs84": [
+          116.3862938,
+          40.0098628
+        ]
+      }
+    ],
+    "route_arrow_count": 9,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.36617750098567,
+        39.97777274804425,
+        116.40882249901433,
+        40.02677305894178
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "d15f52f7a3f282a1eda5171ab4d16cf2e1bb43e820248fa31cb70374fec64335",
+      "data_retrieved_at": "2026-10-29T03:33:14.993565+00:00",
+      "element_count": 7765,
+      "feature_counts": {
+        "landuse": 629,
+        "buildings": 1827,
+        "water": 36,
+        "roads": 2887
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "OSM public road/path graph shortest paths between researched waypoints; gate access not live verified",
+      "route_wgs84": [
+        [
+          116.3902359,
+          39.9893368
+        ],
+        [
+          116.3899353,
+          39.9893815
+        ],
+        [
+          116.3894073,
+          39.9894601
+        ],
+        [
+          116.3893644,
+          39.9894665
+        ],
+        [
+          116.3892299,
+          39.9896501
+        ],
+        [
+          116.3891681,
+          39.9897345
+        ],
+        [
+          116.3887775,
+          39.9900888
+        ],
+        [
+          116.3884851,
+          39.9904205
+        ],
+        [
+          116.3884237,
+          39.9904822
+        ],
+        [
+          116.3881498,
+          39.9905951
+        ],
+        [
+          116.3881525,
+          39.9913655
+        ],
+        [
+          116.3876401,
+          39.9919014
+        ],
+        [
+          116.3872039,
+          39.9918867
+        ],
+        [
+          116.3871691,
+          39.9922274
+        ],
+        [
+          116.3856415,
+          39.9921828
+        ],
+        [
+          116.3871691,
+          39.9922274
+        ],
+        [
+          116.3872039,
+          39.9918867
+        ],
+        [
+          116.3871673,
+          39.9926212
+        ],
+        [
+          116.3871393,
+          39.9932652
+        ],
+        [
+          116.3870489,
+          39.9950885
+        ],
+        [
+          116.3869866,
+          39.9963446
+        ],
+        [
+          116.3869809,
+          39.9964585
+        ],
+        [
+          116.3869768,
+          39.9965411
+        ],
+        [
+          116.386975,
+          39.9966119
+        ],
+        [
+          116.386971,
+          39.9966962
+        ],
+        [
+          116.3865932,
+          39.996684
+        ],
+        [
+          116.3865288,
+          39.9982047
+        ],
+        [
+          116.3864856,
+          39.9990451
+        ],
+        [
+          116.3864367,
+          39.9998622
+        ],
+        [
+          116.3864056,
+          40.0005169
+        ],
+        [
+          116.3867872,
+          40.0005295
+        ],
+        [
+          116.3867813,
+          40.0006549
+        ],
+        [
+          116.3867674,
+          40.0009555
+        ],
+        [
+          116.3867621,
+          40.0010677
+        ],
+        [
+          116.3867598,
+          40.0011189
+        ],
+        [
+          116.3867407,
+          40.0017476
+        ],
+        [
+          116.3867157,
+          40.0025722
+        ],
+        [
+          116.3866999,
+          40.0030929
+        ],
+        [
+          116.3866914,
+          40.0033764
+        ],
+        [
+          116.3866911,
+          40.0033848
+        ],
+        [
+          116.38669,
+          40.0034198
+        ],
+        [
+          116.3866877,
+          40.0034948
+        ],
+        [
+          116.3866845,
+          40.0035729
+        ],
+        [
+          116.3866833,
+          40.0035949
+        ],
+        [
+          116.3866074,
+          40.0049568
+        ],
+        [
+          116.3865822,
+          40.0054079
+        ],
+        [
+          116.3865803,
+          40.0054413
+        ],
+        [
+          116.386576,
+          40.0055184
+        ],
+        [
+          116.3865735,
+          40.0055804
+        ],
+        [
+          116.3865698,
+          40.0056708
+        ],
+        [
+          116.386569,
+          40.0056913
+        ],
+        [
+          116.3865675,
+          40.0057281
+        ],
+        [
+          116.3868759,
+          40.0057432
+        ],
+        [
+          116.3869788,
+          40.0060629
+        ],
+        [
+          116.3869227,
+          40.0062332
+        ],
+        [
+          116.3868147,
+          40.0064338
+        ],
+        [
+          116.3871678,
+          40.0064619
+        ],
+        [
+          116.3873861,
+          40.0065241
+        ],
+        [
+          116.3874546,
+          40.0066188
+        ],
+        [
+          116.3873675,
+          40.006744
+        ],
+        [
+          116.3872229,
+          40.00685
+        ],
+        [
+          116.3869159,
+          40.0070552
+        ],
+        [
+          116.3868857,
+          40.0075488
+        ],
+        [
+          116.3864936,
+          40.0075337
+        ],
+        [
+          116.3864598,
+          40.0083609
+        ],
+        [
+          116.3864421,
+          40.0087059
+        ],
+        [
+          116.3864388,
+          40.0087707
+        ],
+        [
+          116.3861248,
+          40.0087757
+        ],
+        [
+          116.3860667,
+          40.0099218
+        ],
+        [
+          116.3857907,
+          40.0099069
+        ],
+        [
+          116.3857599,
+          40.0102647
+        ],
+        [
+          116.3860352,
+          40.0102184
+        ],
+        [
+          116.3863658,
+          40.0101929
+        ],
+        [
+          116.3868337,
+          40.0102889
+        ],
+        [
+          116.3869457,
+          40.0103119
+        ],
+        [
+          116.3873954,
+          40.0104833
+        ],
+        [
+          116.387769,
+          40.0106419
+        ],
+        [
+          116.387803,
+          40.0107485
+        ],
+        [
+          116.3878212,
+          40.0108054
+        ],
+        [
+          116.3878802,
+          40.0109398
+        ],
+        [
+          116.3879241,
+          40.0110662
+        ],
+        [
+          116.3879365,
+          40.0111745
+        ],
+        [
+          116.3878986,
+          40.0112978
+        ],
+        [
+          116.3878455,
+          40.0114246
+        ],
+        [
+          116.3877862,
+          40.0114983
+        ],
+        [
+          116.3877571,
+          40.0115345
+        ],
+        [
+          116.3876371,
+          40.011625
+        ],
+        [
+          116.3875586,
+          40.0117343
+        ],
+        [
+          116.3878087,
+          40.0116937
+        ],
+        [
+          116.3878042,
+          40.0116096
+        ],
+        [
+          116.3879707,
+          40.0116758
+        ]
+      ],
+      "route_way_ids": [
+        1461639591,
+        1461639600,
+        1421360957,
+        1421360956,
+        1461639597,
+        1474345130,
+        60064574,
+        145296840,
+        439956433,
+        1568998411,
+        1157499793,
+        1157499814,
+        1157499792,
+        1157499791,
+        930894815,
+        1350824884,
+        355471680,
+        270375030,
+        121162699,
+        270375028
+      ],
+      "true_location_pins": [
+        {
+          "name": "鸟巢",
+          "lon": 116.3902864,
+          "lat": 39.9914041,
+          "osm": "way/152301551",
+          "source": "https://www.openstreetmap.org/way/152301551",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "Beijing National Stadium, Bird Nest: broad oval stadium bowl with a complex open interwoven silver-gray steel lattice wrapping its exterior, irregular diagonal structural ribbons and an open central roof aperture; red inner stadium wall may be visible. Low broad proportions and a large paved plaza. A faithful recognizable Bird Nest exterior, not a woven basket with a handle, no sealed dome, no text or logos.",
+          "minutes": 45,
+          "walk_after": 10,
+          "detail": "钢网鸟巢 · 奥运广场",
+          "time": "10:00"
+        },
+        {
+          "name": "水立方",
+          "lon": 116.3841726,
+          "lat": 39.9915785,
+          "osm": "way/29201257",
+          "source": "https://www.openstreetmap.org/way/29201257",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "Beijing National Aquatics Center, Water Cube: a low broad rectangular cuboid clad in translucent pale-blue ETFE bubble cushions with irregular rounded-cell polygon outlines; flat rectangular roof and distinctive blue soap-bubble facade; wide paved forecourt. Do not turn into a swimming pool seen from above or a blue spherical dome. No brand or text.",
+          "minutes": 55,
+          "walk_after": 15,
+          "detail": "蓝色气泡 · 双奥场馆",
+          "time": "10:55"
+        },
+        {
+          "name": "玲珑塔",
+          "lon": 116.3877635,
+          "lat": 39.9959678,
+          "osm": "way/161460527",
+          "source": "https://www.openstreetmap.org/way/161460527",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "Ling Long Olympic Broadcast Tower: a slender permanent three-sided steel and glass tower with THREE upright support ribs at the corners and SIX separated glass-walled triangular pods stacked vertically with open-air gaps; crisp triangular platforms, metallic silver structure, 128-metre tower proportions. It is NOT the cluster of five circular observation towers. Peaceful exterior, no text or Olympic ring logo.",
+          "minutes": 70,
+          "walk_after": 30,
+          "detail": "三角玻璃舱 · 中轴午餐",
+          "time": "12:05"
+        },
+        {
+          "name": "奥林匹克塔",
+          "lon": 116.387873,
+          "lat": 40.0065506,
+          "osm": "way/962658730",
+          "source": "https://www.openstreetmap.org/way/962658730",
+          "coordinate_status": "OSM named feature representative point; not a surveyed entrance",
+          "art_english": "Beijing Olympic Tower: FIVE slender connected observation towers of staggered heights grouped tightly together, each topped by a wide circular disk-shaped observation crown; highest tower noticeably taller, silver-gray structural trunks and dark glazing beneath the disk rims, sculptural five-tree skyline. Not one needle tower, not the nearby triangular-pod Ling Long broadcast tower. No logos or text.",
+          "minutes": 45,
+          "walk_after": 15,
+          "detail": "五塔树冠 · 城市天际线",
+          "time": "13:45"
+        },
+        {
+          "name": "奥森南园",
+          "lon": 116.3862938,
+          "lat": 40.0098628,
+          "osm": "way/270377155",
+          "source": "https://www.openstreetmap.org/way/270377155",
+          "coordinate_status": "OSM South Garden South Gate line midpoint; real gate, not subway-station point",
+          "art_english": "Olympic Forest Park South Garden: a broad blue lake named Aohai with gently curving landscaped banks, gold ginkgo and warm-orange deciduous woodland, a low wooded artificial hill in the distance and a clean sinuous lakeside walking path; open lawn and reeds as accents. Show an expansive recognizable urban forest park setting rather than an invented palace, pagoda, red gate or generic temple. Do not reproduce copyrighted park sculptures.",
+          "minutes": 75,
+          "walk_after": 0,
+          "detail": "奥海湖岸 · 金色步道",
+          "time": "14:45"
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 500
+    },
+    "edge_blending": "contiguous white-paper removal plus a small luminous edge"
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheets",
+    "checked": [
+      "Five beyond-Fourth-Ring routes with sourced coordinates",
+      "Bold saturated palettes and prominent 四环外 heading",
+      "True OSM basemap, north arrow, scale, route and landmark arrows",
+      "Five recognizable detailed landmarks per poster",
+      "Readable local Chinese typography",
+      "Native artwork retained and zero image uploads"
+    ]
+  },
+  "art_direction": {
+    "style": "Bold saturated architectural travel illustration with locally typeset Chinese labels",
+    "composition": "Full-canvas north-up OSM map, prominent Beijing beyond-Fourth-Ring headline, five landmark callouts, location pins and directional arrows",
+    "route_focus": "奥运地标与金色森林",
+    "geographic_emphasis": "北四环外",
+    "reference_policy": "Text-only landmark artwork; no binary model references"
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

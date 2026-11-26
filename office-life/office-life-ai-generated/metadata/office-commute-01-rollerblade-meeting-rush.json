@@ -1,0 +1,52 @@
+{
+  "output": "../office-commute-01-rollerblade-meeting-rush.png",
+  "refined_prompt": "../prompts/office-commute-01-rollerblade-meeting-rush.txt",
+  "created_at": "2026-11-03T04:46:17.055001+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "contains_text": false,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "office-commute",
+  "series_number": 1,
+  "title": "轮滑赶会议",
+  "sha256": "c636fd738d0ab21f4aa695063c0e2e6cf0a72b19c137682208f31e8142619291",
+  "native_sha256": "c636fd738d0ab21f4aa695063c0e2e6cf0a72b19c137682208f31e8142619291",
+  "prompt_sha256": "52a0c3660f118780f4a9c872a97f8ceef375a3ca7ff53213bed16199ffb13900",
+  "file_size_bytes": 2165487,
+  "user_request": "生成一个图片。老外在公司里面用轮滑赶路。",
+  "art_direction": {
+    "style": "photorealistic cinematic candid workplace editorial photograph",
+    "subject": "fictional adult European-looking office employee hurrying indoors on inline roller skates",
+    "composition": "full-body low three-quarter view; skates and company corridor clearly visible",
+    "fictional_adults": true,
+    "contains_readable_text": false
+  },
+  "postprocessing": {
+    "method": "none",
+    "cropped": false,
+    "upscaled": false,
+    "native_size": "1536x1024",
+    "output_size": "1536x1024"
+  },
+  "visual_qa": {
+    "status": "approved-compressed-preview-review",
+    "reviewed_at": "2026-11-03T04:47:42.047006+00:00",
+    "method": "1280x853 JPEG preview under 350 KB",
+    "checks": [
+      "fictional adult office worker with full-body inline skating pose",
+      "both roller skates visible and office context immediately readable",
+      "hands, laptop and body proportions coherent",
+      "no readable title, branding or watermark"
+    ]
+  }
+}

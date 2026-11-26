@@ -1,0 +1,43 @@
+{
+  "output": "../panzi-last-meal-03-light-on-the-table.png",
+  "refined_prompt": "../prompts/panzi-last-meal-03-light-on-the-table.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "panzi-last-meal",
+  "series_number": 3,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "View from just inside the modest room toward its open doorway. Pan Zi in olive-gray jacket pauses at the threshold and looks back softly toward the table; Wu Xie waits in the corridor just beyond. In the foreground, the same blue-rimmed bowl and chopsticks remain untouched on the dark wooden table, in a pool of warm lamplight, with a pale enamel kettle behind them. Their pose conveys affection, uncertainty and ordinary haste rather than supernatural knowledge. No additional bowl or duplicated people.",
+  "visible_description": "潘子在门边回望，桌上的面与筷子仍在。",
+  "display_title": "门口回望",
+  "poster_text": "他回头看了一眼，那碗面还留在桌上。",
+  "text_is_original_paraphrase": true,
+  "source_work": "南派三叔《盗墓笔记》",
+  "source_chapter": "《盗墓笔记8》大结局第七十四章（二）",
+  "source_url": "http://www.daomubiji.com/dajieju-7402.html",
+  "adaptation_note": "小三爷到门口叫人、出发前回望和离开路上的画面为基于用户叙述的虚构改编；潘子是否预感归期为吴邪的猜测。",
+  "native_sha256": "324acaabc2de9312dc1b08927eb9962cfe43a57de46da2f2a654e1f524c2523f",
+  "sha256": "8743bf93705aa3d963db447957ea3448508861f1bd8a8a50607b924556eb8324",
+  "prompt_sha256": "d331e9610e39584329685cb8b9b8f2969af00d42fb4d83024c46bfc2d9e6a655",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

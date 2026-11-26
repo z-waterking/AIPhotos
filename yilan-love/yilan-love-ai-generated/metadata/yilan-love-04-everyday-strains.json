@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-love-04-everyday-strains.png",
+  "refined_prompt": "../prompts/yilan-love-04-everyday-strains.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-love",
+  "series_number": 4,
+  "art_direction": "他收拾厨房，她和朋友在客厅打麻将，孩子在旁边玩耍。",
+  "sha256": "b06e7c92e59e8eeccdef5cbe957e1f4a29e1fc0393646b997a6e830845bb9fb1",
+  "native_sha256": "b06e7c92e59e8eeccdef5cbe957e1f4a29e1fc0393646b997a6e830845bb9fb1",
+  "prompt_sha256": "d3b3ee674dc490966bfbad2a3c11a227f0915c055802461020add30673ce6df5",
+  "created_at_utc": "2026-11-12T01:37:32.489860+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

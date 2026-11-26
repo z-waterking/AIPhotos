@@ -1,0 +1,32 @@
+{
+  "output": "../human-habits-01-specimen-observation.png",
+  "refined_prompt": "../prompts/human-habits-01-specimen-observation.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "human-habits",
+  "series_number": 1,
+  "art_direction": "Warm wordless gouache and colored-pencil editorial illustration of a cafe conversation between a human and an observant cat, with three notebook drawings of routine behavior.",
+  "sha256": "4f63d8ab0a583099210ba7850ff60bad018e72a69a61bcd068e7cca15cbf7ffa",
+  "native_sha256": "4f63d8ab0a583099210ba7850ff60bad018e72a69a61bcd068e7cca15cbf7ffa",
+  "prompt_sha256": "e918f1749734826040219f0b5c56a0b09dc2cc7a577350c1f833d1bff42923ce",
+  "created_at_utc": "2026-11-05T02:16:22.569158+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

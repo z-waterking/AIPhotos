@@ -1,0 +1,51 @@
+{
+  "output": "../2017-skills-04-climbing-referee.png",
+  "refined_prompt": "../prompts/2017-skills-04-climbing-referee.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-skills",
+  "series_number": 4,
+  "contains_text": true,
+  "art_direction": "A fictional adult referee in plain unbranded dark sportswear observes a low-height practice competition in a climbing gym, holding a blank clipboard, with another adult climber calmly trying a route above a wide thick mat in the background. Visually rich broad competition wall and quiet spectators, dramatic deep indigo, rust and gold lighting; all marks, numbers and screens blank, no sponsor symbols, no close-up safety hardware or high-risk moment.",
+  "historical_year": 2017,
+  "source_urls": [
+    "https://www.sport.gov.cn/dszx/n5414/c797082/content.html"
+  ],
+  "poster_copy": {
+    "title": "攀岩裁判员培训",
+    "keyword": "赛事规则  /  现场裁判",
+    "facts": [
+      "2017年中登协举办裁判培训",
+      "当期要求先锋5.9及相应保护能力",
+      "考核合格先获实习证，完成实习后评定"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "cb8dfeb2bd2414d9e2b824ee76be446481eebdb7eeaa3ff4472fd158122951d3",
+  "native_sha256": "3732a98ca666d9d357704ac061f72e6764d53d08fab653ba4f39544cc55a16e8",
+  "sha256": "d1e4c1fb8d27a47f8ce9b5c8bde0676961f8f867f4321b7c4df4230951deafec",
+  "created_at_utc": "2026-11-03T05:18:27.351792+00:00",
+  "postprocessing": {
+    "method": "local-gradient-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "gradient_start_y": 610,
+    "gradient_max_alpha": 232
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

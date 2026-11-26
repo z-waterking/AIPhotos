@@ -1,0 +1,33 @@
+{
+  "output": "../tao-of-the-mountain-03-helping-villager.png",
+  "refined_prompt": "../prompts/tao-of-the-mountain-03-helping-villager.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "tao-of-the-mountain",
+  "series_number": 3,
+  "title": "伸手",
+  "source_work": "金庸《射雕英雄传》",
+  "art_direction": "After light rain on a safe village path, the same old Taoist kneels to help an adult villager gather several harmless loose herbs and a small wicker basket. Both are fully clothed and their hands are plausible. The villager is unharmed and appreciative; the old Taoist has a gentle attentive expression. Wet stones, soft leaf reflections and warm natural light establish a humble, specific act of care. No medical treatment, suffering, children or fantasy symbols.",
+  "sha256": "24d2ee840252f3a8e9a1e655fd20cf90b29f400b12a44699c86b5307d29b976e",
+  "native_sha256": "24d2ee840252f3a8e9a1e655fd20cf90b29f400b12a44699c86b5307d29b976e",
+  "prompt_sha256": "a5a24e60556897cf1a2f3cf660ed97024ec49c7dbb806b867b90764c28130603",
+  "created_at_utc": "2026-11-11T02:12:08.265550+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

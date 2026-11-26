@@ -1,0 +1,27 @@
+# Long Way to School — wordless four-image comic prompt
+
+## Story source
+
+一个香港小孩被问到为什么来大陆上学。他说，原本住在香港的房子太小，爸妈带他去菲律宾发展。在菲律宾养鱼时，活火山爆发，鱼都死了，一家人不得不再次出发，他也来到大陆开始新的学习生活。
+
+## Shared visual direction
+
+Create a premium wordless landscape comic illustration with cinematic visual storytelling, clean expressive black-ink linework, rich watercolor-gouache color, subtle halftone texture, believable environments, humane facial acting, and polished graphic-novel finish. Keep one consistent fictional ten-year-old Hong Kong Chinese boy throughout: round friendly face, short straight black hair with one loose forelock, large warm-brown eyes, faint left-cheek dimple, mustard-yellow windbreaker over a navy hoodie, charcoal trousers, white sneakers, and a dark teal backpack. Preserve his age, face, proportions, hairstyle, and clothing exactly. He is fictional and must not resemble a real child.
+
+Use warm coral, mustard, teal, and deep navy as recurring colors. Tell the story only through acting, setting, composition, and visual transitions. Fill the complete frame naturally; do not reserve caption space. Absolutely no text anywhere: no words, letters, numbers, Chinese characters, pseudo-writing, glyph-like marks, captions, labels, speech balloons, thought balloons, signs, logos, flags, posters, readable book pages, readable blackboards, watermarks, borders, UI, or signatures. Keep all paper, screens, boards, packaging, and signs blank or turned away. Avoid photorealism, ethnic caricature, distorted anatomy, extra fingers, duplicated people, graphic injury, gore, or sensational disaster imagery.
+
+## Scene 01 — the question
+
+Inside a bright modern mainland primary-school classroom, the fictional boy stands beside his desk during a friendly new-student introduction. A kind teacher in three-quarter view gestures gently while asking about his journey; a few classmates listen with curious, welcoming expressions. Medium-wide eye-level composition, boy as the clear focal point, gentle morning light, quiet anticipation. The chalkboard is a plain unmarked teal surface; all books are closed and every visible page is blank. No typographic or balloon elements.
+
+## Scene 02 — Hong Kong to the Philippines
+
+Use Scene 01 only as the fictional boy's identity, outfit, proportions, palette, and comic-style anchor; rebuild pose and setting completely. Create a dynamic memory montage. On the left, the same boy and his parents pack a few unmarked boxes in a very compact but warm Hong Kong apartment, using bunk storage and a folding table, with dense high-rise windows outside. A flowing diagonal visual transition leads right to the same family arriving hopefully beside sunny tropical aquaculture ponds in the Philippines, with palms and simple fish-farm equipment. Convey limited living space without poverty stereotypes. All boxes and equipment are plain and unmarked. No typographic or balloon elements.
+
+## Scene 03 — volcano and fish farm
+
+Use Scene 01 only as the fictional boy's identity, outfit, proportions, palette, and comic-style anchor; rebuild pose and setting completely. At a Philippine fish farm at dusk, the same boy and his parents stand safely in the foreground, shocked and saddened. A distant active volcano erupts with a tall ash plume and restrained orange glow. Ash drifts over aquaculture ponds; several fish float motionless on the water to communicate the loss, non-graphically and without gore. Respectful natural-disaster tone, cinematic wide view, family clearly safe, no panic spectacle. No signs, labels, captions, balloons, or writing.
+
+## Scene 04 — a new beginning
+
+Use Scene 01 as the exact fictional boy identity, outfit, proportions, palette, and comic-style anchor. Create a fresh morning at a mainland school courtyard, not a repetition of the classroom. The boy walks through an open campus entrance with his dark teal backpack, slightly nervous but hopeful. The same kind teacher welcomes him from the steps while two friendly classmates wave and make room for him. Sunlight crosses trees and a clean school building; an open doorway suggests a new beginning. Use a plain entrance with no school name, signs, banners, posters, letters, numbers, emblems, or flags. End on warmth, belonging, and forward motion.

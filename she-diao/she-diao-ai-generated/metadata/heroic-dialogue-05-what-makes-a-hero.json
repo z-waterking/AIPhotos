@@ -1,0 +1,42 @@
+{
+  "output": "../heroic-dialogue-05-what-makes-a-hero.png",
+  "refined_prompt": "../prompts/heroic-dialogue-05-what-makes-a-hero.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-dialogue",
+  "series_number": 5,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A thoughtful medium two-shot of both riders against a darkening ochre-and-blue sky; Guo Jing speaks sincerely and the elderly Khan lowers his riding whip to his side and pauses in reflection. Their profiles face one another and remain readable, neither triumphant nor threatening. Subtle last warm light falls on the young man while a quieter cool shadow falls on the ruler; a clear horizon and wind in the grass hint at the human cost of conquest without depicting victims.",
+  "visible_description": "两人静静对望，郭靖道出心中英雄应护民。",
+  "display_title": "何谓英雄",
+  "poster_text": "郭靖：真正的英雄，应让百姓得以安宁。",
+  "text_is_original_paraphrase": true,
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "native_sha256": "231bf130d0de1dfb3a54a68550f9e52c688e12a0e7bfe8cb86003f28585c4075",
+  "sha256": "d80f43e56861ad67f66740b3cfa99164fd65a21daaa53b04154644088918970d",
+  "prompt_sha256": "f4a78f888fec95b64cb81131b5a7cea8305e256b5b6eae08a35ab1f6d9ca798e",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

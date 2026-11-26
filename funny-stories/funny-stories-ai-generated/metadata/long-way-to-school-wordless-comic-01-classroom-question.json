@@ -1,0 +1,18 @@
+{
+  "output": "../long-way-to-school-wordless-comic-01-classroom-question.png",
+  "refined_prompt": "../prompts/long-way-to-school-wordless-comic.txt",
+  "source_story": "../../STORY.md",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "fictional_characters": true,
+  "contains_text": false,
+  "art_direction": "Premium wordless cinematic color comic with clean ink linework, watercolor-gouache color, subtle halftone texture, and humane facial acting.",
+  "composition_variation": "Eye-level mainland classroom introduction with the fictional boy standing beside his desk, teacher gesturing gently, classmates listening, and a completely blank chalkboard."
+}

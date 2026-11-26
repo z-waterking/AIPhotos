@@ -1,0 +1,33 @@
+{
+  "output": "../tao-of-the-mountain-04-open-horizon.png",
+  "refined_prompt": "../prompts/tao-of-the-mountain-04-open-horizon.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "tao-of-the-mountain",
+  "series_number": 4,
+  "title": "开阔之路",
+  "source_work": "金庸《射雕英雄传》",
+  "art_direction": "The same old Taoist and the adult villager walk side by side at an unhurried pace on a broad, safe path toward a small mountain village. Seen from behind at a comfortable distance, they carry the small basket between them. The sky opens over layered hills and the road gently curves toward several ordinary homes. Their quiet companionship and the broad horizon suggest room for others in one’s world. Late daylight, subtle ink wash and natural earthy color; no posed portrait, crowds, weapons, signs or supernatural effects.",
+  "sha256": "4dd0b6f146cf48cb3e259099ec5bd6a606a3755d956f72c92d65781e343f6a79",
+  "native_sha256": "4dd0b6f146cf48cb3e259099ec5bd6a606a3755d956f72c92d65781e343f6a79",
+  "prompt_sha256": "cc0b4d4bf4348b8b33c48e6970fe3f5096c5a90a1ba0319d34e66e90c473c0a9",
+  "created_at_utc": "2026-11-11T02:13:35.047007+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "number": 5,
+  "stem": "beijing-autumn-citywalk-05-dongcheng-art-streets",
+  "title": "东城文艺漫步",
+  "background": "#F7F6FA",
+  "accent": "#8B859E",
+  "secondary": "#D2B172",
+  "top_lines": [
+    "东交民巷 → 王府井 → 中国美术馆",
+    "隆福寺 → 东四胡同"
+  ],
+  "distance": "约6–7公里",
+  "metro_start": "2/5号线 崇文门",
+  "metro_end": "5号线 张自忠路",
+  "start_note": "东交民巷东口集合",
+  "lunch": "11:15 王府井午餐",
+  "caution": "馆舍与教堂以外观为主；入内请查开放预约",
+  "stops": [
+    {
+      "name": "东交民巷",
+      "time": "10:00",
+      "minutes": 50,
+      "walk_after": 25,
+      "detail": "圣米厄尔教堂 · 双尖塔",
+      "art": "Dongjiaominxiang former legation quarter: Saint Michael's Church, a compact Gothic church facade with TWO slender pointed bell-tower spires, pointed arch windows and blue-GRAY brick walls with pale gray-white stone trim. The facade is cool gray masonry, NEVER orange/red brick. Plane trees with golden leaves along a quiet diplomatic street. Faithful pointed Gothic silhouette, not the rounded Romanesque triple towers of Wangfujing Cathedral."
+    },
+    {
+      "name": "王府井",
+      "time": "11:15",
+      "minutes": 70,
+      "walk_after": 25,
+      "detail": "东堂三塔楼 · 城市广场",
+      "art": "Wangfujing: Saint Joseph's Cathedral, Dongtang, a GRAY stone Romanesque-Baroque facade with THREE broad tower-like sections, the center slightly taller, rounded arches, symmetrical sculpted columns and a central rose/arched window, standing behind an open paved plaza. Rounded modest domed tops and cross finials rather than very tall Gothic needle spires. Keep its three-part gray facade distinct from Saint Michael's."
+    },
+    {
+      "name": "中国美术馆",
+      "time": "12:50",
+      "minutes": 35,
+      "walk_after": 10,
+      "detail": "中式楼阁屋顶 · 艺术地标",
+      "art": "National Art Museum of China, Zhongguo Meishuguan: the recognizable symmetrical large pale cream modern Chinese museum building, long low horizontal gallery wings and a central elevated traditional multi-tier pavilion roof with YELLOW glazed tiles. Front entrance colonnade and broad paved approach, detailed restrained modernist windows, blue-green brackets on the central roof. Do not confuse it with the National Museum at Tiananmen or a generic temple."
+    },
+    {
+      "name": "隆福寺",
+      "time": "13:35",
+      "minutes": 50,
+      "walk_after": 15,
+      "detail": "新旧建筑叠景 · 文艺小憩",
+      "art": "Longfusi cultural district: a contemporary low gray-white former commercial/industrial block, clean wide glass windows, small creative-street courtyard, with a restrained cluster of traditional gray-tiled RED-COLUMN rooftop pavilions visible above the modern block, inspired by Longfu cultural center. Clear contrast of modern base and traditional roof terrace. Do not invent a surviving massive ancient temple or yellow imperial palace."
+    },
+    {
+      "name": "东四胡同",
+      "time": "14:40",
+      "minutes": 80,
+      "walk_after": 0,
+      "detail": "四条至八条 · 红门银杏",
+      "art": "Dongsi hutong preservation district: an intimate straight north-Beijing grid lane with tidy low gray-brick siheyuan walls, evenly repeated charcoal barrel-tiled eaves, one welcoming vermilion courtyard door and well-ordered overhead wires. Tall golden ginkgo trees rise behind the roofs; a parked old bicycle and small potted chrysanthemums provide scale. Recognizable quiet living hutong fabric, no towering monument or invented grand arch."
+    }
+  ]
+}

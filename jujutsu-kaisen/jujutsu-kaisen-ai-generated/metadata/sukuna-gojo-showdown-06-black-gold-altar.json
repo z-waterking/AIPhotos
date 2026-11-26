@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-06-black-gold-altar.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "黑金祭坛与猩红内火营造奢华邪异气氛，宿傩高居右上，五条悟从左下浮空街块仰视。",
+  "composition_variation": "黑金纵向建筑切开蓝色下层能量，题名融入漆黑祭坛牌面。"
+}

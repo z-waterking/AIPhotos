@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-bloom-05-a-gentle-parting.png",
+  "refined_prompt": "../prompts/yilan-bloom-05-a-gentle-parting.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-bloom",
+  "series_number": 5,
+  "art_direction": "她骑车渐行渐远，他扶着单车静静目送。",
+  "sha256": "40af1ea64a9d74fe95775e70950ce8689527b46f883fab0581fea9ba987ce574",
+  "native_sha256": "40af1ea64a9d74fe95775e70950ce8689527b46f883fab0581fea9ba987ce574",
+  "prompt_sha256": "2ab48e34fe7b2e88663c1dc006296154922d76356d28e41b895768cc89b05dff",
+  "created_at_utc": "2026-11-12T03:19:06.060583+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

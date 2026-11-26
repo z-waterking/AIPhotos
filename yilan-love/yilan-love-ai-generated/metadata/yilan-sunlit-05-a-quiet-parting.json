@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-sunlit-05-a-quiet-parting.png",
+  "refined_prompt": "../prompts/yilan-sunlit-05-a-quiet-parting.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-sunlit",
+  "series_number": 5,
+  "art_direction": "她背包离开，他站在门内，抱着孩子的小毛衣。",
+  "sha256": "2af6f5159aac04c68f915465a70c12d5db63dae78bab2f925ee18ad923cbea98",
+  "native_sha256": "2af6f5159aac04c68f915465a70c12d5db63dae78bab2f925ee18ad923cbea98",
+  "prompt_sha256": "a183ecb82f236df09af13497d5f9da4a09c509a454459074bc8bf504a9462b9a",
+  "created_at_utc": "2026-11-12T02:07:30.947953+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

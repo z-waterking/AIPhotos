@@ -1,0 +1,43 @@
+{
+  "output": "../dual-phone-04-broken-phone-backup.png",
+  "refined_prompt": "../prompts/dual-phone-04-broken-phone-backup.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "dual-phone",
+  "series_number": 4,
+  "art_direction": "At a light-filled everyday desk, a fictional adult looks amused and relieved while holding a working deep green smartphone with a simple bright abstract screen. A separate silver smartphone rests nearby with its screen dark and unresponsive, conveying a device problem without sparks, smoke, fire or hazardous battery damage. Include a cup and book, no readable covers. Clear silhouettes, believable hands, relaxed body language, gentle morning color and a pale calm lower area. No text or branding.",
+  "poster_copy": {
+    "title": "一台罢工，另一台顶上",
+    "subtitle": "手机闹脾气，生活照常继续",
+    "small": "账号与数据记得提前备份"
+  },
+  "sha256": "04027b4ea804d8af422e03f437f621a89573aabd85f9aeb14a0692bc2163a09b",
+  "native_sha256": "99a9220fe4cca85ab71b9e1af5432b082f12aeb8ff829d3b7ceac57617bb26b4",
+  "prompt_sha256": "a3abf97ee3d661f8e1477e5db4d5f26c34cce4d5c2311d75727cbd2df1df52b1",
+  "created_at_utc": "2026-11-08T04:48:18.812656+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "gradient_start_y": 970,
+    "gradient_max_alpha": 235
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

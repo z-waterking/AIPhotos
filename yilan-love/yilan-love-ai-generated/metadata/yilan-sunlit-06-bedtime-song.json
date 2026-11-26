@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-sunlit-06-bedtime-song.png",
+  "refined_prompt": "../prompts/yilan-sunlit-06-bedtime-song.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-sunlit",
+  "series_number": 6,
+  "art_direction": "月光下，父亲在床边安抚熟睡的女儿。",
+  "sha256": "53d592e539dc967ebc91f6cfb390b7f00548b6d3488640a1a2190e39540969ac",
+  "native_sha256": "53d592e539dc967ebc91f6cfb390b7f00548b6d3488640a1a2190e39540969ac",
+  "prompt_sha256": "8a25617672b599c2e07dc25206dbd7cd4d87310def22448044be3d2c80fcc4d8",
+  "created_at_utc": "2026-11-12T02:07:25.136432+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

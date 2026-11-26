@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-bloom-03-beneath-the-blossoms.png",
+  "refined_prompt": "../prompts/yilan-bloom-03-beneath-the-blossoms.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-bloom",
+  "series_number": 3,
+  "art_direction": "恋人坐在开花树下交谈，单车靠着树。",
+  "sha256": "1c4c2331f757590437db1b835d62030e315d97dae06b294a6ec0bc5cbaea9055",
+  "native_sha256": "1c4c2331f757590437db1b835d62030e315d97dae06b294a6ec0bc5cbaea9055",
+  "prompt_sha256": "fe31b5bd2f115f08fdc0f300a4d8af9db88c90fd0e9b0588181423245eb9d56c",
+  "created_at_utc": "2026-11-12T03:17:30.713501+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

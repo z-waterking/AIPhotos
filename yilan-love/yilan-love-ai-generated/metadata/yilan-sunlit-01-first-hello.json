@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-sunlit-01-first-hello.png",
+  "refined_prompt": "../prompts/yilan-sunlit-01-first-hello.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-sunlit",
+  "series_number": 1,
+  "art_direction": "小城街边，他骑着单车鼓起勇气向她打招呼。",
+  "sha256": "dc5e29f8f43aa00c47de84244bbcfa86f47ece86f4635f4581fda8fdcaa67c85",
+  "native_sha256": "dc5e29f8f43aa00c47de84244bbcfa86f47ece86f4635f4581fda8fdcaa67c85",
+  "prompt_sha256": "11391f35f2827c1f5c1d2d120485550b4832c35349356d974452a2bc604ae980",
+  "created_at_utc": "2026-11-12T02:05:58.005191+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

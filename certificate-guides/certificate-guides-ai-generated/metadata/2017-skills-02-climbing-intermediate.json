@@ -1,0 +1,51 @@
+{
+  "output": "../2017-skills-02-climbing-intermediate.png",
+  "refined_prompt": "../prompts/2017-skills-02-climbing-intermediate.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-skills",
+  "series_number": 2,
+  "contains_text": true,
+  "art_direction": "An elegant editorial view across an indoor climbing wall in Beijing: one fictional adult lead-climbing student practices deliberately just a little above a thick landing mat while an adult professional watches from a safe position. Show a spacious training environment and clipped rope system only in the distant background, no equipment close-up. Deep petrol blue, dark evergreen and warm white architectural lighting, subtle chalk and wall texture. No danger, injury, text or branding.",
+  "historical_year": 2017,
+  "source_urls": [
+    "https://www.sport.gov.cn/n315/n14443/c812394/content.html"
+  ],
+  "poster_copy": {
+    "title": "攀岩指导员 中级",
+    "keyword": "能力进阶  /  保护技术",
+    "facts": [
+      "2017年北京举办中级培训和鉴定",
+      "培训对象包括初级指导员持证者",
+      "培训目标含先锋攀登5.10及保护技术"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "d7c677d9d4d93305df9e9f78221d30b7d42eb222c04f2379acb55de098f36ad0",
+  "native_sha256": "b7fad12e705944c2af271bd2a0981a74ed56cefd9b96b346c6fc394b2d5d4182",
+  "sha256": "7b9bc9de4927ace3154d8d1b76f7d05f4fb99e071bbbabd4dae81dd2af953c66",
+  "created_at_utc": "2026-11-03T05:17:03.604245+00:00",
+  "postprocessing": {
+    "method": "local-gradient-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "gradient_start_y": 610,
+    "gradient_max_alpha": 232
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

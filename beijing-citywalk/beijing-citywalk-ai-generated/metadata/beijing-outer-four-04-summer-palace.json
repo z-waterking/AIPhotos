@@ -1,0 +1,1208 @@
+{
+  "output": "../beijing-outer-four-04-summer-palace.png",
+  "refined_prompt": "../prompts/beijing-outer-four-04-summer-palace.txt",
+  "source_prompt": "../prompts/beijing-outer-four-art-direction.txt",
+  "created_at": "2026-10-29T03:41:31.593003+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "quality": "high",
+  "output_format": "png",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-outer-four",
+  "series_number": 4,
+  "title": "颐和园浓彩秋游",
+  "sha256": "2af6d772914027d8e5e50969df6e16e7096be3d59e16532d2c5c5527db875d6c",
+  "native_sha256": "8a7fae92b58299062bafb907003b3323e1598c2e0af78156c8f0d4aaa4138223",
+  "prompt_sha256": "e9008636d2cfd15f57692aec8cda33d057b54db700c5a49393d1eebbce025344",
+  "source_prompt_sha256": "5ef1835ed9486235c1ce6fef18348ec729197019c9c70f45ed7f79e4eaadf689",
+  "file_size_bytes": 1019327,
+  "route": {
+    "key": "summer-palace",
+    "title": "颐和园浓彩秋游",
+    "ring_label": "西北四环外",
+    "bbox": [
+      116.253,
+      39.984,
+      116.28,
+      40.002
+    ],
+    "distance": "约6–7公里",
+    "metro_start": "4号线 西苑",
+    "metro_end": "4号线 西苑",
+    "start_note": "颐和园东宫门入园；地铁接驳另留时间",
+    "lunch": "13:25 清晏舫附近湖岸简餐",
+    "caution": "颐和园需购票；佛香阁单独票务及开放安排提前确认",
+    "boundary_note": "All five sights are inside Summer Palace, northwest/outside the Fourth Ring bend: at 116.27 E ring lies around39.969 N, far south of sights39.989–39.998 N. At39.984 N North4 lies east toward116.30 E. Label 西北四环外, not strictly west of a constant longitude.",
+    "ring_reference": "https://www.openstreetmap.org/way/26404005",
+    "stops": [
+      {
+        "name": "仁寿殿",
+        "lon": 116.2739955,
+        "lat": 39.9965112,
+        "osm": "way/43977911",
+        "source_url": "https://www.openstreetmap.org/way/43977911",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Renshou Hall at the Summer Palace: dignified broad single-storey imperial hall with gray tiled hip-and-gable roof, deep red wooden columns and door lattice, richly painted teal-green beam brackets, a low pale stone terrace and bronze qilin in the formal forecourt. Sober court architecture, no tall pagoda, no yellow multi-tier pavilion and no Tiananmen likeness.",
+        "minutes": 40,
+        "walk_after": 15,
+        "detail": "宫廷正殿 · 铜麒麟",
+        "time": "10:00"
+      },
+      {
+        "name": "长廊",
+        "lon": 116.2697754,
+        "lat": 39.9968152,
+        "osm": "way/43978818",
+        "source_url": "https://www.openstreetmap.org/way/43978818",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "The Long Corridor of the Summer Palace: an exceptionally long covered wooden lakeside gallery receding in perspective, repeated vermilion columns, intricate teal blue green painted beams and rafters, a gently undulating gray tiled roof with occasional small pavilion sections. Kunming Lake on one side and golden trees on the other. Clearly a linear open covered passage, not a bridge or wall. No readable painted text.",
+        "minutes": 40,
+        "walk_after": 15,
+        "detail": "彩绘长廊 · 临湖秋色",
+        "time": "10:55"
+      },
+      {
+        "name": "佛香阁",
+        "lon": 116.2679821,
+        "lat": 39.9978268,
+        "osm": "way/43977851",
+        "source_url": "https://www.openstreetmap.org/way/43977851",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Tower of Buddhist Incense, Foxiangge, on Longevity Hill: the unmistakable tall OCTAGONAL three-storey pavilion with FOUR projecting yellow glazed eave layers, green-blue painted timber details, red columns, on a massive high square stone terrace reached by long steep symmetrical stairs. Lower palace roofs nestle below and forest crowns the hill. Different from Jingshan Wanchun Pavilion: tall octagonal body with four eave layers, not square three-tier roof.",
+        "minutes": 75,
+        "walk_after": 20,
+        "detail": "八角佛阁 · 登高望湖",
+        "time": "11:50"
+      },
+      {
+        "name": "清晏舫",
+        "lon": 116.2636803,
+        "lat": 39.9967365,
+        "osm": "way/727042890",
+        "source_url": "https://www.openstreetmap.org/way/727042890",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Qingyanfang, the Marble Boat at Summer Palace: a stationary pale gray-white stone pleasure boat at the northwest shore of Kunming Lake, low broad stone hull, two-storey European-influenced superstructure painted to resemble marble, decorative arched windows and ornate balustrades, large round paddlewheel-like side ornaments. It is fixed architectural sculpture at the shore, not a real sailing junk. Calm vivid blue lake and autumn foliage.",
+        "minutes": 45,
+        "walk_after": 55,
+        "detail": "白石画舫 · 湖岸休息",
+        "time": "13:25"
+      },
+      {
+        "name": "十七孔桥",
+        "lon": 116.2714667,
+        "lat": 39.9894892,
+        "osm": "way/187196435",
+        "source_url": "https://www.openstreetmap.org/way/187196435",
+        "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+        "art_english": "Seventeen-Arch Bridge over Kunming Lake: long gently arched white-gray stone bridge with SEVENTEEN semicircular openings graded larger toward the center, continuous carved white stone balustrades with numerous small stone lion posts. Connects Nanhu Island and east bank, broad lake foreground and restrained willow trees. Render enough of the whole bridge to make the repeated seventeen arches legible; no single-hump bridge or golden palace roof.",
+        "minutes": 55,
+        "walk_after": 0,
+        "detail": "十七桥洞 · 昆明湖风",
+        "time": "15:05"
+      }
+    ],
+    "source_urls": [
+      "https://www.openstreetmap.org/way/43977911",
+      "https://www.openstreetmap.org/way/43978818",
+      "https://www.openstreetmap.org/way/43977851",
+      "https://www.openstreetmap.org/way/727042890",
+      "https://www.openstreetmap.org/way/187196435",
+      "https://www.openstreetmap.org/way/26404005"
+    ],
+    "coordinate_system": "WGS84 / EPSG:4326",
+    "checked_on": "2026-10-29",
+    "waypoints_wgs84": [
+      [
+        116.2755965,
+        39.9966755
+      ],
+      [
+        116.2741,
+        39.99665
+      ],
+      [
+        116.27197,
+        39.9967
+      ],
+      [
+        116.2697754,
+        39.9968152
+      ],
+      [
+        116.2681227,
+        39.9965221
+      ],
+      [
+        116.2679821,
+        39.9978268
+      ],
+      [
+        116.2681227,
+        39.9965221
+      ],
+      [
+        116.2643571,
+        39.9964635
+      ],
+      [
+        116.2636803,
+        39.9967365
+      ],
+      [
+        116.2643571,
+        39.9964635
+      ],
+      [
+        116.26812,
+        39.99652
+      ],
+      [
+        116.2734,
+        39.9957
+      ],
+      [
+        116.2735,
+        39.9925
+      ],
+      [
+        116.2721945,
+        39.9892614
+      ],
+      [
+        116.2707389,
+        39.989717
+      ]
+    ],
+    "waypoint_note": "East gate entrance and Long Corridor/Seventeen-Arch Bridge endpoints checked in OSM. Intermediate shoreline points are approximate hints and must route on real paths. Return from Marble Boat along north shore then east shore; do not draw a straight line across Kunming Lake. Buddha Incense Tower stairs may require separate admission; external base view fallback.",
+    "entrances": [
+      {
+        "lon": 116.2755965,
+        "lat": 39.9966755,
+        "osm": "node/3485506925",
+        "status": "OSM entrance=yes on east side"
+      },
+      {
+        "lon": 116.2738739,
+        "lat": 39.9896694,
+        "osm": "node/4116308192",
+        "status": "OSM named exit gate near Xinjian Gongmen; not a bus stop"
+      }
+    ],
+    "all_stops_outside_fourth_ring": true,
+    "navigation_verified": false,
+    "number": 4,
+    "stem": "beijing-outer-four-04-summer-palace",
+    "palette": [
+      "#ABDC39",
+      "#2257B7",
+      "#F37052"
+    ],
+    "top_lines": [
+      "仁寿殿 → 长廊 → 佛香阁",
+      "清晏舫 → 十七孔桥"
+    ],
+    "research_record": "../prompts/beijing-outer-four-research.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        16,
+        110,
+        509,
+        531
+      ],
+      [
+        530,
+        57,
+        1014,
+        542
+      ],
+      [
+        18,
+        575,
+        505,
+        1100
+      ],
+      [
+        530,
+        643,
+        1015,
+        1100
+      ],
+      [
+        12,
+        1135,
+        1013,
+        1500
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        746,
+        397,
+        945,
+        567
+      ],
+      [
+        454,
+        331,
+        624,
+        501
+      ],
+      [
+        81,
+        310,
+        239,
+        480
+      ],
+      [
+        74,
+        694,
+        254,
+        864
+      ],
+      [
+        684,
+        1029,
+        989,
+        1140
+      ]
+    ],
+    "landmark_labels": [
+      {
+        "stop": "仁寿殿",
+        "position": [
+          688,
+          568
+        ],
+        "stop_number": 1,
+        "landmark_arrow": [
+          [
+            844,
+            577
+          ],
+          [
+            731,
+            681
+          ]
+        ],
+        "pin_wgs84": [
+          116.2739955,
+          39.9965112
+        ]
+      },
+      {
+        "stop": "长廊",
+        "position": [
+          382,
+          502
+        ],
+        "stop_number": 2,
+        "landmark_arrow": [
+          [
+            538,
+            511
+          ],
+          [
+            583,
+            667
+          ]
+        ],
+        "pin_wgs84": [
+          116.2697754,
+          39.9968152
+        ]
+      },
+      {
+        "stop": "佛香阁",
+        "position": [
+          3,
+          481
+        ],
+        "stop_number": 3,
+        "landmark_arrow": [
+          [
+            159,
+            490
+          ],
+          [
+            520,
+            621
+          ]
+        ],
+        "pin_wgs84": [
+          116.2679821,
+          39.9978268
+        ]
+      },
+      {
+        "stop": "清晏舫",
+        "position": [
+          6,
+          865
+        ],
+        "stop_number": 4,
+        "landmark_arrow": [
+          [
+            162,
+            874
+          ],
+          [
+            369,
+            671
+          ]
+        ],
+        "pin_wgs84": [
+          116.2636803,
+          39.9967365
+        ]
+      },
+      {
+        "stop": "十七孔桥",
+        "position": [
+          679,
+          1141
+        ],
+        "stop_number": 5,
+        "landmark_arrow": [
+          [
+            835,
+            1150
+          ],
+          [
+            643,
+            1003
+          ]
+        ],
+        "pin_wgs84": [
+          116.2714667,
+          39.9894892
+        ]
+      }
+    ],
+    "route_arrow_count": 17,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.2531722222222,
+        39.9778686255089,
+        116.28232777777778,
+        40.01137294041654
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "fff3f1b4ad55c68b715dc31f2a940911226a1de26a52aea914c1d2b2ab4562be",
+      "data_retrieved_at": "2026-10-29T03:34:45.603254+00:00",
+      "element_count": 3491,
+      "feature_counts": {
+        "landuse": 55,
+        "water": 26,
+        "buildings": 592,
+        "roads": 752
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "OSM public road/path graph shortest paths between researched waypoints; gate access not live verified",
+      "route_wgs84": [
+        [
+          116.2755965,
+          39.9966755
+        ],
+        [
+          116.2751937,
+          39.9966423
+        ],
+        [
+          116.2745071,
+          39.9965637
+        ],
+        [
+          116.2744807,
+          39.9967463
+        ],
+        [
+          116.2741344,
+          39.9967108
+        ],
+        [
+          116.2740935,
+          39.9969762
+        ],
+        [
+          116.2735196,
+          39.996914
+        ],
+        [
+          116.2734466,
+          39.9973065
+        ],
+        [
+          116.2731696,
+          39.9972817
+        ],
+        [
+          116.2725849,
+          39.9972386
+        ],
+        [
+          116.2725952,
+          39.9971699
+        ],
+        [
+          116.2719793,
+          39.9970991
+        ],
+        [
+          116.2719669,
+          39.9972056
+        ],
+        [
+          116.27169,
+          39.9971773
+        ],
+        [
+          116.2712593,
+          39.9971333
+        ],
+        [
+          116.2705054,
+          39.9970704
+        ],
+        [
+          116.2698986,
+          39.9970041
+        ],
+        [
+          116.2697005,
+          39.9969799
+        ],
+        [
+          116.2697227,
+          39.9969383
+        ],
+        [
+          116.2695833,
+          39.9968705
+        ],
+        [
+          116.2690455,
+          39.9965859
+        ],
+        [
+          116.2686954,
+          39.9964102
+        ],
+        [
+          116.2684125,
+          39.9963321
+        ],
+        [
+          116.2681536,
+          39.9963213
+        ],
+        [
+          116.2681347,
+          39.9964182
+        ],
+        [
+          116.2681127,
+          39.9966238
+        ],
+        [
+          116.2680574,
+          39.9970579
+        ],
+        [
+          116.2680678,
+          39.997286
+        ],
+        [
+          116.2680655,
+          39.9973277
+        ],
+        [
+          116.2679146,
+          39.9973241
+        ],
+        [
+          116.2679092,
+          39.9973553
+        ],
+        [
+          116.2680567,
+          39.99737
+        ],
+        [
+          116.2680546,
+          39.9973941
+        ],
+        [
+          116.2682015,
+          39.9974051
+        ],
+        [
+          116.2681822,
+          39.997556
+        ],
+        [
+          116.2680463,
+          39.997548
+        ],
+        [
+          116.2680336,
+          39.997602
+        ],
+        [
+          116.2678123,
+          39.9975832
+        ],
+        [
+          116.2678103,
+          39.9976066
+        ],
+        [
+          116.2680304,
+          39.9976257
+        ],
+        [
+          116.2680271,
+          39.9976482
+        ],
+        [
+          116.2680226,
+          39.9976943
+        ],
+        [
+          116.2680271,
+          39.9976482
+        ],
+        [
+          116.2680304,
+          39.9976257
+        ],
+        [
+          116.2678103,
+          39.9976066
+        ],
+        [
+          116.2678123,
+          39.9975832
+        ],
+        [
+          116.2680336,
+          39.997602
+        ],
+        [
+          116.2680463,
+          39.997548
+        ],
+        [
+          116.2681822,
+          39.997556
+        ],
+        [
+          116.2682015,
+          39.9974051
+        ],
+        [
+          116.2680546,
+          39.9973941
+        ],
+        [
+          116.2680567,
+          39.99737
+        ],
+        [
+          116.2679092,
+          39.9973553
+        ],
+        [
+          116.2679146,
+          39.9973241
+        ],
+        [
+          116.2680655,
+          39.9973277
+        ],
+        [
+          116.2680678,
+          39.997286
+        ],
+        [
+          116.2680574,
+          39.9970579
+        ],
+        [
+          116.2681127,
+          39.9966238
+        ],
+        [
+          116.2681347,
+          39.9964182
+        ],
+        [
+          116.267819,
+          39.9963955
+        ],
+        [
+          116.2678224,
+          39.9963239
+        ],
+        [
+          116.2675237,
+          39.9963507
+        ],
+        [
+          116.2673356,
+          39.9963697
+        ],
+        [
+          116.2671265,
+          39.9964593
+        ],
+        [
+          116.2667576,
+          39.9966321
+        ],
+        [
+          116.2665064,
+          39.9966705
+        ],
+        [
+          116.2663825,
+          39.9966581
+        ],
+        [
+          116.26574,
+          39.9966
+        ],
+        [
+          116.265022,
+          39.9965286
+        ],
+        [
+          116.2643571,
+          39.9964635
+        ],
+        [
+          116.2643677,
+          39.9964071
+        ],
+        [
+          116.2642062,
+          39.9963923
+        ],
+        [
+          116.2640646,
+          39.9963794
+        ],
+        [
+          116.2639441,
+          39.9970853
+        ],
+        [
+          116.2637827,
+          39.997115
+        ],
+        [
+          116.2636065,
+          39.9970666
+        ],
+        [
+          116.2637827,
+          39.997115
+        ],
+        [
+          116.2639441,
+          39.9970853
+        ],
+        [
+          116.2640646,
+          39.9963794
+        ],
+        [
+          116.2642062,
+          39.9963923
+        ],
+        [
+          116.2643677,
+          39.9964071
+        ],
+        [
+          116.2643571,
+          39.9964635
+        ],
+        [
+          116.265022,
+          39.9965286
+        ],
+        [
+          116.26574,
+          39.9966
+        ],
+        [
+          116.2663825,
+          39.9966581
+        ],
+        [
+          116.2665064,
+          39.9966705
+        ],
+        [
+          116.2667576,
+          39.9966321
+        ],
+        [
+          116.2671265,
+          39.9964593
+        ],
+        [
+          116.2673356,
+          39.9963697
+        ],
+        [
+          116.2675237,
+          39.9963507
+        ],
+        [
+          116.2678224,
+          39.9963239
+        ],
+        [
+          116.267819,
+          39.9963955
+        ],
+        [
+          116.2681347,
+          39.9964182
+        ],
+        [
+          116.2683939,
+          39.9964432
+        ],
+        [
+          116.2684083,
+          39.9963704
+        ],
+        [
+          116.2686696,
+          39.9964541
+        ],
+        [
+          116.2690042,
+          39.9966582
+        ],
+        [
+          116.2697005,
+          39.9969799
+        ],
+        [
+          116.2698986,
+          39.9970041
+        ],
+        [
+          116.2705054,
+          39.9970704
+        ],
+        [
+          116.2712593,
+          39.9971333
+        ],
+        [
+          116.27169,
+          39.9971773
+        ],
+        [
+          116.2719669,
+          39.9972056
+        ],
+        [
+          116.2719793,
+          39.9970991
+        ],
+        [
+          116.2725952,
+          39.9971699
+        ],
+        [
+          116.2726041,
+          39.9971193
+        ],
+        [
+          116.2729866,
+          39.9971493
+        ],
+        [
+          116.2730984,
+          39.9970906
+        ],
+        [
+          116.2731312,
+          39.996947
+        ],
+        [
+          116.2730623,
+          39.9968434
+        ],
+        [
+          116.2730784,
+          39.9967003
+        ],
+        [
+          116.2730726,
+          39.9965373
+        ],
+        [
+          116.2730623,
+          39.9965272
+        ],
+        [
+          116.2730192,
+          39.9964852
+        ],
+        [
+          116.273035,
+          39.9964
+        ],
+        [
+          116.2730564,
+          39.9963369
+        ],
+        [
+          116.2731651,
+          39.9963068
+        ],
+        [
+          116.2731698,
+          39.9962346
+        ],
+        [
+          116.2732379,
+          39.996041
+        ],
+        [
+          116.2733248,
+          39.995983
+        ],
+        [
+          116.273394,
+          39.9959595
+        ],
+        [
+          116.2735533,
+          39.9959638
+        ],
+        [
+          116.2736873,
+          39.9958515
+        ],
+        [
+          116.2738193,
+          39.9957159
+        ],
+        [
+          116.2738917,
+          39.9955272
+        ],
+        [
+          116.2734906,
+          39.9954555
+        ],
+        [
+          116.273449,
+          39.9954421
+        ],
+        [
+          116.273448,
+          39.9954578
+        ],
+        [
+          116.273449,
+          39.9954421
+        ],
+        [
+          116.2734906,
+          39.9954555
+        ],
+        [
+          116.2738917,
+          39.9955272
+        ],
+        [
+          116.2739222,
+          39.9953979
+        ],
+        [
+          116.2740375,
+          39.9950808
+        ],
+        [
+          116.2742599,
+          39.9947656
+        ],
+        [
+          116.2743773,
+          39.9944904
+        ],
+        [
+          116.2743993,
+          39.994229
+        ],
+        [
+          116.2745355,
+          39.9941868
+        ],
+        [
+          116.2745605,
+          39.9941018
+        ],
+        [
+          116.2745692,
+          39.9938544
+        ],
+        [
+          116.274464,
+          39.9935997
+        ],
+        [
+          116.274539,
+          39.993334
+        ],
+        [
+          116.2745923,
+          39.9930184
+        ],
+        [
+          116.2746049,
+          39.992692
+        ],
+        [
+          116.2745884,
+          39.9923217
+        ],
+        [
+          116.2745667,
+          39.991968
+        ],
+        [
+          116.2745106,
+          39.991769
+        ],
+        [
+          116.2744336,
+          39.9916074
+        ],
+        [
+          116.2743931,
+          39.9914678
+        ],
+        [
+          116.2744008,
+          39.9912904
+        ],
+        [
+          116.2744093,
+          39.9910611
+        ],
+        [
+          116.2743866,
+          39.9908605
+        ],
+        [
+          116.2742881,
+          39.9906835
+        ],
+        [
+          116.2741333,
+          39.9905709
+        ],
+        [
+          116.2739611,
+          39.990338
+        ],
+        [
+          116.273854,
+          39.9901121
+        ],
+        [
+          116.2737755,
+          39.9899273
+        ],
+        [
+          116.27375,
+          39.9897333
+        ],
+        [
+          116.2735833,
+          39.98945
+        ],
+        [
+          116.2733181,
+          39.9892866
+        ],
+        [
+          116.2728757,
+          39.9891933
+        ],
+        [
+          116.2724675,
+          39.9891632
+        ],
+        [
+          116.2721945,
+          39.9892614
+        ],
+        [
+          116.2707389,
+          39.989717
+        ]
+      ],
+      "route_way_ids": [
+        341358306,
+        43978818,
+        534625244,
+        840120240,
+        767477173,
+        1414634191,
+        1414634193,
+        767477172,
+        1414634194,
+        534625243,
+        534625245,
+        727042670,
+        43976648,
+        43976667,
+        25214177,
+        43976652,
+        43976634,
+        1414634213,
+        43976671,
+        25214171,
+        78241012,
+        24804890,
+        187196435
+      ],
+      "true_location_pins": [
+        {
+          "name": "仁寿殿",
+          "lon": 116.2739955,
+          "lat": 39.9965112,
+          "osm": "way/43977911",
+          "source_url": "https://www.openstreetmap.org/way/43977911",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Renshou Hall at the Summer Palace: dignified broad single-storey imperial hall with gray tiled hip-and-gable roof, deep red wooden columns and door lattice, richly painted teal-green beam brackets, a low pale stone terrace and bronze qilin in the formal forecourt. Sober court architecture, no tall pagoda, no yellow multi-tier pavilion and no Tiananmen likeness.",
+          "minutes": 40,
+          "walk_after": 15,
+          "detail": "宫廷正殿 · 铜麒麟",
+          "time": "10:00"
+        },
+        {
+          "name": "长廊",
+          "lon": 116.2697754,
+          "lat": 39.9968152,
+          "osm": "way/43978818",
+          "source_url": "https://www.openstreetmap.org/way/43978818",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "The Long Corridor of the Summer Palace: an exceptionally long covered wooden lakeside gallery receding in perspective, repeated vermilion columns, intricate teal blue green painted beams and rafters, a gently undulating gray tiled roof with occasional small pavilion sections. Kunming Lake on one side and golden trees on the other. Clearly a linear open covered passage, not a bridge or wall. No readable painted text.",
+          "minutes": 40,
+          "walk_after": 15,
+          "detail": "彩绘长廊 · 临湖秋色",
+          "time": "10:55"
+        },
+        {
+          "name": "佛香阁",
+          "lon": 116.2679821,
+          "lat": 39.9978268,
+          "osm": "way/43977851",
+          "source_url": "https://www.openstreetmap.org/way/43977851",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Tower of Buddhist Incense, Foxiangge, on Longevity Hill: the unmistakable tall OCTAGONAL three-storey pavilion with FOUR projecting yellow glazed eave layers, green-blue painted timber details, red columns, on a massive high square stone terrace reached by long steep symmetrical stairs. Lower palace roofs nestle below and forest crowns the hill. Different from Jingshan Wanchun Pavilion: tall octagonal body with four eave layers, not square three-tier roof.",
+          "minutes": 75,
+          "walk_after": 20,
+          "detail": "八角佛阁 · 登高望湖",
+          "time": "11:50"
+        },
+        {
+          "name": "清晏舫",
+          "lon": 116.2636803,
+          "lat": 39.9967365,
+          "osm": "way/727042890",
+          "source_url": "https://www.openstreetmap.org/way/727042890",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Qingyanfang, the Marble Boat at Summer Palace: a stationary pale gray-white stone pleasure boat at the northwest shore of Kunming Lake, low broad stone hull, two-storey European-influenced superstructure painted to resemble marble, decorative arched windows and ornate balustrades, large round paddlewheel-like side ornaments. It is fixed architectural sculpture at the shore, not a real sailing junk. Calm vivid blue lake and autumn foliage.",
+          "minutes": 45,
+          "walk_after": 55,
+          "detail": "白石画舫 · 湖岸休息",
+          "time": "13:25"
+        },
+        {
+          "name": "十七孔桥",
+          "lon": 116.2714667,
+          "lat": 39.9894892,
+          "osm": "way/187196435",
+          "source_url": "https://www.openstreetmap.org/way/187196435",
+          "coordinate_status": "OSM mapped feature representative point; not a navigation entrance",
+          "art_english": "Seventeen-Arch Bridge over Kunming Lake: long gently arched white-gray stone bridge with SEVENTEEN semicircular openings graded larger toward the center, continuous carved white stone balustrades with numerous small stone lion posts. Connects Nanhu Island and east bank, broad lake foreground and restrained willow trees. Render enough of the whole bridge to make the repeated seventeen arches legible; no single-hump bridge or golden palace roof.",
+          "minutes": 55,
+          "walk_after": 0,
+          "detail": "十七桥洞 · 昆明湖风",
+          "time": "15:05"
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 200
+    },
+    "edge_blending": "contiguous white-paper removal plus a small luminous edge"
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheets",
+    "checked": [
+      "Five beyond-Fourth-Ring routes with sourced coordinates",
+      "Bold saturated palettes and prominent 四环外 heading",
+      "True OSM basemap, north arrow, scale, route and landmark arrows",
+      "Five recognizable detailed landmarks per poster",
+      "Readable local Chinese typography",
+      "Native artwork retained and zero image uploads"
+    ]
+  },
+  "art_direction": {
+    "style": "Bold saturated architectural travel illustration with locally typeset Chinese labels",
+    "composition": "Full-canvas north-up OSM map, prominent Beijing beyond-Fourth-Ring headline, five landmark callouts, location pins and directional arrows",
+    "route_focus": "颐和园浓彩秋游",
+    "geographic_emphasis": "西北四环外",
+    "reference_policy": "Text-only landmark artwork; no binary model references"
+  },
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file"
+  ]
+}

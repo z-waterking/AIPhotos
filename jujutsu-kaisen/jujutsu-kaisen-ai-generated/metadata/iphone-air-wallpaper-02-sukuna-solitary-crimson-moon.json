@@ -1,0 +1,40 @@
+{
+  "output": "../iphone-air-wallpaper-02-sukuna-solitary-crimson-moon.png",
+  "refined_prompt": "../prompts/iphone-air-wallpaper-02-sukuna-solitary-crimson-moon.txt",
+  "size": "1260x2736",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": false,
+  "art_direction": "Peaceful crimson-and-black portrait, ivory kimono, subdued shrine setting.",
+  "composition_variation": "SOLO PORTRAIT OF RYOMEN SUKUNA ONLY. Exactly one character, exactly one head, one torso, one pair of arms. No other people in the background, no companion, no reflection of a person. Sukuna is an adult man in his familiar TWO-ARM HUMAN FORM, short swept-back dusty rose hair, recognizable symmetric black forehead, cheek and nose markings, sharp red eyes, calm self-assured closed-mouth expression. Fully dressed in an elegant ivory-white kimono with dark collar trim and black sash. Relaxed seated head-to-knees portrait on a dark wooden veranda, alone, centered horizontally, hands tucked in sleeves. Head center at 44 percent canvas height, face at 49 percent. A soft vermilion moon behind his shoulders at 61 percent image height. Dim distant shrine roof and sparse red maple leaves near the bottom side edges. Upper 28 percent spacious near-black with faint wine-red haze, no disk or objects. Crimson rim light on ivory fabric, stately calm mood. Polished refined anime painting. Only Sukuna and the empty quiet setting. No other named or unnamed character anywhere.",
+  "generation_size": "1024x1536",
+  "created_at": "2026-10-09T18:29:47.561515+08:00",
+  "postprocessing": {
+    "native_size": "1024x1536",
+    "crop_box": [
+      158,
+      0,
+      866,
+      1536
+    ],
+    "output_size": "1260x2736",
+    "resampling": "Lanczos",
+    "native_sha256": "9ca5aaa9274fc05647502bd0aebb538dc16a9c14413a766b5d8507aa9b0199c6",
+    "note": "Native 1024x1536 PNG preserved in this Codex task artifact directory, native-wallpapers; final wallpaper is center-cropped and resized, not generated natively at 1260x2736."
+  },
+  "wallpaper": {
+    "device": "iPhone Air",
+    "group": "A",
+    "title": "宿傩 · 绯红月夜",
+    "clock_negative_space": "upper 28 percent",
+    "visual_review": "passed",
+    "visual_review_notes": "Compressed contact sheet reviewed: solitary recognizable Sukuna, centered face, clean upper clock space, no second character, text or UI; natural seated pose."
+  },
+  "visible_description": "宿傩独自坐在神社木廊，白色和服、面部纹样与低处绯红月轮形成鲜明对比。"
+}

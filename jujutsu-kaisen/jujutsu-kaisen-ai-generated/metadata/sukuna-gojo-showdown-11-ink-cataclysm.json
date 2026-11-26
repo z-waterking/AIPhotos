@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-11-ink-cataclysm.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "黑白墨灾与选择性红蓝光效结合，宿傩在左上以墨色能量压迫右下方的五条悟。",
+  "composition_variation": "传统水墨负空间融合现代动漫线稿，神龛保持极致骨木细节。"
+}

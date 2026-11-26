@@ -1,0 +1,56 @@
+{
+  "output": "../martial-reflection-03-heart-for-people.png",
+  "refined_prompt": "../prompts/martial-reflection-03-heart-for-people.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "martial-reflection",
+  "series_number": 3,
+  "title": "济人的心",
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第十六回《九阴真经》",
+  "source_url": "https://book.douban.com/annotation/43340577/",
+  "quote_lines": [
+    "二来少了一副救世济人的胸怀，"
+  ],
+  "quote_context": "周伯通转述师兄王重阳之言",
+  "art_direction": "In the courtyard, the same older brother Wang Chongyang speaks gently to the younger Zhou Botong face-to-face and gestures toward the open courtyard gate. Beyond the gate two ordinary adult villagers help each other lift a woven basket on a safe path. The mentor and younger man occupy the near or middle ground; both facial expressions are readable and curious, not angry. The people and their helpful act are visibly real, not a symbol, memory bubble or decorative collage. Soft overcast mountain light.",
+  "sha256": "4f7917ea9e058afc3a19cef9686e3a3e4519f2e8aaa81af0d9bf1e576b5582cc",
+  "native_sha256": "724dae32f7c92f574b01d87d121f9580ba4292702bf284899307521de82da7b7",
+  "prompt_sha256": "f8a9612b266a32b69b9f1c6dd32fdc692c58606a0c60560694b4b2bf1f4d2c18",
+  "created_at_utc": "2026-11-11T02:43:00.017109+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "font_size": 48,
+    "label_font_size": 24,
+    "gradient_start_y": 650,
+    "gradient_max_alpha": 220,
+    "quote_position": [
+      82,
+      808
+    ],
+    "quote_line_spacing": 69,
+    "attribution_position": [
+      84,
+      748
+    ]
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

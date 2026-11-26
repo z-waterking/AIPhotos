@@ -1,0 +1,33 @@
+{
+  "output": "../tao-of-the-mountain-02-looking-back.png",
+  "refined_prompt": "../prompts/tao-of-the-mountain-02-looking-back.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "tao-of-the-mountain",
+  "series_number": 2,
+  "title": "回望",
+  "source_work": "金庸《射雕英雄传》",
+  "art_direction": "On the same quiet morning, the same old Taoist has paused at the edge of the courtyard. He looks down at the circular footprints he has left, then toward a narrow village path opening beyond a low bamboo fence. Show a thoughtful pause with an easy natural posture; no dramatic gesture or extra figures. The soft opening of the path contrasts with the marks circling the courtyard. Restrained mist and cool light.",
+  "sha256": "5b11627b8f7766ab3c8db3fdddbb31d48b5a04c0ab3b22f63a79766e50ccad75",
+  "native_sha256": "5b11627b8f7766ab3c8db3fdddbb31d48b5a04c0ab3b22f63a79766e50ccad75",
+  "prompt_sha256": "0cb3a562cb5d1a8b6b3b9a3fec5ce55313a9ec84d36de7e2cf081bdfeba9f242",
+  "created_at_utc": "2026-11-11T02:11:47.881381+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-bloom-06-riding-with-daughter.png",
+  "refined_prompt": "../prompts/yilan-bloom-06-riding-with-daughter.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-bloom",
+  "series_number": 6,
+  "art_direction": "父亲陪女儿在花树小路骑车。",
+  "sha256": "465e779189b8f656ccabe6b2bb69572f00abc14782381ccb71db88dcd5d46866",
+  "native_sha256": "465e779189b8f656ccabe6b2bb69572f00abc14782381ccb71db88dcd5d46866",
+  "prompt_sha256": "dea9dfd8ce17a5efc2a8c209188a2a29fbeeaa7158dcd29170773d0c5aa8a678",
+  "created_at_utc": "2026-11-12T03:19:06.429141+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-love-03-new-family.png",
+  "refined_prompt": "../prompts/yilan-love-03-new-family.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-love",
+  "series_number": 3,
+  "art_direction": "小家里，两人准备婴儿床与叠好的衣物。",
+  "sha256": "9b329172804578b85e4f43fb396c75d441ef6cd076e3a5a6d92d6849d09073fe",
+  "native_sha256": "9b329172804578b85e4f43fb396c75d441ef6cd076e3a5a6d92d6849d09073fe",
+  "prompt_sha256": "79ced2e9a1db83a65c322d661683a12372cb19fae9220f7155ccc325cdb21a23",
+  "created_at_utc": "2026-11-12T01:36:07.055408+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-08-shattered-heaven.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "破碎天空与浮空城市块环绕神龛，宿傩在右上红色裂界，五条悟从左下蓝色断层冲起。",
+  "composition_variation": "广角失重空间与上下对冲的天空裂缝。"
+}

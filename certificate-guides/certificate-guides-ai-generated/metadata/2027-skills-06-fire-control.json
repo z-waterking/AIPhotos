@@ -1,0 +1,66 @@
+{
+  "output": "../2027-skills-06-fire-control.png",
+  "refined_prompt": "../prompts/2027-skills-06-fire-control.txt",
+  "size": "1024x1536",
+  "quality": "lossless",
+  "model": "none-local-pillow",
+  "execution": "local-retypeset-existing-ai-artwork",
+  "reference_mode": "text-only",
+  "reference_mode_scope": "ancestral image generation; no model request in this operation",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2027-skills",
+  "series_number": 6,
+  "contains_text": true,
+  "art_direction": "Local 2027 information typography on an existing wordless AI illustration.",
+  "planning_year": 2027,
+  "source_urls": [
+    "https://www.119.gov.cn/zfxxgk/fdzdgknr/tzgg/2026/54309.shtml"
+  ],
+  "poster_copy": {
+    "title": "消防设施操作员 初级",
+    "keyword": "消防设施  /  安全监控",
+    "facts": [
+      "消防控制室与设施操作维护方向",
+      "2026版国家职业标准已施行",
+      "2027条件与鉴定时间以官方公告为准"
+    ],
+    "footer": "2027具体安排与条件以官方公告为准"
+  },
+  "source_generation": {
+    "canonical_output": "../2017-skills-06-fire-control.png",
+    "original_generation_record": "../metadata/2017-skills-06-fire-control.json",
+    "original_prompt": "../prompts/2017-skills-06-fire-control.txt",
+    "original_model": "gpt-image-2",
+    "original_prompt_sha256": "7ef8f69523434702b6a97f729661f7fe76627b3c22e30d328611ea043adc8253",
+    "original_output_sha256": "12fcb0607e678dc7ba2e9db37a5f77192b4901bfe96938d444f8afc07d9fe6e8",
+    "native_sha256": "dd1b46e050f33daf6aef4c4f02170577ebdffa81c3ab68084adeb0e11ed9dfe9",
+    "input_role": "reused wordless illustration; no new image generation"
+  },
+  "prompt_sha256": "36d3613d35053a2273c047e666af16a52c3627ecffe20cb2fe1dee53351ff1c4",
+  "native_sha256": "dd1b46e050f33daf6aef4c4f02170577ebdffa81c3ab68084adeb0e11ed9dfe9",
+  "sha256": "376c130dfea9a14e3ade5b6ff2e7340eca4dab1d4f28295bb8c60b939b3a84c4",
+  "created_at_utc": "2026-11-03T05:55:44.453707+00:00",
+  "postprocessing": {
+    "method": "local-retypeset-existing-ai-artwork",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "artwork_box": [
+      0,
+      0,
+      1024,
+      1536
+    ]
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path",
+    "source_generation.native_path"
+  ]
+}

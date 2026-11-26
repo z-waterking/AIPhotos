@@ -1,0 +1,56 @@
+{
+  "output": "../martial-reflection-02-absorbed.png",
+  "refined_prompt": "../prompts/martial-reflection-02-absorbed.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "martial-reflection",
+  "series_number": 2,
+  "title": "过于着迷",
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第十六回《九阴真经》",
+  "source_url": "https://book.douban.com/annotation/43340577/",
+  "quote_lines": [
+    "但一来过于着迷，"
+  ],
+  "quote_context": "周伯通转述师兄王重阳之言",
+  "art_direction": "At the same courtyard at quiet dusk, the same young adult Zhou Botong is alone, deeply focused on repeating a gentle unarmed practice movement with feet grounded. A simple untouched cup of tea rests on a nearby stone bench, and the courtyard surface is subtly worn by frequent practice. Show concentration and lost track of time through his pose, not magical energy, exaggeration or violence. Moody but natural evening light, cinematic mid-wide framing, clear complete single scene.",
+  "sha256": "0d6cf1e412fb1107c15e2f20e54ca4c4975f4eb2b98b2bb860b14a8fba93bbb3",
+  "native_sha256": "2b33a8caf9f2c6ed64586293ffbca08bab6691629762afa1ccfa7e84ec69b0b8",
+  "prompt_sha256": "bf06698061a57b79c9c9128040aedffd899c843d280d0a609dea3ef498941228",
+  "created_at_utc": "2026-11-11T02:43:02.518122+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "font_size": 48,
+    "label_font_size": 24,
+    "gradient_start_y": 650,
+    "gradient_max_alpha": 220,
+    "quote_position": [
+      82,
+      808
+    ],
+    "quote_line_spacing": 69,
+    "attribution_position": [
+      84,
+      748
+    ]
+  },
+  "publication_redactions": [
+    "postprocessing.font_path"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "output": "../heroic-reflection-01-grassland-last-dialogue.png",
+  "refined_prompt": "../prompts/heroic-reflection-01-grassland-last-dialogue.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-reflection",
+  "series_number": 1,
+  "contains_text": true,
+  "art_direction": "原创历史插画：辽阔蒙古草原、郭靖与大汗勒马对谈，一圈草地与万里山河形成对照。",
+  "visible_description": "暮色草原上，郭靖与大汗骑马相对，马鞭圈示一小块土地；右侧排入原创中文文案。",
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "text_is_original_paraphrase": true,
+  "poster_text": [
+    "江山终有尽",
+    "人间盼太平",
+    "万里山河，终归尘土；",
+    "少一些征伐，多一些生息。"
+  ],
+  "native_sha256": "03a68e3d3632779adb259b366ea7108f6f63f403698b3d2a3274fb9fec98c645",
+  "sha256": "5fa73a2683a3e7466cb0d27574055f7aac6dce78c961ee2b2b32b8048226706e",
+  "prompt_sha256": "49090c2bdb1e89063ac8f1e2c9e56d7e080e3c1e15cb03facf9a6b5ef8be504c",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle translucent dark gradient on right side"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-07-scarlet-rain.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-ten-variations.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "猩红暴雨与蓝白停滞雨幕切分废墟，宿傩立于左上屋脊，五条悟位于右下街道。",
+  "composition_variation": "雨线、能量流和人物视线共同强化左上至右下斜线。"
+}

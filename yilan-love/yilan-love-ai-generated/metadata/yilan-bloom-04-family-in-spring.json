@@ -1,0 +1,32 @@
+{
+  "output": "../yilan-bloom-04-family-in-spring.png",
+  "refined_prompt": "../prompts/yilan-bloom-04-family-in-spring.txt",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "fictional_characters": true,
+  "series": "yilan-bloom",
+  "series_number": 4,
+  "art_direction": "父母在花树庭院照看骑小单车的女儿。",
+  "sha256": "d270d68f598a44f9de0e11faa974d18cbfdfac8ac360dd52950e5cc402df67ca",
+  "native_sha256": "d270d68f598a44f9de0e11faa974d18cbfdfac8ac360dd52950e5cc402df67ca",
+  "prompt_sha256": "f8e6ff357012ca5e47df7fc9b13cc4e440a7154bb0a3f989b65c9dc0b3f55e6b",
+  "created_at_utc": "2026-11-12T03:18:48.269667+00:00",
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none"
+  }
+}

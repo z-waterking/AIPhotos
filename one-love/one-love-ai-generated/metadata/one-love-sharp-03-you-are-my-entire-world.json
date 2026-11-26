@@ -1,0 +1,61 @@
+{
+  "output": "../one-love-sharp-03-you-are-my-entire-world.png",
+  "source_prompt": "../prompts/one-love-sharp-lyric-pair-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-sharp-03-you-are-my-entire-world.txt",
+  "created_at": "2026-10-27T02:55:51.146809+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love-sharp",
+  "series_number": 3,
+  "pair": "one-love-sharp-lyric-pair",
+  "pair_number": 2,
+  "pair_count": 2,
+  "title": "我的世界，唯有你",
+  "art_direction": "THEME: the beloved is my entire world. This must feel like an intimate moment shared by TWO people, the whole world becoming quiet around the one person who matters.\n\nCOMPOSITION: a tight cinematic OVER-THE-SHOULDER close view. The man's black hair, near ear and broad ink-black shoulder fill the leftmost quarter as a cropped foreground silhouette, so the viewer understands he is standing very close to her. His face is mostly outside the frame; do not draw an extra face. The woman's head and upper chest dominate the middle-right, her face at about sixty percent of the image width. Her detailed gray-blue anime eyes look toward his eye position at upper-left, NOT straight at the camera. Her gaze is steady, tender and completely absorbed in him; a tiny relaxed smile, mature expression. Her long black hair sweeps sharply to the right and her ivory ribbon makes one crisp small accent. Her hands stay outside the frame. No handshake and no reaching-out pose.\n\nWORLD METAPHOR: immediately behind her, a quiet Japanese street begins as a few recognizable tiled eaves and overhead wires; toward the frame edges it progressively simplifies into spare icy-cyan perspective lines and finally into broad luminous ivory negative space. The vanishing point and the few sharp graphic diagonals lead subtly toward her eyes. She alone has fully resolved linework, clear skin color, expressive eyes and a narrow vivid vermilion collar. The world beyond her has almost no detail or chroma, as if attention has gently erased everything else. Make this a coherent elegant anime illustration, not a digitally blurred photograph and not a sci-fi vortex. No concentric target, no glowing magic ring, no duplicate eyes, no cosmic props.\n\nLIGHT: a clean hard-sided ivory light plane crosses her cheek; deep blue-black shadows define the long hair and jacket. Fine white rim on her hair separates it from the black foreground shoulder. Strong value contrast balanced with clean sky. The mood is quietly overwhelming love, a moment of mutual recognition. The power comes from her precise gaze, the closeness of the two lovers and the world falling silent, never from a fashion-model pose.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "selected_line_number": 2,
+    "meaning": "You are everything to me.",
+    "use": "Separate original wordless interpretation of one selected short lyric line; no existing visual copied."
+  },
+  "sha256": "4a66a576369acf65b41dfa004f5958b95787ac28c369f6f0e4a59ed49310213a",
+  "native_sha256": "4a66a576369acf65b41dfa004f5958b95787ac28c369f6f0e4a59ed49310213a",
+  "prompt_sha256": "89c07654acf53e5f0b793c248851f53769a67403701d2fb3cd90c5ffb8e30f3e",
+  "source_prompt_sha256": "1cc91bc797f71279ad1f3cd7baf689e74e6ee70afb19aa8d08b22bc030572c9a",
+  "file_size_bytes": 2003070,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "924x1276",
+    "checked": [
+      "Two distinct individual lyric compositions",
+      "Sharp Japanese anime style and coherent palette",
+      "Readable adult romantic expressions and anatomy",
+      "No visible lettering or watermark in canonical artwork",
+      "Native PNG retained without pixel edits"
+    ]
+  }
+}

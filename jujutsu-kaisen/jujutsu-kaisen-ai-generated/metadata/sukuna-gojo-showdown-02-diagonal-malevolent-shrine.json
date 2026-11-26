@@ -1,0 +1,22 @@
+{
+  "output": "../sukuna-gojo-showdown-02-diagonal-malevolent-shrine.png",
+  "refined_prompt": "../prompts/sukuna-gojo-showdown-diagonal-title.txt",
+  "size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "deployment": "Carina gpt-image-2",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "binary_reference_input": false,
+  "reference_count": 0,
+  "references": [],
+  "contains_text": true,
+  "text_overlay": {
+    "content": "伏魔御厨子",
+    "layout": "vertical",
+    "method": "local-raster-overlay",
+    "font": "KaiTi"
+  },
+  "art_direction": "原创横向暗黑动漫关键视觉：宿傩位于左上、五条悟位于右下，双方目光与红蓝能量沿陡峭对角线交锋；巨型骸骨神龛居中压场，并以精确的竖排书法标题标示伏魔御厨子。",
+  "composition_variation": "非对称斜向构图；红黑上半区与蓝白下半区沿左上至右下方向切分，五字标题置于神龛中央偏右的深色留白区。"
+}

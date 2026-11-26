@@ -1,0 +1,56 @@
+{
+  "output": "../one-love-03-morning-light-two-cups.png",
+  "source_prompt": "../prompts/one-love-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-03-morning-light-two-cups.txt",
+  "created_at": "2026-10-27T02:29:32.259884+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "reference_count": 0,
+  "references": [],
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love",
+  "series_number": 3,
+  "title": "平凡早晨里的全部",
+  "art_direction": "A lived-in sunlit apartment kitchen during an ordinary spring morning. The same fictional adult woman, wearing an opaque cream cotton shirt with sleeves casually rolled up, sits at a small wooden breakfast table on the right. The adult man in a relaxed muted-blue shirt stands at the left, gently placing a warm ochre ceramic mug within her reach with one hand. She has just looked up and smiles naturally at him. A second pale-blue mug already sits close to his empty chair. A small plate with two pieces of toast, a butter dish, and one slender glass vase holding a single white flower are the only main table objects. Keep the two mugs clearly separate, naturally round, and modestly sized. Medium-wide side view at seated eye level, both faces visible in three-quarter profile, believable body proportions, unambiguous hands. Morning sun enters from a large window behind and to the side, luminous translucent linen curtains, rectangles of warm light falling across the table. Outside the window is softly suggested leafy green, inside is clean warm wood and ivory plaster. An intimate ordinary gesture, light-hearted and unposed, ample breathing room.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "use": "Abstract themes of lasting commitment and everyday companionship; original composition and fictional characters, no lyrics rendered."
+  },
+  "sha256": "47e4df3aa3da07ca5bb2f9c72c378862bebb5ca1df38d24dcf48cc4872b1bfd1",
+  "native_sha256": "47e4df3aa3da07ca5bb2f9c72c378862bebb5ca1df38d24dcf48cc4872b1bfd1",
+  "prompt_sha256": "ddd0a9daa12951a9d18e2a97020e9f7c7c2913bd2b491999782f3009c649ef6f",
+  "source_prompt_sha256": "6639a6730638f1ef27634f01523b6b00019de21b6fce4a8b02448fe00236a79a",
+  "file_size_bytes": 2897156,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-contact-sheet",
+    "preview_size": "1280x936",
+    "checked": [
+      "Four distinct original compositions",
+      "Readable caring gestures and adult characters",
+      "Natural integration and plausible visible anatomy",
+      "No visible text, logo or watermark",
+      "Native PNG unchanged"
+    ]
+  }
+}

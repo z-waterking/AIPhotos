@@ -1,0 +1,43 @@
+{
+  "output": "../panzi-last-meal-04-the-long-road-away.png",
+  "refined_prompt": "../prompts/panzi-last-meal-04-the-long-road-away.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "panzi-last-meal",
+  "series_number": 4,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "Two adult men seen from behind walking away together down a small quiet Chinese lane at twilight: Wu Xie in his dark navy jacket a half step ahead, Pan Zi in olive-gray jacket following beside him, both carrying modest canvas bags. Their natural silhouettes are visible against a cool distant blue dusk, without depicting any expedition, weapons, injury or death. The mood is gentle, bittersweet and understated; neither character faces the camera.",
+  "visible_description": "潘子跟随吴邪远行，故事以背影暗示离别。",
+  "display_title": "一路向前",
+  "poster_text": "他们离开了；后来，潘子没有再回来。",
+  "text_is_original_paraphrase": true,
+  "source_work": "南派三叔《盗墓笔记》",
+  "source_chapter": "《盗墓笔记8》大结局第七十四章（二）",
+  "source_url": "http://www.daomubiji.com/dajieju-7402.html",
+  "adaptation_note": "小三爷到门口叫人、出发前回望和离开路上的画面为基于用户叙述的虚构改编；潘子是否预感归期为吴邪的猜测。",
+  "native_sha256": "5411ed2371b40ddec12bb001b6f9c07b203c5d739fe6e06d999bcc9d2f5b6950",
+  "sha256": "c6a6d635226e6d74a03756e6efacec5384eb15085347ce93320760a30735c750",
+  "prompt_sha256": "1966314692605eb750a134799a56561f9aee32377b22b91a9cab4307d1aba0c6",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

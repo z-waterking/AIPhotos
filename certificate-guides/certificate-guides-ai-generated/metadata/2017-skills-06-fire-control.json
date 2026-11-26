@@ -1,0 +1,51 @@
+{
+  "output": "../2017-skills-06-fire-control.png",
+  "refined_prompt": "../prompts/2017-skills-06-fire-control.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-skills",
+  "series_number": 6,
+  "contains_text": true,
+  "art_direction": "A fictional adult fire-facility operator in ordinary dark workwear calmly checks a modern fire-control room in a clean public building. An adult colleague points toward a neutral, simplified unmarked equipment panel; screens are blank or show abstract nonlinguistic lights only. No flame, emergency, firefighting, official uniform, badges, labels or text. Convey alertness and careful maintenance through thoughtful lighting; rich charcoal, muted red and warm amber.",
+  "historical_year": 2017,
+  "source_urls": [
+    "https://shpx.hbgyzy.edu.cn/info/1006/1009.htm"
+  ],
+  "poster_copy": {
+    "title": "建（构）筑物消防员 初级",
+    "keyword": "消防设施  /  安全监控",
+    "facts": [
+      "2017年湖北培训面向本省居住人员",
+      "该期18—60岁、初中以上且身心健康",
+      "培训结业与职业技能鉴定是两步"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "7ef8f69523434702b6a97f729661f7fe76627b3c22e30d328611ea043adc8253",
+  "native_sha256": "dd1b46e050f33daf6aef4c4f02170577ebdffa81c3ab68084adeb0e11ed9dfe9",
+  "sha256": "12fcb0607e678dc7ba2e9db37a5f77192b4901bfe96938d444f8afc07d9fe6e8",
+  "created_at_utc": "2026-11-03T05:18:32.250496+00:00",
+  "postprocessing": {
+    "method": "local-gradient-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "gradient_start_y": 610,
+    "gradient_max_alpha": 232
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

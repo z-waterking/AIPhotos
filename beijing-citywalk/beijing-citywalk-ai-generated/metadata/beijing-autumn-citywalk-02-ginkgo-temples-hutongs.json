@@ -1,0 +1,947 @@
+{
+  "output": "../beijing-autumn-citywalk-02-ginkgo-temples-hutongs.png",
+  "refined_prompt": "../prompts/beijing-autumn-citywalk-02-ginkgo-temples-hutongs.txt",
+  "source_prompt": "../prompts/beijing-autumn-citywalk-art-direction.txt",
+  "created_at": "2026-10-29T02:08:10.524002+00:00",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "output_format": "png",
+  "contains_text": true,
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "beijing-autumn-citywalk",
+  "series_number": 2,
+  "title": "银杏与书香",
+  "art_direction": "Full-bleed locally rendered geographic OpenStreetMap roads, buildings, parks and water; north-up and scale-correct; original detailed landmark illustrations placed as callouts with leaders to actual WGS84 pins; readable Chinese stop list at top.",
+  "sha256": "c7841cec6e19a70c0e6d2ab4da4a0d1d949a93f4699fc917c6e4e10e54e9c8ea",
+  "native_sha256": "961319b1629fd0ead2f4caebdf0019a448bb52c7911885e1805899f42fe54603",
+  "prompt_sha256": "2907d83466ce595370d1f46d006d15f1ff523b1da1451fc7eefe107f8f1b521c",
+  "source_prompt_sha256": "8d15729c18cbd03fe7016b755beca524306e0894ce7801f4fb86470a20909dcd",
+  "file_size_bytes": 1039411,
+  "route": {
+    "day_duration_hours": 6,
+    "total_minutes": 360,
+    "stops": [
+      {
+        "name": "地坛公园",
+        "time": "10:00",
+        "minutes": 70,
+        "walk_after": 15,
+        "detail": "方泽坛外观 · 银杏大道",
+        "art": "Ditan Park: the Fangze Altar is an OPEN-AIR DOUBLE-TIER SQUARE pale stone altar platform with repeated white stone balustrades and broad stairways. Surround it with straight rows of golden ginkgo trees and a small red boundary wall. No roof on the altar. It is square, NOT the round Temple of Heaven and not a temple pavilion. Show the square layered stone geometry legibly."
+      },
+      {
+        "name": "五道营胡同",
+        "time": "11:25",
+        "minutes": 80,
+        "walk_after": 10,
+        "detail": "灰砖绿窗 · 咖啡慢午餐",
+        "art": "Wudaoying Hutong: a low intimate Beijing lane with gray brick single-storey courtyard facades and dark gray tiled eaves, tasteful small cafe with muted forest-green wooden window frames and a little pale awning, a bicycle and a few outdoor stools. Fresh quiet leafy atmosphere and yellow ginkgo foliage. No big monument, no modern tower, no European cathedral. All signs empty."
+      },
+      {
+        "name": "雍和宫",
+        "time": "12:55",
+        "minutes": 70,
+        "walk_after": 10,
+        "detail": "黄瓦红墙 · 宫殿式古建",
+        "art": "Yonghegong Lama Temple: a recognizably grand axial palace-temple grouping, richly detailed yellow-glazed upturned roofs, vermilion walls and pillars, green and blue painted bracket sets, several successive halls with the taller Wanfu Pavilion behind. One restrained decorative gateway near front. Traditional Han and Tibetan palace atmosphere, accurate layered yellow roof shapes, not a generic gray-roof hutong temple."
+      },
+      {
+        "name": "孔庙国子监",
+        "time": "14:15",
+        "minutes": 40,
+        "walk_after": 15,
+        "detail": "琉璃牌坊 · 古柏与书香",
+        "art": "Confucius Temple and Imperial College street: foreground the distinctive Beijing Guozijian glazed ceremonial archway, three openings, yellow glazed rooflets and glazed pale ornamental pillars with blue-green detailing; behind it a calm scholarly courtyard, ancient cypress trees and gray perimeter walls. A small inset-depth glimpse of the Biyong hall: square pavilion with yellow double-eave pyramidal roof, white stone bridges over a circular water ring. Keep the glazed archway the main identifiable feature, not another Lama Temple complex."
+      },
+      {
+        "name": "方家胡同",
+        "time": "15:10",
+        "minutes": 50,
+        "walk_after": 0,
+        "detail": "旧院落更新 · 文创小空间",
+        "art": "Fangjia Hutong: a gray-brick old courtyard entrance opening to an understated adaptive-reuse arts courtyard with a small red-brick former industrial workshop, large simple steel-framed windows, gray tiled walls and a few planted trees. A quiet local creative compound, not a palace. Distinguish it from Wudaoying by the modest red-brick workshop and the deeper courtyard. No painted number or shop lettering."
+      }
+    ],
+    "ordered_route": [
+      "地坛公园",
+      "五道营胡同",
+      "雍和宫",
+      "孔庙国子监",
+      "方家胡同"
+    ],
+    "walking_distance_estimate": "约5–6公里",
+    "distance_includes_internal_wandering": true,
+    "schematic_not_to_scale": false,
+    "start_metro": "2号线 安定门",
+    "end_metro": "2号线 安定门",
+    "lunch": "11:25 五道营早午餐",
+    "schedule_includes_meals_and_rest": true,
+    "source_record": "../prompts/beijing-autumn-citywalk-02-ginkgo-temples-hutongs-route.txt",
+    "information_checked_on": "2026-10-29",
+    "sources": [
+      "https://www.visitbeijing.com.cn/article/4TMfuHLV6gj",
+      "https://www.visitbeijing.com.cn/article/4OfjVwIRufr",
+      "https://www.visitbeijing.com.cn/article/4KD1E30MKSS",
+      "https://www.visitbeijing.com.cn/article/47QsWbTYgKx",
+      "https://www.visitbeijing.com.cn/article/4QCmT9pA4LX",
+      "https://www.visitbeijing.com.cn/article/4T273Qs1MYI",
+      "https://www.visitbeijing.com.cn/article/4TfKTSiv4Me",
+      "https://www.visitbeijing.com.cn/article/4TmWL7fuJqu",
+      "https://www.visitbeijing.com.cn/topic/zhongzhoumanbu",
+      "https://www.visitbeijing.com.cn/article/47QrUZLEGvD",
+      "https://www.visitbeijing.com.cn/article/4OcPCG3cxBz",
+      "https://www.visitbeijing.com.cn/article/4QGS0KM0U3c",
+      "https://www.visitbeijing.com.cn/article/4LQjQ6EZsKi",
+      "https://www.visitbeijing.com.cn/article/4Mz2p8Bb3Ne"
+    ],
+    "research_record": "../prompts/beijing-autumn-citywalk-sources.txt",
+    "geographic_basemap": true,
+    "navigation_verified": false,
+    "map_research_record": "../prompts/beijing-autumn-citywalk-map-route-research.txt",
+    "poi_record": "../prompts/beijing-autumn-citywalk-map-stop-points.txt"
+  },
+  "postprocessing": {
+    "method": "local-landmark-layout-and-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "Lanczos",
+    "text_overlay": true,
+    "cropped": true,
+    "upscaled": false,
+    "artwork_upscaled": false,
+    "source_landmark_boxes": [
+      [
+        18,
+        89,
+        622,
+        484
+      ],
+      [
+        459,
+        372,
+        1020,
+        704
+      ],
+      [
+        19,
+        626,
+        621,
+        1004
+      ],
+      [
+        487,
+        817,
+        1020,
+        1204
+      ],
+      [
+        19,
+        1124,
+        622,
+        1468
+      ]
+    ],
+    "target_landmark_boxes": [
+      [
+        629,
+        271,
+        883,
+        437
+      ],
+      [
+        22,
+        538,
+        302,
+        704
+      ],
+      [
+        681,
+        680,
+        945,
+        846
+      ],
+      [
+        48,
+        811,
+        277,
+        977
+      ],
+      [
+        256,
+        1039,
+        546,
+        1204
+      ]
+    ],
+    "source_landmark_polygons": [
+      null,
+      [
+        [
+          700,
+          350
+        ],
+        [
+          1024,
+          350
+        ],
+        [
+          1024,
+          719
+        ],
+        [
+          533,
+          719
+        ],
+        [
+          432,
+          635
+        ],
+        [
+          455,
+          503
+        ]
+      ],
+      [
+        [
+          19,
+          635
+        ],
+        [
+          460,
+          620
+        ],
+        [
+          536,
+          716
+        ],
+        [
+          581,
+          777
+        ],
+        [
+          576,
+          818
+        ],
+        [
+          566,
+          844
+        ],
+        [
+          550,
+          917
+        ],
+        [
+          518,
+          955
+        ],
+        [
+          450,
+          1004
+        ],
+        [
+          19,
+          1004
+        ]
+      ],
+      [
+        [
+          600,
+          853
+        ],
+        [
+          925,
+          853
+        ],
+        [
+          1024,
+          965
+        ],
+        [
+          1024,
+          1204
+        ],
+        [
+          487,
+          1204
+        ],
+        [
+          487,
+          997
+        ],
+        [
+          547,
+          942
+        ]
+      ],
+      [
+        [
+          19,
+          1100
+        ],
+        [
+          249,
+          1100
+        ],
+        [
+          343,
+          1154
+        ],
+        [
+          415,
+          1154
+        ],
+        [
+          419,
+          1227
+        ],
+        [
+          516,
+          1268
+        ],
+        [
+          620,
+          1322
+        ],
+        [
+          620,
+          1468
+        ],
+        [
+          19,
+          1468
+        ]
+      ]
+    ],
+    "edge_blending": "local selection polygons and contiguous paper removal; subtle glow over real geographic map",
+    "landmark_labels": [
+      {
+        "stop": "地坛公园",
+        "position": [
+          606,
+          439
+        ],
+        "landmark_arrow": [
+          [
+            756,
+            428
+          ],
+          [
+            608,
+            600
+          ]
+        ],
+        "stop_number": 1,
+        "pin_wgs84": [
+          116.409788,
+          39.9514565
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/78050667"
+      },
+      {
+        "stop": "五道营胡同",
+        "position": [
+          12,
+          706
+        ],
+        "landmark_arrow": [
+          [
+            162,
+            695
+          ],
+          [
+            464,
+            843
+          ]
+        ],
+        "stop_number": 2,
+        "pin_wgs84": [
+          116.4063623,
+          39.9469886
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/30662318"
+      },
+      {
+        "stop": "雍和宫",
+        "position": [
+          663,
+          848
+        ],
+        "landmark_arrow": [
+          [
+            813,
+            837
+          ],
+          [
+            658,
+            920
+          ]
+        ],
+        "stop_number": 3,
+        "pin_wgs84": [
+          116.4110049,
+          39.9455793
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/24825312"
+      },
+      {
+        "stop": "孔庙国子监",
+        "position": [
+          12,
+          979
+        ],
+        "landmark_arrow": [
+          [
+            162,
+            968
+          ],
+          [
+            491,
+            926
+          ]
+        ],
+        "stop_number": 4,
+        "pin_wgs84": [
+          116.4070065,
+          39.9454743
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/227782231"
+      },
+      {
+        "stop": "方家胡同",
+        "position": [
+          251,
+          1206
+        ],
+        "landmark_arrow": [
+          [
+            401,
+            1058
+          ],
+          [
+            464,
+            1078
+          ]
+        ],
+        "stop_number": 5,
+        "pin_wgs84": [
+          116.4063459,
+          39.9426725
+        ],
+        "pin_source": "https://www.openstreetmap.org/way/169219990"
+      }
+    ],
+    "route_arrow_count": 15,
+    "geographic_map": {
+      "source": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "attribution_url": "https://www.openstreetmap.org/copyright",
+      "rendering": "local-vector",
+      "coordinate_system": "EPSG:4326",
+      "projection": "EPSG:3857",
+      "bounds_wgs84": [
+        116.39524084507042,
+        39.93427201321959,
+        116.41975915492958,
+        39.9624664763512
+      ],
+      "canvas_box": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "data_sha256": "54f78e343c1ffc38cef2b32389dfbeda1b14515da71329fc5af8fc86be1e4fbe",
+      "data_retrieved_at": "2026-10-29T02:32:36.029683+00:00",
+      "element_count": 37099,
+      "feature_counts": {
+        "landuse": 39,
+        "areas": 2,
+        "buildings": 1144,
+        "water": 9,
+        "roads": 698
+      },
+      "route_geometry": "approximate-waypoint-guide",
+      "navigation_verified": false,
+      "route_method": "Dijkstra over OSM public road/path graph between selected entrance and street waypoints; no live gate or turn validation",
+      "route_way_ids": [
+        177084628,
+        177084623,
+        1509730085,
+        967443890,
+        967443889,
+        967443888,
+        142098685,
+        142098662,
+        142098673,
+        142098683,
+        103143721,
+        30662318,
+        189373818,
+        189373819,
+        173308108,
+        34104274,
+        1086001487,
+        1086001489,
+        384269071,
+        30767439,
+        24804512,
+        169219990,
+        30767555,
+        30767563
+      ],
+      "route_wgs84": [
+        [
+          116.4063763,
+          39.9521489
+        ],
+        [
+          116.4075354,
+          39.9522448
+        ],
+        [
+          116.4083457,
+          39.9523119
+        ],
+        [
+          116.4097129,
+          39.9524249
+        ],
+        [
+          116.4097618,
+          39.9520866
+        ],
+        [
+          116.4097669,
+          39.952052
+        ],
+        [
+          116.4097618,
+          39.9520866
+        ],
+        [
+          116.4097129,
+          39.9524249
+        ],
+        [
+          116.4083457,
+          39.9523119
+        ],
+        [
+          116.4075354,
+          39.9522448
+        ],
+        [
+          116.4063763,
+          39.9521489
+        ],
+        [
+          116.4063529,
+          39.9521469
+        ],
+        [
+          116.4021498,
+          39.9517789
+        ],
+        [
+          116.4021147,
+          39.9520521
+        ],
+        [
+          116.4021498,
+          39.9517789
+        ],
+        [
+          116.4021722,
+          39.9516046
+        ],
+        [
+          116.4022134,
+          39.9515416
+        ],
+        [
+          116.4022587,
+          39.9514724
+        ],
+        [
+          116.4022625,
+          39.9513383
+        ],
+        [
+          116.4022339,
+          39.9512873
+        ],
+        [
+          116.4021789,
+          39.9511895
+        ],
+        [
+          116.4021694,
+          39.9501481
+        ],
+        [
+          116.4021866,
+          39.9499952
+        ],
+        [
+          116.4022051,
+          39.9492047
+        ],
+        [
+          116.402206,
+          39.9491481
+        ],
+        [
+          116.4022066,
+          39.9491076
+        ],
+        [
+          116.4022122,
+          39.9490621
+        ],
+        [
+          116.4022343,
+          39.9485994
+        ],
+        [
+          116.4022369,
+          39.9485348
+        ],
+        [
+          116.4022635,
+          39.9484228
+        ],
+        [
+          116.4023445,
+          39.9483522
+        ],
+        [
+          116.4024969,
+          39.9483569
+        ],
+        [
+          116.4025124,
+          39.9482716
+        ],
+        [
+          116.4025289,
+          39.9481809
+        ],
+        [
+          116.402557,
+          39.9480266
+        ],
+        [
+          116.4025529,
+          39.9479271
+        ],
+        [
+          116.4025516,
+          39.9479046
+        ],
+        [
+          116.4025509,
+          39.9478938
+        ],
+        [
+          116.4025612,
+          39.9474501
+        ],
+        [
+          116.402556,
+          39.9474328
+        ],
+        [
+          116.4025337,
+          39.9473808
+        ],
+        [
+          116.4025386,
+          39.9472628
+        ],
+        [
+          116.4025095,
+          39.9472526
+        ],
+        [
+          116.4025339,
+          39.9472326
+        ],
+        [
+          116.4026666,
+          39.9471237
+        ],
+        [
+          116.4029787,
+          39.9471299
+        ],
+        [
+          116.40318,
+          39.9470628
+        ],
+        [
+          116.4043173,
+          39.9470308
+        ],
+        [
+          116.4043417,
+          39.9471131
+        ],
+        [
+          116.40439,
+          39.9471583
+        ],
+        [
+          116.4047709,
+          39.9472241
+        ],
+        [
+          116.4059454,
+          39.9472899
+        ],
+        [
+          116.4075461,
+          39.9473664
+        ],
+        [
+          116.4075654,
+          39.9469754
+        ],
+        [
+          116.4089586,
+          39.9469604
+        ],
+        [
+          116.4094023,
+          39.9469556
+        ],
+        [
+          116.4094401,
+          39.9469552
+        ],
+        [
+          116.4102729,
+          39.9469462
+        ],
+        [
+          116.4102796,
+          39.9467662
+        ],
+        [
+          116.4102943,
+          39.9463736
+        ],
+        [
+          116.4103117,
+          39.9462887
+        ],
+        [
+          116.4103399,
+          39.9461515
+        ],
+        [
+          116.4103562,
+          39.945865
+        ],
+        [
+          116.4103641,
+          39.9457261
+        ],
+        [
+          116.4104347,
+          39.945727
+        ],
+        [
+          116.4104686,
+          39.9446603
+        ],
+        [
+          116.4104845,
+          39.9440197
+        ],
+        [
+          116.4105064,
+          39.9438038
+        ],
+        [
+          116.4106546,
+          39.943804
+        ],
+        [
+          116.4107294,
+          39.9438048
+        ],
+        [
+          116.4107276,
+          39.9438627
+        ],
+        [
+          116.4110448,
+          39.9438702
+        ],
+        [
+          116.4107276,
+          39.9438627
+        ],
+        [
+          116.4107294,
+          39.9438048
+        ],
+        [
+          116.4106546,
+          39.943804
+        ],
+        [
+          116.4105064,
+          39.9438038
+        ],
+        [
+          116.4104499,
+          39.9437997
+        ],
+        [
+          116.4104419,
+          39.94409
+        ],
+        [
+          116.4090647,
+          39.9440837
+        ],
+        [
+          116.4079553,
+          39.9440734
+        ],
+        [
+          116.407426,
+          39.9440685
+        ],
+        [
+          116.4054136,
+          39.9440393
+        ],
+        [
+          116.4054397,
+          39.9433234
+        ],
+        [
+          116.4049504,
+          39.9433293
+        ],
+        [
+          116.4049332,
+          39.9426482
+        ],
+        [
+          116.4078699,
+          39.9426988
+        ],
+        [
+          116.407902,
+          39.9421067
+        ],
+        [
+          116.4079075,
+          39.9420053
+        ],
+        [
+          116.4065104,
+          39.9419605
+        ]
+      ],
+      "true_location_pins": [
+        {
+          "route": 2,
+          "stop": 1,
+          "name": "地坛公园（方泽坛）",
+          "lat": 39.9514565,
+          "lon": 116.409788,
+          "osm": "way/78050667",
+          "source": "https://www.openstreetmap.org/way/78050667",
+          "coordinate_status": "OSM named Ditan altar precinct bounding-box center; not a surveyed altar center",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 2,
+          "stop": 2,
+          "name": "五道营胡同",
+          "lat": 39.9469886,
+          "lon": 116.4063623,
+          "osm": "way/30662318",
+          "source": "https://www.openstreetmap.org/way/30662318",
+          "coordinate_status": "OSM street representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 2,
+          "stop": 3,
+          "name": "雍和宫",
+          "lat": 39.9455793,
+          "lon": 116.4110049,
+          "osm": "way/24825312",
+          "source": "https://www.openstreetmap.org/way/24825312",
+          "coordinate_status": "OSM temple precinct representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 2,
+          "stop": 4,
+          "name": "孔庙国子监（辟雍）",
+          "lat": 39.9454743,
+          "lon": 116.4070065,
+          "osm": "way/227782231",
+          "source": "https://www.openstreetmap.org/way/227782231",
+          "coordinate_status": "OSM named Biyong building bounding-box center",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        },
+        {
+          "route": 2,
+          "stop": 5,
+          "name": "方家胡同",
+          "lat": 39.9426725,
+          "lon": 116.4063459,
+          "osm": "way/169219990",
+          "source": "https://www.openstreetmap.org/way/169219990",
+          "coordinate_status": "OSM street representative point",
+          "crs": "EPSG:4326 / WGS84",
+          "not_navigation_entrance": true
+        }
+      ],
+      "north_up": true,
+      "scale_bar_meters": 200
+    }
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-previews-and-contact-sheet",
+    "checked": [
+      "Full-bleed real OSM geography",
+      "North-up map with scale bar",
+      "Five detailed landmarks and actual location pins",
+      "Readable Chinese text",
+      "Route arrows and guide caveat",
+      "Visible OSM attribution, ODbL and copyright URL",
+      "Native AI artwork preserved"
+    ]
+  },
+  "modified_at": "2026-10-29T02:39:49.641849+00:00",
+  "publication_redactions": [
+    "native_file",
+    "postprocessing.font_path",
+    "postprocessing.geographic_map.data_file",
+    "postprocessing.title_font_path"
+  ]
+}

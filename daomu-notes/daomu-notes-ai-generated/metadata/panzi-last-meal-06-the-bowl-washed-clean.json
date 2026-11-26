@@ -1,0 +1,43 @@
+{
+  "output": "../panzi-last-meal-06-the-bowl-washed-clean.png",
+  "refined_prompt": "../prompts/panzi-last-meal-06-the-bowl-washed-clean.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "panzi-last-meal",
+  "series_number": 6,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A tender final scene inside the same modest room: Wu Xie in the navy jacket is alone at a simple sink, quietly washing the SAME white bowl with cobalt-blue rim; chopsticks lie beside the sink. On the table in the background is a single open plain beer bottle and an empty unoccupied stool, as a quiet toast to an absent friend. A soft beam of cool evening light touches the washed bowl. His face is subdued but dignified; no visible second person, no ghost or hallucination, no fake text.",
+  "visible_description": "吴邪在空屋里清洗碗筷，记起潘子并默默送别。",
+  "display_title": "未说出口",
+  "poster_text": "他想，也许潘子早已想到，自己可能回不来了。",
+  "text_is_original_paraphrase": true,
+  "source_work": "南派三叔《盗墓笔记》",
+  "source_chapter": "《盗墓笔记8》大结局第七十四章（二）",
+  "source_url": "http://www.daomubiji.com/dajieju-7402.html",
+  "adaptation_note": "小三爷到门口叫人、出发前回望和离开路上的画面为基于用户叙述的虚构改编；潘子是否预感归期为吴邪的猜测。",
+  "native_sha256": "3b586adc8cd6f87de2f22bba4b9f9a95b40df5f7acafc51e2e1ebef2cb00e627",
+  "sha256": "cc24d5390c4ae8183597d76420928bb7ab7af5f2014c658b96c4d6bdf0a4a8b4",
+  "prompt_sha256": "6fcea28989aa280044860abdc434d0d4241dabcab8dbd86db25bfd165f0c8a5f",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

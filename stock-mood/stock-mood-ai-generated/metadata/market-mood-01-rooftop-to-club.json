@@ -1,0 +1,41 @@
+{
+  "output": "../market-mood-01-rooftop-to-club.png",
+  "refined_prompt": "../prompts/market-mood-01-rooftop-to-club.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "market-mood",
+  "series_number": 1,
+  "contains_text": true,
+  "art_direction": "竖屏双场景股市幽默海报：冷色安全天台与暖色华丽会所入口，同一人物情绪逆转。",
+  "visible_description": "同一位股民上午在天台苦恼看手机，下午笑着走进灯火明亮的会所。",
+  "fictional": true,
+  "poster_text": [
+    "股民的一天",
+    "开盘上了天台",
+    "收盘赶去会所"
+  ],
+  "native_sha256": "529153ba82536369e7441b316ee85d30caa94f17f88a74c58ccd738b5f67cacf",
+  "sha256": "90fc737d8012005f530e5b7cc707ff9e670ca4a78d4fe57f95836268e107b576",
+  "prompt_sha256": "e6b86b65bb63ae973c454e4bca92ca00db8bd874629b44532b2f5f1e75ea50ef",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "three translucent rounded dark caption bands"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

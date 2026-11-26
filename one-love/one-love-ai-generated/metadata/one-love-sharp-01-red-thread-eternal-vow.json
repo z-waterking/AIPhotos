@@ -1,0 +1,57 @@
+{
+  "output": "../one-love-sharp-01-red-thread-eternal-vow.png",
+  "source_prompt": "../prompts/one-love-sharp-art-direction.txt",
+  "refined_prompt": "../prompts/one-love-sharp-01-red-thread-eternal-vow.txt",
+  "created_at": "2026-10-27T02:39:18.945229+00:00",
+  "execution": "azure-text-to-image",
+  "model": "gpt-image-2",
+  "deployment": "gpt-image-2",
+  "endpoint": "https://carina-aih-eastus2.openai.azure.com",
+  "api_version": "2025-04-01-preview",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": false,
+  "series": "one-love-sharp",
+  "series_number": 1,
+  "title": "百年以后，依然选择你",
+  "art_direction": "Sharp Japanese anime key visual with angular ink linework, hard-edged cel shading, black/ivory/cyan/vermilion palette, adult heroine holding the viewer-beloved hand, steady tender gaze and an unbroken red thread. Japanese street geometry and sparse seasonal leaves suggest love enduring through passing time.",
+  "inspiration": {
+    "song_title": "One Love",
+    "performer": "ARASHI",
+    "use": "The selected short excerpt inspires lasting vows and the beloved as the center of the world. Original wordless visual interpretation; no lyrics reproduced."
+  },
+  "sha256": "99f62ddfe0aa468fa40e22fe359c61944aad3dd29072cab0d1b1f5db95257e26",
+  "native_sha256": "99f62ddfe0aa468fa40e22fe359c61944aad3dd29072cab0d1b1f5db95257e26",
+  "prompt_sha256": "4e162aeb531ddfff0b33f2c14d6fd03460ed302697a645e42b6389533eb4dd39",
+  "source_prompt_sha256": "c3e3223709550179c2a18cde8f5572b02521feb622e9d186c48f33171c18e7e2",
+  "file_size_bytes": 2241585,
+  "postprocessing": {
+    "method": "none",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "text_overlay": false,
+    "cropped": false,
+    "upscaled": false
+  },
+  "visual_qa": {
+    "status": "passed",
+    "method": "compressed-jpeg-preview",
+    "preview_size": "1280x853",
+    "checked": [
+      "Distinct sharp Japanese anime rendering",
+      "Tender direct gaze and visible mutual handhold",
+      "Continuous red-thread romance motif",
+      "Plausible visible anatomy",
+      "No visible writing or watermark",
+      "Unmodified native PNG retained"
+    ]
+  }
+}

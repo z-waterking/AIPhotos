@@ -1,0 +1,41 @@
+{
+  "output": "../market-mood-02-vertical-mood-elevator.png",
+  "refined_prompt": "../prompts/market-mood-02-vertical-mood-elevator.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "market-mood",
+  "series_number": 2,
+  "contains_text": true,
+  "art_direction": "竖屏建筑剖面与走势线结合的原创编辑插画，天台和会所连接在一栋楼中，以冷暖色讲述反转。",
+  "visible_description": "一座楼的天台与会所被一条红色走势线连接，虚构股民一天之内情绪转折。",
+  "fictional": true,
+  "poster_text": [
+    "开盘上了天台",
+    "收盘赶去会所",
+    "股民的一天"
+  ],
+  "native_sha256": "32aef16934b3accc9d9e7e1ef8f5aae756c0acb3c436b325c90102e191a65059",
+  "sha256": "4d9d9ad29260b11ab36221562b4f096cc98710110281384d712deba43eb86dd9",
+  "prompt_sha256": "01d731dfd671cc5c9d88bde5086027274382c2d75d3bc382e5464430fa0abfec",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

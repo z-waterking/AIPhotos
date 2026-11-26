@@ -1,0 +1,42 @@
+{
+  "output": "../heroic-dialogue-03-the-question-of-earth.png",
+  "refined_prompt": "../prompts/heroic-dialogue-03-the-question-of-earth.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-dialogue",
+  "series_number": 3,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "An emotionally focused close two-shot, both riders still in their saddles, Guo Jing in ochre and the Khan in indigo. Guo Jing gestures down gently toward a small patch of grass as he asks a difficult question; the Khan looks from Guo Jing to the land, his weathered face growing thoughtful. Compose their hands and expressions clearly, with a glimpse of wide empty land; horses stand still. The emotional silence is the centerpiece. No tomb, grave, coffin or measuring device.",
+  "visible_description": "郭靖指向脚下土地，提出生死之问。",
+  "display_title": "叩问人世",
+  "poster_text": "郭靖：人离世后，又需要多少土地？",
+  "text_is_original_paraphrase": true,
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "native_sha256": "3f4ab2bea406962252a6e1321b5d9966f0998936f9030e64d7a98e53a893dee2",
+  "sha256": "d2f26401a76080b97680947bfd8e16e54c7b170cbd710406aafa9db5490008be",
+  "prompt_sha256": "28e6b75ac987b6dd03e0fb2e45faba651a1086e6539c4367a51faf2c0a82a968",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

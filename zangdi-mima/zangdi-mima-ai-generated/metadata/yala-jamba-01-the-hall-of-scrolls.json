@@ -1,0 +1,42 @@
+{
+  "output": "../yala-jamba-01-the-hall-of-scrolls.png",
+  "refined_prompt": "../prompts/yala-jamba-01-the-hall-of-scrolls.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "yala-jamba",
+  "series_number": 1,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "A sweeping, intimate wide establishing view of the same quiet ancient stone hall, piles of rolled scrolls scattered across the floor, amber butter lamps and a high soft ray of cool light. Elderly Master Yala reclines amid the scrolls, gently supported by folded cloth, awake and calm, wearing a maroon robe, no visible injury. Emphasize the immense cultural weight of scrolls and his small quiet figure; no other people in this scene.",
+  "visible_description": "古老石殿内，经卷层叠，亚拉法师安静靠坐其间。",
+  "display_title": "经卷深处",
+  "poster_text": "大殿里，满地经卷静静铺开。",
+  "text_is_original_paraphrase": true,
+  "source_work": "何马《藏地密码10》",
+  "source_section": "《以命相搏》",
+  "source_url": "https://luoxiadushu.com/zangdi/67035.htm",
+  "native_sha256": "66ad0c0ac0a6729b9a4b37ac89ea604459c780567cf9b75d9562f2f9aa649ea9",
+  "sha256": "3ac64aec7efa0fc4f0f074507cef40761c338e2fe2961e7cf039149a332a4f4c",
+  "prompt_sha256": "78dbcd9bfd2a7d28756a0cf53a034064c2a27a037ef8ff1855d7428a6535e91c",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

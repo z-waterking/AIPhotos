@@ -1,0 +1,42 @@
+{
+  "output": "../yala-jamba-04-the-scroll-in-his-hands.png",
+  "refined_prompt": "../prompts/yala-jamba-04-the-scroll-in-his-hands.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "yala-jamba",
+  "series_number": 4,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "Intimate two-person medium close shot. RECLINING elderly Master Yala in maroon gently extends exactly ONE small rolled parchment scroll with his right hand; Qiangba kneels and receives the SAME scroll with both hands. Their shared object is unmistakably one single scroll, not a book or a container, and their natural fingers do not fuse. The master looks toward Qiangba, who looks down at the scroll. Many other rolled scrolls rest untouched on the stone floor as background. Warm lamplight, cool soft shadow.",
+  "visible_description": "亚拉法师郑重递出一卷经书，强巴双手接住。",
+  "display_title": "交给你",
+  "poster_text": "法师从身旁取出一卷经书，递给强巴。",
+  "text_is_original_paraphrase": true,
+  "source_work": "何马《藏地密码10》",
+  "source_section": "《以命相搏》",
+  "source_url": "https://luoxiadushu.com/zangdi/67035.htm",
+  "native_sha256": "83a90ffa6e5d2c585cb871629b9c4e695263e2ae79096dcf2004f93ceb851ff9",
+  "sha256": "535e4adb1833226381314cb41bcfff05651854630c4636d738c71fbd7f9cac6d",
+  "prompt_sha256": "5ea71ebac5930d9fd76358676909b9bff168bf71e15ad8a890081479ce75fa0f",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

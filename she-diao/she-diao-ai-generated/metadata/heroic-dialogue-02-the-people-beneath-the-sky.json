@@ -1,0 +1,42 @@
+{
+  "output": "../heroic-dialogue-02-the-people-beneath-the-sky.png",
+  "refined_prompt": "../prompts/heroic-dialogue-02-the-people-beneath-the-sky.txt",
+  "size": "1536x1024",
+  "generation_size": "1536x1024",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "heroic-dialogue",
+  "series_number": 2,
+  "page_count": 6,
+  "contains_text": true,
+  "art_direction": "An expressive medium two-shot on the same steppe: Guo Jing, still mounted on his dark bay horse, turns toward the Khan with earnest calm and an open hand raised in honest speech; the Khan on his black horse listens, first startled. Wind moves their plain robes; beyond them long grass and the distant horizon. Frame their adult faces close enough to read sincere courage and surprise, without aggression or violent imagery.",
+  "visible_description": "郭靖向大汗直言，提醒他战争带给百姓的苦难。",
+  "display_title": "胸中悲欢",
+  "poster_text": "郭靖：山河之下，也有万家悲欢。",
+  "text_is_original_paraphrase": true,
+  "source_work": "金庸《射雕英雄传》",
+  "source_chapter": "第四十回《华山论剑》",
+  "source_url": "https://www.lstsl.com.cn/?p=1573",
+  "native_sha256": "1f1e7cf87b2227aa8cedfc08e061437c77b8741554f0391cdd49f2b95b593d68",
+  "sha256": "30aacf2ece53848985c313f9544b70eb380749c56452e4592fe31eedcfa7118e",
+  "prompt_sha256": "110e534598e1101b78fbba3c311616f14691102df0ab7935052a60bf8e6a99b3",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1536x1024",
+    "output_size": "1536x1024",
+    "resampling": "none",
+    "cropped": false,
+    "upscaled": false,
+    "text_overlay": true,
+    "contrast_overlay": "subtle top and bottom gradients"
+  },
+  "publication_redactions": [
+    "postprocessing.font_paths"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "output": "../dual-phone-01-proud-two-phones.png",
+  "refined_prompt": "../prompts/dual-phone-01-proud-two-phones.txt",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "output_format": "png",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "contains_text": true,
+  "series": "dual-phone",
+  "series_number": 1,
+  "art_direction": "At home a cheerful fictional adult holds two distinctly separate regular phones comfortably at shoulder level, one silver and one deep green, with playful understated pride. The silver phone suggests a premium smartphone and the green one another phone, without logos or identifying hardware. A lively but uncluttered warm room with a window and potted plant. Both phones and hands are clear and naturally proportioned; a calm ivory area remains below the scene. The scene must not contain a foldable phone.",
+  "poster_copy": {
+    "title": "加入光荣的双持党",
+    "subtitle": "一台苹果，一台国产，双倍安心",
+    "small": "两台独立屏，我更喜欢"
+  },
+  "sha256": "11fd7421854c36deac886a8c616d6e9e8ab7d3b50c9829f9627c91e17b1cab53",
+  "native_sha256": "b5b4eb3451ac3401f130b624e53485bd350f5de7a07e311515994a643c17542f",
+  "prompt_sha256": "e32c7b3fe300fe5038459bc284a8868d8a40fb3c81ae63e0089395689ec5c61a",
+  "created_at_utc": "2026-11-08T04:46:50.635565+00:00",
+  "postprocessing": {
+    "method": "local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false,
+    "resampling": "none",
+    "gradient_start_y": 970,
+    "gradient_max_alpha": 235
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

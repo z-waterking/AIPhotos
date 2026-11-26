@@ -1,0 +1,60 @@
+{
+  "number": 1,
+  "stem": "beijing-autumn-citywalk-01-imperial-lakes",
+  "title": "皇城湖光",
+  "background": "#F7F8F1",
+  "accent": "#4B8D88",
+  "secondary": "#DAA460",
+  "top_lines": [
+    "景山公园 → 北海公园 → 什刹海",
+    "烟袋斜街 → 钟鼓楼"
+  ],
+  "distance": "约6–7公里",
+  "metro_start": "8号线 中国美术馆",
+  "metro_end": "2/8号线 鼓楼大街",
+  "start_note": "景山东门集合",
+  "lunch": "12:35 什刹海午餐",
+  "caution": "景山、北海需购票；钟鼓楼按外观安排",
+  "stops": [
+    {
+      "name": "景山公园",
+      "time": "10:00",
+      "minutes": 45,
+      "walk_after": 15,
+      "detail": "万春亭登高 · 皇城中轴线",
+      "art": "Jingshan Park: the highly recognizable Wanchun Pavilion, a square imperial pavilion with THREE stacked yellow-glazed pyramidal roof tiers, vivid red columns, dark-green brackets, white stone terrace on a small wooded hill. Steps lead toward the pavilion. View from slightly above and from the front, clear three-tier silhouette. Sparse ginkgo gold on the slope. Do not substitute the circular Temple of Heaven."
+    },
+    {
+      "name": "北海公园",
+      "time": "11:00",
+      "minutes": 75,
+      "walk_after": 20,
+      "detail": "琼华岛白塔 · 湖水映秋色",
+      "art": "Beihai Park: Qionghua Island with its Tibetan WHITE DAG OBA, bulbous white inverted-bowl body, a tall narrow tiered spire with golden finial, standing on a wooded island above red temple terraces. A sweep of translucent pale turquoise lake around it, low willows and a tiny white stone bridge. The iconic white stupa silhouette must be faithful, not a tiered Chinese pagoda."
+    },
+    {
+      "name": "什刹海",
+      "time": "12:35",
+      "minutes": 70,
+      "walk_after": 20,
+      "detail": "银锭桥湖岸 · 午餐与拍照",
+      "art": "Shichahai: Yinding Bridge, a small single-span humpback pale stone arch pedestrian bridge with low stone balustrades over a narrow lake channel. Wide calm water opens behind it, green-gold willows and modest gray-tiled courtyard houses at the shore. A couple of tiny moored boats, subtle autumn reflections. Make the single stone arch bridge the focal point, no giant monumental bridge."
+    },
+    {
+      "name": "烟袋斜街",
+      "time": "14:05",
+      "minutes": 40,
+      "walk_after": 15,
+      "detail": "斜向灰砖街 · 老铺小店",
+      "art": "Yandai Xiejie: a narrow diagonal old Beijing pedestrian lane with closely spaced one-storey gray brick shopfronts, traditional charcoal-gray tiled eaves, carved wooden doors and restrained red lanterns. The lane bends gently through the shops. Very small unlettered wooden plaques; no invented tall paifang or giant city gate. Specific intimate hutong street scale."
+    },
+    {
+      "name": "钟鼓楼",
+      "time": "15:00",
+      "minutes": 60,
+      "walk_after": 0,
+      "detail": "红墙鼓楼 · 灰砖钟楼",
+      "art": "Beijing Drum and Bell Towers as TWO distinct separated real buildings around a small open square: the larger Drum Tower has a high gray masonry base, red upper walls and layered broad dark-gray glazed hip-and-gable roofs; behind it the Bell Tower is a taller compact gray-brick square tower with a single dark-gray hip-and-gable roof. Keep red Drum Tower and gray Bell Tower visually different. Never make twin identical red towers, no yellow roofs."
+    }
+  ]
+}

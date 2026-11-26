@@ -1,0 +1,63 @@
+{
+  "output": "../2017-career-01-tour-guide.png",
+  "refined_prompt": "../prompts/2017-career-01-tour-guide.txt",
+  "size": "1024x1536",
+  "generation_size": "1024x1536",
+  "quality": "high",
+  "model": "gpt-image-2",
+  "execution": "azure-text-to-image-with-local-typesetting",
+  "reference_mode": "text-only",
+  "references": [],
+  "reference_count": 0,
+  "binary_reference_input": false,
+  "binary_reference_count": 0,
+  "series": "2017-career",
+  "series_number": 1,
+  "contains_text": true,
+  "art_direction": "A welcoming fictional adult tour guide calmly introduces a historic city street to a small group of adults in morning sunlight, gesturing toward a distinctive unbranded stone archway. Include an unmarked folded paper map and a quiet street with trees. Show a natural respectful travel experience, not a posed presenter; muted teal, warm terracotta and soft gold.",
+  "historical_year": 2017,
+  "source_urls": [
+    "https://zwgk.mct.gov.cn/zfxxgkml/scgl/202012/t20201213_919327.html",
+    "https://wlt.xinjiang.gov.cn/wlt/gkjgzn/201708/802ade9700c54c3892a9e310adbdb944.shtml"
+  ],
+  "poster_copy": {
+    "title": "全国导游资格",
+    "keyword": "旅行讲解 · 带团服务",
+    "facts": [
+      "2017年：高中、中专及以上学历等条件",
+      "考察政策法规、导游业务和现场讲解",
+      "通过资格考试后，还须按规定办理导游证"
+    ],
+    "footer": "2017年资料回顾 · 现在报考请查当地官方公告"
+  },
+  "prompt_sha256": "07d8f55b638aec7a629481c3c45c112a361ab1ebfd5070364f13c8b05fc9ce5e",
+  "native_sha256": "115503e62261a3bf3b3f7151e6601cb835d009ccff485a6972ecc1ec740e48a8",
+  "sha256": "d961459809b433123da33b5cc82ee0320ba4be28fe5d5fbc5c0d8e755209b442",
+  "created_at_utc": "2026-11-03T04:52:54.530027+00:00",
+  "postprocessing": {
+    "method": "proportional-contain-and-local-chinese-typesetting",
+    "native_size": "1024x1536",
+    "output_size": "1024x1536",
+    "native_source_box": [
+      0,
+      0,
+      1024,
+      1536
+    ],
+    "artwork_box": [
+      60,
+      332,
+      564,
+      1088
+    ],
+    "scale": 0.4921875,
+    "resampling": "lanczos",
+    "text_overlay": true,
+    "cropped": false,
+    "upscaled": false
+  },
+  "publication_redactions": [
+    "postprocessing.bold_font_path",
+    "postprocessing.font_path"
+  ]
+}

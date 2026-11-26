@@ -1,0 +1,81 @@
+北京四环外 · 北部与东北两线研究
+核查日：2026-10-29；坐标WGS84/EPSG:4326，JSON字段为lon/lat。
+
+交付：routes-north-east.json；资产英文简述：asset-spec-2.json。两条均五站、10:00–16:00正好360分钟，含游逛/餐饮/展览而非纯步行。地图地标代表点不是测绘入口，waypoints需吸附公共道路，不应穿过建筑。
+
+1. 北四环外｜奥运地标与金色森林
+鸟巢→水立方→玲珑塔→北京奥林匹克塔→奥森南园。全部在北四环以北，鸟巢最南也在39.9914N，附近北四环中路为39.9865–39.9871N；OSM way42354950/865466548/29201273。切勿把北四环内的“国家奥林匹克体育中心/奥体中心体育场”当鸟巢。
+玲珑塔是三个竖向支撑、6个分离玻璃舱体、三角形楼层的多功能演播塔，128米；不是奥林匹克塔的五个圆形冠顶。Wikipedia叙述含所引原奥运会官方建筑说明。
+https://en.wikipedia.org/wiki/Ling_Long_Pagoda
+https://en.wikipedia.org/wiki/Beijing_Olympic_Tower
+
+奥森南园图钉使用实际南门way270377155线中点116.3862938,40.0098628。OSM搜索中“森林公园南门”node339097485等是地铁站节点，不拿来冒充门。门内景观大道way60064574实际顶点116.3863658,40.0101929。奥海为relation1659652，地图路线不能直接穿湖。场馆、塔默认外观，入内购票和活动期间通行需现场确认。
+
+2. 东北四环外｜798与751工业艺术
+UCCA→798艺术中心→798 CUBE→751车站广场→751炉区广场。紧凑艺术园区慢逛；无需硬接将府公园。五站都在四元桥/东北四环外侧；北四环东路way29258170在116.461,39.972附近，园区在116.489–116.493,39.982–39.986。不能按“北四环约40度线”去判断斜角的东北环线。
+UCCA官方：北京馆在1950年代由东德Dessau Design Institute设计的原厂房中，2007和2019改造，保留工业痕迹；请勿画成UCCA沙丘或陶美术馆。
+https://ucca.org.cn/en/about/
+UCCA官方现列周二至周日10:00–19:00（特殊展览可能调整），到达可选12号线高家园，地铁接驳另算。
+https://ucca.org.cn/en/visit/
+798 CUBE官方：朱锫设计，面积3600平方米，科技/艺术/工业遗产融合；周一通常闭馆（节假日例外），10:00–18:00。
+https://www.798cube.com.cn/index/index/about.html
+其官方配图仅在本地观察了外观：高而薄的清水混凝土墙面，狭长横窗，左侧开口庭院，邻接红砖厂房；已把观察转为文字说明，图片不作为生成模型输入、不复制摄影构图、不纳入原图档案。
+751车站广场OSM way1187799456，炉区广场node11523967377；前者保留列车/短铁路意象，后者钢架、管道和旧炉区结构，均为安静工业遗产展示，非运行工厂。广场可能因活动调整。
+
+原始查证文件：nominatim-north-east.json、osm-ne-pois.json、osm-ne-route-geometry.json。Nominatim有界搜索串行请求间隔至少1.15秒，Overpass返回矢量和标签。点位各附OSM对象链接；建筑中心/街道点的精确小数并不代表实地入口测量。
+底图署名：© OpenStreetMap contributors；ODbL；https://www.openstreetmap.org/copyright
+
+
+西部两条四环外路线研究｜2026-10-29
+坐标为WGS84，bbox为[west,south,east,north]。建筑中心/水域中心只用于图钉，不作为步行入口。源数据来自Overpass实际OSM地物，JSON保存在west-pois-raw.json、summer-palace-pois-raw.json、west-paths-raw.json。
+
+首钢路线：秀池→三高炉→六工汇→群明湖→首钢大跳台，360分钟，公园公共区域外观漫游为基础。地铁金安桥至秀池、末站至北辛安接驳另计。展馆、登高、活动区域和大跳台内部是否开放/收费需出行前查官方，不宣称全部免费。不要采用工业高架栈桥或设备内部作为当然可通行道路。
+四环外证据：所有点经度116.145–116.150，附近西四环约116.268，均在其西约10公里。OSM way/121651116、29179113为西四环中路。
+
+颐和园路线：东宫门入，仁寿殿→长廊→佛香阁→清晏舫→沿北岸折返东岸→十七孔桥，360分钟。末站后新建宫门出园，至西苑地铁可沿园外公共路接驳，另计。清晏舫到十七孔桥预留55分钟，是绕湖岸步行，不是坐船/横穿湖。园内有较多阶梯，佛香阁适合登高但不承诺无障碍。颐和园大门票与佛香阁/排云殿票务区别处理，园中园可能周一关闭或调整，查官方当日安排；避开声称固定票价。
+四环外证据：颐和园整体在西北四环弯道的西北侧，地标纬度39.989–39.998，而相近经度116.27的北四环西路约39.969；不能错误地把西四环当经度固定直线。海报写“西北四环外”。
+
+建筑辨识重点：佛香阁八角三层四重檐，与景山方形万春亭不同；仁寿殿灰瓦而非黄瓦高楼；长廊连续红柱/彩绘梁枋/灰瓦顶；清晏舫是固定石船不是游船，白灰石船体与两层仿大理石舱楼，带轮状装饰；十七孔桥画17个连续拱洞。首钢三高炉为钢铁高炉，不画成冷却塔；群明湖远景可出现双曲面冷却塔，无核电符号；大跳台秋季不画雪场。
+
+来源：
+https://www.openstreetmap.org/way/118554595
+https://www.openstreetmap.org/way/943176364
+https://www.openstreetmap.org/way/996804869
+https://www.openstreetmap.org/way/118554601
+https://www.openstreetmap.org/way/976963312
+https://www.openstreetmap.org/way/43977911
+https://www.openstreetmap.org/way/43978818
+https://www.openstreetmap.org/way/43977851
+https://www.openstreetmap.org/way/727042890
+https://www.openstreetmap.org/way/187196435
+https://www.openstreetmap.org/node/3485506925
+https://www.openstreetmap.org/node/4116308192
+https://www.openstreetmap.org/way/26404005
+https://www.openstreetmap.org/way/121651116
+https://www.openstreetmap.org/copyright
+
+官方开放页面获取受限：summerpalace-china.com连接重置，所试首钢/sgweb/html/sgyq/返回404。没有据此编造具体开放时刻、票价、活动信息。OSM形状和点位已核对；行程时长为独立规划，非官方路线。
+
+
+核查日期：2026-10-29
+第五条：通州未来文化森林，明确为四环外。五处在通州城市副中心绿心公园及三大文化建筑区，WGS84经度116.708–116.721，远在北京东四环以东。
+
+核心交付：routes-fifth.json，包含五个地标及英文建筑绘制规格、原始OSM对象、WGS84中心坐标、bbox、10:00–16:00安排，总360分钟。路线为图书馆→大运河博物馆（午餐）→城市绿心森林公园→北京艺术中心→绿心露天剧场。站间均步行，公交接驳只发生在6小时前后。
+
+已直接读取的来源：
+https://www.snohetta.com/projects/beijing-city-library
+设计方明确玻璃围护、内部阶梯阅读山谷、纤细银杏叶伞状柱和重叠树冠天花，不能画成古典图书馆或真树穿书架。
+https://www.canalmuseum.org.cn/aboutUs.html
+官网明确共享大厅、主楼和休闲水街，船屋顶/帆屋顶分别在两座建筑，水街夹在两者间。
+https://www.canalmuseum.org.cn/guide.html
+官网交通6号线北运河西B口换317至上码头路；博物馆10:00–20:00，周一闭馆。首页目前免预约，与guide底部旧预约模块有不一致，成图宜只写入馆前确认安排，不印死预约规则。
+https://www.bpac.org.cn/cgyl/
+官网明确三座建筑、单脊双坡屋顶、粮仓意象，周二至周日10:00–17:00，西厅一层出入，免费实名预约。
+https://www.bpac.org.cn/gywm/
+露天剧场在音乐厅北侧紧邻运河、固定850座；它是艺术中心组成部分，不是另一座远处剧院。
+https://perkinswill.com/project/beijing-performing-arts-centre/
+设计方明确granaries/canal boat sails/theater curtain和穿孔铝幕墙。
+
+OSM图钉只作为建筑/公园代表点，不是假称实测入口。公园中心不能直接连直线穿保育区；应沿公共paths实际几何。无需声称完整馆内深度参观，65分钟森林散步及三大建筑外观/公共区足够组成6小时。
+
+只读验证器检查：scripts/validate_repository.py中validate_citywalk_metadata按subject=beijing-citywalk触发，未对白名单文件名或series值设限。只要新beijing-outer-four-*放到现有beijing-citywalk-ai-generated/，继续满足原生/成品1024x1536、五组裁框、text-only/零参考、高质量、同名prompt/JSON/哈希与OSM地理元数据，代码无需为新序列修改。AGENTS“contains five beijing-autumn-citywalk-*”说明应加新四环外五张，保留旧图。README/Citywalk目录与文案按新批次增补即可。禁止把额外研究JSON放prompts（该目录仅允许TXT），可把JSON文本存同名TXT。
